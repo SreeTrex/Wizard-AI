@@ -1,6 +1,6 @@
 {
 
-    {
+    
         "img1.jpg": {"caption": "A heavy-duty leaf spring ensuring superior load-bearing capacity.", "category": "leafspring"},
         "img2.jpg": {"caption": "A premium leaf spring designed for smooth suspension and durability.", "category": "leafspring"},
         "img3.jpg": {"caption": "An advanced leaf spring reducing vibrations for a stable ride.", "category": "leafspring"},
@@ -203,7 +203,6 @@
     "img200.jpg": {"caption": "A custom-engineered leaf spring providing smooth and efficient suspension.", "category": "leafspring"}
     }
     
-    
 
 
-}
+
