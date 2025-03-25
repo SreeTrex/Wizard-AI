@@ -1,0 +1,723 @@
+{
+    "img1.jpg": {
+        "caption": "A forged steel crankshaft designed for high-performance racing engines.",
+        "category": "Crankshaft"
+    },
+    "img2.jpg": {
+        "caption": "A lightweight crankshaft optimized for improved throttle response.",
+        "category": "Crankshaft"
+    },
+    "img3.jpg": {
+        "caption": "A high-strength billet crankshaft engineered for extreme durability.",
+        "category": "Crankshaft"
+    },
+    "img4.jpg": {
+        "caption": "A crankshaft featuring precision balancing for reduced engine vibration.",
+        "category": "Crankshaft"
+    },
+    "img5.jpg": {
+        "caption": "A performance crankshaft with enhanced journal surface treatment.",
+        "category": "Crankshaft"
+    },
+    "img6.jpg": {
+        "caption": "A crankshaft with counterweighted design for smoother engine operation.",
+        "category": "Crankshaft"
+    },
+    "img7.jpg": {
+        "caption": "A durable cast iron crankshaft ideal for daily driving applications.",
+        "category": "Crankshaft"
+    },
+    "img8.jpg": {
+        "caption": "A racing crankshaft designed with advanced torsional dampening technology.",
+        "category": "Crankshaft"
+    },
+    "img9.jpg": {
+        "caption": "A crankshaft made from ultra-light titanium for superior strength-to-weight ratio.",
+        "category": "Crankshaft"
+    },
+    "img10.jpg": {
+        "caption": "A custom billet crankshaft with optimized stroke length for maximum torque.",
+        "category": "Crankshaft"
+    },
+    "img11.jpg": {
+        "caption": "A high-performance crankshaft with nitrided surface treatment for longevity.",
+        "category": "Crankshaft"
+    },
+    "img12.jpg": {
+        "caption": "A crankshaft designed for high-revving engines with superior oiling channels.",
+        "category": "Crankshaft"
+    },
+    "img13.jpg": {
+        "caption": "A precision-machined crankshaft featuring reinforced main journals.",
+        "category": "Crankshaft"
+    },
+    "img14.jpg": {
+        "caption": "A lightweight crankshaft designed for enhanced rotational efficiency.",
+        "category": "Crankshaft"
+    },
+    "img15.jpg": {
+        "caption": "A performance crankshaft with micro-polished bearing surfaces.",
+        "category": "Crankshaft"
+    },
+    "img16.jpg": {
+        "caption": "A crankshaft engineered for forced induction applications with increased rigidity.",
+        "category": "Crankshaft"
+    },
+    "img17.jpg": {
+        "caption": "A high-strength steel crankshaft with superior fatigue resistance.",
+        "category": "Crankshaft"
+    },
+    "img18.jpg": {
+        "caption": "A crankshaft featuring advanced vibration dampening for smooth performance.",
+        "category": "Crankshaft"
+    },
+    "img19.jpg": {
+        "caption": "A crankshaft with dynamically optimized counterweights for improved balance.",
+        "category": "Crankshaft"
+    },
+    "img20.jpg": {
+        "caption": "A racing crankshaft with aggressive stroke design for maximum power output.",
+        "category": "Crankshaft"
+    },
+    "img21.jpg": {
+        "caption": "A forged steel crankshaft with ultra-precise journal alignment.",
+        "category": "Crankshaft"
+    },
+    "img22.jpg": {
+        "caption": "A crankshaft designed for turbocharged applications with reinforced webs.",
+        "category": "Crankshaft"
+    },
+    "img23.jpg": {
+        "caption": "A high-performance crankshaft featuring advanced heat treatment.",
+        "category": "Crankshaft"
+    },
+    "img24.jpg": {
+        "caption": "A crankshaft with increased stroke length for improved torque characteristics.",
+        "category": "Crankshaft"
+    },
+    "img25.jpg": {
+        "caption": "A billet steel crankshaft designed for extreme horsepower applications.",
+        "category": "Crankshaft"
+    },
+    "img26.jpg": {
+        "caption": "A crankshaft with reduced rotational mass for enhanced acceleration.",
+        "category": "Crankshaft"
+    },
+    "img27.jpg": {
+        "caption": "A custom crankshaft designed for high-displacement racing engines.",
+        "category": "Crankshaft"
+    },
+    "img28.jpg": {
+        "caption": "A crankshaft featuring lightweight construction for maximum RPM capability.",
+        "category": "Crankshaft"
+    },
+    "img29.jpg": {
+        "caption": "A high-strength forged crankshaft with superior wear resistance.",
+        "category": "Crankshaft"
+    },
+    "img30.jpg": {
+        "caption": "A precision-balanced crankshaft designed for high-speed performance engines.",
+        "category": "Crankshaft"
+    },
+    "img31.jpg": {
+        "caption": "A crankshaft with CNC-machined journals for perfect alignment.",
+        "category": "Crankshaft"
+    },
+    "img32.jpg": {
+        "caption": "A racing crankshaft designed with ultra-low friction surfaces.",
+        "category": "Crankshaft"
+    },
+    "img33.jpg": {
+        "caption": "A crankshaft with advanced harmonic balancing for smoother engine operation.",
+        "category": "Crankshaft"
+    },
+    "img34.jpg": {
+        "caption": "A crankshaft with increased journal width for enhanced load capacity.",
+        "category": "Crankshaft"
+    },
+    "img35.jpg": {
+        "caption": "A lightweight crankshaft designed for high-RPM racing applications.",
+        "category": "Crankshaft"
+    },
+    "img36.jpg": {
+        "caption": "A performance crankshaft featuring optimized oiling channels.",
+        "category": "Crankshaft"
+    },
+    "img37.jpg": {
+        "caption": "A crankshaft with an extended stroke for boosted low-end torque.",
+        "category": "Crankshaft"
+    },
+    "img38.jpg": {
+        "caption": "A precision-machined crankshaft with ultra-fine balancing.",
+        "category": "Crankshaft"
+    },
+    "img39.jpg": {
+        "caption": "A high-durability crankshaft designed for extreme racing conditions.",
+        "category": "Crankshaft"
+    },
+    "img40.jpg": {
+        "caption": "A crankshaft with billet steel construction for unparalleled strength.",
+        "category": "Crankshaft"
+    },
+    "img41.jpg": {
+        "caption": "A crankshaft featuring reinforced rod journals for added durability.",
+        "category": "Crankshaft"
+    },
+    "img42.jpg": {
+        "caption": "A high-performance crankshaft engineered for naturally aspirated engines.",
+        "category": "Crankshaft"
+    },
+    "img43.jpg": {
+        "caption": "A forged steel crankshaft designed to handle high boost pressure.",
+        "category": "Crankshaft"
+    },
+    "img44.jpg": {
+        "caption": "A crankshaft optimized for endurance racing with extreme reliability.",
+        "category": "Crankshaft"
+    },
+    "img45.jpg": {
+        "caption": "A precision-ground crankshaft with superior wear resistance.",
+        "category": "Crankshaft"
+    },
+    "img46.jpg": {
+        "caption": "A crankshaft featuring strategically placed counterweights for optimal balance.",
+        "category": "Crankshaft"
+    },
+    "img47.jpg": {
+        "caption": "A racing crankshaft with improved bearing oiling for longevity.",
+        "category": "Crankshaft"
+    },
+    "img48.jpg": {
+        "caption": "A lightweight, high-RPM crankshaft for peak performance.",
+        "category": "Crankshaft"
+    },
+    "img49.jpg": {
+        "caption": "A crankshaft designed for high-torque diesel applications.",
+        "category": "Crankshaft"
+    },
+    "img50.jpg": {
+        "caption": "A performance crankshaft with cryogenic treatment for added strength.",
+        "category": "Crankshaft"
+    },
+    "img51.jpg": {
+        "caption": "A crankshaft designed for marine applications with corrosion-resistant coating.",
+        "category": "Crankshaft"
+    },
+    "img52.jpg": {
+        "caption": "A forged steel crankshaft with superior fatigue resistance for racing engines.",
+        "category": "Crankshaft"
+    },
+    "img53.jpg": {
+        "caption": "A performance crankshaft optimized for reduced internal friction.",
+        "category": "Crankshaft"
+    },
+    "img54.jpg": {
+        "caption": "A high-strength crankshaft featuring advanced torsional dampening technology.",
+        "category": "Crankshaft"
+    },
+    "img55.jpg": {
+        "caption": "A precision-machined crankshaft designed for maximum rotational efficiency.",
+        "category": "Crankshaft"
+    },
+    "img56.jpg": {
+        "caption": "A crankshaft with an extended stroke to maximize torque output.",
+        "category": "Crankshaft"
+    },
+    "img57.jpg": {
+        "caption": "A racing crankshaft featuring lightweight counterweights for smooth operation.",
+        "category": "Crankshaft"
+    },
+    "img58.jpg": {
+        "caption": "A billet steel crankshaft engineered for extreme performance applications.",
+        "category": "Crankshaft"
+    },
+    "img59.jpg": {
+        "caption": "A crankshaft designed with extra-wide journals for increased load-bearing capacity.",
+        "category": "Crankshaft"
+    },
+    "img60.jpg": {
+        "caption": "A performance crankshaft with an ultra-smooth micro-polished finish.",
+        "category": "Crankshaft"
+    },
+    "img61.jpg": {
+        "caption": "A crankshaft optimized for high-revving motorsports engines.",
+        "category": "Crankshaft"
+    },
+    "img62.jpg": {
+        "caption": "A crankshaft featuring ultra-precise CNC-machined bearing journals.",
+        "category": "Crankshaft"
+    },
+    "img63.jpg": {
+        "caption": "A crankshaft with built-in harmonic dampening for superior balance.",
+        "category": "Crankshaft"
+    },
+    "img64.jpg": {
+        "caption": "A high-torque crankshaft designed for diesel engine applications.",
+        "category": "Crankshaft"
+    },
+    "img65.jpg": {
+        "caption": "A lightweight racing crankshaft designed for maximum RPM potential.",
+        "category": "Crankshaft"
+    },
+    "img66.jpg": {
+        "caption": "A crankshaft designed with oiling channels for enhanced lubrication.",
+        "category": "Crankshaft"
+    },
+    "img67.jpg": {
+        "caption": "A crankshaft optimized for forced induction applications.",
+        "category": "Crankshaft"
+    },
+    "img68.jpg": {
+        "caption": "A high-strength steel crankshaft with reinforced main bearings.",
+        "category": "Crankshaft"
+    },
+    "img69.jpg": {
+        "caption": "A crankshaft featuring improved counterweight design for reduced vibration.",
+        "category": "Crankshaft"
+    },
+    "img70.jpg": {
+        "caption": "A crankshaft engineered for endurance racing with long-lasting durability.",
+        "category": "Crankshaft"
+    },
+    "img71.jpg": {
+        "caption": "A crankshaft designed with an optimized stroke-to-bore ratio.",
+        "category": "Crankshaft"
+    },
+    "img72.jpg": {
+        "caption": "A billet crankshaft built for extreme horsepower and high compression.",
+        "category": "Crankshaft"
+    },
+    "img73.jpg": {
+        "caption": "A crankshaft with cryogenic treatment for enhanced strength and longevity.",
+        "category": "Crankshaft"
+    },
+    "img74.jpg": {
+        "caption": "A racing crankshaft featuring a lightweight and ultra-durable construction.",
+        "category": "Crankshaft"
+    },
+    "img75.jpg": {
+        "caption": "A crankshaft with precision-balanced counterweights for smooth operation.",
+        "category": "Crankshaft"
+    },
+    "img76.jpg": {
+        "caption": "A performance crankshaft designed for high-compression engine builds.",
+        "category": "Crankshaft"
+    },
+    "img77.jpg": {
+        "caption": "A crankshaft with ultra-low rotating mass for improved throttle response.",
+        "category": "Crankshaft"
+    },
+    "img78.jpg": {
+        "caption": "A crankshaft featuring a nitrided surface treatment for extreme durability.",
+        "category": "Crankshaft"
+    },
+    "img79.jpg": {
+        "caption": "A precision-machined crankshaft optimized for power and efficiency.",
+        "category": "Crankshaft"
+    },
+    "img80.jpg": {
+        "caption": "A crankshaft designed for naturally aspirated engines with high RPM capability.",
+        "category": "Crankshaft"
+    },
+    "img81.jpg": {
+        "caption": "A forged crankshaft with high carbon steel construction for maximum strength.",
+        "category": "Crankshaft"
+    },
+    "img82.jpg": {
+        "caption": "A crankshaft engineered for ultra-high-performance supercharged engines.",
+        "category": "Crankshaft"
+    },
+    "img83.jpg": {
+        "caption": "A crankshaft with lightweight design for improved acceleration and efficiency.",
+        "category": "Crankshaft"
+    },
+    "img84.jpg": {
+        "caption": "A high-performance crankshaft featuring improved bearing lubrication.",
+        "category": "Crankshaft"
+    },
+    "img85.jpg": {
+        "caption": "A crankshaft designed to withstand extreme loads and harsh conditions.",
+        "category": "Crankshaft"
+    },
+    "img86.jpg": {
+        "caption": "A high-strength crankshaft featuring optimized weight distribution.",
+        "category": "Crankshaft"
+    },
+    "img87.jpg": {
+        "caption": "A crankshaft built for high-horsepower drag racing applications.",
+        "category": "Crankshaft"
+    },
+    "img88.jpg": {
+        "caption": "A performance crankshaft with enhanced torsional rigidity.",
+        "category": "Crankshaft"
+    },
+    "img89.jpg": {
+        "caption": "A crankshaft engineered with ultra-precise tolerances for maximum efficiency.",
+        "category": "Crankshaft"
+    },
+    "img90.jpg": {
+        "caption": "A crankshaft featuring unique material composition for extended durability.",
+        "category": "Crankshaft"
+    },
+    "img91.jpg": {
+        "caption": "A crankshaft designed for aggressive cam profiles in high-performance engines.",
+        "category": "Crankshaft"
+    },
+    "img92.jpg": {
+        "caption": "A precision-balanced crankshaft optimized for smooth, high-revving operation.",
+        "category": "Crankshaft"
+    },
+    "img93.jpg": {
+        "caption": "A crankshaft with superior oiling design for increased lifespan.",
+        "category": "Crankshaft"
+    },
+    "img94.jpg": {
+        "caption": "A crankshaft built with advanced metallurgy for optimal performance.",
+        "category": "Crankshaft"
+    },
+    "img95.jpg": {
+        "caption": "A racing crankshaft with a reinforced webbing structure for added durability.",
+        "category": "Crankshaft"
+    },
+    "img96.jpg": {
+        "caption": "A high-strength crankshaft designed for nitrous and turbocharged applications.",
+        "category": "Crankshaft"
+    },
+    "img97.jpg": {
+        "caption": "A lightweight crankshaft with increased stroke length for boosted torque.",
+        "category": "Crankshaft"
+    },
+    "img98.jpg": {
+        "caption": "A crankshaft featuring CNC-machined main and rod journals for perfect fitment.",
+        "category": "Crankshaft"
+    },
+    "img99.jpg": {
+        "caption": "A forged crankshaft with superior vibration control for smoother performance.",
+        "category": "Crankshaft"
+    },
+    "img100.jpg": {
+        "caption": "A crankshaft designed for heavy-duty diesel engines with reinforced bearings.",
+        "category": "Crankshaft"
+    },
+    "img101.jpg": {
+        "caption": "A crankshaft designed for high-performance V8 engines with optimized balance.",
+        "category": "Crankshaft"
+    },
+    "img102.jpg": {
+        "caption": "A lightweight crankshaft built for reduced rotational inertia in racing applications.",
+        "category": "Crankshaft"
+    },
+    "img103.jpg": {
+        "caption": "A forged steel crankshaft featuring heat-treated journals for extended lifespan.",
+        "category": "Crankshaft"
+    },
+    "img104.jpg": {
+        "caption": "A crankshaft designed for turbocharged applications with reinforced counterweights.",
+        "category": "Crankshaft"
+    },
+    "img105.jpg": {
+        "caption": "A high-performance crankshaft featuring a micro-polished finish for reduced friction.",
+        "category": "Crankshaft"
+    },
+    "img106.jpg": {
+        "caption": "A precision-machined crankshaft engineered for drag racing engines.",
+        "category": "Crankshaft"
+    },
+    "img107.jpg": {
+        "caption": "A crankshaft optimized for improved oiling and cooling efficiency.",
+        "category": "Crankshaft"
+    },
+    "img108.jpg": {
+        "caption": "A billet crankshaft built for extreme torque loads and heavy-duty use.",
+        "category": "Crankshaft"
+    },
+    "img109.jpg": {
+        "caption": "A crankshaft designed with a longer stroke for increased engine displacement.",
+        "category": "Crankshaft"
+    },
+    "img110.jpg": {
+        "caption": "A high-strength crankshaft featuring advanced harmonic dampening technology.",
+        "category": "Crankshaft"
+    },
+    "img111.jpg": {
+        "caption": "A crankshaft with precision-engineered counterweights for reduced vibrations.",
+        "category": "Crankshaft"
+    },
+    "img112.jpg": {
+        "caption": "A lightweight crankshaft designed for high-revving applications.",
+        "category": "Crankshaft"
+    },
+    "img113.jpg": {
+        "caption": "A crankshaft with nitrided surface treatment for enhanced wear resistance.",
+        "category": "Crankshaft"
+    },
+    "img114.jpg": {
+        "caption": "A performance crankshaft featuring oiling holes for superior lubrication.",
+        "category": "Crankshaft"
+    },
+    "img115.jpg": {
+        "caption": "A reinforced crankshaft built for off-road and rugged conditions.",
+        "category": "Crankshaft"
+    },
+    "img116.jpg": {
+        "caption": "A crankshaft engineered for maximum torque and power delivery.",
+        "category": "Crankshaft"
+    },
+    "img117.jpg": {
+        "caption": "A crankshaft designed with an optimal stroke-to-bore ratio for efficiency.",
+        "category": "Crankshaft"
+    },
+    "img118.jpg": {
+        "caption": "A billet steel crankshaft featuring ultra-precise journal machining.",
+        "category": "Crankshaft"
+    },
+    "img119.jpg": {
+        "caption": "A high-durability crankshaft designed for supercharged applications.",
+        "category": "Crankshaft"
+    },
+    "img120.jpg": {
+        "caption": "A crankshaft optimized for endurance racing with extreme fatigue resistance.",
+        "category": "Crankshaft"
+    },
+    "img121.jpg": {
+        "caption": "A crankshaft featuring advanced material composition for peak performance.",
+        "category": "Crankshaft"
+    },
+    "img122.jpg": {
+        "caption": "A precision-balanced crankshaft for smooth and high-RPM operation.",
+        "category": "Crankshaft"
+    },
+    "img123.jpg": {
+        "caption": "A high-strength crankshaft designed to handle high compression engines.",
+        "category": "Crankshaft"
+    },
+    "img124.jpg": {
+        "caption": "A crankshaft featuring improved journal oiling channels for extended life.",
+        "category": "Crankshaft"
+    },
+    "img125.jpg": {
+        "caption": "A lightweight crankshaft designed for optimal rotational balance.",
+        "category": "Crankshaft"
+    },
+    "img126.jpg": {
+        "caption": "A crankshaft engineered to reduce engine vibrations and improve efficiency.",
+        "category": "Crankshaft"
+    },
+    "img127.jpg": {
+        "caption": "A crankshaft optimized for high-torque diesel engines with reinforced main bearings.",
+        "category": "Crankshaft"
+    },
+    "img128.jpg": {
+        "caption": "A forged crankshaft designed to withstand extreme boost pressure.",
+        "category": "Crankshaft"
+    },
+    "img129.jpg": {
+        "caption": "A crankshaft featuring CNC-machined bearing journals for perfect fitment.",
+        "category": "Crankshaft"
+    },
+    "img130.jpg": {
+        "caption": "A performance crankshaft designed for motorsports applications.",
+        "category": "Crankshaft"
+    },
+    "img131.jpg": {
+        "caption": "A high-horsepower crankshaft built for turbo and nitrous setups.",
+        "category": "Crankshaft"
+    },
+    "img132.jpg": {
+        "caption": "A crankshaft designed for high-RPM performance engines.",
+        "category": "Crankshaft"
+    },
+    "img133.jpg": {
+        "caption": "A crankshaft with an optimized counterweight configuration for efficiency.",
+        "category": "Crankshaft"
+    },
+    "img134.jpg": {
+        "caption": "A crankshaft featuring advanced metallurgy for increased longevity.",
+        "category": "Crankshaft"
+    },
+    "img135.jpg": {
+        "caption": "A billet crankshaft engineered for extreme stress applications.",
+        "category": "Crankshaft"
+    },
+    "img136.jpg": {
+        "caption": "A forged steel crankshaft with improved fatigue resistance.",
+        "category": "Crankshaft"
+    },
+    "img137.jpg": {
+        "caption": "A high-durability crankshaft featuring superior vibration control.",
+        "category": "Crankshaft"
+    },
+    "img138.jpg": {
+        "caption": "A lightweight racing crankshaft for improved throttle response.",
+        "category": "Crankshaft"
+    },
+    "img139.jpg": {
+        "caption": "A crankshaft designed for naturally aspirated engines with high efficiency.",
+        "category": "Crankshaft"
+    },
+    "img140.jpg": {
+        "caption": "A crankshaft optimized for maximum horsepower in competitive racing.",
+        "category": "Crankshaft"
+    },
+    "img141.jpg": {
+        "caption": "A crankshaft with extended stroke length for increased power output.",
+        "category": "Crankshaft"
+    },
+    "img142.jpg": {
+        "caption": "A crankshaft featuring low-mass counterweights for enhanced acceleration.",
+        "category": "Crankshaft"
+    },
+    "img143.jpg": {
+        "caption": "A high-torque crankshaft engineered for heavy-duty vehicles.",
+        "category": "Crankshaft"
+    },
+    "img144.jpg": {
+        "caption": "A precision-machined crankshaft with micro-polished journals.",
+        "category": "Crankshaft"
+    },
+    "img145.jpg": {
+        "caption": "A crankshaft featuring enhanced lubrication pathways for durability.",
+        "category": "Crankshaft"
+    },
+    "img146.jpg": {
+        "caption": "A racing crankshaft built for consistent power delivery at high RPMs.",
+        "category": "Crankshaft"
+    },
+    "img147.jpg": {
+        "caption": "A crankshaft optimized for supercharged and nitrous-fed engines.",
+        "category": "Crankshaft"
+    },
+    "img148.jpg": {
+        "caption": "A billet crankshaft engineered for extreme power applications.",
+        "category": "Crankshaft"
+    },
+    "img149.jpg": {
+        "caption": "A crankshaft designed for maximum durability in endurance racing.",
+        "category": "Crankshaft"
+    },
+    "img150.jpg": {
+        "caption": "A forged steel crankshaft optimized for reduced internal friction.",
+        "category": "Crankshaft"
+    },
+    "img151.jpg": {
+        "caption": "A crankshaft featuring optimized weight distribution for peak efficiency.",
+        "category": "Crankshaft"
+    },
+    "img152.jpg": {
+        "caption": "A crankshaft built with high-tensile strength materials for longevity.",
+        "category": "Crankshaft"
+    },
+    "img153.jpg": {
+        "caption": "A high-precision crankshaft featuring balanced counterweights.",
+        "category": "Crankshaft"
+    },
+    "img154.jpg": {
+        "caption": "A crankshaft designed for extreme durability under high torque loads.",
+        "category": "Crankshaft"
+    },
+    "img155.jpg": {
+        "caption": "A performance crankshaft featuring a lightweight design for faster acceleration.",
+        "category": "Crankshaft"
+    },
+    "img156.jpg": {
+        "caption": "A billet steel crankshaft engineered for high-horsepower applications.",
+        "category": "Crankshaft"
+    },
+    "img157.jpg": {
+        "caption": "A crankshaft optimized for peak efficiency and reduced rotational mass.",
+        "category": "Crankshaft"
+    },
+    "img158.jpg": {
+        "caption": "A crankshaft featuring advanced metallurgy for increased resistance to wear.",
+        "category": "Crankshaft"
+    },
+    "img159.jpg": {
+        "caption": "A forged crankshaft designed for maximum performance in turbocharged engines.",
+        "category": "Crankshaft"
+    },
+    "img160.jpg": {
+        "caption": "A crankshaft with precision-machined journals for smoother engine operation.",
+        "category": "Crankshaft"
+    },
+    "img161.jpg": {
+        "caption": "A high-strength crankshaft built to handle extreme boost pressure.",
+        "category": "Crankshaft"
+    },
+    "img162.jpg": {
+        "caption": "A crankshaft featuring a reinforced main journal design for improved durability.",
+        "category": "Crankshaft"
+    },
+    "img163.jpg": {
+        "caption": "A racing crankshaft with an ultra-lightweight design for high RPM efficiency.",
+        "category": "Crankshaft"
+    },
+    "img164.jpg": {
+        "caption": "A crankshaft optimized for smooth power delivery in high-performance engines.",
+        "category": "Crankshaft"
+    },
+    "img165.jpg": {
+        "caption": "A crankshaft featuring low-mass counterweights for rapid acceleration.",
+        "category": "Crankshaft"
+    },
+    "img166.jpg": {
+        "caption": "A high-performance crankshaft designed for reduced friction and maximum efficiency.",
+        "category": "Crankshaft"
+    },
+    "img167.jpg": {
+        "caption": "A billet crankshaft engineered for high torque applications in diesel engines.",
+        "category": "Crankshaft"
+    },
+    "img168.jpg": {
+        "caption": "A crankshaft with nitrided surface treatment for superior wear resistance.",
+        "category": "Crankshaft"
+    },
+    "img169.jpg": {
+        "caption": "A crankshaft featuring optimized counterweight positioning for balance and stability.",
+        "category": "Crankshaft"
+    },
+    "img170.jpg": {
+        "caption": "A crankshaft built for extreme endurance racing with a lightweight, high-strength design.",
+        "category": "Crankshaft"
+    },
+    "img171.jpg": {
+        "caption": "A high-tensile steel crankshaft designed for increased engine longevity.",
+        "category": "Crankshaft"
+    },
+    "img172.jpg": {
+        "caption": "A crankshaft optimized for enhanced oil flow and reduced internal friction.",
+        "category": "Crankshaft"
+    },
+    "img173.jpg": {
+        "caption": "A crankshaft featuring a long stroke for increased engine displacement and torque.",
+        "category": "Crankshaft"
+    },
+    "img174.jpg": {
+        "caption": "A high-RPM crankshaft designed for smooth power delivery and minimal vibration.",
+        "category": "Crankshaft"
+    },
+    "img175.jpg": {
+        "caption": "A crankshaft with precision-balanced counterweights for optimal engine performance.",
+        "category": "Crankshaft"
+    },
+    "img176.jpg": {
+        "caption": "A forged steel crankshaft built for high-stress environments and peak efficiency.",
+        "category": "Crankshaft"
+    },
+    "img177.jpg": {
+        "caption": "A crankshaft optimized for naturally aspirated engines with high revving potential.",
+        "category": "Crankshaft"
+    },
+    "img178.jpg": {
+        "caption": "A crankshaft featuring a reinforced design for long-term reliability and strength.",
+        "category": "Crankshaft"
+    },
+    "img179.jpg": {
+        "caption": "A high-performance crankshaft designed to maximize horsepower output.",
+        "category": "Crankshaft"
+    },
+    "img180.jpg": {
+        "caption": "A crankshaft engineered for maximum durability and efficiency in racing applications.",
+        "category": "Crankshaft"
+    }
+
+}

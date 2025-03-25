@@ -1,0 +1,638 @@
+{
+    "img1.jpg": {
+        "caption": "A high-performance brake pad designed for enhanced stopping power and durability.",
+        "category": "Brake Pad"
+    },
+    "img2.jpg": {
+        "caption": "A ceramic brake pad offering low dust production and smooth braking performance.",
+        "category": "Brake Pad"
+    },
+    "img3.jpg": {
+        "caption": "An organic brake pad designed for quiet operation and minimal rotor wear.",
+        "category": "Brake Pad"
+    },
+    "img4.jpg": {
+        "caption": "A semi-metallic brake pad engineered for high heat resistance and extended lifespan.",
+        "category": "Brake Pad"
+    },
+    "img5.jpg": {
+        "caption": "A premium brake pad featuring advanced friction material for maximum safety.",
+        "category": "Brake Pad"
+    },
+    "img6.jpg": {
+        "caption": "A low-dust brake pad designed for clean wheels and smooth braking response.",
+        "category": "Brake Pad"
+    },
+    "img7.jpg": {
+        "caption": "A high-friction brake pad optimized for track performance and aggressive braking.",
+        "category": "Brake Pad"
+    },
+    "img8.jpg": {
+        "caption": "A reinforced carbon fiber brake pad designed for durability and heat resistance.",
+        "category": "Brake Pad"
+    },
+    "img9.jpg": {
+        "caption": "An anti-squeal brake pad with noise-reduction technology for silent braking.",
+        "category": "Brake Pad"
+    },
+    "img10.jpg": {
+        "caption": "A heavy-duty brake pad designed for trucks and towing applications.",
+        "category": "Brake Pad"
+    },
+    "img11.jpg": {
+        "caption": "A fade-resistant brake pad engineered for long-lasting braking performance.",
+        "category": "Brake Pad"
+    },
+    "img12.jpg": {
+        "caption": "A high-performance ceramic brake pad for improved heat dissipation and rotor protection.",
+        "category": "Brake Pad"
+    },
+    "img13.jpg": {
+        "caption": "A street-performance brake pad designed for everyday driving and smooth stops.",
+        "category": "Brake Pad"
+    },
+    "img14.jpg": {
+        "caption": "An aggressive bite brake pad ideal for high-speed driving and emergency stops.",
+        "category": "Brake Pad"
+    },
+    "img15.jpg": {
+        "caption": "A slotted brake pad designed for even wear and consistent braking force.",
+        "category": "Brake Pad"
+    },
+    "img16.jpg": {
+        "caption": "A professional-grade brake pad built for police and fleet vehicles.",
+        "category": "Brake Pad"
+    },
+    "img17.jpg": {
+        "caption": "A low-noise brake pad with anti-vibration technology for smooth braking.",
+        "category": "Brake Pad"
+    },
+    "img18.jpg": {
+        "caption": "A rugged brake pad optimized for off-road vehicles and extreme conditions.",
+        "category": "Brake Pad"
+    },
+    "img19.jpg": {
+        "caption": "A heat-treated brake pad for consistent performance under heavy braking.",
+        "category": "Brake Pad"
+    },
+    "img20.jpg": {
+        "caption": "A copper-free brake pad designed to meet environmental safety standards.",
+        "category": "Brake Pad"
+    },
+    "img21.jpg": {
+        "caption": "A wear-resistant brake pad built to last longer and maintain optimal performance.",
+        "category": "Brake Pad"
+    },
+    "img22.jpg": {
+        "caption": "A hybrid ceramic brake pad providing the best balance between performance and longevity.",
+        "category": "Brake Pad"
+    },
+    "img23.jpg": {
+        "caption": "A track-ready brake pad designed for superior heat dissipation and stability.",
+        "category": "Brake Pad"
+    },
+    "img24.jpg": {
+        "caption": "A Kevlar-reinforced brake pad built for high-speed durability and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img25.jpg": {
+        "caption": "A dust-free brake pad engineered to reduce brake dust accumulation on wheels.",
+        "category": "Brake Pad"
+    },
+    "img26.jpg": {
+        "caption": "A ventilated brake pad designed for superior airflow and heat reduction.",
+        "category": "Brake Pad"
+    },
+    "img27.jpg": {
+        "caption": "A long-life brake pad formulated for extended wear and consistent braking power.",
+        "category": "Brake Pad"
+    },
+    "img28.jpg": {
+        "caption": "A rapid-cooling brake pad with advanced friction material for high-speed stops.",
+        "category": "Brake Pad"
+    },
+    "img29.jpg": {
+        "caption": "A corrosion-resistant brake pad coated for protection in all weather conditions.",
+        "category": "Brake Pad"
+    },
+    "img30.jpg": {
+        "caption": "A slotted and chamfered brake pad designed for reduced noise and vibration.",
+        "category": "Brake Pad"
+    },
+    "img31.jpg": {
+        "caption": "A high-density brake pad built for rugged performance and long-lasting wear.",
+        "category": "Brake Pad"
+    },
+    "img32.jpg": {
+        "caption": "A non-asbestos organic brake pad for smooth and environmentally friendly braking.",
+        "category": "Brake Pad"
+    },
+    "img33.jpg": {
+        "caption": "A moisture-resistant brake pad engineered for wet and humid conditions.",
+        "category": "Brake Pad"
+    },
+    "img34.jpg": {
+        "caption": "A reinforced high-carbon brake pad for maximum thermal stability.",
+        "category": "Brake Pad"
+    },
+    "img35.jpg": {
+        "caption": "A premium quiet-stop brake pad designed to reduce squeaking and vibration.",
+        "category": "Brake Pad"
+    },
+    "img36.jpg": {
+        "caption": "A race-inspired brake pad offering superior stopping power on and off the track.",
+        "category": "Brake Pad"
+    },
+    "img37.jpg": {
+        "caption": "A European-spec brake pad designed for luxury and high-performance vehicles.",
+        "category": "Brake Pad"
+    },
+    "img38.jpg": {
+        "caption": "A heavy-load brake pad designed for commercial vehicles and towing applications.",
+        "category": "Brake Pad"
+    },
+    "img39.jpg": {
+        "caption": "A rapid-cooling brake pad built for sports cars and performance enthusiasts.",
+        "category": "Brake Pad"
+    },
+    "img40.jpg": {
+        "caption": "An ultra-durable brake pad for extreme racing conditions and heavy-duty use.",
+        "category": "Brake Pad"
+    },
+    "img41.jpg": {
+        "caption": "A high-performance brake pad engineered for consistent and reliable braking.",
+        "category": "Brake Pad"
+    },
+    "img42.jpg": {
+        "caption": "A low-metallic brake pad designed for reduced noise and enhanced braking power.",
+        "category": "Brake Pad"
+    },
+    "img43.jpg": {
+        "caption": "A dual-layer brake pad for improved durability and wear resistance.",
+        "category": "Brake Pad"
+    },
+    "img44.jpg": {
+        "caption": "A premium-grade ceramic brake pad optimized for everyday and performance driving.",
+        "category": "Brake Pad"
+    },
+    "img45.jpg": {
+        "caption": "A slot-grooved brake pad designed to dissipate heat effectively for superior performance.",
+        "category": "Brake Pad"
+    },
+    "img46.jpg": {
+        "caption": "A fade-resistant brake pad built for prolonged braking in high-heat conditions.",
+        "category": "Brake Pad"
+    },
+    "img47.jpg": {
+        "caption": "An ultra-quiet brake pad with vibration-dampening technology for silent operation.",
+        "category": "Brake Pad"
+    },
+    "img48.jpg": {
+        "caption": "A reinforced semi-metallic brake pad designed for heavy braking applications.",
+        "category": "Brake Pad"
+    },
+    "img49.jpg": {
+        "caption": "A rapid-response brake pad for high-speed stopping power and short braking distances.",
+        "category": "Brake Pad"
+    },
+    "img50.jpg": {
+        "caption": "A precision-engineered brake pad that ensures consistent braking in all conditions.",
+        "category": "Brake Pad"
+    },
+    "img51.jpg": {
+        "caption": "A street and track brake pad with superior heat dissipation and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img52.jpg": {
+        "caption": "A heavy-duty brake pad with high-friction material for enhanced stopping power.",
+        "category": "Brake Pad"
+    },
+    "img53.jpg": {
+        "caption": "A slotted and chamfered brake pad that minimizes noise and improves braking feel.",
+        "category": "Brake Pad"
+    },
+    "img54.jpg": {
+        "caption": "A brake pad with premium-grade friction material for superior braking performance.",
+        "category": "Brake Pad"
+    },
+    "img55.jpg": {
+        "caption": "A next-gen ceramic brake pad for enhanced heat resistance and extended wear life.",
+        "category": "Brake Pad"
+    },
+    "img56.jpg": {
+        "caption": "A dust-free brake pad with advanced formulation to keep wheels clean.",
+        "category": "Brake Pad"
+    },
+    "img57.jpg": {
+        "caption": "A copper-free brake pad engineered for environmental safety and high performance.",
+        "category": "Brake Pad"
+    },
+    "img58.jpg": {
+        "caption": "A high-durability brake pad optimized for off-road and extreme weather conditions.",
+        "category": "Brake Pad"
+    },
+    "img59.jpg": {
+        "caption": "A hybrid-material brake pad offering the best balance between noise and performance.",
+        "category": "Brake Pad"
+    },
+    "img60.jpg": {
+        "caption": "A reinforced carbon brake pad that provides consistent performance under heavy loads.",
+        "category": "Brake Pad"
+    },
+    "img61.jpg": {
+        "caption": "A brake pad with aerospace-grade materials for ultra-high durability and stopping power.",
+        "category": "Brake Pad"
+    },
+    "img62.jpg": {
+        "caption": "A ventilated brake pad designed to maximize airflow and reduce brake fade.",
+        "category": "Brake Pad"
+    },
+    "img63.jpg": {
+        "caption": "A professional-grade brake pad with heat-treated friction material for longer wear.",
+        "category": "Brake Pad"
+    },
+    "img64.jpg": {
+        "caption": "A moisture-resistant brake pad optimized for wet road conditions and consistent stopping.",
+        "category": "Brake Pad"
+    },
+    "img65.jpg": {
+        "caption": "A heavy-duty brake pad ideal for towing, hauling, and heavy-load vehicles.",
+        "category": "Brake Pad"
+    },
+    "img66.jpg": {
+        "caption": "A high-carbon brake pad formulated to withstand extreme braking temperatures.",
+        "category": "Brake Pad"
+    },
+    "img67.jpg": {
+        "caption": "A Kevlar-reinforced brake pad that enhances durability and braking consistency.",
+        "category": "Brake Pad"
+    },
+    "img68.jpg": {
+        "caption": "A lightweight yet durable brake pad designed for high-performance vehicles.",
+        "category": "Brake Pad"
+    },
+    "img69.jpg": {
+        "caption": "A temperature-resistant brake pad that ensures consistent braking in hot conditions.",
+        "category": "Brake Pad"
+    },
+    "img70.jpg": {
+        "caption": "A performance-focused brake pad with superior bite and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img71.jpg": {
+        "caption": "An advanced ceramic brake pad designed for quieter braking and lower dust production.",
+        "category": "Brake Pad"
+    },
+    "img72.jpg": {
+        "caption": "A slotted brake pad that provides improved ventilation and even wear.",
+        "category": "Brake Pad"
+    },
+    "img73.jpg": {
+        "caption": "A low-noise brake pad designed for a comfortable and smooth braking experience.",
+        "category": "Brake Pad"
+    },
+    "img74.jpg": {
+        "caption": "A heavy-duty brake pad engineered for commercial and fleet vehicles.",
+        "category": "Brake Pad"
+    },
+    "img75.jpg": {
+        "caption": "A reinforced metallic brake pad for high-speed driving and emergency braking.",
+        "category": "Brake Pad"
+    },
+    "img76.jpg": {
+        "caption": "A heat-resistant brake pad designed to handle extreme temperatures and heavy loads.",
+        "category": "Brake Pad"
+    },
+    "img77.jpg": {
+        "caption": "A durable and long-lasting brake pad ideal for city and highway driving.",
+        "category": "Brake Pad"
+    },
+    "img78.jpg": {
+        "caption": "A corrosion-resistant brake pad that performs well in all-weather conditions.",
+        "category": "Brake Pad"
+    },
+    "img79.jpg": {
+        "caption": "A high-friction brake pad offering superior stopping power and reduced fade.",
+        "category": "Brake Pad"
+    },
+    "img80.jpg": {
+        "caption": "A dynamic brake pad designed for aggressive street and track driving.",
+        "category": "Brake Pad"
+    },
+    "img81.jpg": {
+        "caption": "A premium ceramic brake pad with ultra-low dust and high braking efficiency.",
+        "category": "Brake Pad"
+    },
+    "img82.jpg": {
+        "caption": "A slotted brake pad built for even pad wear and extended lifespan.",
+        "category": "Brake Pad"
+    },
+    "img83.jpg": {
+        "caption": "A heavy-duty truck brake pad designed for towing and off-road applications.",
+        "category": "Brake Pad"
+    },
+    "img84.jpg": {
+        "caption": "A non-asbestos brake pad that offers eco-friendly braking performance.",
+        "category": "Brake Pad"
+    },
+    "img85.jpg": {
+        "caption": "A rapid-cooling brake pad designed for fast-paced and high-performance vehicles.",
+        "category": "Brake Pad"
+    },
+    "img86.jpg": {
+        "caption": "A premium OE-style brake pad that matches factory braking performance.",
+        "category": "Brake Pad"
+    },
+    "img87.jpg": {
+        "caption": "A heavy-duty performance brake pad for increased rotor life and stopping power.",
+        "category": "Brake Pad"
+    },
+    "img88.jpg": {
+        "caption": "A track-spec brake pad designed for extreme durability and minimal brake fade.",
+        "category": "Brake Pad"
+    },
+    "img89.jpg": {
+        "caption": "A street-friendly brake pad that delivers quiet and consistent braking.",
+        "category": "Brake Pad"
+    },
+    "img90.jpg": {
+        "caption": "A hybrid brake pad with multi-layer construction for high efficiency and longevity.",
+        "category": "Brake Pad"
+    },
+    "img91.jpg": {
+        "caption": "A next-generation ceramic brake pad engineered for maximum stopping power and longevity.",
+        "category": "Brake Pad"
+    },
+    "img92.jpg": {
+        "caption": "A reinforced semi-metallic brake pad designed for optimal performance in all conditions.",
+        "category": "Brake Pad"
+    },
+    "img93.jpg": {
+        "caption": "A low-noise brake pad with advanced vibration-dampening technology for smooth braking.",
+        "category": "Brake Pad"
+    },
+    "img94.jpg": {
+        "caption": "A performance-oriented brake pad with high heat resistance and minimal fade.",
+        "category": "Brake Pad"
+    },
+    "img95.jpg": {
+        "caption": "A slotted and chamfered brake pad that ensures even wear and superior braking response.",
+        "category": "Brake Pad"
+    },
+    "img96.jpg": {
+        "caption": "A copper-free brake pad designed for environmentally friendly and high-performance braking.",
+        "category": "Brake Pad"
+    },
+    "img97.jpg": {
+        "caption": "A lightweight carbon-fiber brake pad that delivers consistent braking under heavy loads.",
+        "category": "Brake Pad"
+    },
+    "img98.jpg": {
+        "caption": "A heat-treated brake pad built for long-lasting durability and optimal friction.",
+        "category": "Brake Pad"
+    },
+    "img99.jpg": {
+        "caption": "A moisture-resistant brake pad designed to perform well in wet and humid conditions.",
+        "category": "Brake Pad"
+    },
+    "img100.jpg": {
+        "caption": "A high-friction brake pad optimized for sports cars and aggressive driving.",
+        "category": "Brake Pad"
+    },
+    "img101.jpg": {
+        "caption": "A rapid-cooling brake pad with advanced ventilation for improved heat dissipation.",
+        "category": "Brake Pad"
+    },
+    "img102.jpg": {
+        "caption": "A Kevlar-infused brake pad that enhances durability and braking consistency.",
+        "category": "Brake Pad"
+    },
+    "img103.jpg": {
+        "caption": "A premium performance brake pad engineered for fast stopping and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img104.jpg": {
+        "caption": "A dust-reducing brake pad that helps maintain cleaner wheels while offering superior braking.",
+        "category": "Brake Pad"
+    },
+    "img105.jpg": {
+        "caption": "A reinforced metallic brake pad ideal for high-speed driving and emergency braking.",
+        "category": "Brake Pad"
+    },
+    "img106.jpg": {
+        "caption": "A heavy-duty brake pad designed for commercial trucks and off-road vehicles.",
+        "category": "Brake Pad"
+    },
+    "img107.jpg": {
+        "caption": "A track-ready brake pad with superior bite and long-lasting performance.",
+        "category": "Brake Pad"
+    },
+    "img108.jpg": {
+        "caption": "A high-carbon brake pad that withstands extreme temperatures and heavy braking conditions.",
+        "category": "Brake Pad"
+    },
+    "img109.jpg": {
+        "caption": "A street-legal brake pad with aggressive stopping power for performance vehicles.",
+        "category": "Brake Pad"
+    },
+    "img110.jpg": {
+        "caption": "A non-asbestos organic brake pad offering quiet operation and smooth braking.",
+        "category": "Brake Pad"
+    },
+    "img111.jpg": {
+        "caption": "A ventilated brake pad designed to prevent heat buildup and extend pad life.",
+        "category": "Brake Pad"
+    },
+    "img112.jpg": {
+        "caption": "A high-durability brake pad optimized for heavy loads and frequent braking.",
+        "category": "Brake Pad"
+    },
+    "img113.jpg": {
+        "caption": "A precision-engineered brake pad that ensures optimal braking efficiency and reliability.",
+        "category": "Brake Pad"
+    },
+    "img114.jpg": {
+        "caption": "A low-dust brake pad that enhances braking performance while reducing rotor wear.",
+        "category": "Brake Pad"
+    },
+    "img115.jpg": {
+        "caption": "A next-gen ceramic brake pad designed for enhanced heat resistance and noise reduction.",
+        "category": "Brake Pad"
+    },
+    "img116.jpg": {
+        "caption": "A multi-layered brake pad that offers vibration dampening and increased longevity.",
+        "category": "Brake Pad"
+    },
+    "img117.jpg": {
+        "caption": "A reinforced carbon brake pad delivering consistent performance in high-stress situations.",
+        "category": "Brake Pad"
+    },
+    "img118.jpg": {
+        "caption": "A hybrid-material brake pad that balances noise reduction with high braking power.",
+        "category": "Brake Pad"
+    },
+    "img119.jpg": {
+        "caption": "A performance brake pad with precision cut slots for improved rotor grip.",
+        "category": "Brake Pad"
+    },
+    "img120.jpg": {
+        "caption": "A premium OE-style brake pad that provides factory-like braking performance.",
+        "category": "Brake Pad"
+    },
+    "img121.jpg": {
+        "caption": "A long-lasting semi-metallic brake pad ideal for both city and highway driving.",
+        "category": "Brake Pad"
+    },
+    "img122.jpg": {
+        "caption": "A corrosion-resistant brake pad designed to perform in extreme weather conditions.",
+        "category": "Brake Pad"
+    },
+    "img123.jpg": {
+        "caption": "A high-performance street and track brake pad for responsive braking.",
+        "category": "Brake Pad"
+    },
+    "img124.jpg": {
+        "caption": "A slotted brake pad engineered for even wear and consistent braking.",
+        "category": "Brake Pad"
+    },
+    "img125.jpg": {
+        "caption": "A reinforced composite brake pad that extends rotor life and braking efficiency.",
+        "category": "Brake Pad"
+    },
+    "img126.jpg": {
+        "caption": "A track-spec brake pad with extreme stopping power and minimal dust production.",
+        "category": "Brake Pad"
+    },
+    "img127.jpg": {
+        "caption": "A high-friction brake pad designed for aggressive braking and controlled stops.",
+        "category": "Brake Pad"
+    },
+    "img128.jpg": {
+        "caption": "A temperature-resistant brake pad that provides consistent braking in all conditions.",
+        "category": "Brake Pad"
+    },
+    "img129.jpg": {
+        "caption": "A lightweight yet durable brake pad for high-performance vehicles.",
+        "category": "Brake Pad"
+    },
+    "img130.jpg": {
+        "caption": "A heavy-duty performance brake pad engineered for long-lasting durability.",
+        "category": "Brake Pad"
+    },
+    "img131.jpg": {
+        "caption": "A rapid-response brake pad with advanced material for maximum friction.",
+        "category": "Brake Pad"
+    },
+    "img132.jpg": {
+        "caption": "A non-asbestos brake pad designed for eco-friendly performance and smooth braking.",
+        "category": "Brake Pad"
+    },
+    "img133.jpg": {
+        "caption": "A copper-free brake pad developed for enhanced environmental safety and braking efficiency.",
+        "category": "Brake Pad"
+    },
+    "img134.jpg": {
+        "caption": "A dual-layer brake pad designed for improved noise control and longevity.",
+        "category": "Brake Pad"
+    },
+    "img135.jpg": {
+        "caption": "A slotted and chamfered brake pad engineered for minimal brake fade.",
+        "category": "Brake Pad"
+    },
+    "img136.jpg": {
+        "caption": "A high-performance brake pad offering superior heat dissipation and stopping power.",
+        "category": "Brake Pad"
+    },
+    "img137.jpg": {
+        "caption": "A dust-free brake pad designed for cleaner operation and high efficiency.",
+        "category": "Brake Pad"
+    },
+    "img138.jpg": {
+        "caption": "A reinforced ceramic brake pad with exceptional braking stability and longevity.",
+        "category": "Brake Pad"
+    },
+    "img139.jpg": {
+        "caption": "A semi-metallic brake pad designed for superior wear resistance and braking power.",
+        "category": "Brake Pad"
+    },
+    "img140.jpg": {
+        "caption": "A hybrid brake pad that combines low noise with enhanced stopping performance.",
+        "category": "Brake Pad"
+    },
+    "img170.jpg": {
+        "caption": "A high-performance ceramic brake pad designed for superior heat dissipation and stopping power.",
+        "category": "Brake Pad"
+    },
+    "img171.jpg": {
+        "caption": "A durable semi-metallic brake pad offering enhanced braking efficiency and longevity.",
+        "category": "Brake Pad"
+    },
+    "img172.jpg": {
+        "caption": "A noise-reducing brake pad with chamfered edges for smoother and quieter braking.",
+        "category": "Brake Pad"
+    },
+    "img173.jpg": {
+        "caption": "A reinforced carbon brake pad designed for high-temperature resistance and consistent braking.",
+        "category": "Brake Pad"
+    },
+    "img174.jpg": {
+        "caption": "A precision-engineered brake pad optimized for high-performance driving and reduced fade.",
+        "category": "Brake Pad"
+    },
+    "img175.jpg": {
+        "caption": "A slotted brake pad with improved friction stability for controlled braking under pressure.",
+        "category": "Brake Pad"
+    },
+    "img176.jpg": {
+        "caption": "A heavy-duty brake pad built for rugged conditions and commercial vehicle applications.",
+        "category": "Brake Pad"
+    },
+    "img177.jpg": {
+        "caption": "A track-ready brake pad with extreme stopping power and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img178.jpg": {
+        "caption": "A non-asbestos organic brake pad designed for quiet operation and smooth braking performance.",
+        "category": "Brake Pad"
+    },
+    "img179.jpg": {
+        "caption": "A copper-free brake pad engineered for environmentally friendly braking and long lifespan.",
+        "category": "Brake Pad"
+    },
+    "img180.jpg": {
+        "caption": "A ventilated brake pad designed to prevent heat buildup and extend rotor life.",
+        "category": "Brake Pad"
+    },
+    "img181.jpg": {
+        "caption": "A premium composite brake pad offering superior wear resistance and reliability.",
+        "category": "Brake Pad"
+    },
+    "img182.jpg": {
+        "caption": "A dust-free brake pad designed to minimize residue and maintain cleaner wheels.",
+        "category": "Brake Pad"
+    },
+    "img183.jpg": {
+        "caption": "A reinforced high-friction brake pad for enhanced grip and reduced stopping distances.",
+        "category": "Brake Pad"
+    },
+    "img184.jpg": {
+        "caption": "A hybrid-material brake pad balancing noise reduction with superior braking power.",
+        "category": "Brake Pad"
+    },
+    "img185.jpg": {
+        "caption": "A rapid-response brake pad engineered for immediate braking and safety assurance.",
+        "category": "Brake Pad"
+    },
+    "img186.jpg": {
+        "caption": "A heavy-duty ceramic brake pad designed for towing and high-load applications.",
+        "category": "Brake Pad"
+    },
+    "img187.jpg": {
+        "caption": "A next-gen performance brake pad built for precision braking and fade resistance.",
+        "category": "Brake Pad"
+    },
+    "img188.jpg": {
+        "caption": "A heat-resistant brake pad with a multi-layered design for vibration dampening and durability.",
+        "category": "Brake Pad"
+    }
+}

@@ -1,0 +1,796 @@
+{    
+    "img1.jpg": {
+        "caption": "A heavy-duty idler arm designed for improved steering stability.",
+        "category": "Idler Arm"
+    },
+    "img2.jpg": {
+        "caption": "An idler arm with reinforced bushings for extended durability.",
+        "category": "Idler Arm"
+    },
+    "img3.jpg": {
+        "caption": "A precision-engineered idler arm for smooth and controlled steering response.",
+        "category": "Idler Arm"
+    },
+    "img4.jpg": {
+        "caption": "A corrosion-resistant idler arm with a powder-coated finish.",
+        "category": "Idler Arm"
+    },
+    "img5.jpg": {
+        "caption": "A high-performance idler arm featuring heavy-duty bearings.",
+        "category": "Idler Arm"
+    },
+    "img6.jpg": {
+        "caption": "An idler arm with a greaseable design for easy maintenance.",
+        "category": "Idler Arm"
+    },
+    "img7.jpg": {
+        "caption": "A rugged idler arm built for off-road and high-impact conditions.",
+        "category": "Idler Arm"
+    },
+    "img8.jpg": {
+        "caption": "An idler arm with improved articulation for better suspension performance.",
+        "category": "Idler Arm"
+    },
+    "img9.jpg": {
+        "caption": "A lightweight idler arm with high-strength steel construction.",
+        "category": "Idler Arm"
+    },
+    "img10.jpg": {
+        "caption": "An idler arm featuring a self-lubricating bushing for smooth operation.",
+        "category": "Idler Arm"
+    },
+    "img11.jpg": {
+        "caption": "A performance idler arm with anti-wear coating for longevity.",
+        "category": "Idler Arm"
+    },
+    "img12.jpg": {
+        "caption": "A reinforced idler arm for heavy-load applications and towing.",
+        "category": "Idler Arm"
+    },
+    "img13.jpg": {
+        "caption": "An idler arm with advanced polymer bushings for reduced friction.",
+        "category": "Idler Arm"
+    },
+    "img14.jpg": {
+        "caption": "A high-strength idler arm designed for precision steering control.",
+        "category": "Idler Arm"
+    },
+    "img15.jpg": {
+        "caption": "A rust-proof idler arm with an anodized protective layer.",
+        "category": "Idler Arm"
+    },
+    "img16.jpg": {
+        "caption": "An idler arm with sealed ball joints for enhanced longevity.",
+        "category": "Idler Arm"
+    },
+    "img17.jpg": {
+        "caption": "A performance idler arm designed to minimize steering play.",
+        "category": "Idler Arm"
+    },
+    "img18.jpg": {
+        "caption": "An idler arm with precision-machined pivots for consistent handling.",
+        "category": "Idler Arm"
+    },
+    "img19.jpg": {
+        "caption": "A heavy-duty idler arm with reinforced welds for maximum strength.",
+        "category": "Idler Arm"
+    },
+    "img20.jpg": {
+        "caption": "A premium idler arm featuring noise-dampening bushings.",
+        "category": "Idler Arm"
+    },
+    "img21.jpg": {
+        "caption": "A high-performance idler arm with anti-corrosion treatment.",
+        "category": "Idler Arm"
+    },
+    "img22.jpg": {
+        "caption": "A steel-forged idler arm designed for long-lasting durability.",
+        "category": "Idler Arm"
+    },
+    "img23.jpg": {
+        "caption": "An idler arm with improved pivot geometry for accurate steering control.",
+        "category": "Idler Arm"
+    },
+    "img24.jpg": {
+        "caption": "A reinforced idler arm with thickened support arms for heavy vehicles.",
+        "category": "Idler Arm"
+    },
+    "img25.jpg": {
+        "caption": "An idler arm featuring heat-treated components for added strength.",
+        "category": "Idler Arm"
+    },
+    "img26.jpg": {
+        "caption": "A professional-grade idler arm with long-lasting polyurethane bushings.",
+        "category": "Idler Arm"
+    },
+    "img27.jpg": {
+        "caption": "An idler arm with a low-friction design for smoother vehicle handling.",
+        "category": "Idler Arm"
+    },
+    "img28.jpg": {
+        "caption": "A high-load idler arm designed for commercial and fleet vehicles.",
+        "category": "Idler Arm"
+    },
+    "img29.jpg": {
+        "caption": "An idler arm with an impact-resistant coating for rough conditions.",
+        "category": "Idler Arm"
+    },
+    "img30.jpg": {
+        "caption": "A lightweight yet durable idler arm optimized for sports cars.",
+        "category": "Idler Arm"
+    },
+    "img31.jpg": {
+        "caption": "A sealed-bearing idler arm for long-term maintenance-free performance.",
+        "category": "Idler Arm"
+    },
+    "img32.jpg": {
+        "caption": "An idler arm with precision-engineered joints for improved responsiveness.",
+        "category": "Idler Arm"
+    },
+    "img33.jpg": {
+        "caption": "A weather-resistant idler arm with heavy-duty rubber seals.",
+        "category": "Idler Arm"
+    },
+    "img34.jpg": {
+        "caption": "A high-strength alloy idler arm built for high-performance applications.",
+        "category": "Idler Arm"
+    },
+    "img35.jpg": {
+        "caption": "An idler arm with an adjustable mount for custom suspension setups.",
+        "category": "Idler Arm"
+    },
+    "img36.jpg": {
+        "caption": "A reinforced idler arm featuring vibration-dampening materials.",
+        "category": "Idler Arm"
+    },
+    "img37.jpg": {
+        "caption": "An idler arm with a sleek black powder-coated finish.",
+        "category": "Idler Arm"
+    },
+    "img38.jpg": {
+        "caption": "A race-inspired idler arm designed for enhanced handling precision.",
+        "category": "Idler Arm"
+    },
+    "img39.jpg": {
+        "caption": "A heavy-load idler arm with a wider support base for added stability.",
+        "category": "Idler Arm"
+    },
+    "img40.jpg": {
+        "caption": "An idler arm featuring an innovative design for reduced steering effort.",
+        "category": "Idler Arm"
+    },
+    "img41.jpg": {
+        "caption": "A maintenance-free idler arm with permanently lubricated joints.",
+        "category": "Idler Arm"
+    },
+    "img42.jpg": {
+        "caption": "An idler arm with an oversized bushing for increased load capacity.",
+        "category": "Idler Arm"
+    },
+    "img43.jpg": {
+        "caption": "A street-performance idler arm optimized for quick steering response.",
+        "category": "Idler Arm"
+    },
+    "img44.jpg": {
+        "caption": "An idler arm with a dual-layer protective coating for rust resistance.",
+        "category": "Idler Arm"
+    },
+    "img45.jpg": {
+        "caption": "A heavy-duty idler arm designed to support lifted truck suspensions.",
+        "category": "Idler Arm"
+    },
+    "img46.jpg": {
+        "caption": "A reinforced idler arm with a thick steel frame for added support.",
+        "category": "Idler Arm"
+    },
+    "img47.jpg": {
+        "caption": "An idler arm with an advanced friction-reducing design for smoother turns.",
+        "category": "Idler Arm"
+    },
+    "img48.jpg": {
+        "caption": "A precision-forged idler arm with industrial-strength bearings.",
+        "category": "Idler Arm"
+    },
+    "img49.jpg": {
+        "caption": "An idler arm featuring an ergonomic design for efficient steering control.",
+        "category": "Idler Arm"
+    },
+    "img50.jpg": {
+        "caption": "A heavy-duty idler arm built for all-terrain durability and performance.",
+        "category": "Idler Arm"
+    },
+    "img51.jpg": {
+        "caption": "A corrosion-resistant idler arm with a high-strength steel construction.",
+        "category": "Idler Arm"
+    },
+    "img52.jpg": {
+        "caption": "A precision-engineered idler arm designed for optimal steering accuracy.",
+        "category": "Idler Arm"
+    },
+    "img53.jpg": {
+        "caption": "An idler arm with reinforced pivot points for extra durability.",
+        "category": "Idler Arm"
+    },
+    "img54.jpg": {
+        "caption": "A performance idler arm featuring an anti-wear polymer coating.",
+        "category": "Idler Arm"
+    },
+    "img55.jpg": {
+        "caption": "A heavy-duty idler arm designed to handle extreme road conditions.",
+        "category": "Idler Arm"
+    },
+    "img56.jpg": {
+        "caption": "An idler arm with a sealed bearing system for long-term performance.",
+        "category": "Idler Arm"
+    },
+    "img57.jpg": {
+        "caption": "A powder-coated idler arm resistant to rust and corrosion.",
+        "category": "Idler Arm"
+    },
+    "img58.jpg": {
+        "caption": "A rugged idler arm built for off-road vehicles and tough terrain.",
+        "category": "Idler Arm"
+    },
+    "img59.jpg": {
+        "caption": "A high-performance idler arm with a self-lubricating pivot.",
+        "category": "Idler Arm"
+    },
+    "img60.jpg": {
+        "caption": "An idler arm optimized for smooth and precise steering response.",
+        "category": "Idler Arm"
+    },
+    "img61.jpg": {
+        "caption": "A reinforced idler arm featuring heat-treated components.",
+        "category": "Idler Arm"
+    },
+    "img62.jpg": {
+        "caption": "An idler arm with a heavy-duty support structure for added stability.",
+        "category": "Idler Arm"
+    },
+    "img63.jpg": {
+        "caption": "A lightweight yet robust idler arm designed for sports cars.",
+        "category": "Idler Arm"
+    },
+    "img64.jpg": {
+        "caption": "A performance idler arm with polyurethane bushings for better durability.",
+        "category": "Idler Arm"
+    },
+    "img65.jpg": {
+        "caption": "An idler arm featuring vibration-reducing components for smoother handling.",
+        "category": "Idler Arm"
+    },
+    "img66.jpg": {
+        "caption": "A street-performance idler arm designed for better steering precision.",
+        "category": "Idler Arm"
+    },
+    "img67.jpg": {
+        "caption": "An idler arm built for high-load applications and heavy-duty vehicles.",
+        "category": "Idler Arm"
+    },
+    "img68.jpg": {
+        "caption": "A race-inspired idler arm with precision-machined pivots.",
+        "category": "Idler Arm"
+    },
+    "img69.jpg": {
+        "caption": "An idler arm featuring a high-tensile alloy steel frame for extra strength.",
+        "category": "Idler Arm"
+    },
+    "img70.jpg": {
+        "caption": "A sealed-bearing idler arm requiring minimal maintenance.",
+        "category": "Idler Arm"
+    },
+    "img71.jpg": {
+        "caption": "A reinforced idler arm designed for heavy-duty steering systems.",
+        "category": "Idler Arm"
+    },
+    "img72.jpg": {
+        "caption": "A premium idler arm with a low-friction design for smoother steering.",
+        "category": "Idler Arm"
+    },
+    "img73.jpg": {
+        "caption": "An idler arm with an adjustable mounting system for custom applications.",
+        "category": "Idler Arm"
+    },
+    "img74.jpg": {
+        "caption": "A durable idler arm engineered for high-performance vehicles.",
+        "category": "Idler Arm"
+    },
+    "img75.jpg": {
+        "caption": "An idler arm featuring anti-corrosion coating for long-lasting use.",
+        "category": "Idler Arm"
+    },
+    "img76.jpg": {
+        "caption": "A heavy-duty idler arm designed to support suspension lift kits.",
+        "category": "Idler Arm"
+    },
+    "img77.jpg": {
+        "caption": "An idler arm with an impact-resistant finish for extreme conditions.",
+        "category": "Idler Arm"
+    },
+    "img78.jpg": {
+        "caption": "A precision-engineered idler arm for increased steering responsiveness.",
+        "category": "Idler Arm"
+    },
+    "img79.jpg": {
+        "caption": "An idler arm with self-lubricating bushings for reduced maintenance.",
+        "category": "Idler Arm"
+    },
+    "img80.jpg": {
+        "caption": "A street/strip idler arm optimized for both durability and smooth handling.",
+        "category": "Idler Arm"
+    },
+    "img81.jpg": {
+        "caption": "An idler arm with extra-wide pivot points for added steering stability.",
+        "category": "Idler Arm"
+    },
+    "img82.jpg": {
+        "caption": "A reinforced idler arm featuring industrial-grade ball joints.",
+        "category": "Idler Arm"
+    },
+    "img83.jpg": {
+        "caption": "A high-strength idler arm designed for high-speed performance vehicles.",
+        "category": "Idler Arm"
+    },
+    "img84.jpg": {
+        "caption": "A precision-machined idler arm with high-tolerance bushings.",
+        "category": "Idler Arm"
+    },
+    "img85.jpg": {
+        "caption": "An idler arm with noise-reduction technology for quieter steering operation.",
+        "category": "Idler Arm"
+    },
+    "img86.jpg": {
+        "caption": "A lightweight aluminum idler arm designed for performance applications.",
+        "category": "Idler Arm"
+    },
+    "img87.jpg": {
+        "caption": "An idler arm with a reinforced arm for heavy towing vehicles.",
+        "category": "Idler Arm"
+    },
+    "img88.jpg": {
+        "caption": "A maintenance-free idler arm with permanently sealed bushings.",
+        "category": "Idler Arm"
+    },
+    "img89.jpg": {
+        "caption": "An idler arm featuring an ergonomic design for better steering efficiency.",
+        "category": "Idler Arm"
+    },
+    "img90.jpg": {
+        "caption": "A corrosion-resistant idler arm optimized for extreme weather conditions.",
+        "category": "Idler Arm"
+    },
+    "img91.jpg": {
+        "caption": "An idler arm with a reinforced steel housing for superior durability.",
+        "category": "Idler Arm"
+    },
+    "img92.jpg": {
+        "caption": "A performance idler arm designed for maximum handling precision.",
+        "category": "Idler Arm"
+    },
+    "img93.jpg": {
+        "caption": "An idler arm with dual-layer protection against road debris.",
+        "category": "Idler Arm"
+    },
+    "img94.jpg": {
+        "caption": "A heavy-duty idler arm built to withstand high torque loads.",
+        "category": "Idler Arm"
+    },
+    "img95.jpg": {
+        "caption": "An idler arm with anti-vibration technology for smoother performance.",
+        "category": "Idler Arm"
+    },
+    "img96.jpg": {
+        "caption": "A reinforced idler arm featuring heavy-duty grease fittings.",
+        "category": "Idler Arm"
+    },
+    "img97.jpg": {
+        "caption": "A professional-grade idler arm designed for high-mileage vehicles.",
+        "category": "Idler Arm"
+    },
+    "img98.jpg": {
+        "caption": "An idler arm with a unique geometry for improved steering precision.",
+        "category": "Idler Arm"
+    },
+    "img99.jpg": {
+        "caption": "A premium idler arm featuring rust-proof materials for longevity.",
+        "category": "Idler Arm"
+    },
+    "img100.jpg": {
+        "caption": "A high-performance idler arm with an ultra-smooth turning mechanism.",
+        "category": "Idler Arm"
+    },
+    "img101.jpg": {
+        "caption": "A precision-forged idler arm designed for enhanced durability and performance.",
+        "category": "Idler Arm"
+    },
+    "img102.jpg": {
+        "caption": "A heavy-duty idler arm with reinforced joints for better steering control.",
+        "category": "Idler Arm"
+    },
+    "img103.jpg": {
+        "caption": "An idler arm featuring high-grade ball joints for improved handling.",
+        "category": "Idler Arm"
+    },
+    "img104.jpg": {
+        "caption": "A corrosion-resistant idler arm designed to withstand harsh road conditions.",
+        "category": "Idler Arm"
+    },
+    "img105.jpg": {
+        "caption": "A race-grade idler arm optimized for precise and responsive steering.",
+        "category": "Idler Arm"
+    },
+    "img106.jpg": {
+        "caption": "An idler arm with polyurethane bushings for smoother operation and longevity.",
+        "category": "Idler Arm"
+    },
+    "img107.jpg": {
+        "caption": "A high-strength idler arm with a rust-proof coating for durability.",
+        "category": "Idler Arm"
+    },
+    "img108.jpg": {
+        "caption": "A reinforced idler arm featuring a low-friction pivot design.",
+        "category": "Idler Arm"
+    },
+    "img109.jpg": {
+        "caption": "An idler arm with advanced noise-dampening technology for a quieter ride.",
+        "category": "Idler Arm"
+    },
+    "img110.jpg": {
+        "caption": "A premium idler arm designed for both standard and lifted vehicles.",
+        "category": "Idler Arm"
+    },
+    "img111.jpg": {
+        "caption": "A heavy-duty idler arm with industrial-strength bearings for superior performance.",
+        "category": "Idler Arm"
+    },
+    "img112.jpg": {
+        "caption": "A high-performance idler arm engineered for off-road applications.",
+        "category": "Idler Arm"
+    },
+    "img113.jpg": {
+        "caption": "A lightweight aluminum idler arm offering high-strength support.",
+        "category": "Idler Arm"
+    },
+    "img114.jpg": {
+        "caption": "A rugged idler arm designed for improved steering stability.",
+        "category": "Idler Arm"
+    },
+    "img115.jpg": {
+        "caption": "An idler arm with a wear-resistant polymer coating for extended life.",
+        "category": "Idler Arm"
+    },
+    "img116.jpg": {
+        "caption": "A street-performance idler arm with precision-machined bushings.",
+        "category": "Idler Arm"
+    },
+    "img117.jpg": {
+        "caption": "A reinforced idler arm for vehicles with high suspension loads.",
+        "category": "Idler Arm"
+    },
+    "img118.jpg": {
+        "caption": "An idler arm with improved grease retention for extended lubrication intervals.",
+        "category": "Idler Arm"
+    },
+    "img119.jpg": {
+        "caption": "A sports-grade idler arm optimized for high-speed steering response.",
+        "category": "Idler Arm"
+    },
+    "img120.jpg": {
+        "caption": "An idler arm featuring a precision-machined mounting system for easy installation.",
+        "category": "Idler Arm"
+    },
+    "img121.jpg": {
+        "caption": "A premium idler arm with vibration-dampening technology for smoother steering.",
+        "category": "Idler Arm"
+    },
+    "img122.jpg": {
+        "caption": "A high-tensile steel idler arm engineered for extreme durability.",
+        "category": "Idler Arm"
+    },
+    "img123.jpg": {
+        "caption": "An idler arm featuring an advanced self-lubricating pivot mechanism.",
+        "category": "Idler Arm"
+    },
+    "img124.jpg": {
+        "caption": "A powder-coated idler arm resistant to corrosion and road debris.",
+        "category": "Idler Arm"
+    },
+    "img125.jpg": {
+        "caption": "A robust idler arm designed for superior load-bearing capabilities.",
+        "category": "Idler Arm"
+    },
+    "img126.jpg": {
+        "caption": "An idler arm with heavy-duty forged construction for enhanced longevity.",
+        "category": "Idler Arm"
+    },
+    "img127.jpg": {
+        "caption": "A reinforced idler arm engineered for smooth steering performance.",
+        "category": "Idler Arm"
+    },
+    "img128.jpg": {
+        "caption": "An idler arm with a high-strength alloy steel frame for heavy-duty use.",
+        "category": "Idler Arm"
+    },
+    "img129.jpg": {
+        "caption": "A lightweight idler arm designed for optimized weight-to-strength ratio.",
+        "category": "Idler Arm"
+    },
+    "img130.jpg": {
+        "caption": "An idler arm with high-performance grease fittings for easy maintenance.",
+        "category": "Idler Arm"
+    },
+    "img131.jpg": {
+        "caption": "A track-tested idler arm engineered for extreme performance vehicles.",
+        "category": "Idler Arm"
+    },
+    "img132.jpg": {
+        "caption": "An idler arm featuring dual-layer anti-rust protection for longevity.",
+        "category": "Idler Arm"
+    },
+    "img133.jpg": {
+        "caption": "A reinforced idler arm designed for heavy-duty off-road vehicles.",
+        "category": "Idler Arm"
+    },
+    "img134.jpg": {
+        "caption": "An idler arm with a unique reinforced pivot design for stability.",
+        "category": "Idler Arm"
+    },
+    "img135.jpg": {
+        "caption": "A premium idler arm offering ultra-smooth steering control.",
+        "category": "Idler Arm"
+    },
+    "img136.jpg": {
+        "caption": "A performance idler arm with extra-wide bushings for better support.",
+        "category": "Idler Arm"
+    },
+    "img137.jpg": {
+        "caption": "An idler arm with a fully-sealed ball joint for maximum durability.",
+        "category": "Idler Arm"
+    },
+    "img138.jpg": {
+        "caption": "A corrosion-resistant idler arm built to withstand high-stress conditions.",
+        "category": "Idler Arm"
+    },
+    "img139.jpg": {
+        "caption": "An idler arm designed for precision steering with minimal deflection.",
+        "category": "Idler Arm"
+    },
+    "img140.jpg": {
+        "caption": "A reinforced idler arm featuring a heavy-duty pivot assembly.",
+        "category": "Idler Arm"
+    },
+    "img141.jpg": {
+        "caption": "An idler arm with industrial-grade construction for extreme durability.",
+        "category": "Idler Arm"
+    },
+    "img142.jpg": {
+        "caption": "A self-lubricating idler arm with low-maintenance design.",
+        "category": "Idler Arm"
+    },
+    "img143.jpg": {
+        "caption": "A high-strength idler arm designed for enhanced load distribution.",
+        "category": "Idler Arm"
+    },
+    "img144.jpg": {
+        "caption": "A high-torque idler arm with extra reinforcement for stability.",
+        "category": "Idler Arm"
+    },
+    "img145.jpg": {
+        "caption": "An idler arm designed with extra-wide contact surfaces for better load support.",
+        "category": "Idler Arm"
+    },
+    "img146.jpg": {
+        "caption": "A street-performance idler arm engineered for ultra-responsive handling.",
+        "category": "Idler Arm"
+    },
+    "img147.jpg": {
+        "caption": "A race-inspired idler arm with advanced heat-treated bushings.",
+        "category": "Idler Arm"
+    },
+    "img148.jpg": {
+        "caption": "A rugged idler arm with a heavy-duty bracket for extra support.",
+        "category": "Idler Arm"
+    },
+    "img149.jpg": {
+        "caption": "An idler arm with an optimized weight distribution for better performance.",
+        "category": "Idler Arm"
+    },
+    "img150.jpg": {
+        "caption": "A premium-grade idler arm designed for commercial and heavy-duty vehicles.",
+        "category": "Idler Arm"
+    },
+    "img151.jpg": {
+        "caption": "A heavy-duty idler arm designed for enhanced stability and steering precision.",
+        "category": "Idler Arm"
+    },
+    "img152.jpg": {
+        "caption": "An idler arm with a corrosion-resistant finish for extended durability.",
+        "category": "Idler Arm"
+    },
+    "img153.jpg": {
+        "caption": "A reinforced idler arm engineered for smooth and responsive handling.",
+        "category": "Idler Arm"
+    },
+    "img154.jpg": {
+        "caption": "An idler arm featuring an advanced pivot design for reduced wear.",
+        "category": "Idler Arm"
+    },
+    "img155.jpg": {
+        "caption": "A precision-machined idler arm offering optimal load distribution.",
+        "category": "Idler Arm"
+    },
+    "img156.jpg": {
+        "caption": "An idler arm with industrial-strength bearings for superior longevity.",
+        "category": "Idler Arm"
+    },
+    "img157.jpg": {
+        "caption": "A lightweight idler arm designed for improved steering efficiency.",
+        "category": "Idler Arm"
+    },
+    "img158.jpg": {
+        "caption": "An idler arm with polyurethane bushings for enhanced noise reduction.",
+        "category": "Idler Arm"
+    },
+    "img159.jpg": {
+        "caption": "A race-ready idler arm optimized for high-performance vehicles.",
+        "category": "Idler Arm"
+    },
+    "img160.jpg": {
+        "caption": "A rugged idler arm featuring reinforced steel joints for extra durability.",
+        "category": "Idler Arm"
+    },
+    "img161.jpg": {
+        "caption": "An idler arm with a heat-treated alloy steel frame for heavy loads.",
+        "category": "Idler Arm"
+    },
+    "img162.jpg": {
+        "caption": "A high-strength idler arm engineered for commercial and off-road applications.",
+        "category": "Idler Arm"
+    },
+    "img163.jpg": {
+        "caption": "An idler arm featuring an innovative self-lubricating design.",
+        "category": "Idler Arm"
+    },
+    "img164.jpg": {
+        "caption": "A premium idler arm with anti-rust technology for extended service life.",
+        "category": "Idler Arm"
+    },
+    "img165.jpg": {
+        "caption": "A precision-balanced idler arm for improved steering responsiveness.",
+        "category": "Idler Arm"
+    },
+    "img166.jpg": {
+        "caption": "An idler arm designed with extra-wide pivot points for increased stability.",
+        "category": "Idler Arm"
+    },
+    "img167.jpg": {
+        "caption": "A sports-grade idler arm featuring optimized geometry for better handling.",
+        "category": "Idler Arm"
+    },
+    "img168.jpg": {
+        "caption": "A high-performance idler arm with industrial-grade fasteners for strength.",
+        "category": "Idler Arm"
+    },
+    "img169.jpg": {
+        "caption": "An idler arm with a reinforced mounting bracket for added support.",
+        "category": "Idler Arm"
+    },
+    "img170.jpg": {
+        "caption": "A track-tested idler arm designed for precision cornering and control.",
+        "category": "Idler Arm"
+    },
+    "img171.jpg": {
+        "caption": "An idler arm with an anodized coating for enhanced corrosion resistance.",
+        "category": "Idler Arm"
+    },
+    "img172.jpg": {
+        "caption": "A heavy-duty idler arm with shock-absorbing bushings for smoother driving.",
+        "category": "Idler Arm"
+    },
+    "img173.jpg": {
+        "caption": "An idler arm with a high-tensile steel frame for extreme durability.",
+        "category": "Idler Arm"
+    },
+    "img174.jpg": {
+        "caption": "A low-friction idler arm optimized for extended component lifespan.",
+        "category": "Idler Arm"
+    },
+    "img175.jpg": {
+        "caption": "An idler arm featuring a sealed bearing system for maintenance-free operation.",
+        "category": "Idler Arm"
+    },
+    "img176.jpg": {
+        "caption": "A precision-engineered idler arm designed for high-speed stability.",
+        "category": "Idler Arm"
+    },
+    "img177.jpg": {
+        "caption": "An idler arm with extra-wide bushings for better shock absorption.",
+        "category": "Idler Arm"
+    },
+    "img178.jpg": {
+        "caption": "A reinforced idler arm featuring an ultra-durable steel pivot design.",
+        "category": "Idler Arm"
+    },
+    "img179.jpg": {
+        "caption": "A rugged idler arm with a heavy-duty support structure for long-term performance.",
+        "category": "Idler Arm"
+    },
+    "img180.jpg": {
+        "caption": "An idler arm optimized for improved turn-in response and cornering stability.",
+        "category": "Idler Arm"
+    },
+    "img181.jpg": {
+        "caption": "A corrosion-resistant idler arm featuring a powder-coated surface.",
+        "category": "Idler Arm"
+    },
+    "img182.jpg": {
+        "caption": "A reinforced idler arm with upgraded mounting points for extra support.",
+        "category": "Idler Arm"
+    },
+    "img183.jpg": {
+        "caption": "An idler arm engineered for all-weather performance and durability.",
+        "category": "Idler Arm"
+    },
+    "img184.jpg": {
+        "caption": "A lightweight idler arm with an advanced heat-treated pivot mechanism.",
+        "category": "Idler Arm"
+    },
+    "img185.jpg": {
+        "caption": "A performance idler arm with precision-cut mounting brackets.",
+        "category": "Idler Arm"
+    },
+    "img186.jpg": {
+        "caption": "An idler arm featuring heavy-duty grease fittings for easy maintenance.",
+        "category": "Idler Arm"
+    },
+    "img187.jpg": {
+        "caption": "A reinforced idler arm built to handle increased steering loads.",
+        "category": "Idler Arm"
+    },
+    "img188.jpg": {
+        "caption": "An idler arm designed with extra-durable materials for high-impact conditions.",
+        "category": "Idler Arm"
+    },
+    "img189.jpg": {
+        "caption": "A premium idler arm offering an ultra-smooth steering experience.",
+        "category": "Idler Arm"
+    },
+    "img190.jpg": {
+        "caption": "A heavy-duty idler arm featuring an advanced pivot system for precise control.",
+        "category": "Idler Arm"
+    },
+    "img191.jpg": {
+        "caption": "An idler arm with industrial-grade polymer bushings for noise reduction.",
+        "category": "Idler Arm"
+    },
+    "img192.jpg": {
+        "caption": "A high-torque idler arm optimized for reinforced suspension systems.",
+        "category": "Idler Arm"
+    },
+    "img193.jpg": {
+        "caption": "An idler arm featuring self-lubricating bearings for maintenance-free use.",
+        "category": "Idler Arm"
+    },
+    "img194.jpg": {
+        "caption": "A precision-machined idler arm with anti-corrosion treatment.",
+        "category": "Idler Arm"
+    },
+    "img195.jpg": {
+        "caption": "An idler arm with optimized weight distribution for improved handling.",
+        "category": "Idler Arm"
+    },
+    "img196.jpg": {
+        "caption": "A race-proven idler arm featuring ultra-strong forged construction.",
+        "category": "Idler Arm"
+    },
+    "img197.jpg": {
+        "caption": "An idler arm designed for superior control in high-performance applications.",
+        "category": "Idler Arm"
+    },
+    "img198.jpg": {
+        "caption": "A heavy-duty idler arm with upgraded reinforcement for extreme conditions.",
+        "category": "Idler Arm"
+    }
+}
+
+

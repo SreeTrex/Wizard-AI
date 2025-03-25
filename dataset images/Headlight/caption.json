@@ -1,0 +1,406 @@
+{
+    "img1.jpg": {
+        "caption": "A high-intensity LED headlight for superior night visibility.",
+        "category": "Headlight"
+    },
+    "img2.jpg": {
+        "caption": "A halogen headlight with a long-lasting filament for extended use.",
+        "category": "Headlight"
+    },
+    "img3.jpg": {
+        "caption": "A projector-style headlight designed for focused beam distribution.",
+        "category": "Headlight"
+    },
+    "img4.jpg": {
+        "caption": "A headlight featuring adaptive lighting technology for dynamic road conditions.",
+        "category": "Headlight"
+    },
+    "img5.jpg": {
+        "caption": "A bi-xenon headlight offering enhanced brightness and energy efficiency.",
+        "category": "Headlight"
+    },
+    "img6.jpg": {
+        "caption": "A headlight with built-in daytime running lights for added safety.",
+        "category": "Headlight"
+    },
+    "img7.jpg": {
+        "caption": "A sleek blacked-out headlight for a sporty and aggressive look.",
+        "category": "Headlight"
+    },
+    "img8.jpg": {
+        "caption": "A headlight with UV-resistant lens coating for prolonged clarity.",
+        "category": "Headlight"
+    },
+    "img9.jpg": {
+        "caption": "A high-performance rally headlight designed for extreme off-road use.",
+        "category": "Headlight"
+    },
+    "img10.jpg": {
+        "caption": "A headlight featuring an automatic leveling system for optimal road illumination.",
+        "category": "Headlight"
+    },
+    "img11.jpg": {
+        "caption": "A headlight with a waterproof housing for reliable performance in all weather conditions.",
+        "category": "Headlight"
+    },
+    "img12.jpg": {
+        "caption": "A headlight with a classic round design for vintage vehicles.",
+        "category": "Headlight"
+    },
+    "img13.jpg": {
+        "caption": "A modern headlight with a smoked lens finish for a bold appearance.",
+        "category": "Headlight"
+    },
+    "img14.jpg": {
+        "caption": "A headlight featuring an integrated turn signal for multifunctionality.",
+        "category": "Headlight"
+    },
+    "img15.jpg": {
+        "caption": "A high-power headlight with adjustable beam angles for precise lighting.",
+        "category": "Headlight"
+    },
+    "img16.jpg": {
+        "caption": "A headlight with an anti-fog coating for clear vision in harsh conditions.",
+        "category": "Headlight"
+    },
+    "img17.jpg": {
+        "caption": "A lightweight headlight with an aluminum housing for improved heat dissipation.",
+        "category": "Headlight"
+    },
+    "img18.jpg": {
+        "caption": "A headlight designed with a split-beam structure for optimized illumination.",
+        "category": "Headlight"
+    },
+    "img19.jpg": {
+        "caption": "A high-output HID headlight for maximum brightness.",
+        "category": "Headlight"
+    },
+    "img20.jpg": {
+        "caption": "A headlight with an impact-resistant polycarbonate lens for added durability.",
+        "category": "Headlight"
+    },
+    "img21.jpg": {
+        "caption": "A headlight featuring blue-tinted lenses for a distinctive appearance.",
+        "category": "Headlight"
+    },
+    "img22.jpg": {
+        "caption": "A headlight with an advanced cooling system for prolonged bulb life.",
+        "category": "Headlight"
+    },
+    "img23.jpg": {
+        "caption": "A headlight featuring a rugged off-road design for extreme conditions.",
+        "category": "Headlight"
+    },
+    "img24.jpg": {
+        "caption": "A headlight with high-output COB LED technology for maximum efficiency.",
+        "category": "Headlight"
+    },
+    "img25.jpg": {
+        "caption": "A headlight featuring smart auto-dimming technology for night driving comfort.",
+        "category": "Headlight"
+    },
+    "img26.jpg": {
+        "caption": "A headlight with a crystal-clear lens for maximum light output.",
+        "category": "Headlight"
+    },
+    "img27.jpg": {
+        "caption": "A dual-beam headlight designed for improved visibility at night.",
+        "category": "Headlight"
+    },
+    "img28.jpg": {
+        "caption": "A headlight featuring an ultra-bright LED array for superior road illumination.",
+        "category": "Headlight"
+    },
+    "img29.jpg": {
+        "caption": "A headlight with a reinforced housing to withstand tough road conditions.",
+        "category": "Headlight"
+    },
+    "img30.jpg": {
+        "caption": "A headlight designed with energy-efficient LED technology for longevity.",
+        "category": "Headlight"
+    },
+    "img31.jpg": {
+        "caption": "A headlight featuring a sleek chrome finish for a stylish appearance.",
+        "category": "Headlight"
+    },
+    "img32.jpg": {
+        "caption": "A projector-style headlight with a wide-angle beam for better peripheral visibility.",
+        "category": "Headlight"
+    },
+    "img33.jpg": {
+        "caption": "A headlight with automatic on/off functionality for enhanced convenience.",
+        "category": "Headlight"
+    },
+    "img34.jpg": {
+        "caption": "A high-intensity discharge (HID) headlight for exceptional brightness.",
+        "category": "Headlight"
+    },
+    "img35.jpg": {
+        "caption": "A headlight with a dual-lens setup for improved high and low-beam clarity.",
+        "category": "Headlight"
+    },
+    "img36.jpg": {
+        "caption": "A headlight featuring a futuristic design with integrated LED strips.",
+        "category": "Headlight"
+    },
+    "img37.jpg": {
+        "caption": "A high-power headlight with a UV-protected lens for prolonged durability.",
+        "category": "Headlight"
+    },
+    "img38.jpg": {
+        "caption": "A headlight with a customizable beam pattern for tailored road lighting.",
+        "category": "Headlight"
+    },
+    "img39.jpg": {
+        "caption": "A headlight featuring an aluminum heat sink for superior cooling efficiency.",
+        "category": "Headlight"
+    },
+    "img40.jpg": {
+        "caption": "A headlight with a motion sensor for smart automatic activation.",
+        "category": "Headlight"
+    },
+    "img41.jpg": {
+        "caption": "A headlight designed with waterproof and dustproof protection for extreme conditions.",
+        "category": "Headlight"
+    },
+    "img42.jpg": {
+        "caption": "A high-beam headlight offering exceptional clarity on dark roads.",
+        "category": "Headlight"
+    },
+    "img43.jpg": {
+        "caption": "A headlight with an advanced light-diffusing reflector for reduced glare.",
+        "category": "Headlight"
+    },
+    "img44.jpg": {
+        "caption": "A headlight featuring a modern smoked-lens design for a bold look.",
+        "category": "Headlight"
+    },
+    "img45.jpg": {
+        "caption": "A headlight with enhanced side illumination for better cornering visibility.",
+        "category": "Headlight"
+    },
+    "img46.jpg": {
+        "caption": "A headlight featuring a dual-layer lens for optimal light dispersion.",
+        "category": "Headlight"
+    },
+    "img47.jpg": {
+        "caption": "A headlight with an anti-glare coating to minimize eye strain for drivers.",
+        "category": "Headlight"
+    },
+    "img48.jpg": {
+        "caption": "A headlight featuring an aerodynamic shape to reduce wind resistance.",
+        "category": "Headlight"
+    },
+    "img49.jpg": {
+        "caption": "A headlight with a modular design for easy replacement and maintenance.",
+        "category": "Headlight"
+    },
+    "img50.jpg": {
+        "caption": "A high-performance headlight with increased lumen output for better visibility.",
+        "category": "Headlight"
+    },
+    "img100.jpg": {
+        "caption": "A headlight with enhanced light diffusion for uniform road illumination.",
+        "category": "Headlight"
+    },
+    "img101.jpg": {
+        "caption": "A high-intensity LED headlight designed for long-distance visibility.",
+        "category": "Headlight"
+    },
+    "img102.jpg": {
+        "caption": "A headlight featuring dual-beam functionality for adaptable lighting needs.",
+        "category": "Headlight"
+    },
+    "img103.jpg": {
+        "caption": "A headlight with an anti-fog lens for improved clarity in adverse weather.",
+        "category": "Headlight"
+    },
+    "img104.jpg": {
+        "caption": "A sleek, modern headlight with an integrated turn signal for safety.",
+        "category": "Headlight"
+    },
+    "img105.jpg": {
+        "caption": "A headlight featuring adaptive beam technology for night-time driving comfort.",
+        "category": "Headlight"
+    },
+    "img106.jpg": {
+        "caption": "A projector-style headlight designed for sharp and focused beam output.",
+        "category": "Headlight"
+    },
+    "img107.jpg": {
+        "caption": "A headlight with a durable aluminum housing for increased longevity.",
+        "category": "Headlight"
+    },
+    "img108.jpg": {
+        "caption": "A headlight featuring impact-resistant polycarbonate lenses for durability.",
+        "category": "Headlight"
+    },
+    "img109.jpg": {
+        "caption": "A headlight with a chrome finish for a classic and refined look.",
+        "category": "Headlight"
+    },
+    "img110.jpg": {
+        "caption": "A headlight featuring a split-beam design for improved low and high beams.",
+        "category": "Headlight"
+    },
+    "img111.jpg": {
+        "caption": "A headlight with an energy-efficient LED array for extended performance.",
+        "category": "Headlight"
+    },
+    "img112.jpg": {
+        "caption": "A high-output headlight with waterproof and dustproof protection.",
+        "category": "Headlight"
+    },
+    "img113.jpg": {
+        "caption": "A stylish smoked-lens headlight for a bold and aggressive appearance.",
+        "category": "Headlight"
+    },
+    "img114.jpg": {
+        "caption": "A headlight with a smart auto-dimming feature for glare reduction.",
+        "category": "Headlight"
+    },
+    "img115.jpg": {
+        "caption": "A high-performance HID headlight for maximum brightness and efficiency.",
+        "category": "Headlight"
+    },
+    "img116.jpg": {
+        "caption": "A lightweight headlight with a reinforced plastic housing for durability.",
+        "category": "Headlight"
+    },
+    "img117.jpg": {
+        "caption": "A headlight featuring ultra-bright COB LED technology for improved road visibility.",
+        "category": "Headlight"
+    },
+    "img118.jpg": {
+        "caption": "A headlight with an integrated cooling system to prevent overheating.",
+        "category": "Headlight"
+    },
+    "img119.jpg": {
+        "caption": "A headlight featuring auto-adjusting brightness for night and daytime driving.",
+        "category": "Headlight"
+    },
+    "img120.jpg": {
+        "caption": "A rugged off-road headlight with reinforced casing for extreme conditions.",
+        "category": "Headlight"
+    },
+    "img121.jpg": {
+        "caption": "A headlight with a modern halo ring design for aesthetic appeal.",
+        "category": "Headlight"
+    },
+    "img122.jpg": {
+        "caption": "A high-intensity headlight with a customizable beam angle.",
+        "category": "Headlight"
+    },
+    "img123.jpg": {
+        "caption": "A compact headlight with a slim design for seamless vehicle integration.",
+        "category": "Headlight"
+    },
+    "img124.jpg": {
+        "caption": "A headlight featuring blue-tinted lenses for a unique night-driving experience.",
+        "category": "Headlight"
+    },
+    "img125.jpg": {
+        "caption": "A high-powered rally headlight built for extreme off-road adventures.",
+        "category": "Headlight"
+    },
+    "img126.jpg": {
+        "caption": "A headlight with an aerodynamic design to reduce wind resistance.",
+        "category": "Headlight"
+    },
+    "img127.jpg": {
+        "caption": "A headlight featuring a modular structure for easy maintenance and upgrades.",
+        "category": "Headlight"
+    },
+    "img128.jpg": {
+        "caption": "A waterproof headlight with shock-resistant technology for tough conditions.",
+        "category": "Headlight"
+    },
+    "img129.jpg": {
+        "caption": "A headlight with a built-in defroster to prevent condensation buildup.",
+        "category": "Headlight"
+    },
+    "img130.jpg": {
+        "caption": "A high-lumen headlight with crystal-clear optics for maximum brightness.",
+        "category": "Headlight"
+    },
+    "img131.jpg": {
+        "caption": "A headlight featuring a robust heat sink for extended bulb life.",
+        "category": "Headlight"
+    },
+    "img132.jpg": {
+        "caption": "A high-output dual-lens headlight for optimal road illumination.",
+        "category": "Headlight"
+    },
+    "img133.jpg": {
+        "caption": "A sleek LED headlight with an aggressive styling for modern vehicles.",
+        "category": "Headlight"
+    },
+    "img134.jpg": {
+        "caption": "A headlight with an advanced light-scattering feature for minimal glare.",
+        "category": "Headlight"
+    },
+    "img135.jpg": {
+        "caption": "A durable off-road headlight with rugged casing for enhanced protection.",
+        "category": "Headlight"
+    },
+    "img136.jpg": {
+        "caption": "A headlight with an integrated reflector for improved beam focus.",
+        "category": "Headlight"
+    },
+    "img137.jpg": {
+        "caption": "A headlight featuring an ultra-slim housing for a minimalist aesthetic.",
+        "category": "Headlight"
+    },
+    "img138.jpg": {
+        "caption": "A high-output headlight with multi-layered lenses for better diffusion.",
+        "category": "Headlight"
+    },
+    "img139.jpg": {
+        "caption": "A headlight with automatic leveling technology for dynamic road conditions.",
+        "category": "Headlight"
+    },
+    "img140.jpg": {
+        "caption": "A headlight featuring multi-angle reflectors for wider illumination.",
+        "category": "Headlight"
+    },
+    "img141.jpg": {
+        "caption": "A premium headlight with a polished lens for improved light penetration.",
+        "category": "Headlight"
+    },
+    "img142.jpg": {
+        "caption": "A headlight with customizable color temperature settings for visibility adjustment.",
+        "category": "Headlight"
+    },
+    "img143.jpg": {
+        "caption": "A futuristic headlight with sequential LED indicators for enhanced aesthetics.",
+        "category": "Headlight"
+    },
+    "img144.jpg": {
+        "caption": "A heavy-duty headlight with shockproof housing for extreme environments.",
+        "category": "Headlight"
+    },
+    "img145.jpg": {
+        "caption": "A stylish headlight featuring integrated fog lights for improved road vision.",
+        "category": "Headlight"
+    },
+    "img146.jpg": {
+        "caption": "A high-lumen projector headlight with crystal-clear light distribution.",
+        "category": "Headlight"
+    },
+    "img147.jpg": {
+        "caption": "A compact headlight with ultra-thin housing for sleek vehicle design.",
+        "category": "Headlight"
+    },
+    "img148.jpg": {
+        "caption": "A high-performance headlight featuring innovative cooling technology.",
+        "category": "Headlight"
+    },
+    "img149.jpg": {
+        "caption": "A headlight with a reinforced frame for impact resistance and durability.",
+        "category": "Headlight"
+    },
+    "img150.jpg": {
+        "caption": "A headlight with ultra-slim housing for seamless vehicle integration.",
+        "category": "Headlight"
+    }
+}
