@@ -1,0 +1,710 @@
+{
+    "img1.jpg": {
+        "caption": "A high-performance car battery designed for reliable starting power in all conditions.",
+        "category": "Battery"
+    },
+    "img2.jpg": {
+        "caption": "A deep-cycle battery engineered for extended energy storage and discharge cycles.",
+        "category": "Battery"
+    },
+    "img3.jpg": {
+        "caption": "A maintenance-free automotive battery featuring advanced lead-acid technology.",
+        "category": "Battery"
+    },
+    "img4.jpg": {
+        "caption": "A compact lithium-ion battery offering lightweight power and long-lasting performance.",
+        "category": "Battery"
+    },
+    "img5.jpg": {
+        "caption": "A high-capacity battery with fast-charging capabilities for demanding applications.",
+        "category": "Battery"
+    },
+    "img6.jpg": {
+        "caption": "A sealed AGM battery providing superior durability and vibration resistance.",
+        "category": "Battery"
+    },
+    "img7.jpg": {
+        "caption": "A premium lead-acid battery with an optimized plate design for enhanced efficiency.",
+        "category": "Battery"
+    },
+    "img8.jpg": {
+        "caption": "An advanced car battery featuring a smart charge indicator for easy monitoring.",
+        "category": "Battery"
+    },
+    "img9.jpg": {
+        "caption": "A heavy-duty battery built to withstand extreme temperatures and harsh environments.",
+        "category": "Battery"
+    },
+    "img10.jpg": {
+        "caption": "A fast-recharge battery designed for modern vehicles with high electrical demands.",
+        "category": "Battery"
+    },
+    "img11.jpg": {
+        "caption": "A long-lasting automotive battery with superior cycling capability for hybrid vehicles.",
+        "category": "Battery"
+    },
+    "img12.jpg": {
+        "caption": "A dual-purpose battery providing both starting and deep-cycle performance.",
+        "category": "Battery"
+    },
+    "img13.jpg": {
+        "caption": "An efficient battery with a spill-proof design for safe and hassle-free use.",
+        "category": "Battery"
+    },
+    "img14.jpg": {
+        "caption": "A maintenance-free battery featuring corrosion-resistant terminals for longevity.",
+        "category": "Battery"
+    },
+    "img15.jpg": {
+        "caption": "A high-performance AGM battery optimized for start-stop vehicle technology.",
+        "category": "Battery"
+    },
+    "img16.jpg": {
+        "caption": "A lightweight lithium battery with enhanced energy density for modern applications.",
+        "category": "Battery"
+    },
+    "img17.jpg": {
+        "caption": "A rugged battery with a reinforced casing to prevent leaks and withstand shocks.",
+        "category": "Battery"
+    },
+    "img18.jpg": {
+        "caption": "A reliable deep-cycle battery designed for marine and off-grid power solutions.",
+        "category": "Battery"
+    },
+    "img19.jpg": {
+        "caption": "A fast-charging car battery with an optimized internal resistance for efficient power delivery.",
+        "category": "Battery"
+    },
+    "img20.jpg": {
+        "caption": "A premium automotive battery built to support high-demand electronic systems.",
+        "category": "Battery"
+    },
+    "img21.jpg": {
+        "caption": "An eco-friendly battery featuring lead-calcium technology for reduced maintenance.",
+        "category": "Battery"
+    },
+    "img22.jpg": {
+        "caption": "A compact battery with an integrated handle for easy transport and installation.",
+        "category": "Battery"
+    },
+    "img23.jpg": {
+        "caption": "A powerful lithium battery providing exceptional cycle life for electric vehicles.",
+        "category": "Battery"
+    },
+    "img24.jpg": {
+        "caption": "A sealed maintenance-free battery designed for superior resistance against leaks.",
+        "category": "Battery"
+    },
+    "img25.jpg": {
+        "caption": "A durable battery with high reserve capacity to power auxiliary vehicle electronics.",
+        "category": "Battery"
+    },
+    "img26.jpg": {
+        "caption": "A smart battery featuring an advanced management system for optimized charging cycles.",
+        "category": "Battery"
+    },
+    "img27.jpg": {
+        "caption": "A corrosion-resistant battery built for enhanced longevity and reliability.",
+        "category": "Battery"
+    },
+    "img28.jpg": {
+        "caption": "A fast-acting car battery designed to deliver instant power for ignition systems.",
+        "category": "Battery"
+    },
+    "img29.jpg": {
+        "caption": "A robust battery with sealed construction to prevent acid leakage and damage.",
+        "category": "Battery"
+    },
+    "img30.jpg": {
+        "caption": "A highly efficient battery with an optimized grid design for extended service life.",
+        "category": "Battery"
+    },
+    "img31.jpg": {
+        "caption": "A vibration-resistant battery built to withstand rugged driving conditions.",
+        "category": "Battery"
+    },
+    "img32.jpg": {
+        "caption": "An automotive battery featuring rapid energy replenishment for frequent use.",
+        "category": "Battery"
+    },
+    "img33.jpg": {
+        "caption": "A multi-purpose battery with dual terminals for versatile installation options.",
+        "category": "Battery"
+    },
+    "img34.jpg": {
+        "caption": "A performance-grade battery engineered for superior energy transfer efficiency.",
+        "category": "Battery"
+    },
+    "img35.jpg": {
+        "caption": "A long-lasting battery with an optimized lead-alloy composition for maximum durability.",
+        "category": "Battery"
+    },
+    "img36.jpg": {
+        "caption": "A heavy-duty automotive battery designed for trucks and commercial vehicles.",
+        "category": "Battery"
+    },
+    "img37.jpg": {
+        "caption": "A reliable deep-cycle battery with a reinforced plate structure for enhanced longevity.",
+        "category": "Battery"
+    },
+    "img38.jpg": {
+        "caption": "A lithium-ion battery featuring fast charging technology for reduced downtime.",
+        "category": "Battery"
+    },
+    "img39.jpg": {
+        "caption": "A premium battery with a built-in heat shield to improve thermal stability.",
+        "category": "Battery"
+    },
+    "img40.jpg": {
+        "caption": "A sealed lead-acid battery designed for steady and reliable power output.",
+        "category": "Battery"
+    },
+    "img41.jpg": {
+        "caption": "A smart car battery featuring an auto-shutdown function to prevent overcharging.",
+        "category": "Battery"
+    },
+    "img42.jpg": {
+        "caption": "A high-discharge battery with improved electrolyte absorption technology.",
+        "category": "Battery"
+    },
+    "img43.jpg": {
+        "caption": "A compact and lightweight battery ideal for motorcycles and ATVs.",
+        "category": "Battery"
+    },
+    "img44.jpg": {
+        "caption": "A spill-proof battery with an advanced separator system for improved efficiency.",
+        "category": "Battery"
+    },
+    "img45.jpg": {
+        "caption": "A high-power lithium battery with rapid recharge capabilities for demanding applications.",
+        "category": "Battery"
+    },
+    "img46.jpg": {
+        "caption": "A reliable AGM battery providing consistent power for high-performance vehicles.",
+        "category": "Battery"
+    },
+    "img47.jpg": {
+        "caption": "A smart automotive battery with Bluetooth connectivity for real-time monitoring.",
+        "category": "Battery"
+    },
+    "img48.jpg": {
+        "caption": "A solar-compatible deep-cycle battery optimized for renewable energy storage.",
+        "category": "Battery"
+    },
+    "img49.jpg": {
+        "caption": "A robust battery featuring a weather-resistant casing for outdoor applications.",
+        "category": "Battery"
+    },
+    "img50.jpg": {
+        "caption": "A long-life lithium battery with a smart energy distribution system.",
+        "category": "Battery"
+    },
+    "img51.jpg": {
+        "caption": "A compact battery with an advanced charge retention system for long-term reliability.",
+        "category": "Battery"
+    },
+    "img52.jpg": {
+        "caption": "A fast-recharge lithium battery engineered for high-output performance.",
+        "category": "Battery"
+    },
+    "img53.jpg": {
+        "caption": "A rugged deep-cycle battery built for marine and RV applications.",
+        "category": "Battery"
+    },
+    "img54.jpg": {
+        "caption": "A high-cranking automotive battery designed for cold-weather starts.",
+        "category": "Battery"
+    },
+    "img55.jpg": {
+        "caption": "A premium car battery with anti-sulfation technology for extended service life.",
+        "category": "Battery"
+    },
+    "img56.jpg": {
+        "caption": "A reliable AGM battery offering maintenance-free operation and superior durability.",
+        "category": "Battery"
+    },
+    "img57.jpg": {
+        "caption": "A lightweight lithium-ion battery optimized for high-speed charging cycles.",
+        "category": "Battery"
+    },
+    "img58.jpg": {
+        "caption": "A dual-purpose battery designed for both starting and deep-cycle applications.",
+        "category": "Battery"
+    },
+    "img59.jpg": {
+        "caption": "A fast-recharging automotive battery built for vehicles with heavy electrical loads.",
+        "category": "Battery"
+    },
+    "img60.jpg": {
+        "caption": "A vibration-resistant battery designed to withstand harsh driving conditions.",
+        "category": "Battery"
+    },
+    "img61.jpg": {
+        "caption": "A heavy-duty truck battery built for long-haul and commercial applications.",
+        "category": "Battery"
+    },
+    "img62.jpg": {
+        "caption": "A sealed lead-acid battery with an innovative grid structure for optimal performance.",
+        "category": "Battery"
+    },
+    "img63.jpg": {
+        "caption": "A smart car battery featuring integrated temperature monitoring for efficiency.",
+        "category": "Battery"
+    },
+    "img64.jpg": {
+        "caption": "A rechargeable battery with a quick-start feature for immediate ignition power.",
+        "category": "Battery"
+    },
+    "img65.jpg": {
+        "caption": "A deep-cycle battery featuring low self-discharge for longer standby life.",
+        "category": "Battery"
+    },
+    "img66.jpg": {
+        "caption": "A lightweight motorcycle battery offering powerful and consistent output.",
+        "category": "Battery"
+    },
+    "img67.jpg": {
+        "caption": "A durable car battery with corrosion-resistant terminals for maximum longevity.",
+        "category": "Battery"
+    },
+    "img68.jpg": {
+        "caption": "A maintenance-free truck battery engineered for extended operational life.",
+        "category": "Battery"
+    },
+    "img69.jpg": {
+        "caption": "A premium performance battery designed to handle extreme temperature variations.",
+        "category": "Battery"
+    },
+    "img70.jpg": {
+        "caption": "A high-energy lithium battery offering rapid power delivery for EV applications.",
+        "category": "Battery"
+    },
+    "img71.jpg": {
+        "caption": "A spill-proof battery with an innovative electrolyte retention system.",
+        "category": "Battery"
+    },
+    "img72.jpg": {
+        "caption": "A commercial-grade battery designed for industrial machinery and heavy equipment.",
+        "category": "Battery"
+    },
+    "img73.jpg": {
+        "caption": "A solar-compatible battery optimized for off-grid power storage.",
+        "category": "Battery"
+    },
+    "img74.jpg": {
+        "caption": "A compact, high-output battery designed for performance vehicles.",
+        "category": "Battery"
+    },
+    "img75.jpg": {
+        "caption": "A hybrid car battery built with an advanced energy management system.",
+        "category": "Battery"
+    },
+    "img76.jpg": {
+        "caption": "A robust marine battery engineered for deep-cycle and cranking power.",
+        "category": "Battery"
+    },
+    "img77.jpg": {
+        "caption": "A power-dense lithium-ion battery optimized for high-performance applications.",
+        "category": "Battery"
+    },
+    "img78.jpg": {
+        "caption": "A dual-terminal car battery providing flexible mounting options.",
+        "category": "Battery"
+    },
+    "img79.jpg": {
+        "caption": "A weather-resistant battery designed to withstand extreme environmental conditions.",
+        "category": "Battery"
+    },
+    "img80.jpg": {
+        "caption": "A quick-charge battery offering reduced recharge times and increased efficiency.",
+        "category": "Battery"
+    },
+    "img81.jpg": {
+        "caption": "A smart lithium battery featuring Bluetooth connectivity for remote monitoring.",
+        "category": "Battery"
+    },
+    "img82.jpg": {
+        "caption": "A high-discharge battery engineered for racing and motorsports applications.",
+        "category": "Battery"
+    },
+    "img83.jpg": {
+        "caption": "A premium automotive battery designed to support energy-intensive electronics.",
+        "category": "Battery"
+    },
+    "img84.jpg": {
+        "caption": "A lithium-polymer battery with an ultra-lightweight design for portable power solutions.",
+        "category": "Battery"
+    },
+    "img85.jpg": {
+        "caption": "A reliable industrial battery with heavy-duty plate construction.",
+        "category": "Battery"
+    },
+    "img86.jpg": {
+        "caption": "A long-lasting deep-cycle battery optimized for renewable energy applications.",
+        "category": "Battery"
+    },
+    "img87.jpg": {
+        "caption": "A gel battery providing stable performance in extreme temperatures.",
+        "category": "Battery"
+    },
+    "img88.jpg": {
+        "caption": "A heavy-duty AGM battery with a high reserve capacity for extended use.",
+        "category": "Battery"
+    },
+    "img89.jpg": {
+        "caption": "A powerful jump-start battery designed for emergency roadside assistance.",
+        "category": "Battery"
+    },
+    "img90.jpg": {
+        "caption": "A reinforced car battery with an anti-vibration casing for durability.",
+        "category": "Battery"
+    },
+    "img91.jpg": {
+        "caption": "A solar-compatible AGM battery built for off-grid energy storage.",
+        "category": "Battery"
+    },
+    "img92.jpg": {
+        "caption": "A rapid-charging lithium battery offering improved efficiency and cycle life.",
+        "category": "Battery"
+    },
+    "img93.jpg": {
+        "caption": "A hybrid automotive battery providing intelligent energy management.",
+        "category": "Battery"
+    },
+    "img94.jpg": {
+        "caption": "A military-grade battery engineered for high durability and reliability.",
+        "category": "Battery"
+    },
+    "img95.jpg": {
+        "caption": "A lightweight and compact lithium battery for portable electronic devices.",
+        "category": "Battery"
+    },
+    "img96.jpg": {
+        "caption": "A spill-proof sealed battery offering safety and reliability in all conditions.",
+        "category": "Battery"
+    },
+    "img97.jpg": {
+        "caption": "A deep-cycle marine battery built for high discharge applications.",
+        "category": "Battery"
+    },
+    "img98.jpg": {
+        "caption": "A rapid-discharge AGM battery designed for peak performance under heavy loads.",
+        "category": "Battery"
+    },
+    "img99.jpg": {
+        "caption": "A dual-purpose lithium battery supporting both start-up and deep-cycle functions.",
+        "category": "Battery"
+    },
+    "img100.jpg": {
+        "caption": "A cutting-edge automotive battery built with nanotechnology-enhanced cells.",
+        "category": "Battery"
+    },
+    "img101.jpg": {
+        "caption": "A high-performance battery designed for reliable power and extended service life.",
+        "category": "Battery"
+    },
+    "img102.jpg": {
+        "caption": "A maintenance-free AGM battery built for superior deep-cycle capabilities.",
+        "category": "Battery"
+    },
+    "img103.jpg": {
+        "caption": "A durable lithium-ion battery offering fast charging and long-lasting performance.",
+        "category": "Battery"
+    },
+    "img104.jpg": {
+        "caption": "A high-capacity lead-acid battery engineered for automotive and industrial use.",
+        "category": "Battery"
+    },
+    "img105.jpg": {
+        "caption": "A premium AGM battery designed for enhanced vibration resistance and reliability.",
+        "category": "Battery"
+    },
+    "img106.jpg": {
+        "caption": "A deep-cycle marine battery optimized for continuous power delivery.",
+        "category": "Battery"
+    },
+    "img107.jpg": {
+        "caption": "A high-output lithium battery designed for hybrid and electric vehicles.",
+        "category": "Battery"
+    },
+    "img108.jpg": {
+        "caption": "A rugged truck battery built to withstand extreme temperatures and heavy loads.",
+        "category": "Battery"
+    },
+    "img109.jpg": {
+        "caption": "A sealed gel battery providing excellent performance in high-drain applications.",
+        "category": "Battery"
+    },
+    "img110.jpg": {
+        "caption": "A lightweight lithium battery featuring an advanced battery management system.",
+        "category": "Battery"
+    },
+    "img111.jpg": {
+        "caption": "A high-efficiency AGM battery designed for maximum power retention.",
+        "category": "Battery"
+    },
+    "img112.jpg": {
+        "caption": "A spill-proof deep-cycle battery offering consistent performance over time.",
+        "category": "Battery"
+    },
+    "img113.jpg": {
+        "caption": "A solar-compatible battery designed for renewable energy storage applications.",
+        "category": "Battery"
+    },
+    "img114.jpg": {
+        "caption": "A long-lasting automotive battery with corrosion-resistant terminals.",
+        "category": "Battery"
+    },
+    "img115.jpg": {
+        "caption": "A dual-purpose battery providing both starting power and deep-cycle capabilities.",
+        "category": "Battery"
+    },
+    "img116.jpg": {
+        "caption": "A high-power AGM battery optimized for demanding electronic systems.",
+        "category": "Battery"
+    },
+    "img117.jpg": {
+        "caption": "A robust lithium battery with an ultra-fast recharge rate and extended lifespan.",
+        "category": "Battery"
+    },
+    "img118.jpg": {
+        "caption": "A lead-acid battery built for heavy-duty industrial and commercial use.",
+        "category": "Battery"
+    },
+    "img119.jpg": {
+        "caption": "A high-performance motorcycle battery designed for consistent starting power.",
+        "category": "Battery"
+    },
+    "img120.jpg": {
+        "caption": "A maintenance-free deep-cycle battery with exceptional energy storage capacity.",
+        "category": "Battery"
+    },
+    "img121.jpg": {
+        "caption": "A heavy-duty truck battery featuring reinforced plates for durability.",
+        "category": "Battery"
+    },
+    "img122.jpg": {
+        "caption": "A compact lithium-ion battery engineered for portable power solutions.",
+        "category": "Battery"
+    },
+    "img123.jpg": {
+        "caption": "A fast-charging lithium battery ideal for solar and backup power systems.",
+        "category": "Battery"
+    },
+    "img124.jpg": {
+        "caption": "A high-performance AGM battery with superior resistance to deep discharge.",
+        "category": "Battery"
+    },
+    "img125.jpg": {
+        "caption": "A durable marine battery designed to handle rough conditions and long journeys.",
+        "category": "Battery"
+    },
+    "img126.jpg": {
+        "caption": "A premium automotive battery with optimized cold-cranking power.",
+        "category": "Battery"
+    },
+    "img127.jpg": {
+        "caption": "A smart lithium-ion battery featuring built-in temperature protection.",
+        "category": "Battery"
+    },
+    "img128.jpg": {
+        "caption": "A solar-compatible deep-cycle battery offering ultra-low self-discharge.",
+        "category": "Battery"
+    },
+    "img129.jpg": {
+        "caption": "A spill-proof AGM battery designed for high vibration resistance.",
+        "category": "Battery"
+    },
+    "img130.jpg": {
+        "caption": "A powerful lead-acid battery with an extended warranty for added reliability.",
+        "category": "Battery"
+    },
+    "img131.jpg": {
+        "caption": "A lightweight, long-lasting lithium battery optimized for energy efficiency.",
+        "category": "Battery"
+    },
+    "img132.jpg": {
+        "caption": "A high-output battery designed for high-performance automotive applications.",
+        "category": "Battery"
+    },
+    "img133.jpg": {
+        "caption": "A premium AGM battery with a sealed maintenance-free design.",
+        "category": "Battery"
+    },
+    "img134.jpg": {
+        "caption": "A heavy-duty deep-cycle battery built to power industrial equipment.",
+        "category": "Battery"
+    },
+    "img135.jpg": {
+        "caption": "A high-performance truck battery engineered for extreme weather conditions.",
+        "category": "Battery"
+    },
+    "img136.jpg": {
+        "caption": "A durable motorcycle battery providing high cranking power and longevity.",
+        "category": "Battery"
+    },
+    "img137.jpg": {
+        "caption": "A solar energy storage battery with an advanced power management system.",
+        "category": "Battery"
+    },
+    "img138.jpg": {
+        "caption": "A maintenance-free gel battery built for reliable backup power solutions.",
+        "category": "Battery"
+    },
+    "img139.jpg": {
+        "caption": "A deep-cycle lithium battery with a high discharge rate and long cycle life.",
+        "category": "Battery"
+    },
+    "img140.jpg": {
+        "caption": "A heavy-duty AGM battery optimized for off-grid and mobile power applications.",
+        "category": "Battery"
+    },
+    "img141.jpg": {
+        "caption": "A high-efficiency AGM battery designed for deep-cycle applications and extended use.",
+        "category": "Battery"
+    },
+    "img142.jpg": {
+        "caption": "A premium lithium-ion battery offering fast recharge and long lifespan.",
+        "category": "Battery"
+    },
+    "img143.jpg": {
+        "caption": "A maintenance-free sealed lead-acid battery with excellent power retention.",
+        "category": "Battery"
+    },
+    "img144.jpg": {
+        "caption": "A deep-cycle battery optimized for solar and renewable energy storage solutions.",
+        "category": "Battery"
+    },
+    "img145.jpg": {
+        "caption": "A high-output automotive battery designed for superior cranking power and reliability.",
+        "category": "Battery"
+    },
+    "img146.jpg": {
+        "caption": "A compact and lightweight lithium battery ideal for motorcycles and ATVs.",
+        "category": "Battery"
+    },
+    "img147.jpg": {
+        "caption": "A rugged deep-cycle battery engineered to handle high-drain applications.",
+        "category": "Battery"
+    },
+    "img148.jpg": {
+        "caption": "A smart lithium-ion battery featuring built-in overcharge and temperature protection.",
+        "category": "Battery"
+    },
+    "img149.jpg": {
+        "caption": "A heavy-duty AGM battery with reinforced plates for extreme durability and longevity.",
+        "category": "Battery"
+    },
+    "img150.jpg": {
+        "caption": "A high-performance battery designed for efficient power delivery and extended lifespan.",
+        "category": "Battery"
+    },
+    "img151.jpg": {
+        "caption": "A fast-recharge AGM battery engineered for maximum durability and reliability.",
+        "category": "Battery"
+    },
+    "img152.jpg": {
+        "caption": "A maintenance-free deep-cycle battery ideal for renewable energy applications.",
+        "category": "Battery"
+    },
+    "img153.jpg": {
+        "caption": "A premium automotive battery featuring advanced charge retention technology.",
+        "category": "Battery"
+    },
+    "img154.jpg": {
+        "caption": "A rugged marine battery built to withstand extreme environmental conditions.",
+        "category": "Battery"
+    },
+    "img155.jpg": {
+        "caption": "A heavy-duty lithium-ion battery optimized for fast charging and high output.",
+        "category": "Battery"
+    },
+    "img156.jpg": {
+        "caption": "A smart battery with integrated monitoring for real-time power management.",
+        "category": "Battery"
+    },
+    "img157.jpg": {
+        "caption": "A lightweight, high-capacity battery engineered for electric vehicles and hybrid systems.",
+        "category": "Battery"
+    },
+    "img158.jpg": {
+        "caption": "A durable lead-acid battery with reinforced plates for superior longevity.",
+        "category": "Battery"
+    },
+    "img159.jpg": {
+        "caption": "A high-output battery designed to support power-hungry car audio systems.",
+        "category": "Battery"
+    },
+    "img160.jpg": {
+        "caption": "A deep-cycle lithium battery offering ultra-low self-discharge for extended use.",
+        "category": "Battery"
+    },
+    "img161.jpg": {
+        "caption": "A spill-proof AGM battery with vibration resistance for rough terrain applications.",
+        "category": "Battery"
+    },
+    "img162.jpg": {
+        "caption": "A versatile battery optimized for motorcycles, ATVs, and personal watercraft.",
+        "category": "Battery"
+    },
+    "img163.jpg": {
+        "caption": "A maintenance-free sealed battery providing excellent power retention.",
+        "category": "Battery"
+    },
+    "img164.jpg": {
+        "caption": "A performance-grade battery designed for racing and high-speed applications.",
+        "category": "Battery"
+    },
+    "img165.jpg": {
+        "caption": "A premium deep-cycle battery built to support heavy electrical loads.",
+        "category": "Battery"
+    },
+    "img166.jpg": {
+        "caption": "A rapid-charging lithium battery designed for solar energy storage solutions.",
+        "category": "Battery"
+    },
+    "img167.jpg": {
+        "caption": "A compact power-dense battery ideal for backup power systems.",
+        "category": "Battery"
+    },
+    "img168.jpg": {
+        "caption": "A heavy-duty truck battery designed for extreme load-bearing capabilities.",
+        "category": "Battery"
+    },
+    "img169.jpg": {
+        "caption": "A high-capacity battery built to handle long-duration discharge cycles.",
+        "category": "Battery"
+    },
+    "img170.jpg": {
+        "caption": "A smart lithium-ion battery featuring Bluetooth connectivity for real-time monitoring.",
+        "category": "Battery"
+    },
+    "img171.jpg": {
+        "caption": "A long-lasting battery with ultra-fast recharge capabilities for quick turnaround.",
+        "category": "Battery"
+    },
+    "img172.jpg": {
+        "caption": "A solar-compatible battery engineered for off-grid energy storage.",
+        "category": "Battery"
+    },
+    "img173.jpg": {
+        "caption": "A high-power AGM battery with superior shock and vibration resistance.",
+        "category": "Battery"
+    },
+    "img174.jpg": {
+        "caption": "A gel-based deep-cycle battery providing consistent and reliable energy output.",
+        "category": "Battery"
+    },
+    "img175.jpg": {
+        "caption": "A lightweight, high-efficiency battery designed for portable power solutions.",
+        "category": "Battery"
+    },
+    "img176.jpg": {
+        "caption": "A dual-purpose battery that delivers both cranking power and deep-cycle performance.",
+        "category": "Battery"
+    },
+    "img177.jpg": {
+        "caption": "A premium automotive battery featuring anti-corrosion terminals for enhanced durability.",
+        "category": "Battery"
+    }
+}

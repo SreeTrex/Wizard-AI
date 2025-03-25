@@ -1,0 +1,546 @@
+{
+    "img1.jpg": {
+        "caption": "A high-performance coil spring designed for improved suspension stability.",
+        "category": "Coil Spring"
+    },
+    "img2.jpg": {
+        "caption": "A heavy-duty coil spring built for load-bearing applications in trucks and SUVs.",
+        "category": "Coil Spring"
+    },
+    "img3.jpg": {
+        "caption": "A progressive-rate coil spring providing a balance of comfort and performance.",
+        "category": "Coil Spring"
+    },
+    "img4.jpg": {
+        "caption": "A lightweight titanium coil spring offering strength and reduced weight.",
+        "category": "Coil Spring"
+    },
+    "img5.jpg": {
+        "caption": "A corrosion-resistant coil spring designed for all-weather durability.",
+        "category": "Coil Spring"
+    },
+    "img6.jpg": {
+        "caption": "A sport-tuned coil spring optimized for aggressive cornering and handling.",
+        "category": "Coil Spring"
+    },
+    "img7.jpg": {
+        "caption": "A long-travel coil spring enhancing suspension articulation for off-road vehicles.",
+        "category": "Coil Spring"
+    },
+    "img8.jpg": {
+        "caption": "A variable-rate coil spring adjusting stiffness based on load and driving conditions.",
+        "category": "Coil Spring"
+    },
+    "img9.jpg": {
+        "caption": "A high-load coil spring designed for enhanced towing and hauling capacity.",
+        "category": "Coil Spring"
+    },
+    "img10.jpg": {
+        "caption": "A precision-engineered coil spring ensuring optimal suspension response.",
+        "category": "Coil Spring"
+    },
+    "img11.jpg": {
+        "caption": "A racing coil spring designed for maximum grip and weight transfer efficiency.",
+        "category": "Coil Spring"
+    },
+    "img12.jpg": {
+        "caption": "A shock-absorbing coil spring improving ride comfort on uneven terrain.",
+        "category": "Coil Spring"
+    },
+    "img13.jpg": {
+        "caption": "A compact coil spring designed for lightweight applications in motorcycles.",
+        "category": "Coil Spring"
+    },
+    "img14.jpg": {
+        "caption": "A reinforced steel coil spring providing extra strength for rugged use.",
+        "category": "Coil Spring"
+    },
+    "img15.jpg": {
+        "caption": "A dual-rate coil spring offering progressive stiffness for adaptable performance.",
+        "category": "Coil Spring"
+    },
+    "img16.jpg": {
+        "caption": "A factory-replacement coil spring ensuring OEM-level ride quality and durability.",
+        "category": "Coil Spring"
+    },
+    "img17.jpg": {
+        "caption": "A rally-spec coil spring designed for extreme durability in off-road racing.",
+        "category": "Coil Spring"
+    },
+    "img18.jpg": {
+        "caption": "A noise-reducing coil spring designed for a quieter and smoother ride.",
+        "category": "Coil Spring"
+    },
+    "img19.jpg": {
+        "caption": "A self-adjusting coil spring adapting to different load conditions for comfort.",
+        "category": "Coil Spring"
+    },
+    "img20.jpg": {
+        "caption": "A competition-grade coil spring tuned for optimal suspension compression.",
+        "category": "Coil Spring"
+    },
+    "img21.jpg": {
+        "caption": "A corrosion-proof coated coil spring ideal for coastal and humid environments.",
+        "category": "Coil Spring"
+    },
+    "img22.jpg": {
+        "caption": "A compact, high-tension coil spring for motorcycle rear suspension.",
+        "category": "Coil Spring"
+    },
+    "img23.jpg": {
+        "caption": "A suspension-lowering coil spring enhancing aerodynamics and road feel.",
+        "category": "Coil Spring"
+    },
+    "img24.jpg": {
+        "caption": "A reinforced racing coil spring designed for high-G cornering stability.",
+        "category": "Coil Spring"
+    },
+    "img25.jpg": {
+        "caption": "A drag-racing coil spring built for maximum weight transfer at launch.",
+        "category": "Coil Spring"
+    },
+    "img26.jpg": {
+        "caption": "A coil spring with anti-sag properties for long-term durability.",
+        "category": "Coil Spring"
+    },
+    "img27.jpg": {
+        "caption": "A precision-wound coil spring ensuring consistent suspension travel.",
+        "category": "Coil Spring"
+    },
+    "img28.jpg": {
+        "caption": "A lightweight, high-strength coil spring designed for sports cars.",
+        "category": "Coil Spring"
+    },
+    "img29.jpg": {
+        "caption": "A flexible coil spring offering improved ride comfort and handling.",
+        "category": "Coil Spring"
+    },
+    "img30.jpg": {
+        "caption": "A terrain-adaptive coil spring providing stability on uneven surfaces.",
+        "category": "Coil Spring"
+    },
+    "img31.jpg": {
+        "caption": "A military-grade coil spring designed for extreme durability and strength.",
+        "category": "Coil Spring"
+    },
+    "img32.jpg": {
+        "caption": "A high-precision coil spring built for maximum travel and load support.",
+        "category": "Coil Spring"
+    },
+    "img33.jpg": {
+        "caption": "A durable coil spring designed for smooth ride quality and longevity.",
+        "category": "Coil Spring"
+    },
+    "img34.jpg": {
+        "caption": "An off-road coil spring optimized for impact resistance and rebound control.",
+        "category": "Coil Spring"
+    },
+    "img35.jpg": {
+        "caption": "A vehicle-specific coil spring engineered for seamless factory replacement.",
+        "category": "Coil Spring"
+    },
+    "img36.jpg": {
+        "caption": "A competition coil spring tuned for autocross and track performance.",
+        "category": "Coil Spring"
+    },
+    "img37.jpg": {
+        "caption": "A variable-compression coil spring for better energy absorption.",
+        "category": "Coil Spring"
+    },
+    "img38.jpg": {
+        "caption": "A heavy-duty industrial coil spring used in commercial vehicles.",
+        "category": "Coil Spring"
+    },
+    "img39.jpg": {
+        "caption": "A precision-engineered coil spring reducing unwanted suspension movement.",
+        "category": "Coil Spring"
+    },
+    "img40.jpg": {
+        "caption": "A high-load coil spring supporting increased weight capacity.",
+        "category": "Coil Spring"
+    },
+    "img41.jpg": {
+        "caption": "A high-performance coil spring engineered for stability at high speeds.",
+        "category": "Coil Spring"
+    },
+    "img42.jpg": {
+        "caption": "A dual-compression coil spring ensuring progressive stiffness adjustment.",
+        "category": "Coil Spring"
+    },
+    "img43.jpg": {
+        "caption": "A temperature-resistant coil spring maintaining performance in extreme conditions.",
+        "category": "Coil Spring"
+    },
+    "img44.jpg": {
+        "caption": "A coil spring designed for all-season durability and ride comfort.",
+        "category": "Coil Spring"
+    },
+    "img45.jpg": {
+        "caption": "A custom-wound coil spring for specialized suspension applications.",
+        "category": "Coil Spring"
+    },
+    "img46.jpg": {
+        "caption": "A sports coil spring reducing body roll and enhancing steering response.",
+        "category": "Coil Spring"
+    },
+    "img47.jpg": {
+        "caption": "A reinforced coil spring designed to withstand intense off-road impacts.",
+        "category": "Coil Spring"
+    },
+    "img48.jpg": {
+        "caption": "A coil spring with integrated dampening for superior ride quality.",
+        "category": "Coil Spring"
+    },
+    "img49.jpg": {
+        "caption": "A weight-saving composite coil spring improving vehicle efficiency.",
+        "category": "Coil Spring"
+    },
+    "img50.jpg": {
+        "caption": "A long-lasting coil spring treated for corrosion resistance.",
+        "category": "Coil Spring"
+    },
+    "img51.jpg": {
+    "caption": "A high-durability coil spring engineered for extended lifespan and reliability.",
+    "category": "Coil Spring"
+    },
+    "img52.jpg": {
+        "caption": "A comfort-tuned coil spring designed to absorb road vibrations effectively.",
+        "category": "Coil Spring"
+    },
+    "img53.jpg": {
+        "caption": "A progressive coil spring enhancing both ride quality and handling performance.",
+        "category": "Coil Spring"
+    },
+    "img54.jpg": {
+        "caption": "A reinforced coil spring ensuring optimal load distribution and stability.",
+        "category": "Coil Spring"
+    },
+    "img55.jpg": {
+        "caption": "A dual-stage coil spring providing variable stiffness for dynamic road conditions.",
+        "category": "Coil Spring"
+    },
+    "img56.jpg": {
+        "caption": "A rally-spec coil spring designed to endure harsh terrains and jumps.",
+        "category": "Coil Spring"
+    },
+    "img57.jpg": {
+        "caption": "A lightweight aluminum coil spring improving suspension efficiency and responsiveness.",
+        "category": "Coil Spring"
+    },
+    "img58.jpg": {
+        "caption": "A race-proven coil spring engineered for superior weight transfer and grip.",
+        "category": "Coil Spring"
+    },
+    "img59.jpg": {
+        "caption": "A low-friction coil spring reducing suspension noise and improving comfort.",
+        "category": "Coil Spring"
+    },
+    "img60.jpg": {
+        "caption": "A corrosion-resistant coil spring designed to withstand extreme weather conditions.",
+        "category": "Coil Spring"
+    },
+    "img61.jpg": {
+        "caption": "A high-performance coil spring tuned for aggressive cornering and quick response.",
+        "category": "Coil Spring"
+    },
+    "img62.jpg": {
+        "caption": "A heavy-duty coil spring ideal for trucks and heavy-load applications.",
+        "category": "Coil Spring"
+    },
+    "img63.jpg": {
+        "caption": "A durable coil spring offering exceptional shock absorption and rebound control.",
+        "category": "Coil Spring"
+    },
+    "img64.jpg": {
+        "caption": "A precision-wound coil spring providing consistent and reliable suspension support.",
+        "category": "Coil Spring"
+    },
+    "img65.jpg": {
+        "caption": "A rugged coil spring designed to endure rough terrains and extreme stress.",
+        "category": "Coil Spring"
+    },
+    "img66.jpg": {
+        "caption": "A specially-coated coil spring preventing rust and long-term wear.",
+        "category": "Coil Spring"
+    },
+    "img67.jpg": {
+        "caption": "A compact coil spring ideal for small vehicles and motorcycles.",
+        "category": "Coil Spring"
+    },
+    "img68.jpg": {
+        "caption": "A high-strength coil spring maintaining stability under heavy loads.",
+        "category": "Coil Spring"
+    },
+    "img69.jpg": {
+        "caption": "A rally-grade coil spring offering superior performance on off-road tracks.",
+        "category": "Coil Spring"
+    },
+    "img70.jpg": {
+        "caption": "A factory-tuned coil spring ensuring OEM-level ride comfort and handling.",
+        "category": "Coil Spring"
+    },
+    "img71.jpg": {
+        "caption": "A sport suspension coil spring designed for reduced body roll and enhanced grip.",
+        "category": "Coil Spring"
+    },
+    "img72.jpg": {
+        "caption": "A custom-designed coil spring built to enhance vehicle ride dynamics.",
+        "category": "Coil Spring"
+    },
+    "img73.jpg": {
+        "caption": "A drag racing coil spring optimized for maximum traction and acceleration.",
+        "category": "Coil Spring"
+    },
+    "img74.jpg": {
+        "caption": "A vibration-dampening coil spring reducing harsh impacts on uneven roads.",
+        "category": "Coil Spring"
+    },
+    "img75.jpg": {
+        "caption": "A load-adjustable coil spring adapting to changing weight distribution.",
+        "category": "Coil Spring"
+    },
+    "img76.jpg": {
+        "caption": "A track-ready coil spring tuned for precision handling and control.",
+        "category": "Coil Spring"
+    },
+    "img77.jpg": {
+        "caption": "A long-travel coil spring designed for off-road and adventure vehicles.",
+        "category": "Coil Spring"
+    },
+    "img78.jpg": {
+        "caption": "A high-tensile coil spring offering enhanced durability and support.",
+        "category": "Coil Spring"
+    },
+    "img79.jpg": {
+        "caption": "A coil spring with progressive damping characteristics for smooth ride transitions.",
+        "category": "Coil Spring"
+    },
+    "img80.jpg": {
+        "caption": "A quick-rebound coil spring improving traction and road feedback.",
+        "category": "Coil Spring"
+    },
+    "img81.jpg": {
+        "caption": "A race-spec coil spring ensuring minimal body movement during high-speed maneuvers.",
+        "category": "Coil Spring"
+    },
+    "img82.jpg": {
+        "caption": "A terrain-adaptive coil spring adjusting stiffness for optimal ride quality.",
+        "category": "Coil Spring"
+    },
+    "img83.jpg": {
+        "caption": "A heavy-duty industrial coil spring designed for commercial vehicle suspensions.",
+        "category": "Coil Spring"
+    },
+    "img84.jpg": {
+        "caption": "A twin-rate coil spring improving comfort at low speeds and stiffness at high speeds.",
+        "category": "Coil Spring"
+    },
+    "img85.jpg": {
+        "caption": "A self-adjusting coil spring providing adaptive ride height and stiffness.",
+        "category": "Coil Spring"
+    },
+    "img86.jpg": {
+        "caption": "A specially engineered coil spring for electric vehicles optimizing efficiency.",
+        "category": "Coil Spring"
+    },
+    "img87.jpg": {
+        "caption": "A noise-free coil spring reducing unwanted vibrations in the suspension system.",
+        "category": "Coil Spring"
+    },
+    "img88.jpg": {
+        "caption": "A custom-tuned coil spring enhancing vehicle balance and stability.",
+        "category": "Coil Spring"
+    },
+    "img89.jpg": {
+        "caption": "A weather-resistant coil spring designed for prolonged outdoor exposure.",
+        "category": "Coil Spring"
+    },
+    "img90.jpg": {
+        "caption": "A track-optimized coil spring improving weight distribution during cornering.",
+        "category": "Coil Spring"
+    },
+    "img91.jpg": {
+        "caption": "A performance coil spring delivering exceptional handling and feedback.",
+        "category": "Coil Spring"
+    },
+    "img92.jpg": {
+        "caption": "A lightweight high-strength coil spring enhancing vehicle efficiency.",
+        "category": "Coil Spring"
+    },
+    "img93.jpg": {
+        "caption": "A corrosion-proof coil spring ideal for humid and coastal environments.",
+        "category": "Coil Spring"
+    },
+    "img94.jpg": {
+        "caption": "A smooth-travel coil spring ensuring consistent suspension movement.",
+        "category": "Coil Spring"
+    },
+    "img95.jpg": {
+        "caption": "A dual-compression coil spring optimizing comfort and performance.",
+        "category": "Coil Spring"
+    },
+    "img96.jpg": {
+        "caption": "A shock-absorbing coil spring designed to improve ride smoothness.",
+        "category": "Coil Spring"
+    },
+    "img97.jpg": {
+        "caption": "A rugged suspension coil spring built for endurance and heavy loads.",
+        "category": "Coil Spring"
+    },
+    "img98.jpg": {
+        "caption": "A reinforced steel coil spring providing longevity and consistent performance.",
+        "category": "Coil Spring"
+    },
+    "img99.jpg": {
+        "caption": "A precision-crafted coil spring ensuring optimal damping and control.",
+        "category": "Coil Spring"
+    },
+    "img100.jpg": {
+        "caption": "A multi-stage performance coil spring delivering superior handling dynamics.",
+        "category": "Coil Spring"
+    },
+    "img120.jpg": {
+        "caption": "A heavy-duty coil spring engineered for extreme load-bearing capacity.",
+        "category": "Coil Spring"
+    },
+    "img121.jpg": {
+        "caption": "A precision-tuned coil spring enhancing ride comfort and handling.",
+        "category": "Coil Spring"
+    },
+    "img122.jpg": {
+        "caption": "A rugged off-road coil spring designed for maximum suspension articulation.",
+        "category": "Coil Spring"
+    },
+    "img123.jpg": {
+        "caption": "A corrosion-resistant coil spring built to withstand harsh environments.",
+        "category": "Coil Spring"
+    },
+    "img124.jpg": {
+        "caption": "A multi-rate coil spring offering both comfort and performance adaptability.",
+        "category": "Coil Spring"
+    },
+    "img125.jpg": {
+        "caption": "A sports-tuned coil spring reducing body roll and improving cornering stability.",
+        "category": "Coil Spring"
+    },
+    "img126.jpg": {
+        "caption": "A progressive coil spring providing enhanced ride dynamics and responsiveness.",
+        "category": "Coil Spring"
+    },
+    "img127.jpg": {
+        "caption": "A terrain-flexible coil spring adapting to varying road conditions.",
+        "category": "Coil Spring"
+    },
+    "img128.jpg": {
+        "caption": "A reinforced steel coil spring ensuring long-term durability under stress.",
+        "category": "Coil Spring"
+    },
+    "img129.jpg": {
+        "caption": "A comfort-enhancing coil spring designed to reduce vibration and harshness.",
+        "category": "Coil Spring"
+    },
+    "img130.jpg": {
+        "caption": "A rally-spec coil spring delivering superior shock absorption on rugged trails.",
+        "category": "Coil Spring"
+    },
+    "img131.jpg": {
+        "caption": "A lightweight coil spring improving overall suspension efficiency and response.",
+        "category": "Coil Spring"
+    },
+    "img132.jpg": {
+        "caption": "A track-optimized coil spring designed for precise weight distribution.",
+        "category": "Coil Spring"
+    },
+    "img133.jpg": {
+        "caption": "A heavy-duty suspension coil spring tailored for trucks and SUVs.",
+        "category": "Coil Spring"
+    },
+    "img134.jpg": {
+        "caption": "A self-adjusting coil spring providing adaptive stiffness for ride quality.",
+        "category": "Coil Spring"
+    },
+    "img135.jpg": {
+        "caption": "A noise-reducing coil spring minimizing vibrations and suspension creaks.",
+        "category": "Coil Spring"
+    },
+    "img136.jpg": {
+        "caption": "A reinforced off-road coil spring ensuring stability on uneven terrains.",
+        "category": "Coil Spring"
+    },
+    "img137.jpg": {
+        "caption": "A rally-proven coil spring built for extreme durability and impact resistance.",
+        "category": "Coil Spring"
+    },
+    "img138.jpg": {
+        "caption": "A sport-performance coil spring delivering sharp handling and stability.",
+        "category": "Coil Spring"
+    },
+    "img139.jpg": {
+        "caption": "A precision-engineered coil spring enhancing ride smoothness and control.",
+        "category": "Coil Spring"
+    },
+    "img140.jpg": {
+        "caption": "A quick-rebound coil spring improving grip and road contact.",
+        "category": "Coil Spring"
+    },
+    "img141.jpg": {
+        "caption": "A track-ready coil spring tuned for aggressive cornering performance.",
+        "category": "Coil Spring"
+    },
+    "img142.jpg": {
+        "caption": "A weight-optimized coil spring improving vehicle efficiency and agility.",
+        "category": "Coil Spring"
+    },
+    "img143.jpg": {
+        "caption": "A rust-proof coil spring ideal for wet and humid climates.",
+        "category": "Coil Spring"
+    },
+    "img144.jpg": {
+        "caption": "A shock-absorbing coil spring reducing harsh impacts on bumpy roads.",
+        "category": "Coil Spring"
+    },
+    "img145.jpg": {
+        "caption": "A performance-enhanced coil spring providing optimal ride height and damping.",
+        "category": "Coil Spring"
+    },
+    "img146.jpg": {
+        "caption": "A high-load coil spring capable of handling extreme vehicle weights.",
+        "category": "Coil Spring"
+    },
+    "img147.jpg": {
+        "caption": "A drag-race coil spring designed for optimal weight transfer during launches.",
+        "category": "Coil Spring"
+    },
+    "img148.jpg": {
+        "caption": "A dual-stage coil spring optimizing both ride comfort and performance.",
+        "category": "Coil Spring"
+    },
+    "img149.jpg": {
+        "caption": "A durable suspension coil spring ensuring longevity and ride consistency.",
+        "category": "Coil Spring"
+    },
+    "img150.jpg": {
+        "caption": "A terrain-adaptive coil spring engineered for versatile driving conditions.",
+        "category": "Coil Spring"
+    },
+    "img151.jpg": {
+        "caption": "A high-tensile coil spring engineered for superior load-handling capacity.",
+        "category": "Coil Spring"
+    },
+    "img152.jpg": {
+        "caption": "A race-spec coil spring designed for quick response and optimal traction.",
+        "category": "Coil Spring"
+    },
+    "img153.jpg": {
+        "caption": "A reinforced coil spring ensuring long-lasting performance under extreme stress.",
+        "category": "Coil Spring"
+    },
+    "img154.jpg": {
+        "caption": "A terrain-adaptive coil spring optimizing stiffness for varied road conditions.",
+        "category": "Coil Spring"
+    },
+    "img155.jpg": {
+        "caption": "A performance-tuned coil spring reducing body roll and improving handling.",
+        "category": "Coil Spring"
+    }
+}

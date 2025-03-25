@@ -1,0 +1,951 @@
+{
+    "img1.jpg": {
+        "caption": "A modern digital dashboard with a fully customizable touchscreen display.",
+        "category": "Dashboard"
+    },
+    "img2.jpg": {
+        "caption": "A classic analog dashboard featuring traditional speedometer and fuel gauges.",
+        "category": "Dashboard"
+    },
+    "img3.jpg": {
+        "caption": "A performance-focused dashboard with real-time telemetry and G-force meters.",
+        "category": "Dashboard"
+    },
+    "img4.jpg": {
+        "caption": "A luxury dashboard with a leather-wrapped finish and ambient lighting.",
+        "category": "Dashboard"
+    },
+    "img5.jpg": {
+        "caption": "A minimalist dashboard with a sleek, button-free interface for a futuristic look.",
+        "category": "Dashboard"
+    },
+    "img6.jpg": {
+        "caption": "A heads-up display (HUD) dashboard projecting key information onto the windshield.",
+        "category": "Dashboard"
+    },
+    "img7.jpg": {
+        "caption": "A high-tech dashboard with integrated AI voice assistant for seamless control.",
+        "category": "Dashboard"
+    },
+    "img8.jpg": {
+        "caption": "A rugged off-road dashboard with large tactile buttons for easy operation.",
+        "category": "Dashboard"
+    },
+    "img9.jpg": {
+        "caption": "A racing-style dashboard with shift lights and lap-time tracking.",
+        "category": "Dashboard"
+    },
+    "img10.jpg": {
+        "caption": "A customizable digital cluster with multiple display themes and real-time vehicle data.",
+        "category": "Dashboard"
+    },
+    "img11.jpg": {
+        "caption": "A sports car dashboard with carbon fiber trim and an aggressive layout.",
+        "category": "Dashboard"
+    },
+    "img12.jpg": {
+        "caption": "A truck dashboard with additional storage compartments and durable materials.",
+        "category": "Dashboard"
+    },
+    "img13.jpg": {
+        "caption": "A retro-inspired dashboard with chrome accents and vintage-style dials.",
+        "category": "Dashboard"
+    },
+    "img14.jpg": {
+        "caption": "A futuristic dashboard featuring a fully digital driver interface.",
+        "category": "Dashboard"
+    },
+    "img15.jpg": {
+        "caption": "A hybrid vehicle dashboard with real-time energy consumption and efficiency stats.",
+        "category": "Dashboard"
+    },
+    "img16.jpg": {
+        "caption": "An electric car dashboard displaying battery range and regenerative braking status.",
+        "category": "Dashboard"
+    },
+    "img17.jpg": {
+        "caption": "A fully integrated dashboard with wireless smartphone connectivity and navigation.",
+        "category": "Dashboard"
+    },
+    "img18.jpg": {
+        "caption": "A dashboard featuring touch-sensitive controls for a sleek and modern look.",
+        "category": "Dashboard"
+    },
+    "img19.jpg": {
+        "caption": "A customizable dashboard with user-defined widgets and driving modes.",
+        "category": "Dashboard"
+    },
+    "img20.jpg": {
+        "caption": "A dashboard with augmented reality navigation for enhanced driving assistance.",
+        "category": "Dashboard"
+    },
+    "img21.jpg": {
+        "caption": "A premium SUV dashboard with wood grain trim and high-resolution displays.",
+        "category": "Dashboard"
+    },
+    "img22.jpg": {
+        "caption": "A digital instrument cluster with an interactive heads-up display.",
+        "category": "Dashboard"
+    },
+    "img23.jpg": {
+        "caption": "A dashboard with an integrated sound system control for an immersive audio experience.",
+        "category": "Dashboard"
+    },
+    "img24.jpg": {
+        "caption": "A dashboard with real-time tire pressure monitoring and safety alerts.",
+        "category": "Dashboard"
+    },
+    "img25.jpg": {
+        "caption": "A rugged utility vehicle dashboard designed for extreme durability.",
+        "category": "Dashboard"
+    },
+    "img26.jpg": {
+        "caption": "A high-end dashboard with soft-touch materials and premium stitching.",
+        "category": "Dashboard"
+    },
+    "img27.jpg": {
+        "caption": "A dashboard designed for ride-sharing vehicles with easy-access infotainment.",
+        "category": "Dashboard"
+    },
+    "img28.jpg": {
+        "caption": "A simple yet functional dashboard layout for budget-friendly cars.",
+        "category": "Dashboard"
+    },
+    "img29.jpg": {
+        "caption": "A digital cockpit with an all-in-one driver assistance display.",
+        "category": "Dashboard"
+    },
+    "img30.jpg": {
+        "caption": "A sports-oriented dashboard with a rev counter and launch control system.",
+        "category": "Dashboard"
+    },
+    "img31.jpg": {
+        "caption": "A touchscreen dashboard with gesture control for seamless navigation.",
+        "category": "Dashboard"
+    },
+    "img32.jpg": {
+        "caption": "An advanced AI-driven dashboard that learns driving habits for optimization.",
+        "category": "Dashboard"
+    },
+    "img33.jpg": {
+        "caption": "A high-performance dashboard with track mode analytics and telemetry.",
+        "category": "Dashboard"
+    },
+    "img34.jpg": {
+        "caption": "A classic wooden dashboard with analog gauges and vintage charm.",
+        "category": "Dashboard"
+    },
+    "img35.jpg": {
+        "caption": "A driver-centric dashboard with a wraparound design for accessibility.",
+        "category": "Dashboard"
+    },
+    "img36.jpg": {
+        "caption": "A luxury dashboard with suede inserts and high-quality metallic accents.",
+        "category": "Dashboard"
+    },
+    "img37.jpg": {
+        "caption": "An EV-specific dashboard displaying charge levels and energy recovery data.",
+        "category": "Dashboard"
+    },
+    "img38.jpg": {
+        "caption": "A dashboard with smart home connectivity and remote climate control.",
+        "category": "Dashboard"
+    },
+    "img39.jpg": {
+        "caption": "A tech-packed dashboard featuring multiple high-resolution screens.",
+        "category": "Dashboard"
+    },
+    "img40.jpg": {
+        "caption": "A police vehicle dashboard with emergency light and siren controls.",
+        "category": "Dashboard"
+    },
+    "img41.jpg": {
+        "caption": "A heads-up display integrated into a fully digital dashboard.",
+        "category": "Dashboard"
+    },
+    "img42.jpg": {
+        "caption": "A dashboard featuring a panoramic digital display for seamless driver information.",
+        "category": "Dashboard"
+    },
+    "img43.jpg": {
+        "caption": "A customizable interface allowing drivers to rearrange dashboard elements.",
+        "category": "Dashboard"
+    },
+    "img44.jpg": {
+        "caption": "A dashboard with an in-car gaming system for passenger entertainment.",
+        "category": "Dashboard"
+    },
+    "img45.jpg": {
+        "caption": "A sports sedan dashboard with a driver-focused cockpit layout.",
+        "category": "Dashboard"
+    },
+    "img46.jpg": {
+        "caption": "An industrial vehicle dashboard with ruggedized components for durability.",
+        "category": "Dashboard"
+    },
+    "img47.jpg": {
+        "caption": "A futuristic dashboard with voice control for hands-free operation.",
+        "category": "Dashboard"
+    },
+    "img48.jpg": {
+        "caption": "A luxury sedan dashboard with hand-crafted materials and precision controls.",
+        "category": "Dashboard"
+    },
+    "img49.jpg": {
+        "caption": "A dashboard with customizable lighting themes for a personalized driving experience.",
+        "category": "Dashboard"
+    },
+    "img50.jpg": {
+        "caption": "A multi-screen dashboard layout for a fully immersive driving experience.",
+        "category": "Dashboard"
+    },
+    "img51.jpg": {
+        "caption": "A curved OLED dashboard display providing a seamless digital experience.",
+        "category": "Dashboard"
+    },
+    "img52.jpg": {
+        "caption": "A rugged dashboard with extra storage compartments and a reinforced structure.",
+        "category": "Dashboard"
+    },
+    "img53.jpg": {
+        "caption": "A high-performance sports dashboard featuring an aggressive digital tachometer.",
+        "category": "Dashboard"
+    },
+    "img54.jpg": {
+        "caption": "An interactive dashboard with real-time weather and traffic updates.",
+        "category": "Dashboard"
+    },
+    "img55.jpg": {
+        "caption": "A futuristic heads-up dashboard with AI-driven driving suggestions.",
+        "category": "Dashboard"
+    },
+    "img56.jpg": {
+        "caption": "A premium sedan dashboard with a mix of analog and digital instrumentation.",
+        "category": "Dashboard"
+    },
+    "img57.jpg": {
+        "caption": "A driver-centric dashboard designed for optimal ergonomics and comfort.",
+        "category": "Dashboard"
+    },
+    "img58.jpg": {
+        "caption": "A dashboard with customizable user profiles and gesture-based controls.",
+        "category": "Dashboard"
+    },
+    "img59.jpg": {
+        "caption": "A minimalist dashboard featuring a single widescreen digital display.",
+        "category": "Dashboard"
+    },
+    "img60.jpg": {
+        "caption": "A luxury dashboard with integrated massage seat controls and climate settings.",
+        "category": "Dashboard"
+    },
+    "img61.jpg": {
+        "caption": "A dashboard with augmented reality navigation and holographic projections.",
+        "category": "Dashboard"
+    },
+    "img62.jpg": {
+        "caption": "A hybrid dashboard that blends traditional dials with a digital interface.",
+        "category": "Dashboard"
+    },
+    "img63.jpg": {
+        "caption": "A futuristic concept car dashboard featuring biometric authentication.",
+        "category": "Dashboard"
+    },
+    "img64.jpg": {
+        "caption": "A dashboard with an intelligent assistant for voice-controlled navigation.",
+        "category": "Dashboard"
+    },
+    "img65.jpg": {
+        "caption": "An aviation-inspired dashboard with flight-style toggle switches.",
+        "category": "Dashboard"
+    },
+    "img66.jpg": {
+        "caption": "A touchscreen dashboard with quick access to vehicle settings and apps.",
+        "category": "Dashboard"
+    },
+    "img67.jpg": {
+        "caption": "A racing dashboard with shift indicators and lap time tracking.",
+        "category": "Dashboard"
+    },
+    "img68.jpg": {
+        "caption": "A commercial truck dashboard designed for maximum efficiency and visibility.",
+        "category": "Dashboard"
+    },
+    "img69.jpg": {
+        "caption": "A digital cluster with automatic night mode and adaptive brightness.",
+        "category": "Dashboard"
+    },
+    "img70.jpg": {
+        "caption": "A performance-focused dashboard with a track-ready G-force meter.",
+        "category": "Dashboard"
+    },
+    "img71.jpg": {
+        "caption": "A driver-focused cockpit with tactile buttons and intuitive controls.",
+        "category": "Dashboard"
+    },
+    "img72.jpg": {
+        "caption": "A next-gen dashboard integrating live road condition updates.",
+        "category": "Dashboard"
+    },
+    "img73.jpg": {
+        "caption": "A smart dashboard that syncs with wearable devices for health monitoring.",
+        "category": "Dashboard"
+    },
+    "img74.jpg": {
+        "caption": "A dashboard featuring a panoramic display for 360-degree vehicle awareness.",
+        "category": "Dashboard"
+    },
+    "img75.jpg": {
+        "caption": "A luxury dashboard with fine wood paneling and ambient lighting.",
+        "category": "Dashboard"
+    },
+    "img76.jpg": {
+        "caption": "A convertible car dashboard designed for open-air driving comfort.",
+        "category": "Dashboard"
+    },
+    "img77.jpg": {
+        "caption": "A minimalist concept dashboard with a holographic speedometer.",
+        "category": "Dashboard"
+    },
+    "img78.jpg": {
+        "caption": "A high-tech dashboard with auto-adjusting driving modes.",
+        "category": "Dashboard"
+    },
+    "img79.jpg": {
+        "caption": "An off-road vehicle dashboard with navigation for rugged terrains.",
+        "category": "Dashboard"
+    },
+    "img80.jpg": {
+        "caption": "A dashboard with a seamless glass touchscreen panel for an ultra-modern look.",
+        "category": "Dashboard"
+    },
+    "img81.jpg": {
+        "caption": "A track-focused dashboard with telemetry analysis and real-time diagnostics.",
+        "category": "Dashboard"
+    },
+    "img82.jpg": {
+        "caption": "A luxury electric vehicle dashboard with an ultra-wide panoramic screen.",
+        "category": "Dashboard"
+    },
+    "img83.jpg": {
+        "caption": "A modern digital dashboard with haptic feedback controls.",
+        "category": "Dashboard"
+    },
+    "img84.jpg": {
+        "caption": "A hybrid dashboard with energy consumption insights and efficiency tracking.",
+        "category": "Dashboard"
+    },
+    "img85.jpg": {
+        "caption": "A hypercar dashboard designed for extreme performance monitoring.",
+        "category": "Dashboard"
+    },
+    "img86.jpg": {
+        "caption": "A futuristic dashboard featuring AI-powered personalized driving tips.",
+        "category": "Dashboard"
+    },
+    "img87.jpg": {
+        "caption": "A smart dashboard with a cloud-connected infotainment system.",
+        "category": "Dashboard"
+    },
+    "img88.jpg": {
+        "caption": "A heads-up display dashboard designed for seamless real-time updates.",
+        "category": "Dashboard"
+    },
+    "img89.jpg": {
+        "caption": "A police cruiser dashboard with specialized emergency response controls.",
+        "category": "Dashboard"
+    },
+    "img90.jpg": {
+        "caption": "A family-friendly dashboard with easy access to safety and comfort settings.",
+        "category": "Dashboard"
+    },
+    "img91.jpg": {
+        "caption": "A commercial vehicle dashboard with multiple driver assistance features.",
+        "category": "Dashboard"
+    },
+    "img92.jpg": {
+        "caption": "A racing-inspired dashboard featuring lightweight construction and minimal distractions.",
+        "category": "Dashboard"
+    },
+    "img93.jpg": {
+        "caption": "A personalized dashboard that adapts to driver preferences over time.",
+        "category": "Dashboard"
+    },
+    "img94.jpg": {
+        "caption": "A futuristic curved display dashboard with multi-touch functionality.",
+        "category": "Dashboard"
+    },
+    "img95.jpg": {
+        "caption": "A concept vehicle dashboard showcasing next-gen driving technologies.",
+        "category": "Dashboard"
+    },
+    "img96.jpg": {
+        "caption": "A vehicle dashboard designed for hands-free operation with gesture controls.",
+        "category": "Dashboard"
+    },
+    "img97.jpg": {
+        "caption": "An ultra-wide touchscreen dashboard with split-screen functionality.",
+        "category": "Dashboard"
+    },
+    "img98.jpg": {
+        "caption": "A rugged adventure vehicle dashboard with water-resistant controls.",
+        "category": "Dashboard"
+    },
+    "img99.jpg": {
+        "caption": "A cutting-edge electric vehicle dashboard integrating real-time traffic data.",
+        "category": "Dashboard"
+    },
+    "img100.jpg": {
+        "caption": "A next-generation dashboard featuring built-in artificial intelligence.",
+        "category": "Dashboard"
+    },
+    "img101.jpg": {
+        "caption": "A driver-assist dashboard with smart lane-keeping alerts.",
+        "category": "Dashboard"
+    },
+    "img102.jpg": {
+        "caption": "A luxury car dashboard with real wood and metal accents.",
+        "category": "Dashboard"
+    },
+    "img103.jpg": {
+        "caption": "An electric vehicle dashboard with energy consumption visualization.",
+        "category": "Dashboard"
+    },
+    "img104.jpg": {
+        "caption": "A high-performance sports car dashboard with race mode indicators.",
+        "category": "Dashboard"
+    },
+    "img105.jpg": {
+        "caption": "A concept dashboard with a voice-controlled AI assistant.",
+        "category": "Dashboard"
+    },
+    "img106.jpg": {
+        "caption": "A dashboard featuring a head-up display with augmented reality navigation.",
+        "category": "Dashboard"
+    },
+    "img107.jpg": {
+        "caption": "A minimalist dashboard with a single curved OLED screen.",
+        "category": "Dashboard"
+    },
+    "img108.jpg": {
+        "caption": "A futuristic dashboard with biometric authentication for driver security.",
+        "category": "Dashboard"
+    },
+    "img109.jpg": {
+        "caption": "A smart dashboard that adapts to the driver’s habits and preferences.",
+        "category": "Dashboard"
+    },
+    "img110.jpg": {
+        "caption": "A dashboard with wireless charging stations and integrated smartphone controls.",
+        "category": "Dashboard"
+    },
+    "img111.jpg": {
+        "caption": "A rally car dashboard designed for extreme off-road conditions.",
+        "category": "Dashboard"
+    },
+    "img112.jpg": {
+        "caption": "A digital dashboard with auto-dark mode for nighttime driving.",
+        "category": "Dashboard"
+    },
+    "img113.jpg": {
+        "caption": "A gaming-inspired dashboard with customizable themes and lighting effects.",
+        "category": "Dashboard"
+    },
+    "img114.jpg": {
+        "caption": "An ultra-modern dashboard with a retractable infotainment display.",
+        "category": "Dashboard"
+    },
+    "img115.jpg": {
+        "caption": "A dashboard with integrated air purification and climate control settings.",
+        "category": "Dashboard"
+    },
+    "img116.jpg": {
+        "caption": "A high-tech dashboard with traffic-aware cruise control integration.",
+        "category": "Dashboard"
+    },
+    "img117.jpg": {
+        "caption": "A rugged off-road truck dashboard featuring a digital compass and inclinometer.",
+        "category": "Dashboard"
+    },
+    "img118.jpg": {
+        "caption": "A luxury SUV dashboard with dynamic ambient lighting and personalized displays.",
+        "category": "Dashboard"
+    },
+    "img119.jpg": {
+        "caption": "A touch-sensitive dashboard with swipe gestures for seamless control.",
+        "category": "Dashboard"
+    },
+    "img120.jpg": {
+        "caption": "A futuristic dashboard with holographic projections and real-time analytics.",
+        "category": "Dashboard"
+    },
+    "img121.jpg": {
+        "caption": "A smart dashboard that provides predictive maintenance alerts.",
+        "category": "Dashboard"
+    },
+    "img122.jpg": {
+        "caption": "A dashboard with an AI-driven navigation system that suggests optimal routes.",
+        "category": "Dashboard"
+    },
+    "img123.jpg": {
+        "caption": "An aviation-inspired dashboard with multi-layered digital gauges.",
+        "category": "Dashboard"
+    },
+    "img124.jpg": {
+        "caption": "A concept dashboard with eye-tracking technology for hands-free control.",
+        "category": "Dashboard"
+    },
+    "img125.jpg": {
+        "caption": "A customizable dashboard with programmable widgets and themes.",
+        "category": "Dashboard"
+    },
+    "img126.jpg": {
+        "caption": "A digital dashboard with real-time vehicle performance analytics.",
+        "category": "Dashboard"
+    },
+    "img127.jpg": {
+        "caption": "A sleek, minimalistic dashboard with voice-activated functionality.",
+        "category": "Dashboard"
+    },
+    "img128.jpg": {
+        "caption": "A luxury car dashboard with handcrafted leather trim and diamond stitching.",
+        "category": "Dashboard"
+    },
+    "img129.jpg": {
+        "caption": "A dashboard with a digital assistant for hands-free calls and media control.",
+        "category": "Dashboard"
+    },
+    "img130.jpg": {
+        "caption": "A vehicle dashboard featuring AI-powered road hazard detection.",
+        "category": "Dashboard"
+    },
+    "img131.jpg": {
+        "caption": "A performance dashboard with built-in acceleration and braking analysis.",
+        "category": "Dashboard"
+    },
+    "img132.jpg": {
+        "caption": "A smart dashboard with vehicle-to-vehicle communication capabilities.",
+        "category": "Dashboard"
+    },
+    "img133.jpg": {
+        "caption": "A high-tech dashboard with facial recognition for driver authentication.",
+        "category": "Dashboard"
+    },
+    "img134.jpg": {
+        "caption": "A fully customizable dashboard that adapts based on the driver’s mood.",
+        "category": "Dashboard"
+    },
+    "img135.jpg": {
+        "caption": "A next-gen dashboard with interactive tutorials for new drivers.",
+        "category": "Dashboard"
+    },
+    "img136.jpg": {
+        "caption": "A dashboard with multiple driver profiles and seat position memory.",
+        "category": "Dashboard"
+    },
+    "img137.jpg": {
+        "caption": "A cutting-edge electric vehicle dashboard featuring real-time charging stats.",
+        "category": "Dashboard"
+    },
+    "img138.jpg": {
+        "caption": "A dashboard with intelligent park assist and automatic distance measurement.",
+        "category": "Dashboard"
+    },
+    "img139.jpg": {
+        "caption": "A heads-up display dashboard with instant lane change guidance.",
+        "category": "Dashboard"
+    },
+    "img140.jpg": {
+        "caption": "A sports car dashboard designed with track-ready telemetry features.",
+        "category": "Dashboard"
+    },
+    "img141.jpg": {
+        "caption": "A modernized retro dashboard combining classic aesthetics with digital innovation.",
+        "category": "Dashboard"
+    },
+    "img142.jpg": {
+        "caption": "A futuristic dashboard with neural link compatibility for mind-controlled inputs.",
+        "category": "Dashboard"
+    },
+    "img143.jpg": {
+        "caption": "A dashboard with a virtual co-pilot that assists in real-time traffic conditions.",
+        "category": "Dashboard"
+    },
+    "img144.jpg": {
+        "caption": "A hybrid car dashboard with energy regeneration tracking.",
+        "category": "Dashboard"
+    },
+    "img145.jpg": {
+        "caption": "A dashboard with AI-based driver fatigue monitoring and alert system.",
+        "category": "Dashboard"
+    },
+    "img146.jpg": {
+        "caption": "A customizable dashboard with dedicated space for productivity apps.",
+        "category": "Dashboard"
+    },
+    "img147.jpg": {
+        "caption": "A military-style dashboard designed for high-durability and resilience.",
+        "category": "Dashboard"
+    },
+    "img148.jpg": {
+        "caption": "A digital cockpit dashboard with immersive 3D graphics for enhanced engagement.",
+        "category": "Dashboard"
+    },
+    "img149.jpg": {
+        "caption": "A dashboard with an integrated gaming mode for parked entertainment.",
+        "category": "Dashboard"
+    },
+    "img150.jpg": {
+        "caption": "A futuristic flying car dashboard featuring vertical takeoff controls.",
+        "category": "Dashboard"
+    },
+    "img151.jpg": {
+        "caption": "A customizable touch-sensitive dashboard with real-time updates.",
+        "category": "Dashboard"
+    },
+    "img152.jpg": {
+        "caption": "A truck dashboard with a high-visibility HUD for improved navigation.",
+        "category": "Dashboard"
+    },
+    "img153.jpg": {
+        "caption": "A dashboard with AI-driven crash prediction and preventive alerts.",
+        "category": "Dashboard"
+    },
+    "img154.jpg": {
+        "caption": "A high-resolution display dashboard with ultra-responsive touchscreen controls.",
+        "category": "Dashboard"
+    },
+    "img155.jpg": {
+        "caption": "A next-generation vehicle dashboard featuring deep learning-based driver assistance.",
+        "category": "Dashboard"
+    },
+    "img156.jpg": {
+        "caption": "A futuristic dashboard with gesture-based interaction and adaptive themes.",
+        "category": "Dashboard"
+    },
+    "img157.jpg": {
+        "caption": "A fully immersive 3D dashboard with holographic infotainment options.",
+        "category": "Dashboard"
+    },
+    "img158.jpg": {
+        "caption": "A retro-futuristic dashboard inspired by classic automotive design elements.",
+        "category": "Dashboard"
+    },
+    "img159.jpg": {
+        "caption": "A modern dashboard with built-in emergency response features.",
+        "category": "Dashboard"
+    },
+    "img160.jpg": {
+        "caption": "A futuristic digital dashboard with adaptive UI based on driving mode.",
+        "category": "Dashboard"
+    },
+    "img161.jpg": {
+        "caption": "A racing-inspired dashboard with telemetry data for high-speed performance tracking.",
+        "category": "Dashboard"
+    },
+    "img162.jpg": {
+        "caption": "An intelligent dashboard that adjusts brightness based on ambient lighting.",
+        "category": "Dashboard"
+    },
+    "img163.jpg": {
+        "caption": "A compact car dashboard with an ultra-slim design and seamless connectivity.",
+        "category": "Dashboard"
+    },
+    "img164.jpg": {
+        "caption": "A multi-layered dashboard with dedicated displays for driver and passenger.",
+        "category": "Dashboard"
+    },
+    "img165.jpg": {
+        "caption": "A dashboard with integrated voice recognition for hands-free control.",
+        "category": "Dashboard"
+    },
+    "img166.jpg": {
+        "caption": "A next-gen dashboard with real-time weather and road condition updates.",
+        "category": "Dashboard"
+    },
+    "img167.jpg": {
+        "caption": "A commercial truck dashboard with fleet management integration.",
+        "category": "Dashboard"
+    },
+    "img168.jpg": {
+        "caption": "A high-performance electric car dashboard with AI-powered efficiency tracking.",
+        "category": "Dashboard"
+    },
+    "img169.jpg": {
+        "caption": "A digital cockpit dashboard with panoramic touchscreen controls.",
+        "category": "Dashboard"
+    },
+    "img170.jpg": {
+        "caption": "A convertible sports car dashboard with retractable infotainment display.",
+        "category": "Dashboard"
+    },
+    "img171.jpg": {
+        "caption": "A rugged off-road SUV dashboard with reinforced components for durability.",
+        "category": "Dashboard"
+    },
+    "img172.jpg": {
+        "caption": "A self-driving car dashboard with an advanced AI-driven interface.",
+        "category": "Dashboard"
+    },
+    "img173.jpg": {
+        "caption": "A futuristic dashboard with a transparent OLED display for enhanced visibility.",
+        "category": "Dashboard"
+    },
+    "img174.jpg": {
+        "caption": "A dashboard featuring a multi-view camera system for 360-degree awareness.",
+        "category": "Dashboard"
+    },
+    "img175.jpg": {
+        "caption": "An electric vehicle dashboard with real-time charging station recommendations.",
+        "category": "Dashboard"
+    },
+    "img176.jpg": {
+        "caption": "A luxury dashboard with voice-controlled ambient lighting adjustments.",
+        "category": "Dashboard"
+    },
+    "img177.jpg": {
+        "caption": "A customizable dashboard that allows real-time adjustments to digital gauges.",
+        "category": "Dashboard"
+    },
+    "img178.jpg": {
+        "caption": "A futuristic truck dashboard with holographic cargo management tools.",
+        "category": "Dashboard"
+    },
+    "img179.jpg": {
+        "caption": "A next-gen dashboard with AI-driven automatic route optimization.",
+        "category": "Dashboard"
+    },
+    "img180.jpg": {
+        "caption": "A digital dashboard with deep learning algorithms for personalized settings.",
+        "category": "Dashboard"
+    },
+    "img181.jpg": {
+        "caption": "A classic muscle car dashboard with a modernized digital gauge cluster.",
+        "category": "Dashboard"
+    },
+    "img182.jpg": {
+        "caption": "A fully voice-controlled dashboard with AI-powered driver assistance.",
+        "category": "Dashboard"
+    },
+    "img183.jpg": {
+        "caption": "A premium dashboard with customizable leather trim and wood accents.",
+        "category": "Dashboard"
+    },
+    "img184.jpg": {
+        "caption": "A racing dashboard with a lap time tracker and speed boost indicator.",
+        "category": "Dashboard"
+    },
+    "img185.jpg": {
+        "caption": "A smart dashboard with built-in navigation and real-time traffic updates.",
+        "category": "Dashboard"
+    },
+    "img186.jpg": {
+        "caption": "A high-tech dashboard with interactive training mode for new drivers.",
+        "category": "Dashboard"
+    },
+    "img187.jpg": {
+        "caption": "A rugged all-terrain vehicle dashboard with impact-resistant materials.",
+        "category": "Dashboard"
+    },
+    "img188.jpg": {
+        "caption": "A fully immersive dashboard with panoramic augmented reality HUD.",
+        "category": "Dashboard"
+    },
+    "img189.jpg": {
+        "caption": "A compact car dashboard featuring AI-powered eco-driving suggestions.",
+        "category": "Dashboard"
+    },
+    "img190.jpg": {
+        "caption": "A minimalist dashboard with a sleek touch interface and digital dials.",
+        "category": "Dashboard"
+    },
+    "img200.jpg": {
+        "caption": "A next-gen dashboard with AI-powered predictive maintenance alerts.",
+        "category": "Dashboard"
+    },
+    "img201.jpg": {
+        "caption": "A futuristic dashboard with a 3D holographic display for navigation.",
+        "category": "Dashboard"
+    },
+    "img202.jpg": {
+        "caption": "A digital dashboard with biometric authentication for enhanced security.",
+        "category": "Dashboard"
+    },
+    "img203.jpg": {
+        "caption": "A high-tech dashboard with gesture control for seamless interaction.",
+        "category": "Dashboard"
+    },
+    "img204.jpg": {
+        "caption": "A compact dashboard with an intuitive touch interface for easy access.",
+        "category": "Dashboard"
+    },
+    "img205.jpg": {
+        "caption": "A hybrid vehicle dashboard with an energy consumption optimization tool.",
+        "category": "Dashboard"
+    },
+    "img206.jpg": {
+        "caption": "A rugged SUV dashboard with an all-weather resistant touchscreen.",
+        "category": "Dashboard"
+    },
+    "img207.jpg": {
+        "caption": "A luxury car dashboard with integrated massaging seat controls.",
+        "category": "Dashboard"
+    },
+    "img208.jpg": {
+        "caption": "A minimalist dashboard with a heads-up display for distraction-free driving.",
+        "category": "Dashboard"
+    },
+    "img209.jpg": {
+        "caption": "A customizable dashboard with interchangeable digital themes.",
+        "category": "Dashboard"
+    },
+    "img210.jpg": {
+        "caption": "A next-generation dashboard with automatic brightness adaptation.",
+        "category": "Dashboard"
+    },
+    "img211.jpg": {
+        "caption": "A digital dashboard with AI-driven voice assistant for hands-free control.",
+        "category": "Dashboard"
+    },
+    "img212.jpg": {
+        "caption": "A truck dashboard with fleet tracking and remote diagnostics.",
+        "category": "Dashboard"
+    },
+    "img213.jpg": {
+        "caption": "A high-performance sports car dashboard with race telemetry analytics.",
+        "category": "Dashboard"
+    },
+    "img214.jpg": {
+        "caption": "A modern dashboard with personalized driving mode selection.",
+        "category": "Dashboard"
+    },
+    "img215.jpg": {
+        "caption": "A dashboard featuring AI-based driver fatigue detection.",
+        "category": "Dashboard"
+    },
+    "img216.jpg": {
+        "caption": "A smart dashboard that adjusts settings based on driving patterns.",
+        "category": "Dashboard"
+    },
+    "img217.jpg": {
+        "caption": "A futuristic dashboard with an ultra-wide curved digital display.",
+        "category": "Dashboard"
+    },
+    "img218.jpg": {
+        "caption": "A dashboard with a built-in road hazard detection system.",
+        "category": "Dashboard"
+    },
+    "img219.jpg": {
+        "caption": "A voice-controlled dashboard with hands-free climate control.",
+        "category": "Dashboard"
+    },
+    "img220.jpg": {
+        "caption": "A digital dashboard with weather-responsive driving assistance.",
+        "category": "Dashboard"
+    },
+    "img221.jpg": {
+        "caption": "A luxury dashboard with real wood accents and hand-stitched leather trim.",
+        "category": "Dashboard"
+    },
+    "img222.jpg": {
+        "caption": "A sleek dashboard featuring an OLED infotainment display.",
+        "category": "Dashboard"
+    },
+    "img223.jpg": {
+        "caption": "A futuristic EV dashboard with AI-based battery optimization.",
+        "category": "Dashboard"
+    },
+    "img224.jpg": {
+        "caption": "A high-end dashboard with a wireless charging pad for devices.",
+        "category": "Dashboard"
+    },
+    "img225.jpg": {
+        "caption": "A modern dashboard with interactive navigation and smart routing.",
+        "category": "Dashboard"
+    },
+    "img226.jpg": {
+        "caption": "A digital dashboard with a customizable heads-up display (HUD).",
+        "category": "Dashboard"
+    },
+    "img227.jpg": {
+        "caption": "A luxury SUV dashboard with advanced terrain response settings.",
+        "category": "Dashboard"
+    },
+    "img228.jpg": {
+        "caption": "A futuristic dashboard with AI-enhanced media controls.",
+        "category": "Dashboard"
+    },
+    "img229.jpg": {
+        "caption": "A smart dashboard with a real-time vehicle health monitoring system.",
+        "category": "Dashboard"
+    },
+    "img230.jpg": {
+        "caption": "A digital dashboard that syncs with smartphones for seamless integration.",
+        "category": "Dashboard"
+    },
+    "img231.jpg": {
+        "caption": "A premium dashboard with haptic feedback touch controls.",
+        "category": "Dashboard"
+    },
+    "img232.jpg": {
+        "caption": "A racing dashboard with live lap time comparisons and driver stats.",
+        "category": "Dashboard"
+    },
+    "img233.jpg": {
+        "caption": "A futuristic truck dashboard with AI-based cargo weight monitoring.",
+        "category": "Dashboard"
+    },
+    "img234.jpg": {
+        "caption": "A digital dashboard with an eco-driving assistant for fuel efficiency.",
+        "category": "Dashboard"
+    },
+    "img235.jpg": {
+        "caption": "A next-gen dashboard with interactive AI-driven alerts.",
+        "category": "Dashboard"
+    },
+    "img236.jpg": {
+        "caption": "A dashboard featuring AI-based adaptive cruise control settings.",
+        "category": "Dashboard"
+    },
+    "img237.jpg": {
+        "caption": "A customizable dashboard with quick-access shortcuts for drivers.",
+        "category": "Dashboard"
+    },
+    "img238.jpg": {
+        "caption": "A high-tech dashboard with over-the-air software update capabilities.",
+        "category": "Dashboard"
+    },
+    "img239.jpg": {
+        "caption": "A luxury sedan dashboard with real-time AI-driven parking assistance.",
+        "category": "Dashboard"
+    },
+    "img240.jpg": {
+        "caption": "A futuristic autonomous vehicle dashboard with interactive controls.",
+        "category": "Dashboard"
+    },
+    "img241.jpg": {
+        "caption": "A sleek dashboard with multiple driver profile recognition.",
+        "category": "Dashboard"
+    },
+    "img242.jpg": {
+        "caption": "A sports car dashboard with AI-powered performance analysis.",
+        "category": "Dashboard"
+    },
+    "img243.jpg": {
+        "caption": "A next-gen dashboard with 360-degree parking camera integration.",
+        "category": "Dashboard"
+    },
+    "img244.jpg": {
+        "caption": "A digital dashboard with a built-in emergency SOS button.",
+        "category": "Dashboard"
+    },
+    "img245.jpg": {
+        "caption": "A rugged dashboard with enhanced visibility for extreme environments.",
+        "category": "Dashboard"
+    },
+    "img246.jpg": {
+        "caption": "A modern dashboard featuring AI-powered night vision assistance.",
+        "category": "Dashboard"
+    }
+
+}

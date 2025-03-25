@@ -1,0 +1,766 @@
+{
+        "img1.jpg": {
+        "caption": "A sleek gaming console with high-performance graphics and immersive gameplay.",
+        "category": "Console"
+    },
+    "img2.jpg": {
+        "caption": "A next-gen console featuring ultra-fast loading speeds and 4K resolution.",
+        "category": "Console"
+    },
+    "img3.jpg": {
+        "caption": "A portable handheld console designed for gaming on the go.",
+        "category": "Console"
+    },
+    "img4.jpg": {
+        "caption": "A retro-style console bringing back classic gaming experiences.",
+        "category": "Console"
+    },
+    "img5.jpg": {
+        "caption": "A modular gaming console with customizable components.",
+        "category": "Console"
+    },
+    "img6.jpg": {
+        "caption": "A gaming console with a cloud-based streaming platform for seamless gaming.",
+        "category": "Console"
+    },
+    "img7.jpg": {
+        "caption": "A special edition gaming console with a custom design and exclusive features.",
+        "category": "Console"
+    },
+    "img8.jpg": {
+        "caption": "A gaming console optimized for competitive esports and high FPS gaming.",
+        "category": "Console"
+    },
+    "img9.jpg": {
+        "caption": "A console with adaptive triggers and haptic feedback for realistic gameplay.",
+        "category": "Console"
+    },
+    "img10.jpg": {
+        "caption": "A VR-ready console for an immersive virtual reality gaming experience.",
+        "category": "Console"
+    },
+    "img11.jpg": {
+        "caption": "A lightweight console perfect for family-friendly gaming.",
+        "category": "Console"
+    },
+    "img12.jpg": {
+        "caption": "A cloud gaming console eliminating the need for physical discs.",
+        "category": "Console"
+    },
+    "img13.jpg": {
+        "caption": "A hybrid console that seamlessly switches between handheld and docked mode.",
+        "category": "Console"
+    },
+    "img14.jpg": {
+        "caption": "A limited-edition console featuring a popular game-themed design.",
+        "category": "Console"
+    },
+    "img15.jpg": {
+        "caption": "A high-end gaming console designed for 8K gaming performance.",
+        "category": "Console"
+    },
+    "img16.jpg": {
+        "caption": "A gaming console with backward compatibility for playing classic titles.",
+        "category": "Console"
+    },
+    "img17.jpg": {
+        "caption": "A console with a built-in game library for instant entertainment.",
+        "category": "Console"
+    },
+    "img18.jpg": {
+        "caption": "A customizable console with interchangeable faceplates and accessories.",
+        "category": "Console"
+    },
+    "img19.jpg": {
+        "caption": "A mini console featuring pre-installed retro games.",
+        "category": "Console"
+    },
+    "img20.jpg": {
+        "caption": "A console with an advanced cooling system for extended gaming sessions.",
+        "category": "Console"
+    },
+    "img21.jpg": {
+        "caption": "A powerful console optimized for high-speed multiplayer gaming.",
+        "category": "Console"
+    },
+    "img22.jpg": {
+        "caption": "A gaming console with enhanced audio for immersive sound experiences.",
+        "category": "Console"
+    },
+    "img23.jpg": {
+        "caption": "A smart console with voice command integration and AI features.",
+        "category": "Console"
+    },
+    "img24.jpg": {
+        "caption": "A console with extensive storage capacity for large game libraries.",
+        "category": "Console"
+    },
+    "img25.jpg": {
+        "caption": "A budget-friendly console offering great performance for casual gamers.",
+        "category": "Console"
+    },
+    "img26.jpg": {
+        "caption": "A gaming console featuring a futuristic touchscreen interface.",
+        "category": "Console"
+    },
+    "img27.jpg": {
+        "caption": "A console with modular controllers for flexible gaming styles.",
+        "category": "Console"
+    },
+    "img28.jpg": {
+        "caption": "A gaming console with seamless cross-platform compatibility.",
+        "category": "Console"
+    },
+    "img29.jpg": {
+        "caption": "A compact console designed for space-saving entertainment setups.",
+        "category": "Console"
+    },
+    "img30.jpg": {
+        "caption": "A console featuring motion-sensing controls for interactive gameplay.",
+        "category": "Console"
+    },
+    "img31.jpg": {
+        "caption": "A gaming console with an ultra-fast SSD for minimal loading times.",
+        "category": "Console"
+    },
+    "img32.jpg": {
+        "caption": "A home entertainment console with streaming and gaming capabilities.",
+        "category": "Console"
+    },
+    "img33.jpg": {
+        "caption": "A console with a cloud-based library for instant access to games.",
+        "category": "Console"
+    },
+    "img34.jpg": {
+        "caption": "A lightweight console designed for extended portable gaming sessions.",
+        "category": "Console"
+    },
+    "img35.jpg": {
+        "caption": "A limited-edition console inspired by a popular gaming franchise.",
+        "category": "Console"
+    },
+    "img36.jpg": {
+        "caption": "A console with built-in parental controls for safe gaming experiences.",
+        "category": "Console"
+    },
+    "img37.jpg": {
+        "caption": "A gaming console featuring next-generation ray-tracing technology.",
+        "category": "Console"
+    },
+    "img38.jpg": {
+        "caption": "A console with a customizable RGB lighting system for a personalized setup.",
+        "category": "Console"
+    },
+    "img39.jpg": {
+        "caption": "A high-performance console supporting multiple gaming monitors.",
+        "category": "Console"
+    },
+    "img40.jpg": {
+        "caption": "A durable gaming console designed for long-term reliability.",
+        "category": "Console"
+    },
+    "img41.jpg": {
+        "caption": "A VR-compatible gaming console for an enhanced immersive experience.",
+        "category": "Console"
+    },
+    "img42.jpg": {
+        "caption": "A gaming console with integrated cloud save support for seamless progression.",
+        "category": "Console"
+    },
+    "img43.jpg": {
+        "caption": "A compact gaming console designed for efficient energy consumption.",
+        "category": "Console"
+    },
+    "img44.jpg": {
+        "caption": "A gaming console with exclusive online multiplayer features.",
+        "category": "Console"
+    },
+    "img45.jpg": {
+        "caption": "A high-speed console designed for ultra-smooth frame rates.",
+        "category": "Console"
+    },
+    "img46.jpg": {
+        "caption": "A limited-edition console celebrating a gaming milestone.",
+        "category": "Console"
+    },
+    "img47.jpg": {
+        "caption": "A console with a disc-free digital gaming experience.",
+        "category": "Console"
+    },
+    "img48.jpg": {
+        "caption": "A gaming console with customizable button mapping for pro players.",
+        "category": "Console"
+    },
+    "img49.jpg": {
+        "caption": "A next-gen console with real-time AI rendering for lifelike graphics.",
+        "category": "Console"
+    },
+    "img50.jpg": {
+        "caption": "A multi-functional console featuring a media center for streaming.",
+        "category": "Console"
+    },
+    "img51.jpg": {
+        "caption": "A sleek gaming console offering cloud gaming support.",
+        "category": "Console"
+    },
+    "img52.jpg": {
+        "caption": "A retro-inspired console with a modern hardware upgrade.",
+        "category": "Console"
+    },
+    "img53.jpg": {
+        "caption": "A high-speed gaming console with cutting-edge AI enhancements.",
+        "category": "Console"
+    },
+    "img54.jpg": {
+        "caption": "A gaming console with a sleek design and futuristic LED accents.",
+        "category": "Console"
+    },
+    "img55.jpg": {
+        "caption": "A console designed for seamless streaming and online multiplayer gaming.",
+        "category": "Console"
+    },
+    "img56.jpg": {
+        "caption": "A portable console with a long battery life for extended gaming sessions.",
+        "category": "Console"
+    },
+    "img57.jpg": {
+        "caption": "A retro gaming console preloaded with classic arcade games.",
+        "category": "Console"
+    },
+    "img58.jpg": {
+        "caption": "A cloud-powered gaming console providing instant access to a vast library.",
+        "category": "Console"
+    },
+    "img59.jpg": {
+        "caption": "A budget-friendly gaming console with impressive performance.",
+        "category": "Console"
+    },
+    "img60.jpg": {
+        "caption": "A next-gen gaming console offering real-time 8K rendering capabilities.",
+        "category": "Console"
+    },
+    "img61.jpg": {
+        "caption": "A console with enhanced voice control and smart assistant integration.",
+        "category": "Console"
+    },
+    "img62.jpg": {
+        "caption": "A gaming console designed with customizable haptic feedback controllers.",
+        "category": "Console"
+    },
+    "img63.jpg": {
+        "caption": "A powerful gaming console with an advanced cooling system for peak performance.",
+        "category": "Console"
+    },
+    "img64.jpg": {
+        "caption": "A special edition console featuring artwork from a top gaming franchise.",
+        "category": "Console"
+    },
+    "img65.jpg": {
+        "caption": "A gaming console with adaptive refresh rate technology for ultra-smooth gameplay.",
+        "category": "Console"
+    },
+    "img66.jpg": {
+        "caption": "A limited-run console built for hardcore gaming enthusiasts.",
+        "category": "Console"
+    },
+    "img67.jpg": {
+        "caption": "A lightweight console with an ergonomic design for comfortable play.",
+        "category": "Console"
+    },
+    "img68.jpg": {
+        "caption": "A console with seamless cross-platform gaming support.",
+        "category": "Console"
+    },
+    "img69.jpg": {
+        "caption": "A gaming console with an upgraded GPU for ultra-high-definition gaming.",
+        "category": "Console"
+    },
+    "img70.jpg": {
+        "caption": "A smart console with AI-driven performance optimization.",
+        "category": "Console"
+    },
+    "img71.jpg": {
+        "caption": "A multi-player-focused console with advanced matchmaking capabilities.",
+        "category": "Console"
+    },
+    "img72.jpg": {
+        "caption": "A console with a low-latency wireless controller for precision gaming.",
+        "category": "Console"
+    },
+    "img73.jpg": {
+        "caption": "A rugged gaming console designed for durability and longevity.",
+        "category": "Console"
+    },
+    "img74.jpg": {
+        "caption": "A family-friendly console with built-in parental controls.",
+        "category": "Console"
+    },
+    "img75.jpg": {
+        "caption": "A next-generation console with support for cloud-based save states.",
+        "category": "Console"
+    },
+    "img76.jpg": {
+        "caption": "A gaming console optimized for VR experiences and 3D audio.",
+        "category": "Console"
+    },
+    "img77.jpg": {
+        "caption": "A sleek gaming console featuring an intuitive touchscreen interface.",
+        "category": "Console"
+    },
+    "img78.jpg": {
+        "caption": "A compact console designed for small gaming setups and minimal space usage.",
+        "category": "Console"
+    },
+    "img79.jpg": {
+        "caption": "A console with a next-gen physics engine for realistic in-game interactions.",
+        "category": "Console"
+    },
+    "img80.jpg": {
+        "caption": "A hybrid console supporting both digital and physical game libraries.",
+        "category": "Console"
+    },
+    "img81.jpg": {
+        "caption": "A gaming console with ultra-fast network connectivity for low-latency gaming.",
+        "category": "Console"
+    },
+    "img82.jpg": {
+        "caption": "A console with customizable skins and LED lighting effects.",
+        "category": "Console"
+    },
+    "img83.jpg": {
+        "caption": "A multi-functional gaming console with built-in entertainment apps.",
+        "category": "Console"
+    },
+    "img84.jpg": {
+        "caption": "A next-gen console featuring AI-enhanced graphics and rendering.",
+        "category": "Console"
+    },
+    "img85.jpg": {
+        "caption": "A gaming console with quick-resume technology for seamless play sessions.",
+        "category": "Console"
+    },
+    "img86.jpg": {
+        "caption": "A console with a modular design, allowing hardware upgrades over time.",
+        "category": "Console"
+    },
+    "img87.jpg": {
+        "caption": "A console with ultra-responsive input for pro-level competitive gaming.",
+        "category": "Console"
+    },
+    "img88.jpg": {
+        "caption": "A premium gaming console featuring 3D spatial audio for immersive sound.",
+        "category": "Console"
+    },
+    "img89.jpg": {
+        "caption": "A high-performance console built for marathon gaming sessions.",
+        "category": "Console"
+    },
+    "img90.jpg": {
+        "caption": "A gaming console with next-level AI-driven game enhancements.",
+        "category": "Console"
+    },
+    "img91.jpg": {
+        "caption": "A next-gen gaming console with AI-enhanced motion tracking.",
+        "category": "Console"
+    },
+    "img92.jpg": {
+        "caption": "A gaming console optimized for ultra-wide screen gaming experiences.",
+        "category": "Console"
+    },
+    "img93.jpg": {
+        "caption": "A console with an innovative biometric authentication system for security.",
+        "category": "Console"
+    },
+    "img94.jpg": {
+        "caption": "A compact gaming console designed for maximum portability.",
+        "category": "Console"
+    },
+    "img95.jpg": {
+        "caption": "A high-performance console featuring an ultra-fast processor.",
+        "category": "Console"
+    },
+    "img96.jpg": {
+        "caption": "A special edition gaming console with an exclusive collector's design.",
+        "category": "Console"
+    },
+    "img97.jpg": {
+        "caption": "A powerful gaming console with dynamic refresh rate technology.",
+        "category": "Console"
+    },
+    "img98.jpg": {
+        "caption": "A next-gen console supporting real-time AI-driven NPC interactions.",
+        "category": "Console"
+    },
+    "img99.jpg": {
+        "caption": "A gaming console with an advanced ray-tracing engine for lifelike visuals.",
+        "category": "Console"
+    },
+    "img100.jpg": {
+        "caption": "A console featuring a dual-screen experience for enhanced gameplay.",
+        "category": "Console"
+    },
+    "img101.jpg": {
+        "caption": "A cloud-based console with instant access to a massive game library.",
+        "category": "Console"
+    },
+    "img102.jpg": {
+        "caption": "A hybrid console allowing seamless transition between handheld and TV mode.",
+        "category": "Console"
+    },
+    "img103.jpg": {
+        "caption": "A limited-edition gaming console inspired by a classic franchise.",
+        "category": "Console"
+    },
+    "img104.jpg": {
+        "caption": "A gaming console with modular accessories for a customizable experience.",
+        "category": "Console"
+    },
+    "img105.jpg": {
+        "caption": "A high-tech console supporting voice-assisted gaming commands.",
+        "category": "Console"
+    },
+    "img106.jpg": {
+        "caption": "A gaming console with an ultra-responsive touchscreen interface.",
+        "category": "Console"
+    },
+    "img107.jpg": {
+        "caption": "A portable gaming console with high-resolution OLED display.",
+        "category": "Console"
+    },
+    "img108.jpg": {
+        "caption": "A console with low-latency Bluetooth connectivity for wireless gaming.",
+        "category": "Console"
+    },
+    "img109.jpg": {
+        "caption": "A console with a customizable interface for personalized gaming profiles.",
+        "category": "Console"
+    },
+    "img110.jpg": {
+        "caption": "A next-gen console with smart power-saving technology.",
+        "category": "Console"
+    },
+    "img111.jpg": {
+        "caption": "A gaming console with ultra-high-speed SSD for near-instant loading times.",
+        "category": "Console"
+    },
+    "img112.jpg": {
+        "caption": "A gaming console with built-in social sharing for streaming gameplay.",
+        "category": "Console"
+    },
+    "img113.jpg": {
+        "caption": "A console featuring intuitive motion controls for immersive play.",
+        "category": "Console"
+    },
+    "img114.jpg": {
+        "caption": "A powerful gaming console designed for esports-level performance.",
+        "category": "Console"
+    },
+    "img115.jpg": {
+        "caption": "A gaming console with an adaptive controller designed for accessibility.",
+        "category": "Console"
+    },
+    "img116.jpg": {
+        "caption": "A console featuring AI-enhanced upscaling for smooth visuals.",
+        "category": "Console"
+    },
+    "img117.jpg": {
+        "caption": "A next-gen console with augmented reality (AR) gaming capabilities.",
+        "category": "Console"
+    },
+    "img118.jpg": {
+        "caption": "A console with cloud-based saves for seamless game progression.",
+        "category": "Console"
+    },
+    "img119.jpg": {
+        "caption": "A high-performance console with advanced liquid cooling technology.",
+        "category": "Console"
+    },
+    "img120.jpg": {
+        "caption": "A console with adaptive AI opponents that learn and evolve.",
+        "category": "Console"
+    },
+    "img121.jpg": {
+        "caption": "A gaming console optimized for ultra-fast 5G cloud gaming.",
+        "category": "Console"
+    },
+    "img122.jpg": {
+        "caption": "A console with extensive modding support for a customizable experience.",
+        "category": "Console"
+    },
+    "img123.jpg": {
+        "caption": "A gaming console with cinematic surround sound capabilities.",
+        "category": "Console"
+    },
+    "img124.jpg": {
+        "caption": "A console with an energy-efficient design for eco-friendly gaming.",
+        "category": "Console"
+    },
+    "img125.jpg": {
+        "caption": "A gaming console with automatic performance optimization for smoother gameplay.",
+        "category": "Console"
+    },
+    "img126.jpg": {
+        "caption": "A console featuring exclusive titles from top game developers.",
+        "category": "Console"
+    },
+    "img127.jpg": {
+        "caption": "A VR-ready console for fully immersive virtual reality gaming.",
+        "category": "Console"
+    },
+    "img128.jpg": {
+        "caption": "A gaming console with AI-powered voice commands and navigation.",
+        "category": "Console"
+    },
+    "img129.jpg": {
+        "caption": "A next-gen console featuring real-time cloud rendering technology.",
+        "category": "Console"
+    },
+    "img130.jpg": {
+        "caption": "A gaming console designed for maximum comfort and ergonomic gameplay.",
+        "category": "Console"
+    },
+    "img131.jpg": {
+        "caption": "A console featuring AI-driven difficulty adjustment for dynamic gameplay.",
+        "category": "Console"
+    },
+    "img132.jpg": {
+        "caption": "A gaming console with a holographic projection display for immersive play.",
+        "category": "Console"
+    },
+    "img133.jpg": {
+        "caption": "A console with a built-in game recording studio for content creators.",
+        "category": "Console"
+    },
+    "img134.jpg": {
+        "caption": "A high-speed gaming console optimized for cloud-based multiplayer gaming.",
+        "category": "Console"
+    },
+    "img135.jpg": {
+        "caption": "A next-gen console with AI-enhanced physics for realistic interactions.",
+        "category": "Console"
+    },
+    "img136.jpg": {
+        "caption": "A console designed with modular attachments for customizable functionality.",
+        "category": "Console"
+    },
+    "img137.jpg": {
+        "caption": "A gaming console with built-in voice-to-text and accessibility features.",
+        "category": "Console"
+    },
+    "img138.jpg": {
+        "caption": "A hybrid gaming console supporting cloud gaming and offline play.",
+        "category": "Console"
+    },
+    "img139.jpg": {
+        "caption": "A console with an upgraded neural engine for enhanced AI gaming experiences.",
+        "category": "Console"
+    },
+    "img140.jpg": {
+        "caption": "A gaming console featuring real-time adaptive difficulty for all skill levels.",
+        "category": "Console"
+    },
+    "img141.jpg": {
+        "caption": "A powerful gaming console with support for ultra-low-latency wireless controllers.",
+        "category": "Console"
+    },
+    "img142.jpg": {
+        "caption": "A compact gaming console designed for VR and AR gaming experiences.",
+        "category": "Console"
+    },
+    "img143.jpg": {
+        "caption": "A gaming console optimized for esports tournaments and competitive gaming.",
+        "category": "Console"
+    },
+    "img144.jpg": {
+        "caption": "A console with built-in AI-powered streaming tools for content creators.",
+        "category": "Console"
+    },
+    "img145.jpg": {
+        "caption": "A futuristic gaming console with full-body motion capture support.",
+        "category": "Console"
+    },
+    "img146.jpg": {
+        "caption": "A gaming console featuring an advanced haptic feedback system.",
+        "category": "Console"
+    },
+    "img147.jpg": {
+        "caption": "A limited-edition console with customizable LED lighting and skins.",
+        "category": "Console"
+    },
+    "img148.jpg": {
+        "caption": "A console with dedicated performance modes for different game genres.",
+        "category": "Console"
+    },
+    "img149.jpg": {
+        "caption": "A gaming console supporting AI-driven personalized game recommendations.",
+        "category": "Console"
+    },
+    "img150.jpg": {
+        "caption": "A next-gen gaming console featuring real-time voice interaction with NPCs.",
+        "category": "Console"
+    },
+    "img151.jpg": {
+        "caption": "A gaming console with ultra-fast AI-driven game loading technology.",
+        "category": "Console"
+    },
+    "img152.jpg": {
+        "caption": "A next-gen console with support for fully immersive 360-degree gameplay.",
+        "category": "Console"
+    },
+    "img153.jpg": {
+        "caption": "A console featuring built-in game development tools for creators.",
+        "category": "Console"
+    },
+    "img154.jpg": {
+        "caption": "A gaming console with real-time ray-traced shadows and reflections.",
+        "category": "Console"
+    },
+    "img155.jpg": {
+        "caption": "A futuristic console with smart cooling for extended gaming sessions.",
+        "category": "Console"
+    },
+    "img156.jpg": {
+        "caption": "A gaming console designed for seamless VR and AR integration.",
+        "category": "Console"
+    },
+    "img157.jpg": {
+        "caption": "A next-gen console with AI-driven in-game coaching and tips.",
+        "category": "Console"
+    },
+    "img158.jpg": {
+        "caption": "A gaming console with enhanced security features for safe online play.",
+        "category": "Console"
+    },
+    "img159.jpg": {
+        "caption": "A console with real-time adaptive difficulty for a personalized experience.",
+        "category": "Console"
+    },
+    "img160.jpg": {
+        "caption": "A gaming console with an energy-efficient mode for low power consumption.",
+        "category": "Console"
+    },
+    "img161.jpg": {
+        "caption": "A console featuring dynamic AI-powered NPC behavior for realism.",
+        "category": "Console"
+    },
+    "img162.jpg": {
+        "caption": "A gaming console with multi-device synchronization for connected gaming.",
+        "category": "Console"
+    },
+    "img163.jpg": {
+        "caption": "A next-gen console designed with cloud gaming at its core.",
+        "category": "Console"
+    },
+    "img164.jpg": {
+        "caption": "A console with haptic-enhanced controllers for immersive feedback.",
+        "category": "Console"
+    },
+    "img165.jpg": {
+        "caption": "A gaming console with built-in game streaming support for creators.",
+        "category": "Console"
+    },
+    "img166.jpg": {
+        "caption": "A powerful gaming console with cinematic-quality rendering.",
+        "category": "Console"
+    },
+    "img167.jpg": {
+        "caption": "A gaming console with AI-generated level design for endless replayability.",
+        "category": "Console"
+    },
+    "img168.jpg": {
+        "caption": "A next-gen console with ultra-high-speed multiplayer networking.",
+        "category": "Console"
+    },
+    "img169.jpg": {
+        "caption": "A console featuring an AI-powered voice assistant for gaming assistance.",
+        "category": "Console"
+    },
+    "img170.jpg": {
+        "caption": "A gaming console with real-time translation for global multiplayer gaming.",
+        "category": "Console"
+    },
+    "img171.jpg": {
+        "caption": "A console optimized for high-refresh-rate gaming on ultra-wide monitors.",
+        "category": "Console"
+    },
+    "img172.jpg": {
+        "caption": "A portable console with an OLED display for stunning visuals.",
+        "category": "Console"
+    },
+    "img173.jpg": {
+        "caption": "A gaming console with modular hardware upgrade support.",
+        "category": "Console"
+    },
+    "img174.jpg": {
+        "caption": "A next-gen console featuring real-time weather effects in games.",
+        "category": "Console"
+    },
+    "img175.jpg": {
+        "caption": "A console designed with esports-level precision and speed.",
+        "category": "Console"
+    },
+    "img176.jpg": {
+        "caption": "A gaming console with deep learning AI for in-game character evolution.",
+        "category": "Console"
+    },
+    "img177.jpg": {
+        "caption": "A next-gen console featuring hyper-realistic physics engines.",
+        "category": "Console"
+    },
+    "img178.jpg": {
+        "caption": "A console with smart game recommendations based on play history.",
+        "category": "Console"
+    },
+    "img179.jpg": {
+        "caption": "A powerful console with ultra-fast SSD storage for instant loading.",
+        "category": "Console"
+    },
+    "img180.jpg": {
+        "caption": "A gaming console with VR motion tracking for next-level immersion.",
+        "category": "Console"
+    },
+    "img181.jpg": {
+        "caption": "A console featuring AI-driven matchmaking for optimal online experiences.",
+        "category": "Console"
+    },
+    "img182.jpg": {
+        "caption": "A gaming console optimized for cloud-powered AI-driven opponents.",
+        "category": "Console"
+    },
+    "img183.jpg": {
+        "caption": "A next-gen console with ultra-fast HDMI 2.1 connectivity.",
+        "category": "Console"
+    },
+    "img184.jpg": {
+        "caption": "A console designed for seamless multi-device game progression.",
+        "category": "Console"
+    },
+    "img185.jpg": {
+        "caption": "A gaming console with real-time AI-enhanced audio for deep immersion.",
+        "category": "Console"
+    },
+    "img186.jpg": {
+        "caption": "A console with support for 16K resolution gaming for the future of visuals.",
+        "category": "Console"
+    },
+    "img187.jpg": {
+        "caption": "A gaming console featuring an AI-powered adaptive UI for accessibility.",
+        "category": "Console"
+    },
+    "img188.jpg": {
+        "caption": "A next-gen console with cloud-based saves and instant game resumption.",
+        "category": "Console"
+    },
+    "img189.jpg": {
+        "caption": "A console featuring advanced anti-aliasing for smoother graphics.",
+        "category": "Console"
+    },
+    "img190.jpg": {
+        "caption": "A gaming console with customizable RGB lighting and themes.",
+        "category": "Console"
+    },
+    "img191.jpg": {
+        "caption": "A console designed with AI-powered game hints for a smarter experience.",
+        "category": "Console"
+    }
+}
