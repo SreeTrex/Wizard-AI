@@ -1,710 +1,816 @@
-{
-    "img1.jpg": {
-        "caption": "A high-performance car battery designed for reliable starting power in all conditions.",
-        "category": "Battery"
-    },
-    "img2.jpg": {
-        "caption": "A deep-cycle battery engineered for extended energy storage and discharge cycles.",
-        "category": "Battery"
-    },
-    "img3.jpg": {
-        "caption": "A maintenance-free automotive battery featuring advanced lead-acid technology.",
-        "category": "Battery"
-    },
-    "img4.jpg": {
-        "caption": "A compact lithium-ion battery offering lightweight power and long-lasting performance.",
-        "category": "Battery"
-    },
-    "img5.jpg": {
-        "caption": "A high-capacity battery with fast-charging capabilities for demanding applications.",
-        "category": "Battery"
-    },
-    "img6.jpg": {
-        "caption": "A sealed AGM battery providing superior durability and vibration resistance.",
-        "category": "Battery"
-    },
-    "img7.jpg": {
-        "caption": "A premium lead-acid battery with an optimized plate design for enhanced efficiency.",
-        "category": "Battery"
-    },
-    "img8.jpg": {
-        "caption": "An advanced car battery featuring a smart charge indicator for easy monitoring.",
-        "category": "Battery"
-    },
-    "img9.jpg": {
-        "caption": "A heavy-duty battery built to withstand extreme temperatures and harsh environments.",
-        "category": "Battery"
-    },
-    "img10.jpg": {
-        "caption": "A fast-recharge battery designed for modern vehicles with high electrical demands.",
-        "category": "Battery"
-    },
-    "img11.jpg": {
-        "caption": "A long-lasting automotive battery with superior cycling capability for hybrid vehicles.",
-        "category": "Battery"
-    },
-    "img12.jpg": {
-        "caption": "A dual-purpose battery providing both starting and deep-cycle performance.",
-        "category": "Battery"
-    },
-    "img13.jpg": {
-        "caption": "An efficient battery with a spill-proof design for safe and hassle-free use.",
-        "category": "Battery"
-    },
-    "img14.jpg": {
-        "caption": "A maintenance-free battery featuring corrosion-resistant terminals for longevity.",
-        "category": "Battery"
-    },
-    "img15.jpg": {
-        "caption": "A high-performance AGM battery optimized for start-stop vehicle technology.",
-        "category": "Battery"
-    },
-    "img16.jpg": {
-        "caption": "A lightweight lithium battery with enhanced energy density for modern applications.",
-        "category": "Battery"
-    },
-    "img17.jpg": {
-        "caption": "A rugged battery with a reinforced casing to prevent leaks and withstand shocks.",
-        "category": "Battery"
-    },
-    "img18.jpg": {
-        "caption": "A reliable deep-cycle battery designed for marine and off-grid power solutions.",
-        "category": "Battery"
-    },
-    "img19.jpg": {
-        "caption": "A fast-charging car battery with an optimized internal resistance for efficient power delivery.",
-        "category": "Battery"
-    },
-    "img20.jpg": {
-        "caption": "A premium automotive battery built to support high-demand electronic systems.",
-        "category": "Battery"
-    },
-    "img21.jpg": {
-        "caption": "An eco-friendly battery featuring lead-calcium technology for reduced maintenance.",
-        "category": "Battery"
-    },
-    "img22.jpg": {
-        "caption": "A compact battery with an integrated handle for easy transport and installation.",
-        "category": "Battery"
-    },
-    "img23.jpg": {
-        "caption": "A powerful lithium battery providing exceptional cycle life for electric vehicles.",
-        "category": "Battery"
-    },
-    "img24.jpg": {
-        "caption": "A sealed maintenance-free battery designed for superior resistance against leaks.",
-        "category": "Battery"
-    },
-    "img25.jpg": {
-        "caption": "A durable battery with high reserve capacity to power auxiliary vehicle electronics.",
-        "category": "Battery"
-    },
-    "img26.jpg": {
-        "caption": "A smart battery featuring an advanced management system for optimized charging cycles.",
-        "category": "Battery"
+[
+    {
+      "image_path": "Battery/img1.jpg",
+      "caption": "A car battery with labeled terminals and protective caps."
+    },
+    {
+      "image_path": "Battery/img2.jpg",
+      "caption": "A technician using a multimeter to test a car battery’s voltage."
+    },
+    {
+      "image_path": "Battery/img3.jpg",
+      "caption": "A lead-acid battery installed securely in a vehicle engine bay."
+    },
+    {
+      "image_path": "Battery/img4.jpg",
+      "caption": "A top view of a maintenance-free automotive battery."
+    },
+    {
+      "image_path": "Battery/img5.jpg",
+      "caption": "A discharged battery showing corrosion on the terminals."
+    },
+    {
+      "image_path": "Battery/img6.jpg",
+      "caption": "A lithium-ion battery used in modern electric vehicles."
+    },
+    {
+      "image_path": "Battery/img7.jpg",
+      "caption": "A deep-cycle battery designed for long-lasting power delivery."
+    },
+    {
+      "image_path": "Battery/img8.jpg",
+      "caption": "A close-up of a battery’s cold cranking amps (CCA) rating label."
+    },
+    {
+      "image_path": "Battery/img9.jpg",
+      "caption": "A battery connected to jumper cables for a jump-start procedure."
+    },
+    {
+      "image_path": "Battery/img10.jpg",
+      "caption": "A car battery monitor displaying voltage and charging status."
+    },
+    {
+      "image_path": "Battery/img11.jpg",
+      "caption": "A technician replacing an old car battery with a new unit."
+    },
+    {
+      "image_path": "Battery/img12.jpg",
+      "caption": "A battery tray and hold-down clamp securing the unit in place."
+    },
+    {
+      "image_path": "Battery/img13.jpg",
+      "caption": "A maintenance-free battery with integrated charge indicator."
+    },
+    {
+      "image_path": "Battery/img14.jpg",
+      "caption": "A car battery installed in a trunk with ventilation tubing."
+    },
+    {
+      "image_path": "Battery/img15.jpg",
+      "caption": "An AGM (Absorbent Glass Mat) battery designed for start-stop systems."
+    },
+    {
+      "image_path": "Battery/img16.jpg",
+      "caption": "A digital battery tester displaying state of charge and health."
+    },
+    {
+      "image_path": "Battery/img17.jpg",
+      "caption": "A marine battery installed on a boat for auxiliary power."
+    },
+    {
+      "image_path": "Battery/img18.jpg",
+      "caption": "A car battery with protective terminal covers to prevent short circuits."
+    },
+    {
+      "image_path": "Battery/img19.jpg",
+      "caption": "A technician applying dielectric grease on battery terminals."
+    },
+    {
+      "image_path": "Battery/img20.jpg",
+      "caption": "A group of batteries connected in parallel for higher capacity."
+    },
+    {
+      "image_path": "Battery/img21.jpg",
+      "caption": "A solar battery bank used for off-grid energy storage."
+    },
+    {
+      "image_path": "Battery/img22.jpg",
+      "caption": "A hybrid vehicle battery pack disassembled for inspection."
+    },
+    {
+      "image_path": "Battery/img23.jpg",
+      "caption": "A warning label on a battery indicating explosive gas hazards."
+    },
+    {
+      "image_path": "Battery/img24.jpg",
+      "caption": "A forklift battery with heavy-duty terminals and lifting handles."
+    },
+    {
+      "image_path": "Battery/img25.jpg",
+      "caption": "An old car battery being recycled at an auto parts store."
+    },
+    {
+      "image_path": "Battery/img26.jpg",
+      "caption": "A technician using a battery charger to restore charge level."
     },
-    "img27.jpg": {
-        "caption": "A corrosion-resistant battery built for enhanced longevity and reliability.",
-        "category": "Battery"
-    },
-    "img28.jpg": {
-        "caption": "A fast-acting car battery designed to deliver instant power for ignition systems.",
-        "category": "Battery"
-    },
-    "img29.jpg": {
-        "caption": "A robust battery with sealed construction to prevent acid leakage and damage.",
-        "category": "Battery"
-    },
-    "img30.jpg": {
-        "caption": "A highly efficient battery with an optimized grid design for extended service life.",
-        "category": "Battery"
-    },
-    "img31.jpg": {
-        "caption": "A vibration-resistant battery built to withstand rugged driving conditions.",
-        "category": "Battery"
-    },
-    "img32.jpg": {
-        "caption": "An automotive battery featuring rapid energy replenishment for frequent use.",
-        "category": "Battery"
-    },
-    "img33.jpg": {
-        "caption": "A multi-purpose battery with dual terminals for versatile installation options.",
-        "category": "Battery"
-    },
-    "img34.jpg": {
-        "caption": "A performance-grade battery engineered for superior energy transfer efficiency.",
-        "category": "Battery"
-    },
-    "img35.jpg": {
-        "caption": "A long-lasting battery with an optimized lead-alloy composition for maximum durability.",
-        "category": "Battery"
-    },
-    "img36.jpg": {
-        "caption": "A heavy-duty automotive battery designed for trucks and commercial vehicles.",
-        "category": "Battery"
-    },
-    "img37.jpg": {
-        "caption": "A reliable deep-cycle battery with a reinforced plate structure for enhanced longevity.",
-        "category": "Battery"
-    },
-    "img38.jpg": {
-        "caption": "A lithium-ion battery featuring fast charging technology for reduced downtime.",
-        "category": "Battery"
-    },
-    "img39.jpg": {
-        "caption": "A premium battery with a built-in heat shield to improve thermal stability.",
-        "category": "Battery"
-    },
-    "img40.jpg": {
-        "caption": "A sealed lead-acid battery designed for steady and reliable power output.",
-        "category": "Battery"
-    },
-    "img41.jpg": {
-        "caption": "A smart car battery featuring an auto-shutdown function to prevent overcharging.",
-        "category": "Battery"
-    },
-    "img42.jpg": {
-        "caption": "A high-discharge battery with improved electrolyte absorption technology.",
-        "category": "Battery"
-    },
-    "img43.jpg": {
-        "caption": "A compact and lightweight battery ideal for motorcycles and ATVs.",
-        "category": "Battery"
-    },
-    "img44.jpg": {
-        "caption": "A spill-proof battery with an advanced separator system for improved efficiency.",
-        "category": "Battery"
-    },
-    "img45.jpg": {
-        "caption": "A high-power lithium battery with rapid recharge capabilities for demanding applications.",
-        "category": "Battery"
-    },
-    "img46.jpg": {
-        "caption": "A reliable AGM battery providing consistent power for high-performance vehicles.",
-        "category": "Battery"
-    },
-    "img47.jpg": {
-        "caption": "A smart automotive battery with Bluetooth connectivity for real-time monitoring.",
-        "category": "Battery"
-    },
-    "img48.jpg": {
-        "caption": "A solar-compatible deep-cycle battery optimized for renewable energy storage.",
-        "category": "Battery"
-    },
-    "img49.jpg": {
-        "caption": "A robust battery featuring a weather-resistant casing for outdoor applications.",
-        "category": "Battery"
-    },
-    "img50.jpg": {
-        "caption": "A long-life lithium battery with a smart energy distribution system.",
-        "category": "Battery"
-    },
-    "img51.jpg": {
-        "caption": "A compact battery with an advanced charge retention system for long-term reliability.",
-        "category": "Battery"
-    },
-    "img52.jpg": {
-        "caption": "A fast-recharge lithium battery engineered for high-output performance.",
-        "category": "Battery"
-    },
-    "img53.jpg": {
-        "caption": "A rugged deep-cycle battery built for marine and RV applications.",
-        "category": "Battery"
-    },
-    "img54.jpg": {
-        "caption": "A high-cranking automotive battery designed for cold-weather starts.",
-        "category": "Battery"
-    },
-    "img55.jpg": {
-        "caption": "A premium car battery with anti-sulfation technology for extended service life.",
-        "category": "Battery"
-    },
-    "img56.jpg": {
-        "caption": "A reliable AGM battery offering maintenance-free operation and superior durability.",
-        "category": "Battery"
-    },
-    "img57.jpg": {
-        "caption": "A lightweight lithium-ion battery optimized for high-speed charging cycles.",
-        "category": "Battery"
-    },
-    "img58.jpg": {
-        "caption": "A dual-purpose battery designed for both starting and deep-cycle applications.",
-        "category": "Battery"
-    },
-    "img59.jpg": {
-        "caption": "A fast-recharging automotive battery built for vehicles with heavy electrical loads.",
-        "category": "Battery"
-    },
-    "img60.jpg": {
-        "caption": "A vibration-resistant battery designed to withstand harsh driving conditions.",
-        "category": "Battery"
-    },
-    "img61.jpg": {
-        "caption": "A heavy-duty truck battery built for long-haul and commercial applications.",
-        "category": "Battery"
-    },
-    "img62.jpg": {
-        "caption": "A sealed lead-acid battery with an innovative grid structure for optimal performance.",
-        "category": "Battery"
-    },
-    "img63.jpg": {
-        "caption": "A smart car battery featuring integrated temperature monitoring for efficiency.",
-        "category": "Battery"
-    },
-    "img64.jpg": {
-        "caption": "A rechargeable battery with a quick-start feature for immediate ignition power.",
-        "category": "Battery"
-    },
-    "img65.jpg": {
-        "caption": "A deep-cycle battery featuring low self-discharge for longer standby life.",
-        "category": "Battery"
-    },
-    "img66.jpg": {
-        "caption": "A lightweight motorcycle battery offering powerful and consistent output.",
-        "category": "Battery"
-    },
-    "img67.jpg": {
-        "caption": "A durable car battery with corrosion-resistant terminals for maximum longevity.",
-        "category": "Battery"
-    },
-    "img68.jpg": {
-        "caption": "A maintenance-free truck battery engineered for extended operational life.",
-        "category": "Battery"
-    },
-    "img69.jpg": {
-        "caption": "A premium performance battery designed to handle extreme temperature variations.",
-        "category": "Battery"
-    },
-    "img70.jpg": {
-        "caption": "A high-energy lithium battery offering rapid power delivery for EV applications.",
-        "category": "Battery"
-    },
-    "img71.jpg": {
-        "caption": "A spill-proof battery with an innovative electrolyte retention system.",
-        "category": "Battery"
-    },
-    "img72.jpg": {
-        "caption": "A commercial-grade battery designed for industrial machinery and heavy equipment.",
-        "category": "Battery"
-    },
-    "img73.jpg": {
-        "caption": "A solar-compatible battery optimized for off-grid power storage.",
-        "category": "Battery"
-    },
-    "img74.jpg": {
-        "caption": "A compact, high-output battery designed for performance vehicles.",
-        "category": "Battery"
-    },
-    "img75.jpg": {
-        "caption": "A hybrid car battery built with an advanced energy management system.",
-        "category": "Battery"
-    },
-    "img76.jpg": {
-        "caption": "A robust marine battery engineered for deep-cycle and cranking power.",
-        "category": "Battery"
-    },
-    "img77.jpg": {
-        "caption": "A power-dense lithium-ion battery optimized for high-performance applications.",
-        "category": "Battery"
-    },
-    "img78.jpg": {
-        "caption": "A dual-terminal car battery providing flexible mounting options.",
-        "category": "Battery"
-    },
-    "img79.jpg": {
-        "caption": "A weather-resistant battery designed to withstand extreme environmental conditions.",
-        "category": "Battery"
-    },
-    "img80.jpg": {
-        "caption": "A quick-charge battery offering reduced recharge times and increased efficiency.",
-        "category": "Battery"
-    },
-    "img81.jpg": {
-        "caption": "A smart lithium battery featuring Bluetooth connectivity for remote monitoring.",
-        "category": "Battery"
-    },
-    "img82.jpg": {
-        "caption": "A high-discharge battery engineered for racing and motorsports applications.",
-        "category": "Battery"
-    },
-    "img83.jpg": {
-        "caption": "A premium automotive battery designed to support energy-intensive electronics.",
-        "category": "Battery"
-    },
-    "img84.jpg": {
-        "caption": "A lithium-polymer battery with an ultra-lightweight design for portable power solutions.",
-        "category": "Battery"
-    },
-    "img85.jpg": {
-        "caption": "A reliable industrial battery with heavy-duty plate construction.",
-        "category": "Battery"
-    },
-    "img86.jpg": {
-        "caption": "A long-lasting deep-cycle battery optimized for renewable energy applications.",
-        "category": "Battery"
-    },
-    "img87.jpg": {
-        "caption": "A gel battery providing stable performance in extreme temperatures.",
-        "category": "Battery"
-    },
-    "img88.jpg": {
-        "caption": "A heavy-duty AGM battery with a high reserve capacity for extended use.",
-        "category": "Battery"
-    },
-    "img89.jpg": {
-        "caption": "A powerful jump-start battery designed for emergency roadside assistance.",
-        "category": "Battery"
-    },
-    "img90.jpg": {
-        "caption": "A reinforced car battery with an anti-vibration casing for durability.",
-        "category": "Battery"
-    },
-    "img91.jpg": {
-        "caption": "A solar-compatible AGM battery built for off-grid energy storage.",
-        "category": "Battery"
-    },
-    "img92.jpg": {
-        "caption": "A rapid-charging lithium battery offering improved efficiency and cycle life.",
-        "category": "Battery"
-    },
-    "img93.jpg": {
-        "caption": "A hybrid automotive battery providing intelligent energy management.",
-        "category": "Battery"
-    },
-    "img94.jpg": {
-        "caption": "A military-grade battery engineered for high durability and reliability.",
-        "category": "Battery"
-    },
-    "img95.jpg": {
-        "caption": "A lightweight and compact lithium battery for portable electronic devices.",
-        "category": "Battery"
-    },
-    "img96.jpg": {
-        "caption": "A spill-proof sealed battery offering safety and reliability in all conditions.",
-        "category": "Battery"
-    },
-    "img97.jpg": {
-        "caption": "A deep-cycle marine battery built for high discharge applications.",
-        "category": "Battery"
-    },
-    "img98.jpg": {
-        "caption": "A rapid-discharge AGM battery designed for peak performance under heavy loads.",
-        "category": "Battery"
-    },
-    "img99.jpg": {
-        "caption": "A dual-purpose lithium battery supporting both start-up and deep-cycle functions.",
-        "category": "Battery"
-    },
-    "img100.jpg": {
-        "caption": "A cutting-edge automotive battery built with nanotechnology-enhanced cells.",
-        "category": "Battery"
-    },
-    "img101.jpg": {
-        "caption": "A high-performance battery designed for reliable power and extended service life.",
-        "category": "Battery"
-    },
-    "img102.jpg": {
-        "caption": "A maintenance-free AGM battery built for superior deep-cycle capabilities.",
-        "category": "Battery"
-    },
-    "img103.jpg": {
-        "caption": "A durable lithium-ion battery offering fast charging and long-lasting performance.",
-        "category": "Battery"
-    },
-    "img104.jpg": {
-        "caption": "A high-capacity lead-acid battery engineered for automotive and industrial use.",
-        "category": "Battery"
-    },
-    "img105.jpg": {
-        "caption": "A premium AGM battery designed for enhanced vibration resistance and reliability.",
-        "category": "Battery"
-    },
-    "img106.jpg": {
-        "caption": "A deep-cycle marine battery optimized for continuous power delivery.",
-        "category": "Battery"
-    },
-    "img107.jpg": {
-        "caption": "A high-output lithium battery designed for hybrid and electric vehicles.",
-        "category": "Battery"
-    },
-    "img108.jpg": {
-        "caption": "A rugged truck battery built to withstand extreme temperatures and heavy loads.",
-        "category": "Battery"
-    },
-    "img109.jpg": {
-        "caption": "A sealed gel battery providing excellent performance in high-drain applications.",
-        "category": "Battery"
-    },
-    "img110.jpg": {
-        "caption": "A lightweight lithium battery featuring an advanced battery management system.",
-        "category": "Battery"
-    },
-    "img111.jpg": {
-        "caption": "A high-efficiency AGM battery designed for maximum power retention.",
-        "category": "Battery"
-    },
-    "img112.jpg": {
-        "caption": "A spill-proof deep-cycle battery offering consistent performance over time.",
-        "category": "Battery"
-    },
-    "img113.jpg": {
-        "caption": "A solar-compatible battery designed for renewable energy storage applications.",
-        "category": "Battery"
-    },
-    "img114.jpg": {
-        "caption": "A long-lasting automotive battery with corrosion-resistant terminals.",
-        "category": "Battery"
-    },
-    "img115.jpg": {
-        "caption": "A dual-purpose battery providing both starting power and deep-cycle capabilities.",
-        "category": "Battery"
-    },
-    "img116.jpg": {
-        "caption": "A high-power AGM battery optimized for demanding electronic systems.",
-        "category": "Battery"
-    },
-    "img117.jpg": {
-        "caption": "A robust lithium battery with an ultra-fast recharge rate and extended lifespan.",
-        "category": "Battery"
-    },
-    "img118.jpg": {
-        "caption": "A lead-acid battery built for heavy-duty industrial and commercial use.",
-        "category": "Battery"
-    },
-    "img119.jpg": {
-        "caption": "A high-performance motorcycle battery designed for consistent starting power.",
-        "category": "Battery"
-    },
-    "img120.jpg": {
-        "caption": "A maintenance-free deep-cycle battery with exceptional energy storage capacity.",
-        "category": "Battery"
-    },
-    "img121.jpg": {
-        "caption": "A heavy-duty truck battery featuring reinforced plates for durability.",
-        "category": "Battery"
-    },
-    "img122.jpg": {
-        "caption": "A compact lithium-ion battery engineered for portable power solutions.",
-        "category": "Battery"
-    },
-    "img123.jpg": {
-        "caption": "A fast-charging lithium battery ideal for solar and backup power systems.",
-        "category": "Battery"
-    },
-    "img124.jpg": {
-        "caption": "A high-performance AGM battery with superior resistance to deep discharge.",
-        "category": "Battery"
-    },
-    "img125.jpg": {
-        "caption": "A durable marine battery designed to handle rough conditions and long journeys.",
-        "category": "Battery"
-    },
-    "img126.jpg": {
-        "caption": "A premium automotive battery with optimized cold-cranking power.",
-        "category": "Battery"
-    },
-    "img127.jpg": {
-        "caption": "A smart lithium-ion battery featuring built-in temperature protection.",
-        "category": "Battery"
-    },
-    "img128.jpg": {
-        "caption": "A solar-compatible deep-cycle battery offering ultra-low self-discharge.",
-        "category": "Battery"
-    },
-    "img129.jpg": {
-        "caption": "A spill-proof AGM battery designed for high vibration resistance.",
-        "category": "Battery"
-    },
-    "img130.jpg": {
-        "caption": "A powerful lead-acid battery with an extended warranty for added reliability.",
-        "category": "Battery"
-    },
-    "img131.jpg": {
-        "caption": "A lightweight, long-lasting lithium battery optimized for energy efficiency.",
-        "category": "Battery"
-    },
-    "img132.jpg": {
-        "caption": "A high-output battery designed for high-performance automotive applications.",
-        "category": "Battery"
-    },
-    "img133.jpg": {
-        "caption": "A premium AGM battery with a sealed maintenance-free design.",
-        "category": "Battery"
-    },
-    "img134.jpg": {
-        "caption": "A heavy-duty deep-cycle battery built to power industrial equipment.",
-        "category": "Battery"
-    },
-    "img135.jpg": {
-        "caption": "A high-performance truck battery engineered for extreme weather conditions.",
-        "category": "Battery"
-    },
-    "img136.jpg": {
-        "caption": "A durable motorcycle battery providing high cranking power and longevity.",
-        "category": "Battery"
-    },
-    "img137.jpg": {
-        "caption": "A solar energy storage battery with an advanced power management system.",
-        "category": "Battery"
-    },
-    "img138.jpg": {
-        "caption": "A maintenance-free gel battery built for reliable backup power solutions.",
-        "category": "Battery"
-    },
-    "img139.jpg": {
-        "caption": "A deep-cycle lithium battery with a high discharge rate and long cycle life.",
-        "category": "Battery"
-    },
-    "img140.jpg": {
-        "caption": "A heavy-duty AGM battery optimized for off-grid and mobile power applications.",
-        "category": "Battery"
-    },
-    "img141.jpg": {
-        "caption": "A high-efficiency AGM battery designed for deep-cycle applications and extended use.",
-        "category": "Battery"
-    },
-    "img142.jpg": {
-        "caption": "A premium lithium-ion battery offering fast recharge and long lifespan.",
-        "category": "Battery"
-    },
-    "img143.jpg": {
-        "caption": "A maintenance-free sealed lead-acid battery with excellent power retention.",
-        "category": "Battery"
-    },
-    "img144.jpg": {
-        "caption": "A deep-cycle battery optimized for solar and renewable energy storage solutions.",
-        "category": "Battery"
-    },
-    "img145.jpg": {
-        "caption": "A high-output automotive battery designed for superior cranking power and reliability.",
-        "category": "Battery"
-    },
-    "img146.jpg": {
-        "caption": "A compact and lightweight lithium battery ideal for motorcycles and ATVs.",
-        "category": "Battery"
-    },
-    "img147.jpg": {
-        "caption": "A rugged deep-cycle battery engineered to handle high-drain applications.",
-        "category": "Battery"
-    },
-    "img148.jpg": {
-        "caption": "A smart lithium-ion battery featuring built-in overcharge and temperature protection.",
-        "category": "Battery"
-    },
-    "img149.jpg": {
-        "caption": "A heavy-duty AGM battery with reinforced plates for extreme durability and longevity.",
-        "category": "Battery"
-    },
-    "img150.jpg": {
-        "caption": "A high-performance battery designed for efficient power delivery and extended lifespan.",
-        "category": "Battery"
-    },
-    "img151.jpg": {
-        "caption": "A fast-recharge AGM battery engineered for maximum durability and reliability.",
-        "category": "Battery"
-    },
-    "img152.jpg": {
-        "caption": "A maintenance-free deep-cycle battery ideal for renewable energy applications.",
-        "category": "Battery"
-    },
-    "img153.jpg": {
-        "caption": "A premium automotive battery featuring advanced charge retention technology.",
-        "category": "Battery"
-    },
-    "img154.jpg": {
-        "caption": "A rugged marine battery built to withstand extreme environmental conditions.",
-        "category": "Battery"
-    },
-    "img155.jpg": {
-        "caption": "A heavy-duty lithium-ion battery optimized for fast charging and high output.",
-        "category": "Battery"
-    },
-    "img156.jpg": {
-        "caption": "A smart battery with integrated monitoring for real-time power management.",
-        "category": "Battery"
-    },
-    "img157.jpg": {
-        "caption": "A lightweight, high-capacity battery engineered for electric vehicles and hybrid systems.",
-        "category": "Battery"
-    },
-    "img158.jpg": {
-        "caption": "A durable lead-acid battery with reinforced plates for superior longevity.",
-        "category": "Battery"
-    },
-    "img159.jpg": {
-        "caption": "A high-output battery designed to support power-hungry car audio systems.",
-        "category": "Battery"
-    },
-    "img160.jpg": {
-        "caption": "A deep-cycle lithium battery offering ultra-low self-discharge for extended use.",
-        "category": "Battery"
-    },
-    "img161.jpg": {
-        "caption": "A spill-proof AGM battery with vibration resistance for rough terrain applications.",
-        "category": "Battery"
-    },
-    "img162.jpg": {
-        "caption": "A versatile battery optimized for motorcycles, ATVs, and personal watercraft.",
-        "category": "Battery"
-    },
-    "img163.jpg": {
-        "caption": "A maintenance-free sealed battery providing excellent power retention.",
-        "category": "Battery"
-    },
-    "img164.jpg": {
-        "caption": "A performance-grade battery designed for racing and high-speed applications.",
-        "category": "Battery"
-    },
-    "img165.jpg": {
-        "caption": "A premium deep-cycle battery built to support heavy electrical loads.",
-        "category": "Battery"
-    },
-    "img166.jpg": {
-        "caption": "A rapid-charging lithium battery designed for solar energy storage solutions.",
-        "category": "Battery"
-    },
-    "img167.jpg": {
-        "caption": "A compact power-dense battery ideal for backup power systems.",
-        "category": "Battery"
-    },
-    "img168.jpg": {
-        "caption": "A heavy-duty truck battery designed for extreme load-bearing capabilities.",
-        "category": "Battery"
-    },
-    "img169.jpg": {
-        "caption": "A high-capacity battery built to handle long-duration discharge cycles.",
-        "category": "Battery"
-    },
-    "img170.jpg": {
-        "caption": "A smart lithium-ion battery featuring Bluetooth connectivity for real-time monitoring.",
-        "category": "Battery"
-    },
-    "img171.jpg": {
-        "caption": "A long-lasting battery with ultra-fast recharge capabilities for quick turnaround.",
-        "category": "Battery"
-    },
-    "img172.jpg": {
-        "caption": "A solar-compatible battery engineered for off-grid energy storage.",
-        "category": "Battery"
-    },
-    "img173.jpg": {
-        "caption": "A high-power AGM battery with superior shock and vibration resistance.",
-        "category": "Battery"
-    },
-    "img174.jpg": {
-        "caption": "A gel-based deep-cycle battery providing consistent and reliable energy output.",
-        "category": "Battery"
-    },
-    "img175.jpg": {
-        "caption": "A lightweight, high-efficiency battery designed for portable power solutions.",
-        "category": "Battery"
-    },
-    "img176.jpg": {
-        "caption": "A dual-purpose battery that delivers both cranking power and deep-cycle performance.",
-        "category": "Battery"
-    },
-    "img177.jpg": {
-        "caption": "A premium automotive battery featuring anti-corrosion terminals for enhanced durability.",
-        "category": "Battery"
-    }
-}
+    {
+      "image_path": "Battery/img27.jpg",
+      "caption": "A motorcycle battery installed under the seat compartment."
+    },
+    {
+      "image_path": "Battery/img28.jpg",
+      "caption": "An exploded view of a battery showing internal plates and separators."
+    },
+    {
+      "image_path": "Battery/img29.jpg",
+      "caption": "A deep-cycle AGM battery used in RV and camper setups."
+    },
+    {
+      "image_path": "Battery/img30.jpg",
+      "caption": "A battery failure warning displayed on a vehicle dashboard."
+    },
+    {
+      "image_path": "Battery/img31.jpg",
+      "caption": "A car battery ground cable securely fastened to the chassis."
+    },
+    {
+      "image_path": "Battery/img32.jpg",
+      "caption": "A technician performing a load test on a suspect battery."
+    },
+    {
+      "image_path": "Battery/img33.jpg",
+      "caption": "A backup UPS battery bank installed for power supply continuity."
+    },
+    {
+      "image_path": "Battery/img34.jpg",
+      "caption": "A 12V automotive battery connected with proper polarity."
+    },
+    {
+      "image_path": "Battery/img35.jpg",
+      "caption": "A car battery exposed to freezing temperatures in winter."
+    },
+    {
+      "image_path": "Battery/img36.jpg",
+      "caption": "A high-performance AGM battery with extended warranty label."
+    },
+    {
+      "image_path": "Battery/img37.jpg",
+      "caption": "An EV battery module with cooling lines for temperature management."
+    },
+    {
+      "image_path": "Battery/img38.jpg",
+      "caption": "A charging system diagram showing battery, alternator, and regulator."
+    },
+    {
+      "image_path": "Battery/img39.jpg",
+      "caption": "A technician removing a corroded terminal clamp from a battery post."
+    },
+    {
+      "image_path": "Battery/img40.jpg",
+      "caption": "A vehicle battery installed under the rear seat."
+    },
+    {
+      "image_path": "Battery/img41.jpg",
+      "caption": "A battery disconnect switch used for safety and storage."
+    },
+    {
+      "image_path": "Battery/img42.jpg",
+      "caption": "A battery with a QR code for digital tracking and diagnostics."
+    },
+    {
+      "image_path": "Battery/img43.jpg",
+      "caption": "A technician inspecting electrolyte levels in a serviceable battery."
+    },
+    {
+      "image_path": "Battery/img44.jpg",
+      "caption": "A side-by-side comparison of new and old automotive batteries."
+    },
+    {
+      "image_path": "Battery/img45.jpg",
+      "caption": "A car battery in a thermal insulation wrap to prevent freezing."
+    },
+    {
+      "image_path": "Battery/img46.jpg",
+      "caption": "A maintenance checklist with battery health and voltage readings."
+    },
+    {
+      "image_path": "Battery/img47.jpg",
+      "caption": "An EV battery with visible voltage warning labels."
+    },
+    {
+      "image_path": "Battery/img48.jpg",
+      "caption": "A jump-starter battery pack connected to a car battery for boost."
+    },
+    {
+      "image_path": "Battery/img49.jpg",
+      "caption": "A diagram showing series and parallel battery connections."
+    },
+    {
+      "image_path": "Battery/img50.jpg",
+      "caption": "A technician replacing a hybrid car battery module."
+    },
+    
+        {
+          "image_path": "Battery/img51.jpg",
+          "caption": "A technician checking battery voltage using a digital multimeter."
+        },
+        {
+          "image_path": "Battery/img52.jpg",
+          "caption": "A car battery showing signs of bulging due to overcharging."
+        },
+        {
+          "image_path": "Battery/img53.jpg",
+          "caption": "A wall-mounted inverter battery system for home backup power."
+        },
+        {
+          "image_path": "Battery/img54.jpg",
+          "caption": "A sealed maintenance-free battery labeled for long shelf life."
+        },
+        {
+          "image_path": "Battery/img55.jpg",
+          "caption": "A jump starter with an integrated flashlight and USB ports."
+        },
+        {
+          "image_path": "Battery/img56.jpg",
+          "caption": "A battery group size chart showing dimensions and types."
+        },
+        {
+          "image_path": "Battery/img57.jpg",
+          "caption": "A car battery tray with anti-vibration padding."
+        },
+        {
+          "image_path": "Battery/img58.jpg",
+          "caption": "An off-grid solar battery bank with charge controller connection."
+        },
+        {
+          "image_path": "Battery/img59.jpg",
+          "caption": "A technician using a battery hydrometer to test electrolyte."
+        },
+        {
+          "image_path": "Battery/img60.jpg",
+          "caption": "A damaged car battery with leaking acid and warning stickers."
+        },
+        {
+          "image_path": "Battery/img61.jpg",
+          "caption": "A truck battery bank arranged in parallel for extended power."
+        },
+        {
+          "image_path": "Battery/img62.jpg",
+          "caption": "A technician wearing gloves while handling a heavy-duty battery."
+        },
+        {
+          "image_path": "Battery/img63.jpg",
+          "caption": "An EV battery management system interface showing cell status."
+        },
+        {
+          "image_path": "Battery/img64.jpg",
+          "caption": "A motorcycle lithium battery with compact size and quick start."
+        },
+        {
+          "image_path": "Battery/img65.jpg",
+          "caption": "A technician cleaning corrosion using a baking soda solution."
+        },
+        {
+          "image_path": "Battery/img66.jpg",
+          "caption": "A campervan battery setup with inverter and solar panel wiring."
+        },
+        {
+          "image_path": "Battery/img67.jpg",
+          "caption": "A forklift battery undergoing equalization charging."
+        },
+        {
+          "image_path": "Battery/img68.jpg",
+          "caption": "A hybrid battery pack partially disassembled for repair."
+        },
+        {
+          "image_path": "Battery/img69.jpg",
+          "caption": "An AGM battery with safety vent caps for gas release."
+        },
+        {
+          "image_path": "Battery/img70.jpg",
+          "caption": "A technician labeling battery cables during installation."
+        },
+        {
+          "image_path": "Battery/img71.jpg",
+          "caption": "A power wall battery backup system installed in a utility room."
+        },
+        {
+          "image_path": "Battery/img72.jpg",
+          "caption": "A smart charger displaying charging mode and battery type."
+        },
+        {
+          "image_path": "Battery/img73.jpg",
+          "caption": "A comparison of flooded vs AGM battery internal structure."
+        },
+        {
+          "image_path": "Battery/img74.jpg",
+          "caption": "A lithium-iron phosphate battery labeled with capacity specs."
+        },
+        {
+          "image_path": "Battery/img75.jpg",
+          "caption": "A car battery with a removable vent plug design."
+        },
+        {
+          "image_path": "Battery/img76.jpg",
+          "caption": "A backup power supply with multiple connected batteries."
+        },
+        {
+          "image_path": "Battery/img77.jpg",
+          "caption": "A thermal imaging view of a battery showing heat distribution."
+        },
+        {
+          "image_path": "Battery/img78.jpg",
+          "caption": "A digital voltmeter connected to a car battery under load."
+        },
+        {
+          "image_path": "Battery/img79.jpg",
+          "caption": "A technician replacing a worn battery terminal connector."
+        },
+        {
+          "image_path": "Battery/img80.jpg",
+          "caption": "A solar inverter displaying charge levels of connected batteries."
+        },
+        {
+          "image_path": "Battery/img81.jpg",
+          "caption": "A lithium-ion battery module used in hybrid cars."
+        },
+        {
+          "image_path": "Battery/img82.jpg",
+          "caption": "A DIY battery enclosure box for RV applications."
+        },
+        {
+          "image_path": "Battery/img83.jpg",
+          "caption": "A car battery wrapped in insulation to improve cold-weather performance."
+        },
+        {
+          "image_path": "Battery/img84.jpg",
+          "caption": "A technician measuring voltage drop across battery terminals."
+        },
+        {
+          "image_path": "Battery/img85.jpg",
+          "caption": "A group of EV battery cells arranged in a cooling tray."
+        },
+        {
+          "image_path": "Battery/img86.jpg",
+          "caption": "A warning light on a dashboard indicating low battery voltage."
+        },
+        {
+          "image_path": "Battery/img87.jpg",
+          "caption": "A technician verifying proper torque on battery terminal bolts."
+        },
+        {
+          "image_path": "Battery/img88.jpg",
+          "caption": "A marine battery with dual terminals for starting and deep cycle use."
+        },
+        {
+          "image_path": "Battery/img89.jpg",
+          "caption": "A car battery mounted in the engine compartment of an SUV."
+        },
+        {
+          "image_path": "Battery/img90.jpg",
+          "caption": "A solar charge controller connected to multiple battery banks."
+        },
+        {
+          "image_path": "Battery/img91.jpg",
+          "caption": "A technician checking alternator output to the battery during engine run."
+        },
+        {
+          "image_path": "Battery/img92.jpg",
+          "caption": "An electric car battery with orange high-voltage warning tags."
+        },
+        {
+          "image_path": "Battery/img93.jpg",
+          "caption": "A car battery installed in a side-mounted engine bay tray."
+        },
+        {
+          "image_path": "Battery/img94.jpg",
+          "caption": "A battery temperature sensor attached to the negative terminal."
+        },
+        {
+          "image_path": "Battery/img95.jpg",
+          "caption": "A technician writing installation date on a new battery sticker."
+        },
+        {
+          "image_path": "Battery/img96.jpg",
+          "caption": "A power inverter connected to a 12V battery bank for camping use."
+        },
+        {
+          "image_path": "Battery/img97.jpg",
+          "caption": "A battery disconnect relay system installed in a service vehicle."
+        },
+        {
+          "image_path": "Battery/img98.jpg",
+          "caption": "A jump starter with integrated battery clamps and digital display."
+        },
+        {
+          "image_path": "Battery/img99.jpg",
+          "caption": "A smart BMS (battery management system) showing individual cell voltage."
+        },
+        {
+          "image_path": "Battery/img100.jpg",
+          "caption": "A technician using a battery memory saver while swapping car batteries."
+        },
+
+        
+            {
+              "image_path": "Battery/img101.jpg",
+              "caption": "A solar power system setup with multiple batteries in series."
+            },
+            {
+              "image_path": "Battery/img102.jpg",
+              "caption": "A car battery with color-coded terminals for safe installation."
+            },
+            {
+              "image_path": "Battery/img103.jpg",
+              "caption": "A maintenance-free battery with a sealed top design."
+            },
+            {
+              "image_path": "Battery/img104.jpg",
+              "caption": "A high-capacity lithium-ion battery used for energy storage."
+            },
+            {
+              "image_path": "Battery/img105.jpg",
+              "caption": "A close-up of battery terminal corrosion and green buildup."
+            },
+            {
+              "image_path": "Battery/img106.jpg",
+              "caption": "A battery disconnect switch installed on a heavy equipment machine."
+            },
+            {
+              "image_path": "Battery/img107.jpg",
+              "caption": "A battery casing showing vent holes and safety markings."
+            },
+            {
+              "image_path": "Battery/img108.jpg",
+              "caption": "A car with jumper cables connected to a dead battery."
+            },
+            {
+              "image_path": "Battery/img109.jpg",
+              "caption": "A power distribution box connected to a battery bank."
+            },
+            {
+              "image_path": "Battery/img110.jpg",
+              "caption": "An exploded view of a battery showing plates and separators."
+            },
+            {
+              "image_path": "Battery/img111.jpg",
+              "caption": "A dual battery setup in a 4x4 vehicle for auxiliary power."
+            },
+            {
+              "image_path": "Battery/img112.jpg",
+              "caption": "A forklift battery being lifted with a hoist and straps."
+            },
+            {
+              "image_path": "Battery/img113.jpg",
+              "caption": "A technician checking specific gravity of a battery cell."
+            },
+            {
+              "image_path": "Battery/img114.jpg",
+              "caption": "A car battery installed with anti-corrosion washers on terminals."
+            },
+            {
+              "image_path": "Battery/img115.jpg",
+              "caption": "A marine deep cycle battery with rugged terminals."
+            },
+            {
+              "image_path": "Battery/img116.jpg",
+              "caption": "An EV battery tray showing high-voltage wiring connections."
+            },
+            {
+              "image_path": "Battery/img117.jpg",
+              "caption": "A solar battery cabinet installed for residential use."
+            },
+            {
+              "image_path": "Battery/img118.jpg",
+              "caption": "A multimeter measuring battery voltage while engine is off."
+            },
+            {
+              "image_path": "Battery/img119.jpg",
+              "caption": "A thermal runaway diagram of a lithium-ion battery failure."
+            },
+            {
+              "image_path": "Battery/img120.jpg",
+              "caption": "A group of batteries labeled for recycling and disposal."
+            },
+            {
+              "image_path": "Battery/img121.jpg",
+              "caption": "A power inverter charging a battery from a solar panel input."
+            },
+            {
+              "image_path": "Battery/img122.jpg",
+              "caption": "A large lead-acid battery with external cell covers."
+            },
+            {
+              "image_path": "Battery/img123.jpg",
+              "caption": "A car battery installed with a strap-down bracket."
+            },
+            {
+              "image_path": "Battery/img124.jpg",
+              "caption": "A technician testing alternator output to a fully charged battery."
+            },
+            {
+              "image_path": "Battery/img125.jpg",
+              "caption": "An AGM battery placed in an enclosed battery case."
+            },
+            {
+              "image_path": "Battery/img126.jpg",
+              "caption": "A solar-powered RV showing battery box and charge controller."
+            },
+            {
+              "image_path": "Battery/img127.jpg",
+              "caption": "A digital battery load tester displaying cold cranking amps."
+            },
+            {
+              "image_path": "Battery/img128.jpg",
+              "caption": "A lithium battery mounted in a compact electric scooter."
+            },
+            {
+              "image_path": "Battery/img129.jpg",
+              "caption": "A disassembled hybrid battery showing modules and cooling fans."
+            },
+            {
+              "image_path": "Battery/img130.jpg",
+              "caption": "A sealed battery labeled with warning signs and voltage rating."
+            },
+            {
+              "image_path": "Battery/img131.jpg",
+              "caption": "A car battery installation tool set including puller and tester."
+            },
+            {
+              "image_path": "Battery/img132.jpg",
+              "caption": "An RV battery bank with circuit breakers and fuses."
+            },
+            {
+              "image_path": "Battery/img133.jpg",
+              "caption": "A small solar lantern battery being charged by sunlight."
+            },
+            {
+              "image_path": "Battery/img134.jpg",
+              "caption": "A battery installed under the trunk floor of a modern vehicle."
+            },
+            {
+              "image_path": "Battery/img135.jpg",
+              "caption": "A schematic showing series and parallel battery wiring."
+            },
+            {
+              "image_path": "Battery/img136.jpg",
+              "caption": "A high-capacity AGM battery used in emergency lighting systems."
+            },
+            {
+              "image_path": "Battery/img137.jpg",
+              "caption": "A sealed 12V gel battery labeled for deep cycle usage."
+            },
+            {
+              "image_path": "Battery/img138.jpg",
+              "caption": "A solar energy storage battery with an LCD charge indicator."
+            },
+            {
+              "image_path": "Battery/img139.jpg",
+              "caption": "A technician inspecting an electric vehicle battery module."
+            },
+            {
+              "image_path": "Battery/img140.jpg",
+              "caption": "A dual-purpose marine battery mounted in a weatherproof box."
+            },
+            {
+              "image_path": "Battery/img141.jpg",
+              "caption": "A technician checking for parasitic battery drain using a clamp meter."
+            },
+            {
+              "image_path": "Battery/img142.jpg",
+              "caption": "A car battery with a QR code for tracking and maintenance history."
+            },
+            {
+              "image_path": "Battery/img143.jpg",
+              "caption": "A motorcycle battery charger with selectable voltage modes."
+            },
+            {
+              "image_path": "Battery/img144.jpg",
+              "caption": "A digital monitor showing real-time battery voltage and charge status."
+            },
+            {
+              "image_path": "Battery/img145.jpg",
+              "caption": "An off-grid battery system inside a ventilated metal cabinet."
+            },
+            {
+              "image_path": "Battery/img146.jpg",
+              "caption": "A temperature-compensated charger connected to a gel battery."
+            },
+            {
+              "image_path": "Battery/img147.jpg",
+              "caption": "A solar inverter mounted above a deep cycle battery pack."
+            },
+            {
+              "image_path": "Battery/img148.jpg",
+              "caption": "A technician checking voltage imbalance in a battery pack."
+            },
+            {
+              "image_path": "Battery/img149.jpg",
+              "caption": "A mobile backup battery pack labeled for UPS systems."
+            },
+            {
+              "image_path": "Battery/img150.jpg",
+              "caption": "A fuse box connected to a battery distribution system."
+            },
+
+            
+                {
+                  "image_path": "Battery/img151.jpg",
+                  "caption": "A battery tester measuring cold cranking amps on a car battery."
+                },
+                {
+                  "image_path": "Battery/img152.jpg",
+                  "caption": "An off-grid solar battery storage system with inverter and controller."
+                },
+                {
+                  "image_path": "Battery/img153.jpg",
+                  "caption": "A maintenance-free lead-acid battery labeled for automotive use."
+                },
+                {
+                  "image_path": "Battery/img154.jpg",
+                  "caption": "A forklift with an industrial battery pack mounted on the rear."
+                },
+                {
+                  "image_path": "Battery/img155.jpg",
+                  "caption": "A battery charger showing charging, full, and error indicator lights."
+                },
+                {
+                  "image_path": "Battery/img156.jpg",
+                  "caption": "A hybrid car battery compartment with protective covers."
+                },
+                {
+                  "image_path": "Battery/img157.jpg",
+                  "caption": "A battery with BMS (battery management system) wiring harness."
+                },
+                {
+                  "image_path": "Battery/img158.jpg",
+                  "caption": "A solar battery bank stored inside a temperature-controlled room."
+                },
+                {
+                  "image_path": "Battery/img159.jpg",
+                  "caption": "A 24V battery pack with a balancing circuit for even charge."
+                },
+                {
+                  "image_path": "Battery/img160.jpg",
+                  "caption": "A UPS system with multiple batteries in a rack-mounted setup."
+                },
+                {
+                  "image_path": "Battery/img161.jpg",
+                  "caption": "A sealed battery with built-in terminals and carrying handle."
+                },
+                {
+                  "image_path": "Battery/img162.jpg",
+                  "caption": "A motorcycle battery placed in a compact frame with secured bolts."
+                },
+                {
+                  "image_path": "Battery/img163.jpg",
+                  "caption": "A gel battery used in mobility scooters and wheelchairs."
+                },
+                {
+                  "image_path": "Battery/img164.jpg",
+                  "caption": "An industrial control panel powered by a backup battery pack."
+                },
+                {
+                  "image_path": "Battery/img165.jpg",
+                  "caption": "A fireproof battery storage box for lithium battery safety."
+                },
+                {
+                  "image_path": "Battery/img166.jpg",
+                  "caption": "A vehicle battery tray designed for corrosion resistance."
+                },
+                {
+                  "image_path": "Battery/img167.jpg",
+                  "caption": "A solar charge controller regulating input to a deep cycle battery."
+                },
+                {
+                  "image_path": "Battery/img168.jpg",
+                  "caption": "An AGM battery installed in a recreational boat engine bay."
+                },
+                {
+                  "image_path": "Battery/img169.jpg",
+                  "caption": "A lithium battery module with active thermal management."
+                },
+                {
+                  "image_path": "Battery/img170.jpg",
+                  "caption": "A smart battery monitor showing remaining charge percentage."
+                },
+                {
+                  "image_path": "Battery/img171.jpg",
+                  "caption": "A technician assembling battery modules for electric vehicle use."
+                },
+                {
+                  "image_path": "Battery/img172.jpg",
+                  "caption": "A battery voltage stabilizer connected to a car battery terminal."
+                },
+                {
+                  "image_path": "Battery/img173.jpg",
+                  "caption": "A set of NiMH batteries used in hybrid automotive applications."
+                },
+                {
+                  "image_path": "Battery/img174.jpg",
+                  "caption": "A small sealed lead-acid battery for security systems."
+                },
+                {
+                  "image_path": "Battery/img175.jpg",
+                  "caption": "A maintenance bay with battery charging stations for fleet vehicles."
+                },
+                {
+                  "image_path": "Battery/img176.jpg",
+                  "caption": "A drone battery with balance lead and discharge plug."
+                },
+                {
+                  "image_path": "Battery/img177.jpg",
+                  "caption": "A set of RV batteries connected in series for 24V operation."
+                },
+                {
+                  "image_path": "Battery/img178.jpg",
+                  "caption": "A solar battery cabinet with fire-rated insulation."
+                },
+                {
+                  "image_path": "Battery/img179.jpg",
+                  "caption": "A discharged battery being reconditioned using a smart charger."
+                },
+                {
+                  "image_path": "Battery/img180.jpg",
+                  "caption": "A gel battery showing battery model and amp-hour rating."
+                },
+                {
+                  "image_path": "Battery/img181.jpg",
+                  "caption": "A rugged deep cycle battery for marine and RV applications."
+                },
+                {
+                  "image_path": "Battery/img182.jpg",
+                  "caption": "A scooter battery compartment with removable power pack."
+                },
+                {
+                  "image_path": "Battery/img183.jpg",
+                  "caption": "An array of inverter batteries wired to power home appliances."
+                },
+                {
+                  "image_path": "Battery/img184.jpg",
+                  "caption": "A 12V AGM battery showing battery terminal post polarity."
+                },
+                {
+                  "image_path": "Battery/img185.jpg",
+                  "caption": "A sealed gel battery with visual charge indicator."
+                },
+                {
+                  "image_path": "Battery/img186.jpg",
+                  "caption": "An electric bike battery pack mounted on the frame tube."
+                },
+                {
+                  "image_path": "Battery/img187.jpg",
+                  "caption": "A technician inspecting battery cell voltage with a multimeter."
+                },
+                {
+                  "image_path": "Battery/img188.jpg",
+                  "caption": "A high-density lithium-ion battery inside a metal casing."
+                },
+                {
+                  "image_path": "Battery/img189.jpg",
+                  "caption": "A solar generator system with integrated lithium battery storage."
+                },
+                {
+                  "image_path": "Battery/img190.jpg",
+                  "caption": "A UPS battery replacement unit ready for installation."
+                },
+                {
+                  "image_path": "Battery/img191.jpg",
+                  "caption": "A forklift with a side-access battery tray for fast swap."
+                },
+                {
+                  "image_path": "Battery/img192.jpg",
+                  "caption": "A 48V battery bank mounted on a wall for home energy backup."
+                },
+                {
+                  "image_path": "Battery/img193.jpg",
+                  "caption": "A battery equalizer connected to balance charging voltage."
+                },
+                {
+                  "image_path": "Battery/img194.jpg",
+                  "caption": "A solar inverter monitoring battery voltage and charge cycles."
+                },
+                {
+                  "image_path": "Battery/img195.jpg",
+                  "caption": "A battery backup unit installed in a telecom rack system."
+                },
+                {
+                  "image_path": "Battery/img196.jpg",
+                  "caption": "An exploded diagram of a gel battery showing internal plates."
+                },
+                {
+                  "image_path": "Battery/img197.jpg",
+                  "caption": "A small lead-acid battery powering an emergency exit sign."
+                },
+                {
+                  "image_path": "Battery/img198.jpg",
+                  "caption": "A technician replacing a worn-out AGM battery in a car."
+                },
+                {
+                  "image_path": "Battery/img199.jpg",
+                  "caption": "A vehicle battery showing amp-hour and reserve capacity ratings."
+                },
+                {
+                  "image_path": "Battery/img200.jpg",
+                  "caption": "A solar-powered gate opener battery installed in a weatherproof case."
+                }
+              
+              
+
+
+          
+          
+      
+      
+  ]
+  

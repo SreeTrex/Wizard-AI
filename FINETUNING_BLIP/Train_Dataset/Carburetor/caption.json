@@ -1,0 +1,814 @@
+[
+    {
+      "image_path": "Carburetor/img1.jpg",
+      "caption": "A classic carburetor with a single barrel and fuel inlet pipe."
+    },
+    {
+      "image_path": "Carburetor/img2.jpg",
+      "caption": "A dual-barrel carburetor mounted on an intake manifold."
+    },
+    {
+      "image_path": "Carburetor/img3.jpg",
+      "caption": "A motorcycle carburetor with throttle cable attachment."
+    },
+    {
+      "image_path": "Carburetor/img4.jpg",
+      "caption": "A vintage carburetor with brass fittings and float bowl."
+    },
+    {
+      "image_path": "Carburetor/img5.jpg",
+      "caption": "An automotive carburetor featuring a choke valve and idle screw."
+    },
+    {
+      "image_path": "Carburetor/img6.jpg",
+      "caption": "A side-draft carburetor designed for high-performance engines."
+    },
+    {
+      "image_path": "Carburetor/img7.jpg",
+      "caption": "A carburetor with an integrated air cleaner housing."
+    },
+    {
+      "image_path": "Carburetor/img8.jpg",
+      "caption": "A compact carburetor used in small engine applications."
+    },
+    {
+      "image_path": "Carburetor/img9.jpg",
+      "caption": "A high-performance carburetor with an adjustable fuel jet system."
+    },
+    {
+      "image_path": "Carburetor/img10.jpg",
+      "caption": "A single-cylinder engine carburetor with a manual choke lever."
+    },
+    {
+      "image_path": "Carburetor/img11.jpg",
+      "caption": "An aluminum body carburetor designed for durability and heat resistance."
+    },
+    {
+      "image_path": "Carburetor/img12.jpg",
+      "caption": "A small carburetor used in garden equipment engines."
+    },
+    {
+      "image_path": "Carburetor/img13.jpg",
+      "caption": "A carburetor with dual throttle valves for improved airflow."
+    },
+    {
+      "image_path": "Carburetor/img14.jpg",
+      "caption": "A marine carburetor resistant to corrosion and fuel contamination."
+    },
+    {
+      "image_path": "Carburetor/img15.jpg",
+      "caption": "A carburetor with a transparent fuel bowl for level inspection."
+    },
+    {
+      "image_path": "Carburetor/img16.jpg",
+      "caption": "A performance carburetor designed for racing applications."
+    },
+    {
+      "image_path": "Carburetor/img17.jpg",
+      "caption": "A simple carburetor with minimal adjustments for ease of use."
+    },
+    {
+      "image_path": "Carburetor/img18.jpg",
+      "caption": "An updraft carburetor suitable for older engine models."
+    },
+    {
+      "image_path": "Carburetor/img19.jpg",
+      "caption": "A multi-barrel carburetor used in V8 engines."
+    },
+    {
+      "image_path": "Carburetor/img20.jpg",
+      "caption": "A carburetor featuring an electric choke system."
+    },
+    {
+      "image_path": "Carburetor/img21.jpg",
+      "caption": "A carburetor with precision-machined components for performance tuning."
+    },
+    {
+      "image_path": "Carburetor/img22.jpg",
+      "caption": "A float-type carburetor with manual primer for fuel delivery."
+    },
+    {
+      "image_path": "Carburetor/img23.jpg",
+      "caption": "An adjustable idle mixture carburetor with dual ports."
+    },
+    {
+      "image_path": "Carburetor/img24.jpg",
+      "caption": "A heavy-duty carburetor designed for large industrial engines."
+    },
+    {
+      "image_path": "Carburetor/img25.jpg",
+      "caption": "A carburetor with an integrated fuel filter for debris protection."
+    },
+    {
+      "image_path": "Carburetor/img26.jpg",
+      "caption": "A sports bike carburetor with optimized airflow paths."
+    },
+    {
+      "image_path": "Carburetor/img27.jpg",
+      "caption": "A dual-fuel carburetor compatible with gasoline and ethanol."
+    },
+    {
+      "image_path": "Carburetor/img28.jpg",
+      "caption": "A throttle-body carburetor for improved engine response."
+    },
+    {
+      "image_path": "Carburetor/img29.jpg",
+      "caption": "An easy-tune carburetor with accessible adjustment screws."
+    },
+    {
+      "image_path": "Carburetor/img30.jpg",
+      "caption": "A side-draft carburetor designed for compact engine bays."
+    },
+    {
+      "image_path": "Carburetor/img31.jpg",
+      "caption": "A mechanical carburetor with external linkage controls."
+    },
+    {
+      "image_path": "Carburetor/img32.jpg",
+      "caption": "An off-road vehicle carburetor designed for fuel stability."
+    },
+    {
+      "image_path": "Carburetor/img33.jpg",
+      "caption": "A rugged carburetor with vibration-resistant mounting."
+    },
+    {
+      "image_path": "Carburetor/img34.jpg",
+      "caption": "A lawnmower carburetor with fuel priming bulb."
+    },
+    {
+      "image_path": "Carburetor/img35.jpg",
+      "caption": "A custom-built carburetor used in drag racing cars."
+    },
+    {
+      "image_path": "Carburetor/img36.jpg",
+      "caption": "A float bowl carburetor with overflow drain."
+    },
+    {
+      "image_path": "Carburetor/img37.jpg",
+      "caption": "A two-stroke engine carburetor with simple fuel delivery."
+    },
+    {
+      "image_path": "Carburetor/img38.jpg",
+      "caption": "An economy carburetor tuned for fuel efficiency."
+    },
+    {
+      "image_path": "Carburetor/img39.jpg",
+      "caption": "A large-capacity carburetor with wide throttle openings."
+    },
+    {
+      "image_path": "Carburetor/img40.jpg",
+      "caption": "A factory-tuned carburetor optimized for emissions control."
+    },
+    {
+      "image_path": "Carburetor/img41.jpg",
+      "caption": "A rebuildable carburetor with replaceable jets and gaskets."
+    },
+    {
+      "image_path": "Carburetor/img42.jpg",
+      "caption": "A gravity-fed carburetor with basic fuel metering system."
+    },
+    {
+      "image_path": "Carburetor/img43.jpg",
+      "caption": "A sealed carburetor unit designed for tamper-resistance."
+    },
+    {
+      "image_path": "Carburetor/img44.jpg",
+      "caption": "A compact carburetor used in generator engines."
+    },
+    {
+      "image_path": "Carburetor/img45.jpg",
+      "caption": "A carburetor with heat-resistant plastic float."
+    },
+    {
+      "image_path": "Carburetor/img46.jpg",
+      "caption": "A large four-barrel carburetor for maximum airflow."
+    },
+    {
+      "image_path": "Carburetor/img47.jpg",
+      "caption": "A sealed performance carburetor pre-set by the manufacturer."
+    },
+    {
+      "image_path": "Carburetor/img48.jpg",
+      "caption": "A dual-carburetor setup installed on a classic engine."
+    },
+    {
+      "image_path": "Carburetor/img49.jpg",
+      "caption": "A restored vintage carburetor with period-correct components."
+    },
+    {
+      "image_path": "Carburetor/img50.jpg",
+      "caption": "A motorbike carburetor with side-mount fuel inlet and vent tube."
+    },
+
+    
+        {
+          "image_path": "Carburetor/img51.jpg",
+          "caption": "A carburetor with a vacuum-operated secondary barrel."
+        },
+        {
+          "image_path": "Carburetor/img52.jpg",
+          "caption": "A high-efficiency carburetor tuned for smoother idle."
+        },
+        {
+          "image_path": "Carburetor/img53.jpg",
+          "caption": "A miniature carburetor designed for RC engines."
+        },
+        {
+          "image_path": "Carburetor/img54.jpg",
+          "caption": "A carburetor equipped with a throttle position sensor."
+        },
+        {
+          "image_path": "Carburetor/img55.jpg",
+          "caption": "A custom billet carburetor built for show cars."
+        },
+        {
+          "image_path": "Carburetor/img56.jpg",
+          "caption": "A dual-inlet carburetor with independent fuel feeds."
+        },
+        {
+          "image_path": "Carburetor/img57.jpg",
+          "caption": "A marine-grade carburetor with anti-corrosive coating."
+        },
+        {
+          "image_path": "Carburetor/img58.jpg",
+          "caption": "A sports bike carburetor with optimized slide throttle."
+        },
+        {
+          "image_path": "Carburetor/img59.jpg",
+          "caption": "A tuning carburetor used for engine benchmarking."
+        },
+        {
+          "image_path": "Carburetor/img60.jpg",
+          "caption": "A side-mount carburetor with fuel shutoff valve."
+        },
+        {
+          "image_path": "Carburetor/img61.jpg",
+          "caption": "A compact engine carburetor with minimalist design."
+        },
+        {
+          "image_path": "Carburetor/img62.jpg",
+          "caption": "A chrome-finished carburetor for aesthetic appeal."
+        },
+        {
+          "image_path": "Carburetor/img63.jpg",
+          "caption": "A racing carburetor with oversized throttle bore."
+        },
+        {
+          "image_path": "Carburetor/img64.jpg",
+          "caption": "An angled intake carburetor with tuned velocity stacks."
+        },
+        {
+          "image_path": "Carburetor/img65.jpg",
+          "caption": "A fuel-saving carburetor designed for commuting vehicles."
+        },
+        {
+          "image_path": "Carburetor/img66.jpg",
+          "caption": "An old-style carburetor with copper linkages."
+        },
+        {
+          "image_path": "Carburetor/img67.jpg",
+          "caption": "A multi-stage carburetor with electronic choke control."
+        },
+        {
+          "image_path": "Carburetor/img68.jpg",
+          "caption": "A powerboat carburetor built for high load conditions."
+        },
+        {
+          "image_path": "Carburetor/img69.jpg",
+          "caption": "A compact fuel-efficient carburetor on a single-cylinder engine."
+        },
+        {
+          "image_path": "Carburetor/img70.jpg",
+          "caption": "A visible float-type carburetor with transparent casing."
+        },
+        {
+          "image_path": "Carburetor/img71.jpg",
+          "caption": "A diesel conversion carburetor for dual fuel compatibility."
+        },
+        {
+          "image_path": "Carburetor/img72.jpg",
+          "caption": "A classic vehicle carburetor restored to factory spec."
+        },
+        {
+          "image_path": "Carburetor/img73.jpg",
+          "caption": "An aircraft engine carburetor with precise air-fuel mixture control."
+        },
+        {
+          "image_path": "Carburetor/img74.jpg",
+          "caption": "A twin-carburetor setup with synchronized throttle linkages."
+        },
+        {
+          "image_path": "Carburetor/img75.jpg",
+          "caption": "A motorcycle carburetor with performance jet kit installed."
+        },
+        {
+          "image_path": "Carburetor/img76.jpg",
+          "caption": "A hybrid fuel carburetor designed for ethanol blends."
+        },
+        {
+          "image_path": "Carburetor/img77.jpg",
+          "caption": "A snowmobile carburetor optimized for cold starts."
+        },
+        {
+          "image_path": "Carburetor/img78.jpg",
+          "caption": "A rotary engine carburetor with wide airflow capacity."
+        },
+        {
+          "image_path": "Carburetor/img79.jpg",
+          "caption": "A carburetor fitted with a fine mesh air screen."
+        },
+        {
+          "image_path": "Carburetor/img80.jpg",
+          "caption": "A simplified carburetor used in generator engines."
+        },
+        {
+          "image_path": "Carburetor/img81.jpg",
+          "caption": "An angled top carburetor with unique float chamber design."
+        },
+        {
+          "image_path": "Carburetor/img82.jpg",
+          "caption": "A modern replica of a vintage-style carburetor."
+        },
+        {
+          "image_path": "Carburetor/img83.jpg",
+          "caption": "A tuning carburetor with manual air-fuel mix adjustment."
+        },
+        {
+          "image_path": "Carburetor/img84.jpg",
+          "caption": "A dual-tube carburetor configured for parallel airflow."
+        },
+        {
+          "image_path": "Carburetor/img85.jpg",
+          "caption": "A heavy-duty carburetor built for rugged terrain engines."
+        },
+        {
+          "image_path": "Carburetor/img86.jpg",
+          "caption": "A dirt bike carburetor with reinforced throttle slide."
+        },
+        {
+          "image_path": "Carburetor/img87.jpg",
+          "caption": "A high-rise carburetor for engines with vertical clearance."
+        },
+        {
+          "image_path": "Carburetor/img88.jpg",
+          "caption": "A dual-choke carburetor offering better low-end torque."
+        },
+        {
+          "image_path": "Carburetor/img89.jpg",
+          "caption": "A factory-tuned carburetor installed on a commuter motorcycle."
+        },
+        {
+          "image_path": "Carburetor/img90.jpg",
+          "caption": "A high-rev carburetor with fine throttle response control."
+        },
+        {
+          "image_path": "Carburetor/img91.jpg",
+          "caption": "An aftermarket carburetor with increased fuel delivery ports."
+        },
+        {
+          "image_path": "Carburetor/img92.jpg",
+          "caption": "A specialty carburetor for two-cylinder scooters."
+        },
+        {
+          "image_path": "Carburetor/img93.jpg",
+          "caption": "A vintage side-draft carburetor fitted to a classic mini engine."
+        },
+        {
+          "image_path": "Carburetor/img94.jpg",
+          "caption": "A turbo-compatible carburetor with sealed float chamber."
+        },
+        {
+          "image_path": "Carburetor/img95.jpg",
+          "caption": "A chrome-enhanced showpiece carburetor for display vehicles."
+        },
+        {
+          "image_path": "Carburetor/img96.jpg",
+          "caption": "A wet-jet carburetor adapted for aquatic engine use."
+        },
+        {
+          "image_path": "Carburetor/img97.jpg",
+          "caption": "A flexible jet carburetor with interchangeable tuning kits."
+        },
+        {
+          "image_path": "Carburetor/img98.jpg",
+          "caption": "A side-facing intake carburetor with short runner length."
+        },
+        {
+          "image_path": "Carburetor/img99.jpg",
+          "caption": "A carburetor with dual float bowls for better fuel reserve."
+        },
+        {
+          "image_path": "Carburetor/img100.jpg",
+          "caption": "An idle-stabilized carburetor for smooth engine operation."
+        },
+        
+            {
+              "image_path": "Carburetor/img101.jpg",
+              "caption": "A high-output carburetor designed for drag racing applications."
+            },
+            {
+              "image_path": "Carburetor/img102.jpg",
+              "caption": "A compact side-draft carburetor for tight engine bays."
+            },
+            {
+              "image_path": "Carburetor/img103.jpg",
+              "caption": "A heavy-duty carburetor used in industrial equipment."
+            },
+            {
+              "image_path": "Carburetor/img104.jpg",
+              "caption": "A triple-barrel carburetor delivering maximum airflow."
+            },
+            {
+              "image_path": "Carburetor/img105.jpg",
+              "caption": "A modified carburetor with extended throttle linkage."
+            },
+            {
+              "image_path": "Carburetor/img106.jpg",
+              "caption": "A jet-tuned carburetor for optimized power output."
+            },
+            {
+              "image_path": "Carburetor/img107.jpg",
+              "caption": "An electric choke carburetor used in modern retrofits."
+            },
+            {
+              "image_path": "Carburetor/img108.jpg",
+              "caption": "A precision-machined carburetor with billet aluminum body."
+            },
+            {
+              "image_path": "Carburetor/img109.jpg",
+              "caption": "A dual-sport carburetor supporting on and off-road performance."
+            },
+            {
+              "image_path": "Carburetor/img110.jpg",
+              "caption": "A performance carburetor with adjustable air bleeds."
+            },
+            {
+              "image_path": "Carburetor/img111.jpg",
+              "caption": "A simplified carburetor for generator and mower applications."
+            },
+            {
+              "image_path": "Carburetor/img112.jpg",
+              "caption": "A carburetor featuring a velocity stack for improved airflow."
+            },
+            {
+              "image_path": "Carburetor/img113.jpg",
+              "caption": "A multi-stage carburetor with optimized fuel atomization."
+            },
+            {
+              "image_path": "Carburetor/img114.jpg",
+              "caption": "A fuel-efficient carburetor used in vintage commuter cars."
+            },
+            {
+              "image_path": "Carburetor/img115.jpg",
+              "caption": "A race-ready carburetor with maximum fuel delivery."
+            },
+            {
+              "image_path": "Carburetor/img116.jpg",
+              "caption": "A compact downdraft carburetor suited for four-stroke engines."
+            },
+            {
+              "image_path": "Carburetor/img117.jpg",
+              "caption": "A high-capacity carburetor designed for large-displacement engines."
+            },
+            {
+              "image_path": "Carburetor/img118.jpg",
+              "caption": "A modular carburetor system allowing for tuning flexibility."
+            },
+            {
+              "image_path": "Carburetor/img119.jpg",
+              "caption": "A twin-barrel carburetor installed on a classic V6 engine."
+            },
+            {
+              "image_path": "Carburetor/img120.jpg",
+              "caption": "A performance motorcycle carburetor with slide throttle design."
+            },
+            {
+              "image_path": "Carburetor/img121.jpg",
+              "caption": "A carburetor with a precision air-fuel metering system."
+            },
+            {
+              "image_path": "Carburetor/img122.jpg",
+              "caption": "An emission-compliant carburetor with secondary air system."
+            },
+            {
+              "image_path": "Carburetor/img123.jpg",
+              "caption": "A classic sports car carburetor restored to OEM specifications."
+            },
+            {
+              "image_path": "Carburetor/img124.jpg",
+              "caption": "A rotary throttle carburetor used in aviation applications."
+            },
+            {
+              "image_path": "Carburetor/img125.jpg",
+              "caption": "A carburetor equipped with cold start enrichment mechanism."
+            },
+            {
+              "image_path": "Carburetor/img126.jpg",
+              "caption": "A modified dual-carburetor setup for boosted engines."
+            },
+            {
+              "image_path": "Carburetor/img127.jpg",
+              "caption": "A dirt bike carburetor featuring off-road jetting."
+            },
+            {
+              "image_path": "Carburetor/img128.jpg",
+              "caption": "An easy-to-tune carburetor built for DIY mechanics."
+            },
+            {
+              "image_path": "Carburetor/img129.jpg",
+              "caption": "A vintage aircraft carburetor with dual fuel ports."
+            },
+            {
+              "image_path": "Carburetor/img130.jpg",
+              "caption": "A streamlined carburetor with integrated air filter housing."
+            },
+            {
+              "image_path": "Carburetor/img131.jpg",
+              "caption": "A progressive throttle carburetor for responsive acceleration."
+            },
+            {
+              "image_path": "Carburetor/img132.jpg",
+              "caption": "A marine carburetor with sealed vent lines for safety."
+            },
+            {
+              "image_path": "Carburetor/img133.jpg",
+              "caption": "A side-draft carburetor used in performance tuning."
+            },
+            {
+              "image_path": "Carburetor/img134.jpg",
+              "caption": "A turbo-compatible carburetor with pressure balancing tube."
+            },
+            {
+              "image_path": "Carburetor/img135.jpg",
+              "caption": "A classic V8 engine carburetor with quad-venturi design."
+            },
+            {
+              "image_path": "Carburetor/img136.jpg",
+              "caption": "A high-altitude carburetor tuned for mountain performance."
+            },
+            {
+              "image_path": "Carburetor/img137.jpg",
+              "caption": "A fuel-conserving carburetor installed on a hybrid prototype."
+            },
+            {
+              "image_path": "Carburetor/img138.jpg",
+              "caption": "A two-stroke engine carburetor optimized for oil-gas mixing."
+            },
+            {
+              "image_path": "Carburetor/img139.jpg",
+              "caption": "A throttle body carburetor with injection-mimicking characteristics."
+            },
+            {
+              "image_path": "Carburetor/img140.jpg",
+              "caption": "A vintage British twin-carburetor system for sports saloons."
+            },
+            {
+              "image_path": "Carburetor/img141.jpg",
+              "caption": "A performance-enhanced carburetor with oversized jets."
+            },
+            {
+              "image_path": "Carburetor/img142.jpg",
+              "caption": "A compact downdraft carburetor used in go-karts."
+            },
+            {
+              "image_path": "Carburetor/img143.jpg",
+              "caption": "A gas vapor carburetor designed for emissions testing."
+            },
+            {
+              "image_path": "Carburetor/img144.jpg",
+              "caption": "A rugged outdoor equipment carburetor with dust-proof vents."
+            },
+            {
+              "image_path": "Carburetor/img145.jpg",
+              "caption": "A lightweight aluminum carburetor for racing motorcycles."
+            },
+            {
+              "image_path": "Carburetor/img146.jpg",
+              "caption": "A downdraft carburetor with secondary venturi booster."
+            },
+            {
+              "image_path": "Carburetor/img147.jpg",
+              "caption": "A single-barrel carburetor designed for simplicity and reliability."
+            },
+            {
+              "image_path": "Carburetor/img148.jpg",
+              "caption": "A classic German carburetor used in vintage Beetles."
+            },
+            {
+              "image_path": "Carburetor/img149.jpg",
+              "caption": "A custom 3D-printed carburetor prototype for small engines."
+            },
+            {
+              "image_path": "Carburetor/img150.jpg",
+              "caption": "A dual-stage high-velocity carburetor for performance engines."
+            },
+
+            
+                {
+                  "image_path": "Carburetor/img151.jpg",
+                  "caption": "A high-performance carburetor featuring dual float bowls for fuel stability."
+                },
+                {
+                  "image_path": "Carburetor/img152.jpg",
+                  "caption": "A snowmobile carburetor with cold-weather tuning enhancements."
+                },
+                {
+                  "image_path": "Carburetor/img153.jpg",
+                  "caption": "A dual-choke carburetor offering smooth transition under acceleration."
+                },
+                {
+                  "image_path": "Carburetor/img154.jpg",
+                  "caption": "A carburetor with anti-backfire valve for added safety."
+                },
+                {
+                  "image_path": "Carburetor/img155.jpg",
+                  "caption": "A compact fuel-efficient carburetor built for scooters."
+                },
+                {
+                  "image_path": "Carburetor/img156.jpg",
+                  "caption": "A race carburetor featuring high-capacity fuel jets and polished internals."
+                },
+                {
+                  "image_path": "Carburetor/img157.jpg",
+                  "caption": "An antique tractor carburetor preserved with original hardware."
+                },
+                {
+                  "image_path": "Carburetor/img158.jpg",
+                  "caption": "A heavy-duty off-road carburetor with reinforced throttle components."
+                },
+                {
+                  "image_path": "Carburetor/img159.jpg",
+                  "caption": "A sealed carburetor system used in marine engines for corrosion resistance."
+                },
+                {
+                  "image_path": "Carburetor/img160.jpg",
+                  "caption": "A triple-barrel carburetor installed on a modified inline-six engine."
+                },
+                {
+                  "image_path": "Carburetor/img161.jpg",
+                  "caption": "A compact carburetor integrated with an electric primer system."
+                },
+                {
+                  "image_path": "Carburetor/img162.jpg",
+                  "caption": "A rotary engine carburetor configured for optimal flow patterns."
+                },
+                {
+                  "image_path": "Carburetor/img163.jpg",
+                  "caption": "A simplified carburetor system for entry-level automotive repairs."
+                },
+                {
+                  "image_path": "Carburetor/img164.jpg",
+                  "caption": "A dual-fuel carburetor supporting gasoline and propane configurations."
+                },
+                {
+                  "image_path": "Carburetor/img165.jpg",
+                  "caption": "A lightweight polycarbonate carburetor for small aircraft."
+                },
+                {
+                  "image_path": "Carburetor/img166.jpg",
+                  "caption": "A performance scooter carburetor with large bore design."
+                },
+                {
+                  "image_path": "Carburetor/img167.jpg",
+                  "caption": "A sealed carburetor equipped with remote choke cable support."
+                },
+                {
+                  "image_path": "Carburetor/img168.jpg",
+                  "caption": "A nostalgic side-draft carburetor commonly seen on classic British bikes."
+                },
+                {
+                  "image_path": "Carburetor/img169.jpg",
+                  "caption": "A universal-fit carburetor adaptable across various lawn machines."
+                },
+                {
+                  "image_path": "Carburetor/img170.jpg",
+                  "caption": "A single-barrel carburetor with clear fuel inspection window."
+                },
+                {
+                  "image_path": "Carburetor/img171.jpg",
+                  "caption": "A cold-start enhanced carburetor optimized for winter conditions."
+                },
+                {
+                  "image_path": "Carburetor/img172.jpg",
+                  "caption": "A rugged motorcycle carburetor featuring brass jets and seals."
+                },
+                {
+                  "image_path": "Carburetor/img173.jpg",
+                  "caption": "A throttle-assisted carburetor supporting dual fuel feeds."
+                },
+                {
+                  "image_path": "Carburetor/img174.jpg",
+                  "caption": "A heavy equipment carburetor designed for diesel-gas hybrid conversions."
+                },
+                {
+                  "image_path": "Carburetor/img175.jpg",
+                  "caption": "A kart racing carburetor with high-performance airflow tuning."
+                },
+                {
+                  "image_path": "Carburetor/img176.jpg",
+                  "caption": "A lean-burn carburetor providing maximum fuel economy."
+                },
+                {
+                  "image_path": "Carburetor/img177.jpg",
+                  "caption": "A performance ATV carburetor with multi-jet support."
+                },
+                {
+                  "image_path": "Carburetor/img178.jpg",
+                  "caption": "A motorcycle carburetor with adjustable throttle stop screw."
+                },
+                {
+                  "image_path": "Carburetor/img179.jpg",
+                  "caption": "A marine-grade dual-barrel carburetor with sealed gaskets."
+                },
+                {
+                  "image_path": "Carburetor/img180.jpg",
+                  "caption": "A compact rotary engine carburetor with side venturi layout."
+                },
+                {
+                  "image_path": "Carburetor/img181.jpg",
+                  "caption": "A heavy-duty snowblower carburetor resistant to frost build-up."
+                },
+                {
+                  "image_path": "Carburetor/img182.jpg",
+                  "caption": "A fully-restored classic American muscle car carburetor."
+                },
+                {
+                  "image_path": "Carburetor/img183.jpg",
+                  "caption": "A small-engine carburetor designed for outboard motors."
+                },
+                {
+                  "image_path": "Carburetor/img184.jpg",
+                  "caption": "A sports bike carburetor equipped with acceleration pump."
+                },
+                {
+                  "image_path": "Carburetor/img185.jpg",
+                  "caption": "An experimental carburetor designed to atomize alternative fuels."
+                },
+                {
+                  "image_path": "Carburetor/img186.jpg",
+                  "caption": "A high-rise intake carburetor integrated into a race plenum."
+                },
+                {
+                  "image_path": "Carburetor/img187.jpg",
+                  "caption": "A two-stroke dirt bike carburetor with overflow drain system."
+                },
+                {
+                  "image_path": "Carburetor/img188.jpg",
+                  "caption": "A fully manual carburetor with mechanical slide control."
+                },
+                {
+                  "image_path": "Carburetor/img189.jpg",
+                  "caption": "A high-capacity aircraft carburetor with triple float system."
+                },
+                {
+                  "image_path": "Carburetor/img190.jpg",
+                  "caption": "A dual-side draft carburetor used in classic rally cars."
+                },
+                {
+                  "image_path": "Carburetor/img191.jpg",
+                  "caption": "A simplified lawn equipment carburetor with primer bulb."
+                },
+                {
+                  "image_path": "Carburetor/img192.jpg",
+                  "caption": "A cold-start optimized carburetor with vacuum diaphragm system."
+                },
+                {
+                  "image_path": "Carburetor/img193.jpg",
+                  "caption": "A performance scooter carburetor featuring oversized slide."
+                },
+                {
+                  "image_path": "Carburetor/img194.jpg",
+                  "caption": "A sealed two-barrel carburetor for rallycross use."
+                },
+                {
+                  "image_path": "Carburetor/img195.jpg",
+                  "caption": "An advanced small-engine carburetor with fuel mixture controls."
+                },
+                {
+                  "image_path": "Carburetor/img196.jpg",
+                  "caption": "A sand buggy carburetor with enhanced dust protection features."
+                },
+                {
+                  "image_path": "Carburetor/img197.jpg",
+                  "caption": "A vintage American V8 carburetor rebuilt with performance jets."
+                },
+                {
+                  "image_path": "Carburetor/img198.jpg",
+                  "caption": "A dirt bike carburetor with water drainage and quick jet access."
+                },
+                {
+                  "image_path": "Carburetor/img199.jpg",
+                  "caption": "A classic cruiser carburetor featuring smooth idle circuitry."
+                },
+                {
+                  "image_path": "Carburetor/img200.jpg",
+                  "caption": "A motorcycle carburetor tuned for high-rev throttle response."
+                }
+              
+              
+          
+          
+      
+      
+  ]
+  

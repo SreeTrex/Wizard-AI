@@ -1,0 +1,813 @@
+[
+    {
+      "image_path": "CoilSpring/img1.jpg",
+      "caption": "A heavy-duty coil spring designed for off-road truck suspension."
+    },
+    {
+      "image_path": "CoilSpring/img2.jpg",
+      "caption": "A tightly wound coil spring for high-performance vehicle stability."
+    },
+    {
+      "image_path": "CoilSpring/img3.jpg",
+      "caption": "A rust-resistant coil spring with black powder coating."
+    },
+    {
+      "image_path": "CoilSpring/img4.jpg",
+      "caption": "A rear suspension coil spring optimized for comfort and load."
+    },
+    {
+      "image_path": "CoilSpring/img5.jpg",
+      "caption": "A brightly colored coil spring used in sport-tuned suspensions."
+    },
+    {
+      "image_path": "CoilSpring/img6.jpg",
+      "caption": "A performance coil spring designed for improved cornering."
+    },
+    {
+      "image_path": "CoilSpring/img7.jpg",
+      "caption": "A low-profile coil spring for lowered vehicle setups."
+    },
+    {
+      "image_path": "CoilSpring/img8.jpg",
+      "caption": "A high-tension coil spring used in rally car suspension systems."
+    },
+    {
+      "image_path": "CoilSpring/img9.jpg",
+      "caption": "A used coil spring showing signs of wear and compression."
+    },
+    {
+      "image_path": "CoilSpring/img10.jpg",
+      "caption": "A standard factory coil spring removed from a sedan."
+    },
+    {
+      "image_path": "CoilSpring/img11.jpg",
+      "caption": "A lifted suspension coil spring designed for SUVs and trucks."
+    },
+    {
+      "image_path": "CoilSpring/img12.jpg",
+      "caption": "A lightweight coil spring built for agility and responsiveness."
+    },
+    {
+      "image_path": "CoilSpring/img13.jpg",
+      "caption": "A dual-rate coil spring used in custom suspension setups."
+    },
+    {
+      "image_path": "CoilSpring/img14.jpg",
+      "caption": "A motorcycle rear coil spring with preload adjustment."
+    },
+    {
+      "image_path": "CoilSpring/img15.jpg",
+      "caption": "A rusted coil spring removed from a vintage car suspension."
+    },
+    {
+      "image_path": "CoilSpring/img16.jpg",
+      "caption": "A custom coil spring with a vibrant orange finish."
+    },
+    {
+      "image_path": "CoilSpring/img17.jpg",
+      "caption": "A heavy coil spring designed for cargo-hauling vehicles."
+    },
+    {
+      "image_path": "CoilSpring/img18.jpg",
+      "caption": "A rear axle coil spring designed for balanced load distribution."
+    },
+    {
+      "image_path": "CoilSpring/img19.jpg",
+      "caption": "A performance coil spring designed for track-ready suspension systems."
+    },
+    {
+      "image_path": "CoilSpring/img20.jpg",
+      "caption": "A damaged coil spring with visible cracks and deformation."
+    },
+    {
+      "image_path": "CoilSpring/img21.jpg",
+      "caption": "A small coil spring used in compact cars for smooth ride quality."
+    },
+    {
+      "image_path": "CoilSpring/img22.jpg",
+      "caption": "A bright red coil spring designed for racing applications."
+    },
+    {
+      "image_path": "CoilSpring/img23.jpg",
+      "caption": "A replacement coil spring for the front suspension of a sedan."
+    },
+    {
+      "image_path": "CoilSpring/img24.jpg",
+      "caption": "A soft-rate coil spring used in luxury vehicle suspensions."
+    },
+    {
+      "image_path": "CoilSpring/img25.jpg",
+      "caption": "A durable coil spring designed to handle heavy vertical loads."
+    },
+    {
+      "image_path": "CoilSpring/img26.jpg",
+      "caption": "A coated coil spring with corrosion-resistant properties."
+    },
+    {
+      "image_path": "CoilSpring/img27.jpg",
+      "caption": "A progressive-rate coil spring offering variable stiffness."
+    },
+    {
+      "image_path": "CoilSpring/img28.jpg",
+      "caption": "A small utility vehicle coil spring suited for light loads."
+    },
+    {
+      "image_path": "CoilSpring/img29.jpg",
+      "caption": "A sport coil spring with increased rebound resistance."
+    },
+    {
+      "image_path": "CoilSpring/img30.jpg",
+      "caption": "An adjustable coil spring with height tuning options."
+    },
+    {
+      "image_path": "CoilSpring/img31.jpg",
+      "caption": "A compact coil spring used in front-wheel-drive cars."
+    },
+    {
+      "image_path": "CoilSpring/img32.jpg",
+      "caption": "A vintage-style coil spring designed for classic cars."
+    },
+    {
+      "image_path": "CoilSpring/img33.jpg",
+      "caption": "A color-coded coil spring indicating stiffness rating."
+    },
+    {
+      "image_path": "CoilSpring/img34.jpg",
+      "caption": "A high-performance coil spring coated for endurance."
+    },
+    {
+      "image_path": "CoilSpring/img35.jpg",
+      "caption": "A rugged terrain coil spring with reinforced windings."
+    },
+    {
+      "image_path": "CoilSpring/img36.jpg",
+      "caption": "A soft coil spring used in rear passenger car suspension."
+    },
+    {
+      "image_path": "CoilSpring/img37.jpg",
+      "caption": "A spring with custom finish for show car suspension setups."
+    },
+    {
+      "image_path": "CoilSpring/img38.jpg",
+      "caption": "A new OEM coil spring fresh from the manufacturer."
+    },
+    {
+      "image_path": "CoilSpring/img39.jpg",
+      "caption": "A low-clearance coil spring fitted in modified sports cars."
+    },
+    {
+      "image_path": "CoilSpring/img40.jpg",
+      "caption": "A robust coil spring with wide diameter and dense windings."
+    },
+    {
+      "image_path": "CoilSpring/img41.jpg",
+      "caption": "A rear-loaded coil spring used in family SUVs for comfort."
+    },
+    {
+      "image_path": "CoilSpring/img42.jpg",
+      "caption": "A cleanly painted coil spring for visual contrast in show builds."
+    },
+    {
+      "image_path": "CoilSpring/img43.jpg",
+      "caption": "A commercial vehicle coil spring offering greater compression resistance."
+    },
+    {
+      "image_path": "CoilSpring/img44.jpg",
+      "caption": "A heavily compressed coil spring ready for installation."
+    },
+    {
+      "image_path": "CoilSpring/img45.jpg",
+      "caption": "A double coil spring setup used in custom suspension designs."
+    },
+    {
+      "image_path": "CoilSpring/img46.jpg",
+      "caption": "A thick gauge coil spring ideal for off-road articulation."
+    },
+    {
+      "image_path": "CoilSpring/img47.jpg",
+      "caption": "A coil spring mounted on strut assembly for demonstration."
+    },
+    {
+      "image_path": "CoilSpring/img48.jpg",
+      "caption": "A suspension tuning coil spring featuring rapid response rate."
+    },
+    {
+      "image_path": "CoilSpring/img49.jpg",
+      "caption": "A long coil spring optimized for additional vertical travel."
+    },
+    {
+      "image_path": "CoilSpring/img50.jpg",
+      "caption": "A close-up view of a tightly coiled suspension spring in mint condition."
+    },
+
+    
+        {
+          "image_path": "CoilSpring/img51.jpg",
+          "caption": "A durable coil spring engineered for long-term reliability."
+        },
+        {
+          "image_path": "CoilSpring/img52.jpg",
+          "caption": "A heavy-duty off-road coil spring with extended height."
+        },
+        {
+          "image_path": "CoilSpring/img53.jpg",
+          "caption": "A brightly painted yellow coil spring used in performance vehicles."
+        },
+        {
+          "image_path": "CoilSpring/img54.jpg",
+          "caption": "A compact coil spring for front suspension systems."
+        },
+        {
+          "image_path": "CoilSpring/img55.jpg",
+          "caption": "A multi-coil spring assembly used in commercial vehicles."
+        },
+        {
+          "image_path": "CoilSpring/img56.jpg",
+          "caption": "A used rear coil spring with moderate surface rust."
+        },
+        {
+          "image_path": "CoilSpring/img57.jpg",
+          "caption": "A progressive-rate coil spring with color-coded windings."
+        },
+        {
+          "image_path": "CoilSpring/img58.jpg",
+          "caption": "A sport-tuned coil spring offering stiffer ride characteristics."
+        },
+        {
+          "image_path": "CoilSpring/img59.jpg",
+          "caption": "A red performance coil spring mounted in a strut assembly."
+        },
+        {
+          "image_path": "CoilSpring/img60.jpg",
+          "caption": "A compact SUV coil spring designed for mixed terrain driving."
+        },
+        {
+          "image_path": "CoilSpring/img61.jpg",
+          "caption": "A corrosion-resistant coil spring with a zinc coating."
+        },
+        {
+          "image_path": "CoilSpring/img62.jpg",
+          "caption": "A rugged terrain coil spring optimized for load distribution."
+        },
+        {
+          "image_path": "CoilSpring/img63.jpg",
+          "caption": "A linear-rate coil spring with consistent coil spacing."
+        },
+        {
+          "image_path": "CoilSpring/img64.jpg",
+          "caption": "A blue coil spring used in modified sports cars."
+        },
+        {
+          "image_path": "CoilSpring/img65.jpg",
+          "caption": "A coiled suspension spring for improved shock absorption."
+        },
+        {
+          "image_path": "CoilSpring/img66.jpg",
+          "caption": "A factory OEM coil spring ready for installation."
+        },
+        {
+          "image_path": "CoilSpring/img67.jpg",
+          "caption": "A high-rebound coil spring used in racing vehicles."
+        },
+        {
+          "image_path": "CoilSpring/img68.jpg",
+          "caption": "A green powder-coated coil spring with high durability."
+        },
+        {
+          "image_path": "CoilSpring/img69.jpg",
+          "caption": "A close-up of a coil spring showing the consistent winding pattern."
+        },
+        {
+          "image_path": "CoilSpring/img70.jpg",
+          "caption": "A large coil spring for a heavy SUV rear suspension."
+        },
+        {
+          "image_path": "CoilSpring/img71.jpg",
+          "caption": "A performance coil spring mounted on a strut tower."
+        },
+        {
+          "image_path": "CoilSpring/img72.jpg",
+          "caption": "A color-coded coil spring used for spring rate identification."
+        },
+        {
+          "image_path": "CoilSpring/img73.jpg",
+          "caption": "A lightweight coil spring designed for electric vehicles."
+        },
+        {
+          "image_path": "CoilSpring/img74.jpg",
+          "caption": "A coil spring paired with a shock absorber in a suspension test setup."
+        },
+        {
+          "image_path": "CoilSpring/img75.jpg",
+          "caption": "A damaged coil spring with visible bends and deformations."
+        },
+        {
+          "image_path": "CoilSpring/img76.jpg",
+          "caption": "A white coil spring used in drift car suspension systems."
+        },
+        {
+          "image_path": "CoilSpring/img77.jpg",
+          "caption": "A freshly painted blue coil spring for aesthetic enhancement."
+        },
+        {
+          "image_path": "CoilSpring/img78.jpg",
+          "caption": "A double-wound coil spring with overlapping ends for added stiffness."
+        },
+        {
+          "image_path": "CoilSpring/img79.jpg",
+          "caption": "A used coil spring marked with part number and load rating."
+        },
+        {
+          "image_path": "CoilSpring/img80.jpg",
+          "caption": "A rear axle coil spring designed to handle vertical articulation."
+        },
+        {
+          "image_path": "CoilSpring/img81.jpg",
+          "caption": "A soft coil spring built for comfort in luxury sedans."
+        },
+        {
+          "image_path": "CoilSpring/img82.jpg",
+          "caption": "A suspension upgrade coil spring made for aggressive cornering."
+        },
+        {
+          "image_path": "CoilSpring/img83.jpg",
+          "caption": "A rugged coil spring ideal for trailer or utility truck suspension."
+        },
+        {
+          "image_path": "CoilSpring/img84.jpg",
+          "caption": "A red and black coil spring used in off-road vehicle builds."
+        },
+        {
+          "image_path": "CoilSpring/img85.jpg",
+          "caption": "A torsion-loaded coil spring engineered for racing setups."
+        },
+        {
+          "image_path": "CoilSpring/img86.jpg",
+          "caption": "A progressive spring with variable diameter coils."
+        },
+        {
+          "image_path": "CoilSpring/img87.jpg",
+          "caption": "A long coil spring designed to absorb high impact loads."
+        },
+        {
+          "image_path": "CoilSpring/img88.jpg",
+          "caption": "A matte black coil spring designed for stealth builds."
+        },
+        {
+          "image_path": "CoilSpring/img89.jpg",
+          "caption": "A tall and firm coil spring used in lifted truck suspensions."
+        },
+        {
+          "image_path": "CoilSpring/img90.jpg",
+          "caption": "A dual-colored coil spring indicating spring rate zones."
+        },
+        {
+          "image_path": "CoilSpring/img91.jpg",
+          "caption": "A chrome-finished coil spring built for visual impact and strength."
+        },
+        {
+          "image_path": "CoilSpring/img92.jpg",
+          "caption": "A coil spring with polyurethane bushings for reduced noise."
+        },
+        {
+          "image_path": "CoilSpring/img93.jpg",
+          "caption": "A clean OEM spring for rear strut suspension systems."
+        },
+        {
+          "image_path": "CoilSpring/img94.jpg",
+          "caption": "A white performance spring used in rally cars."
+        },
+        {
+          "image_path": "CoilSpring/img95.jpg",
+          "caption": "A lightweight coil spring for compact urban vehicles."
+        },
+        {
+          "image_path": "CoilSpring/img96.jpg",
+          "caption": "A painted green spring mounted in a custom car suspension."
+        },
+        {
+          "image_path": "CoilSpring/img97.jpg",
+          "caption": "A spring showing even spacing and uniform construction."
+        },
+        {
+          "image_path": "CoilSpring/img98.jpg",
+          "caption": "A rust-free coil spring with protective coating."
+        },
+        {
+          "image_path": "CoilSpring/img99.jpg",
+          "caption": "A progressive coil spring marked with load capacity."
+        },
+        {
+          "image_path": "CoilSpring/img100.jpg",
+          "caption": "A brightly painted coil spring designed for aesthetic modifications."
+        },
+        
+            {
+              "image_path": "CoilSpring/img101.jpg",
+              "caption": "A robust coil spring built for high-load suspension systems."
+            },
+            {
+              "image_path": "CoilSpring/img102.jpg",
+              "caption": "A dual-rated coil spring offering flexibility and stability."
+            },
+            {
+              "image_path": "CoilSpring/img103.jpg",
+              "caption": "A heavy-duty coil spring with anti-corrosion coating."
+            },
+            {
+              "image_path": "CoilSpring/img104.jpg",
+              "caption": "A custom-fabricated coil spring for vintage vehicles."
+            },
+            {
+              "image_path": "CoilSpring/img105.jpg",
+              "caption": "A coil spring installed in a lifted 4x4 suspension."
+            },
+            {
+              "image_path": "CoilSpring/img106.jpg",
+              "caption": "A high-tensile steel coil spring used in SUVs."
+            },
+            {
+              "image_path": "CoilSpring/img107.jpg",
+              "caption": "A flat black coil spring designed for heavy load capacity."
+            },
+            {
+              "image_path": "CoilSpring/img108.jpg",
+              "caption": "A tightly wound coil spring built for performance tuning."
+            },
+            {
+              "image_path": "CoilSpring/img109.jpg",
+              "caption": "A high-clearance coil spring installed on an off-road rig."
+            },
+            {
+              "image_path": "CoilSpring/img110.jpg",
+              "caption": "A brightly colored coil spring for enhanced visual appeal."
+            },
+            {
+              "image_path": "CoilSpring/img111.jpg",
+              "caption": "A lowered stance coil spring offering a firmer ride."
+            },
+            {
+              "image_path": "CoilSpring/img112.jpg",
+              "caption": "A chrome coil spring for high-end suspension systems."
+            },
+            {
+              "image_path": "CoilSpring/img113.jpg",
+              "caption": "A variable pitch coil spring for progressive damping."
+            },
+            {
+              "image_path": "CoilSpring/img114.jpg",
+              "caption": "A rear axle coil spring paired with a heavy-duty damper."
+            },
+            {
+              "image_path": "CoilSpring/img115.jpg",
+              "caption": "A pink powder-coated coil spring used in show cars."
+            },
+            {
+              "image_path": "CoilSpring/img116.jpg",
+              "caption": "A street-tuned coil spring for responsive handling."
+            },
+            {
+              "image_path": "CoilSpring/img117.jpg",
+              "caption": "A short coil spring designed for lowered suspension setups."
+            },
+            {
+              "image_path": "CoilSpring/img118.jpg",
+              "caption": "A corrosion-resistant spring built for wet weather use."
+            },
+            {
+              "image_path": "CoilSpring/img119.jpg",
+              "caption": "A high-travel coil spring used in off-road buggies."
+            },
+            {
+              "image_path": "CoilSpring/img120.jpg",
+              "caption": "A yellow racing coil spring mounted on a suspension strut."
+            },
+            {
+              "image_path": "CoilSpring/img121.jpg",
+              "caption": "A rugged coil spring engineered for constant load use."
+            },
+            {
+              "image_path": "CoilSpring/img122.jpg",
+              "caption": "A sport utility vehicle coil spring optimized for ride quality."
+            },
+            {
+              "image_path": "CoilSpring/img123.jpg",
+              "caption": "A flexible coil spring designed for off-road articulation."
+            },
+            {
+              "image_path": "CoilSpring/img124.jpg",
+              "caption": "A light-duty coil spring for city car applications."
+            },
+            {
+              "image_path": "CoilSpring/img125.jpg",
+              "caption": "A spring painted with protective red enamel."
+            },
+            {
+              "image_path": "CoilSpring/img126.jpg",
+              "caption": "A tall progressive-rate spring with increased rebound."
+            },
+            {
+              "image_path": "CoilSpring/img127.jpg",
+              "caption": "A white coil spring designed for lowered performance cars."
+            },
+            {
+              "image_path": "CoilSpring/img128.jpg",
+              "caption": "A heavy gauge coil spring built for towing capacity."
+            },
+            {
+              "image_path": "CoilSpring/img129.jpg",
+              "caption": "A precision-wound coil spring with linear performance."
+            },
+            {
+              "image_path": "CoilSpring/img130.jpg",
+              "caption": "A colored coil spring used for quick identification in racing."
+            },
+            {
+              "image_path": "CoilSpring/img131.jpg",
+              "caption": "A high-load rear coil spring with dual-layer coating."
+            },
+            {
+              "image_path": "CoilSpring/img132.jpg",
+              "caption": "A stiffer aftermarket coil spring designed for improved handling."
+            },
+            {
+              "image_path": "CoilSpring/img133.jpg",
+              "caption": "A dual-rate spring with fine pitch at one end and coarse at the other."
+            },
+            {
+              "image_path": "CoilSpring/img134.jpg",
+              "caption": "A red front suspension coil spring designed for quick rebound."
+            },
+            {
+              "image_path": "CoilSpring/img135.jpg",
+              "caption": "A simple black spring for compact car suspension systems."
+            },
+            {
+              "image_path": "CoilSpring/img136.jpg",
+              "caption": "A lifted truck spring engineered to absorb rough terrain impact."
+            },
+            {
+              "image_path": "CoilSpring/img137.jpg",
+              "caption": "A gold-coated coil spring used in premium modifications."
+            },
+            {
+              "image_path": "CoilSpring/img138.jpg",
+              "caption": "A spring with gradual winding density for smoother load handling."
+            },
+            {
+              "image_path": "CoilSpring/img139.jpg",
+              "caption": "A low-profile coil spring intended for compact suspension travel."
+            },
+            {
+              "image_path": "CoilSpring/img140.jpg",
+              "caption": "A performance coil spring mounted in a test rig."
+            },
+            {
+              "image_path": "CoilSpring/img141.jpg",
+              "caption": "A tall linear spring painted in gloss black."
+            },
+            {
+              "image_path": "CoilSpring/img142.jpg",
+              "caption": "A replacement coil spring with manufacturer label attached."
+            },
+            {
+              "image_path": "CoilSpring/img143.jpg",
+              "caption": "A rear coil spring designed to reduce vehicle sag under load."
+            },
+            {
+              "image_path": "CoilSpring/img144.jpg",
+              "caption": "A coil spring made with alloy steel for increased strength."
+            },
+            {
+              "image_path": "CoilSpring/img145.jpg",
+              "caption": "A red powder-coated spring for sport suspension systems."
+            },
+            {
+              "image_path": "CoilSpring/img146.jpg",
+              "caption": "A blue rear axle coil spring with moderate tension resistance."
+            },
+            {
+              "image_path": "CoilSpring/img147.jpg",
+              "caption": "A black heavy-duty spring for load-leveling systems."
+            },
+            {
+              "image_path": "CoilSpring/img148.jpg",
+              "caption": "A spring with tapered ends for smoother load transitions."
+            },
+            {
+              "image_path": "CoilSpring/img149.jpg",
+              "caption": "A coil spring with rubber dampers at each end for noise reduction."
+            },
+            {
+              "image_path": "CoilSpring/img150.jpg",
+              "caption": "A freshly manufactured spring awaiting quality inspection."
+            },
+            
+                {
+                  "image_path": "CoilSpring/img151.jpg",
+                  "caption": "A dual-action coil spring providing variable resistance levels."
+                },
+                {
+                  "image_path": "CoilSpring/img152.jpg",
+                  "caption": "A performance coil spring with a compact coil spacing."
+                },
+                {
+                  "image_path": "CoilSpring/img153.jpg",
+                  "caption": "A robust coil spring installed in a commercial vehicle."
+                },
+                {
+                  "image_path": "CoilSpring/img154.jpg",
+                  "caption": "A painted red coil spring designed for aggressive suspension setups."
+                },
+                {
+                  "image_path": "CoilSpring/img155.jpg",
+                  "caption": "A high-strength coil spring with anti-corrosive treatment."
+                },
+                {
+                  "image_path": "CoilSpring/img156.jpg",
+                  "caption": "A black coil spring designed for OEM replacement."
+                },
+                {
+                  "image_path": "CoilSpring/img157.jpg",
+                  "caption": "A short coil spring made for track racing cars."
+                },
+                {
+                  "image_path": "CoilSpring/img158.jpg",
+                  "caption": "A rear suspension coil spring with increased ride height."
+                },
+                {
+                  "image_path": "CoilSpring/img159.jpg",
+                  "caption": "A coil spring with progressive tension for improved control."
+                },
+                {
+                  "image_path": "CoilSpring/img160.jpg",
+                  "caption": "A green powder-coated spring made for off-road vehicles."
+                },
+                {
+                  "image_path": "CoilSpring/img161.jpg",
+                  "caption": "A compression-rated coil spring tested for long-term durability."
+                },
+                {
+                  "image_path": "CoilSpring/img162.jpg",
+                  "caption": "A performance-tuned coil spring mounted in a sports coupe."
+                },
+                {
+                  "image_path": "CoilSpring/img163.jpg",
+                  "caption": "A compact coil spring used in electric city cars."
+                },
+                {
+                  "image_path": "CoilSpring/img164.jpg",
+                  "caption": "A black rear coil spring for compact SUVs."
+                },
+                {
+                  "image_path": "CoilSpring/img165.jpg",
+                  "caption": "A tapered coil spring used in commercial truck suspension."
+                },
+                {
+                  "image_path": "CoilSpring/img166.jpg",
+                  "caption": "A front axle coil spring with consistent winding thickness."
+                },
+                {
+                  "image_path": "CoilSpring/img167.jpg",
+                  "caption": "A linear coil spring designed for racing stability."
+                },
+                {
+                  "image_path": "CoilSpring/img168.jpg",
+                  "caption": "A yellow coil spring featured in lifted vehicle setups."
+                },
+                {
+                  "image_path": "CoilSpring/img169.jpg",
+                  "caption": "A rust-resistant spring suitable for marine vehicles."
+                },
+                {
+                  "image_path": "CoilSpring/img170.jpg",
+                  "caption": "A performance-grade spring supporting high-speed cornering."
+                },
+                {
+                  "image_path": "CoilSpring/img171.jpg",
+                  "caption": "A red aftermarket spring optimized for daily performance driving."
+                },
+                {
+                  "image_path": "CoilSpring/img172.jpg",
+                  "caption": "A factory-spec coil spring mounted on an SUV rear axle."
+                },
+                {
+                  "image_path": "CoilSpring/img173.jpg",
+                  "caption": "A blue progressive-rate spring built for trail comfort."
+                },
+                {
+                  "image_path": "CoilSpring/img174.jpg",
+                  "caption": "A chrome-finished spring used in custom builds."
+                },
+                {
+                  "image_path": "CoilSpring/img175.jpg",
+                  "caption": "A spring with dense central winding for balanced response."
+                },
+                {
+                  "image_path": "CoilSpring/img176.jpg",
+                  "caption": "A basic black spring with medium tension properties."
+                },
+                {
+                  "image_path": "CoilSpring/img177.jpg",
+                  "caption": "A racing-spec coil spring engineered for rapid weight transfer."
+                },
+                {
+                  "image_path": "CoilSpring/img178.jpg",
+                  "caption": "A heavy-duty coil spring for rear load-bearing axles."
+                },
+                {
+                  "image_path": "CoilSpring/img179.jpg",
+                  "caption": "A compact spring with consistent pitch for even compression."
+                },
+                {
+                  "image_path": "CoilSpring/img180.jpg",
+                  "caption": "A brightly painted green spring for automotive display models."
+                },
+                {
+                  "image_path": "CoilSpring/img181.jpg",
+                  "caption": "A narrow coil spring used in hybrid car suspension systems."
+                },
+                {
+                  "image_path": "CoilSpring/img182.jpg",
+                  "caption": "A spring coiled from tempered high-carbon steel."
+                },
+                {
+                  "image_path": "CoilSpring/img183.jpg",
+                  "caption": "A factory coil spring awaiting installation on the assembly line."
+                },
+                {
+                  "image_path": "CoilSpring/img184.jpg",
+                  "caption": "A lowered suspension coil spring with tight coil spacing."
+                },
+                {
+                  "image_path": "CoilSpring/img185.jpg",
+                  "caption": "A painted rear spring paired with a dual-action damper."
+                },
+                {
+                  "image_path": "CoilSpring/img186.jpg",
+                  "caption": "A standard issue black spring used in fleet vehicles."
+                },
+                {
+                  "image_path": "CoilSpring/img187.jpg",
+                  "caption": "A performance coil spring installed on a rally car."
+                },
+                {
+                  "image_path": "CoilSpring/img188.jpg",
+                  "caption": "A short coil spring with dual-layer powder coating."
+                },
+                {
+                  "image_path": "CoilSpring/img189.jpg",
+                  "caption": "A spring with thick windings for high-impact absorption."
+                },
+                {
+                  "image_path": "CoilSpring/img190.jpg",
+                  "caption": "A rear suspension coil spring with comfort ride tuning."
+                },
+                {
+                  "image_path": "CoilSpring/img191.jpg",
+                  "caption": "A finely tuned coil spring designed for hybrid sedans."
+                },
+                {
+                  "image_path": "CoilSpring/img192.jpg",
+                  "caption": "A coil spring optimized for maximum rebound efficiency."
+                },
+                {
+                  "image_path": "CoilSpring/img193.jpg",
+                  "caption": "A spring with internal damping sleeves for noise reduction."
+                },
+                {
+                  "image_path": "CoilSpring/img194.jpg",
+                  "caption": "A black spring engineered for long-term fleet service."
+                },
+                {
+                  "image_path": "CoilSpring/img195.jpg",
+                  "caption": "A custom-built coil spring tailored for performance SUVs."
+                },
+                {
+                  "image_path": "CoilSpring/img196.jpg",
+                  "caption": "A coil spring featuring alternate winding pattern for variable stiffness."
+                },
+                {
+                  "image_path": "CoilSpring/img197.jpg",
+                  "caption": "A compact spring designed for electric vehicle applications."
+                },
+                {
+                  "image_path": "CoilSpring/img198.jpg",
+                  "caption": "A performance-oriented coil spring with adjustable preload setting."
+                },
+                {
+                  "image_path": "CoilSpring/img199.jpg",
+                  "caption": "A show-grade chrome coil spring fitted in a modified hot rod."
+                },
+                {
+                  "image_path": "CoilSpring/img200.jpg",
+                  "caption": "A rear axle coil spring being compression tested in a lab."
+                }
+              
+              
+          
+          
+      
+      
+  ]
+  

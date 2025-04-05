@@ -1,606 +1,812 @@
-{
-    "img1.jpg": {
-        "caption": "A high-output alternator designed for superior electrical performance and reliability.",
-        "category": "Alternator"
-    },
-    "img2.jpg": {
-        "caption": "A heavy-duty alternator with enhanced cooling for increased efficiency and durability.",
-        "category": "Alternator"
-    },
-    "img3.jpg": {
-        "caption": "A compact alternator featuring a precision-balanced rotor for smooth operation.",
-        "category": "Alternator"
-    },
-    "img4.jpg": {
-        "caption": "A performance alternator with an advanced voltage regulator for stable power delivery.",
-        "category": "Alternator"
-    },
-    "img5.jpg": {
-        "caption": "An automotive alternator with a high-efficiency stator for improved charging capacity.",
-        "category": "Alternator"
-    },
-    "img6.jpg": {
-        "caption": "A premium alternator designed for high electrical loads in modern vehicles.",
-        "category": "Alternator"
-    },
-    "img7.jpg": {
-        "caption": "A high-performance alternator with upgraded diodes for better heat dissipation.",
-        "category": "Alternator"
-    },
-    "img8.jpg": {
-        "caption": "A durable alternator with a corrosion-resistant housing for extended lifespan.",
-        "category": "Alternator"
-    },
-    "img9.jpg": {
-        "caption": "A high-efficiency alternator featuring a brushless design for reduced maintenance.",
-        "category": "Alternator"
-    },
-    "img10.jpg": {
-        "caption": "A precision-engineered alternator with low-friction bearings for improved energy transfer.",
-        "category": "Alternator"
-    },
-    "img11.jpg": {
-        "caption": "A rugged alternator with a reinforced frame for extreme operating conditions.",
-        "category": "Alternator"
-    },
-    "img12.jpg": {
-        "caption": "A high-output alternator designed for vehicles with advanced electrical systems.",
-        "category": "Alternator"
-    },
-    "img13.jpg": {
-        "caption": "An alternator with an upgraded stator winding for enhanced power generation.",
-        "category": "Alternator"
-    },
-    "img14.jpg": {
-        "caption": "A compact and lightweight alternator for improved fuel efficiency.",
-        "category": "Alternator"
-    },
-    "img15.jpg": {
-        "caption": "A premium alternator featuring precision-machined components for long-lasting performance.",
-        "category": "Alternator"
-    },
-    "img16.jpg": {
-        "caption": "A heavy-duty alternator designed for high-demand applications such as trucks and SUVs.",
-        "category": "Alternator"
-    },
-    "img17.jpg": {
-        "caption": "A high-output alternator with dual internal fans for superior cooling performance.",
-        "category": "Alternator"
-    },
-    "img18.jpg": {
-        "caption": "An automotive alternator featuring a smart voltage regulator for consistent battery charging.",
-        "category": "Alternator"
-    },
-    "img19.jpg": {
-        "caption": "A performance alternator with optimized copper windings for maximum efficiency.",
-        "category": "Alternator"
-    },
-    "img20.jpg": {
-        "caption": "A high-performance alternator with an ultra-low resistance rectifier for better power output.",
-        "category": "Alternator"
-    },
-    "img21.jpg": {
-        "caption": "An advanced alternator with an internal cooling system for prolonged service life.",
-        "category": "Alternator"
-    },
-    "img22.jpg": {
-        "caption": "A precision-engineered alternator with high-temperature insulation for durability.",
-        "category": "Alternator"
-    },
-    "img23.jpg": {
-        "caption": "A robust alternator with a high-efficiency rotor for enhanced charging power.",
-        "category": "Alternator"
-    },
-    "img24.jpg": {
-        "caption": "A premium-grade alternator with a compact design for space-constrained installations.",
-        "category": "Alternator"
-    },
-    "img25.jpg": {
-        "caption": "An advanced automotive alternator with an energy-efficient stator winding.",
-        "category": "Alternator"
-    },
-    "img26.jpg": {
-        "caption": "A high-capacity alternator designed to support additional aftermarket accessories.",
-        "category": "Alternator"
+[
+    {
+      "image_path": "Alternator/img1.jpg",
+      "caption": "A standard automotive alternator with visible pulley and cooling vents."
+    },
+    {
+      "image_path": "Alternator/img2.jpg",
+      "caption": "A high-output alternator designed for heavy electrical loads."
+    },
+    {
+      "image_path": "Alternator/img3.jpg",
+      "caption": "An alternator mounted on an engine with the serpentine belt in place."
+    },
+    {
+      "image_path": "Alternator/img4.jpg",
+      "caption": "A chrome-finished alternator installed in a classic car engine bay."
+    },
+    {
+      "image_path": "Alternator/img5.jpg",
+      "caption": "A close-up view of an alternator's internal stator and rotor."
+    },
+    {
+      "image_path": "Alternator/img6.jpg",
+      "caption": "An alternator with a built-in voltage regulator and cooling fan."
+    },
+    {
+      "image_path": "Alternator/img7.jpg",
+      "caption": "An alternator removed from a vehicle and placed on a workbench."
+    },
+    {
+      "image_path": "Alternator/img8.jpg",
+      "caption": "A compact alternator designed for motorcycles and small engines."
+    },
+    {
+      "image_path": "Alternator/img9.jpg",
+      "caption": "A heavy-duty truck alternator with dual pulley grooves."
+    },
+    {
+      "image_path": "Alternator/img10.jpg",
+      "caption": "A new alternator packaged with mounting bolts and wiring connectors."
+    },
+    {
+      "image_path": "Alternator/img11.jpg",
+      "caption": "A high-efficiency alternator designed for hybrid vehicles."
+    },
+    {
+      "image_path": "Alternator/img12.jpg",
+      "caption": "A marine-grade alternator with corrosion-resistant housing."
+    },
+    {
+      "image_path": "Alternator/img13.jpg",
+      "caption": "An alternator with visible brush holders and rear terminal connections."
+    },
+    {
+      "image_path": "Alternator/img14.jpg",
+      "caption": "A modern alternator featuring a clutch pulley mechanism."
+    },
+    {
+      "image_path": "Alternator/img15.jpg",
+      "caption": "An alternator connected to a test bench for voltage output testing."
+    },
+    {
+      "image_path": "Alternator/img16.jpg",
+      "caption": "An exploded view of an alternator showing all internal components."
+    },
+    {
+      "image_path": "Alternator/img17.jpg",
+      "caption": "A dusty alternator removed from a used vehicle during repair."
+    },
+    {
+      "image_path": "Alternator/img18.jpg",
+      "caption": "A remanufactured alternator labeled for quality control approval."
+    },
+    {
+      "image_path": "Alternator/img19.jpg",
+      "caption": "An alternator with visible copper windings through the rear vents."
+    },
+    {
+      "image_path": "Alternator/img20.jpg",
+      "caption": "An alternator mounted on a performance engine with polished accessories."
+    },
+    {
+      "image_path": "Alternator/img21.jpg",
+      "caption": "A compact racing alternator designed for lightweight builds."
+    },
+    {
+      "image_path": "Alternator/img22.jpg",
+      "caption": "A classic alternator with external voltage regulator wiring."
+    },
+    {
+      "image_path": "Alternator/img23.jpg",
+      "caption": "A new alternator installed in a clean engine bay."
+    },
+    {
+      "image_path": "Alternator/img24.jpg",
+      "caption": "A diagram showing the alternator’s electrical output path."
+    },
+    {
+      "image_path": "Alternator/img25.jpg",
+      "caption": "An alternator being installed by a mechanic using a torque wrench."
+    },
+    {
+      "image_path": "Alternator/img26.jpg",
+      "caption": "A Bosch alternator featuring OEM markings and part number."
     },
-    "img27.jpg": {
-        "caption": "A heavy-duty alternator with enhanced voltage stability for consistent performance.",
-        "category": "Alternator"
-    },
-    "img28.jpg": {
-        "caption": "A precision-built alternator with advanced cooling technology for extended use.",
-        "category": "Alternator"
-    },
-    "img29.jpg": {
-        "caption": "A high-efficiency alternator with a smart control system for optimized output.",
-        "category": "Alternator"
-    },
-    "img30.jpg": {
-        "caption": "An automotive alternator featuring an improved bearing system for smooth operation.",
-        "category": "Alternator"
-    },
-    "img31.jpg": {
-        "caption": "A high-performance alternator with a lightweight aluminum housing for heat dissipation.",
-        "category": "Alternator"
-    },
-    "img32.jpg": {
-        "caption": "An advanced alternator with a reinforced diode pack for high-load applications.",
-        "category": "Alternator"
-    },
-    "img33.jpg": {
-        "caption": "A compact yet powerful alternator with a low-noise operation.",
-        "category": "Alternator"
-    },
-    "img34.jpg": {
-        "caption": "A premium alternator designed to enhance vehicle electrical efficiency and longevity.",
-        "category": "Alternator"
-    },
-    "img35.jpg": {
-        "caption": "A rugged alternator with a dust-resistant casing for off-road and tough environments.",
-        "category": "Alternator"
-    },
-    "img36.jpg": {
-        "caption": "An alternator with high-speed bearings for smoother performance under heavy loads.",
-        "category": "Alternator"
-    },
-    "img37.jpg": {
-        "caption": "A reliable alternator with an integrated cooling fan to prevent overheating.",
-        "category": "Alternator"
-    },
-    "img38.jpg": {
-        "caption": "A powerful alternator designed for hybrid and electric vehicles with high-energy demand.",
-        "category": "Alternator"
-    },
-    "img39.jpg": {
-        "caption": "A high-output alternator featuring reinforced windings for extended durability.",
-        "category": "Alternator"
-    },
-    "img40.jpg": {
-        "caption": "An advanced alternator with built-in noise suppression for quieter operation.",
-        "category": "Alternator"
-    },
-    "img41.jpg": {
-        "caption": "A high-efficiency alternator with an optimized stator design for improved energy conversion.",
-        "category": "Alternator"
-    },
-    "img42.jpg": {
-        "caption": "A durable alternator featuring heavy-duty bearings for extended service life.",
-        "category": "Alternator"
-    },
-    "img43.jpg": {
-        "caption": "A high-output alternator designed for vehicles with additional electronic accessories.",
-        "category": "Alternator"
-    },
-    "img44.jpg": {
-        "caption": "An automotive alternator with a precision-machined rotor for superior performance.",
-        "category": "Alternator"
-    },
-    "img45.jpg": {
-        "caption": "A premium alternator featuring low-friction internals for improved efficiency.",
-        "category": "Alternator"
-    },
-    "img46.jpg": {
-        "caption": "A heavy-duty alternator built with corrosion-resistant components for longevity.",
-        "category": "Alternator"
-    },
-    "img47.jpg": {
-        "caption": "A high-performance alternator with a reinforced diode pack for reliable voltage regulation.",
-        "category": "Alternator"
-    },
-    "img48.jpg": {
-        "caption": "An advanced alternator with an internal cooling fan for improved heat dissipation.",
-        "category": "Alternator"
-    },
-    "img49.jpg": {
-        "caption": "A compact alternator featuring an efficient power management system.",
-        "category": "Alternator"
-    },
-    "img50.jpg": {
-        "caption": "A performance alternator designed for high electrical loads and stable power output.",
-        "category": "Alternator"
-    },
-    "img51.jpg": {
-        "caption": "An automotive alternator with an innovative heat sink design to prevent overheating.",
-        "category": "Alternator"
-    },
-    "img52.jpg": {
-        "caption": "A robust alternator with a lightweight aluminum housing for improved cooling.",
-        "category": "Alternator"
-    },
-    "img53.jpg": {
-        "caption": "A high-capacity alternator engineered for vehicles with multiple power-hungry systems.",
-        "category": "Alternator"
-    },
-    "img54.jpg": {
-        "caption": "An advanced automotive alternator with an ultra-low resistance rectifier.",
-        "category": "Alternator"
-    },
-    "img55.jpg": {
-        "caption": "A premium alternator featuring an advanced regulator for efficient power output.",
-        "category": "Alternator"
-    },
-    "img56.jpg": {
-        "caption": "A heavy-duty alternator designed to deliver consistent voltage under extreme loads.",
-        "category": "Alternator"
-    },
-    "img57.jpg": {
-        "caption": "A high-performance alternator with dual internal fans for enhanced cooling efficiency.",
-        "category": "Alternator"
-    },
-    "img58.jpg": {
-        "caption": "An energy-efficient alternator with high-quality copper windings for optimized performance.",
-        "category": "Alternator"
-    },
-    "img59.jpg": {
-        "caption": "A lightweight alternator with an intelligent voltage regulator for better fuel economy.",
-        "category": "Alternator"
-    },
-    "img60.jpg": {
-        "caption": "A premium-grade alternator designed for high-performance vehicles.",
-        "category": "Alternator"
-    },
-    "img61.jpg": {
-        "caption": "A high-output alternator featuring a dynamically balanced rotor for vibration-free operation.",
-        "category": "Alternator"
-    },
-    "img62.jpg": {
-        "caption": "A rugged alternator with an insulated winding system for durability in extreme conditions.",
-        "category": "Alternator"
-    },
-    "img63.jpg": {
-        "caption": "A high-efficiency alternator featuring a compact design for easy installation.",
-        "category": "Alternator"
-    },
-    "img64.jpg": {
-        "caption": "A heavy-duty alternator with a reinforced frame for off-road and utility vehicles.",
-        "category": "Alternator"
-    },
-    "img65.jpg": {
-        "caption": "A precision-engineered alternator with a smart charging system for optimal power delivery.",
-        "category": "Alternator"
-    },
-    "img66.jpg": {
-        "caption": "A high-performance alternator with upgraded bearings for extended operational life.",
-        "category": "Alternator"
-    },
-    "img67.jpg": {
-        "caption": "An advanced alternator with an integrated microprocessor for smart voltage regulation.",
-        "category": "Alternator"
-    },
-    "img68.jpg": {
-        "caption": "A lightweight and durable alternator with an aerodynamically designed cooling system.",
-        "category": "Alternator"
-    },
-    "img69.jpg": {
-        "caption": "A performance-grade alternator designed for racing and high-speed applications.",
-        "category": "Alternator"
-    },
-    "img70.jpg": {
-        "caption": "A reliable alternator with a dual-fan cooling system for enhanced temperature control.",
-        "category": "Alternator"
-    },
-    "img71.jpg": {
-        "caption": "A high-capacity alternator featuring a reinforced stator for improved durability.",
-        "category": "Alternator"
-    },
-    "img72.jpg": {
-        "caption": "A premium alternator with a low-noise operation for a smoother driving experience.",
-        "category": "Alternator"
-    },
-    "img73.jpg": {
-        "caption": "A high-performance alternator engineered for increased amperage output.",
-        "category": "Alternator"
-    },
-    "img74.jpg": {
-        "caption": "A precision-designed alternator with gold-plated terminals for superior conductivity.",
-        "category": "Alternator"
-    },
-    "img75.jpg": {
-        "caption": "A durable alternator with an impact-resistant casing for tough environments.",
-        "category": "Alternator"
-    },
-    "img76.jpg": {
-        "caption": "A smart alternator featuring an advanced power distribution system for optimized efficiency.",
-        "category": "Alternator"
-    },
-    "img77.jpg": {
-        "caption": "A robust alternator with a unique cooling fin design for efficient heat dissipation.",
-        "category": "Alternator"
-    },
-    "img78.jpg": {
-        "caption": "A high-output alternator with a precision-tuned rotor for enhanced reliability.",
-        "category": "Alternator"
-    },
-    "img79.jpg": {
-        "caption": "A performance-oriented alternator with a compact and efficient design.",
-        "category": "Alternator"
-    },
-    "img80.jpg": {
-        "caption": "An advanced automotive alternator featuring a vibration-dampening mount.",
-        "category": "Alternator"
-    },
-    "img81.jpg": {
-        "caption": "A premium alternator with a brushless design for maintenance-free operation.",
-        "category": "Alternator"
-    },
-    "img82.jpg": {
-        "caption": "A heavy-duty alternator with improved diode protection for reliable power generation.",
-        "category": "Alternator"
-    },
-    "img83.jpg": {
-        "caption": "A high-efficiency alternator with an upgraded rectifier for stable voltage output.",
-        "category": "Alternator"
-    },
-    "img84.jpg": {
-        "caption": "A rugged alternator with a thick-gauge stator winding for long-lasting durability.",
-        "category": "Alternator"
-    },
-    "img85.jpg": {
-        "caption": "A lightweight and high-performance alternator designed for fuel-efficient vehicles.",
-        "category": "Alternator"
-    },
-    "img86.jpg": {
-        "caption": "A compact alternator with a sealed housing for dust and moisture resistance.",
-        "category": "Alternator"
-    },
-    "img87.jpg": {
-        "caption": "A high-output alternator designed for trucks and commercial vehicles.",
-        "category": "Alternator"
-    },
-    "img88.jpg": {
-        "caption": "An advanced alternator with a dynamic voltage regulator for optimized charging.",
-        "category": "Alternator"
-    },
-    "img89.jpg": {
-        "caption": "A premium-grade alternator engineered to handle high electrical loads efficiently.",
-        "category": "Alternator"
-    },
-    "img90.jpg": {
-        "caption": "A performance alternator featuring a high-temperature resistant coating for longevity.",
-        "category": "Alternator"
-    },
-    "img91.jpg": {
-        "caption": "A high-efficiency alternator with an upgraded voltage regulator for stable power output.",
-        "category": "Alternator"
-    },
-    "img92.jpg": {
-        "caption": "A durable alternator featuring an extended-life brush system for consistent performance.",
-        "category": "Alternator"
-    },
-    "img93.jpg": {
-        "caption": "A high-output alternator designed to support vehicles with heavy electrical loads.",
-        "category": "Alternator"
-    },
-    "img94.jpg": {
-        "caption": "A premium alternator featuring an optimized cooling system for extended durability.",
-        "category": "Alternator"
-    },
-    "img95.jpg": {
-        "caption": "An advanced alternator with a low-resistance rotor design for improved efficiency.",
-        "category": "Alternator"
-    },
-    "img96.jpg": {
-        "caption": "A performance alternator engineered for enhanced electrical power management.",
-        "category": "Alternator"
-    },
-    "img97.jpg": {
-        "caption": "A compact and lightweight alternator with a reinforced frame for added strength.",
-        "category": "Alternator"
-    },
-    "img98.jpg": {
-        "caption": "A heavy-duty alternator designed with industrial-grade components for maximum reliability.",
-        "category": "Alternator"
-    },
-    "img99.jpg": {
-        "caption": "A high-performance alternator with dual cooling fans to prevent overheating.",
-        "category": "Alternator"
-    },
-    "img100.jpg": {
-        "caption": "An alternator featuring a smart charging system for optimized battery health.",
-        "category": "Alternator"
-    },
-    "img101.jpg": {
-        "caption": "A precision-built alternator with an advanced rectifier for improved voltage stability.",
-        "category": "Alternator"
-    },
-    "img102.jpg": {
-        "caption": "A high-output alternator engineered for enhanced power generation efficiency.",
-        "category": "Alternator"
-    },
-    "img103.jpg": {
-        "caption": "A rugged alternator with a corrosion-resistant housing for extended service life.",
-        "category": "Alternator"
-    },
-    "img104.jpg": {
-        "caption": "A premium alternator with a specially designed cooling vent for improved airflow.",
-        "category": "Alternator"
-    },
-    "img105.jpg": {
-        "caption": "A heavy-duty alternator built for extreme weather conditions and high electrical demand.",
-        "category": "Alternator"
-    },
-    "img106.jpg": {
-        "caption": "A high-performance alternator featuring precision-machined components for smooth operation.",
-        "category": "Alternator"
-    },
-    "img107.jpg": {
-        "caption": "A compact alternator with an efficient stator winding for improved energy output.",
-        "category": "Alternator"
-    },
-    "img108.jpg": {
-        "caption": "A robust alternator featuring high-strength bearings for reduced friction and wear.",
-        "category": "Alternator"
-    },
-    "img109.jpg": {
-        "caption": "A smart alternator with an adaptive voltage control system for optimized performance.",
-        "category": "Alternator"
-    },
-    "img110.jpg": {
-        "caption": "A lightweight and efficient alternator designed for improved fuel economy.",
-        "category": "Alternator"
-    },
-    "img111.jpg": {
-        "caption": "A high-capacity alternator with a dynamic rotor balancing system for reduced vibrations.",
-        "category": "Alternator"
-    },
-    "img112.jpg": {
-        "caption": "A durable alternator featuring a low-noise operation for a smooth driving experience.",
-        "category": "Alternator"
-    },
-    "img113.jpg": {
-        "caption": "A performance-oriented alternator with an ultra-high efficiency stator winding.",
-        "category": "Alternator"
-    },
-    "img114.jpg": {
-        "caption": "A heavy-duty alternator designed with reinforced mounting points for extra stability.",
-        "category": "Alternator"
-    },
-    "img115.jpg": {
-        "caption": "An advanced alternator with gold-plated terminals for superior electrical conductivity.",
-        "category": "Alternator"
-    },
-    "img116.jpg": {
-        "caption": "A compact and high-output alternator built for demanding vehicle applications.",
-        "category": "Alternator"
-    },
-    "img117.jpg": {
-        "caption": "A rugged alternator with an integrated cooling shroud for efficient heat dissipation.",
-        "category": "Alternator"
-    },
-    "img118.jpg": {
-        "caption": "A high-performance alternator featuring upgraded diodes for stable voltage output.",
-        "category": "Alternator"
-    },
-    "img119.jpg": {
-        "caption": "A premium-grade alternator designed for long-term durability and reliability.",
-        "category": "Alternator"
-    },
-    "img120.jpg": {
-        "caption": "A lightweight and aerodynamically optimized alternator for superior energy efficiency.",
-        "category": "Alternator"
-    },
-    "img160.jpg": {
-        "caption": "A high-performance alternator designed for improved electrical efficiency and durability.",
-        "category": "Alternator"
-    },
-    "img161.jpg": {
-        "caption": "A heavy-duty alternator with reinforced bearings for extended service life.",
-        "category": "Alternator"
-    },
-    "img162.jpg": {
-        "caption": "A compact alternator featuring an optimized cooling system for reduced heat buildup.",
-        "category": "Alternator"
-    },
-    "img163.jpg": {
-        "caption": "An advanced alternator with high-efficiency stator windings for superior power output.",
-        "category": "Alternator"
-    },
-    "img164.jpg": {
-        "caption": "A rugged alternator designed with corrosion-resistant materials for long-term reliability.",
-        "category": "Alternator"
-    },
-    "img165.jpg": {
-        "caption": "A high-output alternator with a low-resistance rotor for optimal charging performance.",
-        "category": "Alternator"
-    },
-    "img166.jpg": {
-        "caption": "A precision-engineered alternator featuring a smart voltage regulation system.",
-        "category": "Alternator"
-    },
-    "img167.jpg": {
-        "caption": "A durable alternator with a high-strength aluminum casing for reduced weight and better cooling.",
-        "category": "Alternator"
-    },
-    "img168.jpg": {
-        "caption": "A high-capacity alternator built to handle vehicles with extensive electrical demands.",
-        "category": "Alternator"
-    },
-    "img169.jpg": {
-        "caption": "A premium alternator featuring a high-efficiency rectifier for improved power conversion.",
-        "category": "Alternator"
-    },
-    "img170.jpg": {
-        "caption": "An industrial-grade alternator designed for heavy-duty vehicle applications.",
-        "category": "Alternator"
-    },
-    "img171.jpg": {
-        "caption": "A smart alternator with an integrated power management system for optimized battery life.",
-        "category": "Alternator"
-    },
-    "img172.jpg": {
-        "caption": "A lightweight alternator engineered for improved fuel efficiency and reduced engine load.",
-        "category": "Alternator"
-    },
-    "img173.jpg": {
-        "caption": "A high-performance alternator featuring an ultra-quiet operation for smooth performance.",
-        "category": "Alternator"
-    },
-    "img174.jpg": {
-        "caption": "A heavy-duty alternator with dual internal cooling fans for superior heat dissipation.",
-        "category": "Alternator"
-    },
-    "img175.jpg": {
-        "caption": "A precision-built alternator with an advanced diode pack for stable voltage regulation.",
-        "category": "Alternator"
-    },
-    "img176.jpg": {
-        "caption": "An energy-efficient alternator designed for maximum output with minimal power loss.",
-        "category": "Alternator"
-    },
-    "img177.jpg": {
-        "caption": "A performance alternator featuring an optimized rotor design for enhanced energy conversion.",
-        "category": "Alternator"
-    },
-    "img178.jpg": {
-        "caption": "A robust alternator with a sealed housing for protection against dust and moisture.",
-        "category": "Alternator"
-    },
-    "img179.jpg": {
-        "caption": "A high-capacity alternator built for reliability in extreme weather conditions.",
-        "category": "Alternator"
-    },
-    "img180.jpg": {
-        "caption": "A compact and high-output alternator designed to meet modern vehicle power demands.",
-        "category": "Alternator"
-    },
-    "img181.jpg": {
-        "caption": "A rugged alternator featuring a reinforced mounting system for stability and longevity.",
-        "category": "Alternator"
-    },
-    "img182.jpg": {
-        "caption": "A high-efficiency alternator with a low-noise design for seamless performance.",
-        "category": "Alternator"
-    },
-    "img183.jpg": {
-        "caption": "An advanced alternator with gold-plated electrical contacts for enhanced conductivity.",
-        "category": "Alternator"
-    },
-    "img184.jpg": {
-        "caption": "A premium-grade alternator with a dynamic balancing system for reduced vibrations.",
-        "category": "Alternator"
-    },
-    "img185.jpg": {
-        "caption": "A smart alternator featuring an adaptive charging system for efficient battery management.",
-        "category": "Alternator"
-    },
-    "img186.jpg": {
-        "caption": "A durable alternator with an aerodynamically optimized fan for improved airflow.",
-        "category": "Alternator"
-    },
-    "img187.jpg": {
-        "caption": "A high-output alternator built with industrial-grade components for extended reliability.",
-        "category": "Alternator"
-    },
-    "img188.jpg": {
-        "caption": "A performance alternator featuring a heat-resistant stator core for optimal efficiency.",
-        "category": "Alternator"
-    },
-    "img189.jpg": {
-        "caption": "A heavy-duty alternator with an enhanced rectifier system for stable electrical output.",
-        "category": "Alternator"
-    },
-    "img190.jpg": {
-        "caption": "A lightweight and durable alternator designed for increased energy efficiency and longevity.",
-        "category": "Alternator"
-    }
-}
+    {
+      "image_path": "Alternator/img27.jpg",
+      "caption": "An alternator with upgraded bearings and cooling improvements."
+    },
+    {
+      "image_path": "Alternator/img28.jpg",
+      "caption": "A disassembled alternator showing rotor, stator, and diode pack."
+    },
+    {
+      "image_path": "Alternator/img29.jpg",
+      "caption": "A vintage alternator used in early model cars."
+    },
+    {
+      "image_path": "Alternator/img30.jpg",
+      "caption": "An alternator placed on an automotive parts shelf for sale."
+    },
+    {
+      "image_path": "Alternator/img31.jpg",
+      "caption": "An alternator with a serpentine belt and tensioner system."
+    },
+    {
+      "image_path": "Alternator/img32.jpg",
+      "caption": "A rebuilt alternator unit with labels showing part specifications."
+    },
+    {
+      "image_path": "Alternator/img33.jpg",
+      "caption": "An alternator with a multi-groove pulley for enhanced compatibility."
+    },
+    {
+      "image_path": "Alternator/img34.jpg",
+      "caption": "A belt-driven alternator mounted near the engine crankshaft pulley."
+    },
+    {
+      "image_path": "Alternator/img35.jpg",
+      "caption": "An alternator installed in a diesel engine with heavy wiring."
+    },
+    {
+      "image_path": "Alternator/img36.jpg",
+      "caption": "An alternator partially disassembled for maintenance."
+    },
+    {
+      "image_path": "Alternator/img37.jpg",
+      "caption": "An OEM alternator fitted with heat shielding."
+    },
+    {
+      "image_path": "Alternator/img38.jpg",
+      "caption": "A high-amp alternator built for competition audio systems."
+    },
+    {
+      "image_path": "Alternator/img39.jpg",
+      "caption": "A replacement alternator shown with its matching wiring harness."
+    },
+    {
+      "image_path": "Alternator/img40.jpg",
+      "caption": "An alternator rotor showing laminated iron core construction."
+    },
+    {
+      "image_path": "Alternator/img41.jpg",
+      "caption": "A close-up of the alternator pulley showing ribbed design."
+    },
+    {
+      "image_path": "Alternator/img42.jpg",
+      "caption": "A hybrid vehicle alternator/generator combo unit."
+    },
+    {
+      "image_path": "Alternator/img43.jpg",
+      "caption": "A freshly painted alternator mounted in a restored vehicle."
+    },
+    {
+      "image_path": "Alternator/img44.jpg",
+      "caption": "A disassembled alternator with a visible diode rectifier."
+    },
+    {
+      "image_path": "Alternator/img45.jpg",
+      "caption": "An alternator cooling fan designed for high-speed rotation."
+    },
+    {
+      "image_path": "Alternator/img46.jpg",
+      "caption": "A rear view of an alternator showing terminals and casing bolts."
+    },
+    {
+      "image_path": "Alternator/img47.jpg",
+      "caption": "A compact alternator designed for tight engine compartments."
+    },
+    {
+      "image_path": "Alternator/img48.jpg",
+      "caption": "An alternator with color-coded terminals for easy wiring."
+    },
+    {
+      "image_path": "Alternator/img49.jpg",
+      "caption": "An alternator and battery charging system test setup."
+    },
+    {
+      "image_path": "Alternator/img50.jpg",
+      "caption": "A new alternator beside an old worn unit for comparison."
+    },
+    
+        {
+          "image_path": "Alternator/img51.jpg",
+          "caption": "An alternator with a heavy-duty mount bracket for commercial vehicles."
+        },
+        {
+          "image_path": "Alternator/img52.jpg",
+          "caption": "A compact alternator installed in a hybrid engine bay."
+        },
+        {
+          "image_path": "Alternator/img53.jpg",
+          "caption": "An alternator pulley alignment being checked with a laser tool."
+        },
+        {
+          "image_path": "Alternator/img54.jpg",
+          "caption": "A refurbished alternator with painted housing and new hardware."
+        },
+        {
+          "image_path": "Alternator/img55.jpg",
+          "caption": "A close-up of alternator diode testing with a multimeter."
+        },
+        {
+          "image_path": "Alternator/img56.jpg",
+          "caption": "An alternator fan blade assembly for cooling airflow."
+        },
+        {
+          "image_path": "Alternator/img57.jpg",
+          "caption": "A serpentine belt routed through alternator and other components."
+        },
+        {
+          "image_path": "Alternator/img58.jpg",
+          "caption": "A new alternator tested for amperage output on a diagnostic bench."
+        },
+        {
+          "image_path": "Alternator/img59.jpg",
+          "caption": "A disassembled alternator revealing carbon brushes and slip rings."
+        },
+        {
+          "image_path": "Alternator/img60.jpg",
+          "caption": "A high-performance alternator installed in a modified sports car."
+        },
+        {
+          "image_path": "Alternator/img61.jpg",
+          "caption": "An exploded view showing the alternator’s rotor and stator components."
+        },
+        {
+          "image_path": "Alternator/img62.jpg",
+          "caption": "A mechanic tightening bolts on a newly installed alternator."
+        },
+        {
+          "image_path": "Alternator/img63.jpg",
+          "caption": "An alternator with a multi-ribbed pulley for serpentine belts."
+        },
+        {
+          "image_path": "Alternator/img64.jpg",
+          "caption": "An alternator placed next to a battery for connection demonstration."
+        },
+        {
+          "image_path": "Alternator/img65.jpg",
+          "caption": "An alternator housing cast in aluminum for lightweight durability."
+        },
+        {
+          "image_path": "Alternator/img66.jpg",
+          "caption": "A close-up of a worn-out alternator bearing and rotor shaft."
+        },
+        {
+          "image_path": "Alternator/img67.jpg",
+          "caption": "An alternator wiring harness being connected to the rear terminals."
+        },
+        {
+          "image_path": "Alternator/img68.jpg",
+          "caption": "A side view of a dual-output alternator used in utility vehicles."
+        },
+        {
+          "image_path": "Alternator/img69.jpg",
+          "caption": "An alternator cooling fan with high-speed airflow blades."
+        },
+        {
+          "image_path": "Alternator/img70.jpg",
+          "caption": "A low-profile alternator fitted into a tight engine compartment."
+        },
+        {
+          "image_path": "Alternator/img71.jpg",
+          "caption": "A belt-driven alternator with high-amp output for sound systems."
+        },
+        {
+          "image_path": "Alternator/img72.jpg",
+          "caption": "A mechanic removing an old alternator from a car engine bay."
+        },
+        {
+          "image_path": "Alternator/img73.jpg",
+          "caption": "An alternator power output being monitored on a diagnostic screen."
+        },
+        {
+          "image_path": "Alternator/img74.jpg",
+          "caption": "A wiring diagram showing the alternator and battery charging system."
+        },
+        {
+          "image_path": "Alternator/img75.jpg",
+          "caption": "An alternator with visible label showing voltage and amp rating."
+        },
+        {
+          "image_path": "Alternator/img76.jpg",
+          "caption": "An alternator from a hybrid vehicle featuring integrated inverter."
+        },
+        {
+          "image_path": "Alternator/img77.jpg",
+          "caption": "An alternator rotor placed on a lathe for precision balancing."
+        },
+        {
+          "image_path": "Alternator/img78.jpg",
+          "caption": "A newly installed alternator with tightened tensioner belt."
+        },
+        {
+          "image_path": "Alternator/img79.jpg",
+          "caption": "A truck alternator connected to a dual battery system."
+        },
+        {
+          "image_path": "Alternator/img80.jpg",
+          "caption": "An alternator with a clutch pulley for engine load efficiency."
+        },
+        {
+          "image_path": "Alternator/img81.jpg",
+          "caption": "An alternator rectifier bridge tested on a circuit bench."
+        },
+        {
+          "image_path": "Alternator/img82.jpg",
+          "caption": "A remanufactured alternator unit with warranty sticker."
+        },
+        {
+          "image_path": "Alternator/img83.jpg",
+          "caption": "An alternator with cooling slots and integrated regulator unit."
+        },
+        {
+          "image_path": "Alternator/img84.jpg",
+          "caption": "A new alternator sitting on foam inside shipping packaging."
+        },
+        {
+          "image_path": "Alternator/img85.jpg",
+          "caption": "An alternator ground wire connected to chassis point."
+        },
+        {
+          "image_path": "Alternator/img86.jpg",
+          "caption": "A belt and pulley tension system for alternator operation."
+        },
+        {
+          "image_path": "Alternator/img87.jpg",
+          "caption": "A technician calibrating alternator output using voltage probe."
+        },
+        {
+          "image_path": "Alternator/img88.jpg",
+          "caption": "An alternator rotor core with laminated steel plates."
+        },
+        {
+          "image_path": "Alternator/img89.jpg",
+          "caption": "A diagram showing alternator position relative to engine crankshaft."
+        },
+        {
+          "image_path": "Alternator/img90.jpg",
+          "caption": "An alternator regulator board detached for inspection."
+        },
+        {
+          "image_path": "Alternator/img91.jpg",
+          "caption": "A dual battery alternator system used in RVs and campers."
+        },
+        {
+          "image_path": "Alternator/img92.jpg",
+          "caption": "A worn alternator pulley showing belt wear grooves."
+        },
+        {
+          "image_path": "Alternator/img93.jpg",
+          "caption": "A newly painted alternator installed on a show car engine."
+        },
+        {
+          "image_path": "Alternator/img94.jpg",
+          "caption": "An alternator showing positive and negative post terminals."
+        },
+        {
+          "image_path": "Alternator/img95.jpg",
+          "caption": "A marine alternator setup with water-resistant housing."
+        },
+        {
+          "image_path": "Alternator/img96.jpg",
+          "caption": "A mechanic cleaning corrosion off alternator terminals."
+        },
+        {
+          "image_path": "Alternator/img97.jpg",
+          "caption": "An alternator shaft being checked for alignment issues."
+        },
+        {
+          "image_path": "Alternator/img98.jpg",
+          "caption": "An alternator used in high-performance drag race applications."
+        },
+        {
+          "image_path": "Alternator/img99.jpg",
+          "caption": "An alternator core exchange program showing old and new units."
+        },
+        {
+          "image_path": "Alternator/img100.jpg",
+          "caption": "A labeled diagram of an alternator with all key components marked."
+        },
+        
+            {
+              "image_path": "Alternator/img101.jpg",
+              "caption": "A high-capacity alternator designed for heavy-duty applications."
+            },
+            {
+              "image_path": "Alternator/img102.jpg",
+              "caption": "An alternator with heat sinks for improved thermal dissipation."
+            },
+            {
+              "image_path": "Alternator/img103.jpg",
+              "caption": "An alternator attached to an engine block with belt-driven pulley."
+            },
+            {
+              "image_path": "Alternator/img104.jpg",
+              "caption": "An alternator showing signs of rust and wear from prolonged use."
+            },
+            {
+              "image_path": "Alternator/img105.jpg",
+              "caption": "A technician using a digital tester to check alternator voltage output."
+            },
+            {
+              "image_path": "Alternator/img106.jpg",
+              "caption": "An exploded diagram of an alternator with labeled parts."
+            },
+            {
+              "image_path": "Alternator/img107.jpg",
+              "caption": "An alternator installed in a modern fuel-efficient vehicle."
+            },
+            {
+              "image_path": "Alternator/img108.jpg",
+              "caption": "A dual alternator setup for high-demand electronic systems."
+            },
+            {
+              "image_path": "Alternator/img109.jpg",
+              "caption": "A high-amp alternator customized for aftermarket audio systems."
+            },
+            {
+              "image_path": "Alternator/img110.jpg",
+              "caption": "An alternator with an external voltage regulator module."
+            },
+            {
+              "image_path": "Alternator/img111.jpg",
+              "caption": "An alternator being tested on a specialized alternator test bench."
+            },
+            {
+              "image_path": "Alternator/img112.jpg",
+              "caption": "A brushless alternator designed for longer service life."
+            },
+            {
+              "image_path": "Alternator/img113.jpg",
+              "caption": "A vintage alternator unit removed from a classic car."
+            },
+            {
+              "image_path": "Alternator/img114.jpg",
+              "caption": "A partially disassembled alternator showing stator winding."
+            },
+            {
+              "image_path": "Alternator/img115.jpg",
+              "caption": "An alternator charging system connected to a vehicle ECU."
+            },
+            {
+              "image_path": "Alternator/img116.jpg",
+              "caption": "A belt tensioner tool used during alternator installation."
+            },
+            {
+              "image_path": "Alternator/img117.jpg",
+              "caption": "A side-by-side view of new and old alternators for comparison."
+            },
+            {
+              "image_path": "Alternator/img118.jpg",
+              "caption": "A heavy-duty alternator used in off-road and utility trucks."
+            },
+            {
+              "image_path": "Alternator/img119.jpg",
+              "caption": "An alternator with corrosion-resistant coating for marine use."
+            },
+            {
+              "image_path": "Alternator/img120.jpg",
+              "caption": "An alternator test report showing output voltage and efficiency."
+            },
+            {
+              "image_path": "Alternator/img121.jpg",
+              "caption": "A thermal image showing heat generation from an operating alternator."
+            },
+            {
+              "image_path": "Alternator/img122.jpg",
+              "caption": "An alternator removed from a motorcycle for maintenance."
+            },
+            {
+              "image_path": "Alternator/img123.jpg",
+              "caption": "A close-up of a stator coil inside the alternator casing."
+            },
+            {
+              "image_path": "Alternator/img124.jpg",
+              "caption": "An alternator voltage regulator circuit board being replaced."
+            },
+            {
+              "image_path": "Alternator/img125.jpg",
+              "caption": "A spark-resistant alternator used in hazardous environments."
+            },
+            {
+              "image_path": "Alternator/img126.jpg",
+              "caption": "An alternator output cable connected to the main battery line."
+            },
+            {
+              "image_path": "Alternator/img127.jpg",
+              "caption": "An alternator label showing model number and manufacturing details."
+            },
+            {
+              "image_path": "Alternator/img128.jpg",
+              "caption": "A fully assembled alternator with factory test certification tag."
+            },
+            {
+              "image_path": "Alternator/img129.jpg",
+              "caption": "A rear view of alternator terminals marked B+, D+, and ground."
+            },
+            {
+              "image_path": "Alternator/img130.jpg",
+              "caption": "A new alternator installed in an electric vehicle drivetrain."
+            },
+            {
+              "image_path": "Alternator/img131.jpg",
+              "caption": "An alternator designed to operate in high-temperature conditions."
+            },
+            {
+              "image_path": "Alternator/img132.jpg",
+              "caption": "A schematic diagram of the alternator’s internal components."
+            },
+            {
+              "image_path": "Alternator/img133.jpg",
+              "caption": "A technician verifying alternator belt alignment during servicing."
+            },
+            {
+              "image_path": "Alternator/img134.jpg",
+              "caption": "An alternator in an agricultural tractor engine bay."
+            },
+            {
+              "image_path": "Alternator/img135.jpg",
+              "caption": "A bench setup for testing alternator rotor and bearing noise."
+            },
+            {
+              "image_path": "Alternator/img136.jpg",
+              "caption": "An alternator with thermal insulation wrap to prevent overheating."
+            },
+            {
+              "image_path": "Alternator/img137.jpg",
+              "caption": "A sealed alternator used in industrial generator units."
+            },
+            {
+              "image_path": "Alternator/img138.jpg",
+              "caption": "An alternator with a quick-connect power output harness."
+            },
+            {
+              "image_path": "Alternator/img139.jpg",
+              "caption": "An alternator core undergoing remanufacturing process."
+            },
+            {
+              "image_path": "Alternator/img140.jpg",
+              "caption": "A digital display showing real-time alternator charging rate."
+            },
+            {
+              "image_path": "Alternator/img141.jpg",
+              "caption": "An alternator cooling fan and rotor assembly spinning at high RPM."
+            },
+            {
+              "image_path": "Alternator/img142.jpg",
+              "caption": "A pulley tool used to remove alternator clutch pulley."
+            },
+            {
+              "image_path": "Alternator/img143.jpg",
+              "caption": "A heavy-duty alternator on a diesel engine."
+            },
+            {
+              "image_path": "Alternator/img144.jpg",
+              "caption": "A hybrid vehicle alternator with regenerative braking interface."
+            },
+            {
+              "image_path": "Alternator/img145.jpg",
+              "caption": "An alternator with electronic load detection system."
+            },
+            {
+              "image_path": "Alternator/img146.jpg",
+              "caption": "A close-up of alternator slip rings during cleaning."
+            },
+            {
+              "image_path": "Alternator/img147.jpg",
+              "caption": "An alternator cooling duct directing airflow during vehicle operation."
+            },
+            {
+              "image_path": "Alternator/img148.jpg",
+              "caption": "A refurbished alternator tested for continuity and grounding."
+            },
+            {
+              "image_path": "Alternator/img149.jpg",
+              "caption": "A technician explaining alternator working in a classroom session."
+            },
+            {
+              "image_path": "Alternator/img150.jpg",
+              "caption": "A collection of alternator models displayed for educational purposes."
+            },
+            
+                {
+                  "image_path": "Alternator/img151.jpg",
+                  "caption": "An alternator with built-in smart charging control for modern vehicles."
+                },
+                {
+                  "image_path": "Alternator/img152.jpg",
+                  "caption": "A technician testing alternator performance with diagnostic tools."
+                },
+                {
+                  "image_path": "Alternator/img153.jpg",
+                  "caption": "A high-output alternator used in recreational vehicles."
+                },
+                {
+                  "image_path": "Alternator/img154.jpg",
+                  "caption": "An alternator mounting bracket secured with bolts and spacers."
+                },
+                {
+                  "image_path": "Alternator/img155.jpg",
+                  "caption": "A close-up view of alternator bearing assembly."
+                },
+                {
+                  "image_path": "Alternator/img156.jpg",
+                  "caption": "A newly installed alternator in a compact car engine bay."
+                },
+                {
+                  "image_path": "Alternator/img157.jpg",
+                  "caption": "An alternator pulley spinning with visible motion blur."
+                },
+                {
+                  "image_path": "Alternator/img158.jpg",
+                  "caption": "A belt-driven alternator operating at idle RPM."
+                },
+                {
+                  "image_path": "Alternator/img159.jpg",
+                  "caption": "An alternator tested for ripple voltage and waveform quality."
+                },
+                {
+                  "image_path": "Alternator/img160.jpg",
+                  "caption": "An alternator overvoltage protection fuse integrated in-line."
+                },
+                {
+                  "image_path": "Alternator/img161.jpg",
+                  "caption": "A cross-sectional diagram of an alternator rotor and stator."
+                },
+                {
+                  "image_path": "Alternator/img162.jpg",
+                  "caption": "A disassembled alternator placed on a workshop table."
+                },
+                {
+                  "image_path": "Alternator/img163.jpg",
+                  "caption": "An alternator installed in a generator unit for backup power."
+                },
+                {
+                  "image_path": "Alternator/img164.jpg",
+                  "caption": "An alternator system with belt tension indicator gauge."
+                },
+                {
+                  "image_path": "Alternator/img165.jpg",
+                  "caption": "A refurbished alternator with polished casing and new brushes."
+                },
+                {
+                  "image_path": "Alternator/img166.jpg",
+                  "caption": "An alternator in a marine engine with corrosion protection."
+                },
+                {
+                  "image_path": "Alternator/img167.jpg",
+                  "caption": "An alternator power wire connected to the vehicle fuse box."
+                },
+                {
+                  "image_path": "Alternator/img168.jpg",
+                  "caption": "A technician checking alternator amperage output using a clamp meter."
+                },
+                {
+                  "image_path": "Alternator/img169.jpg",
+                  "caption": "A side profile of a compact alternator designed for hybrids."
+                },
+                {
+                  "image_path": "Alternator/img170.jpg",
+                  "caption": "A broken alternator fan blade causing imbalance and noise."
+                },
+                {
+                  "image_path": "Alternator/img171.jpg",
+                  "caption": "A thermal overload sensor attached to an alternator body."
+                },
+                {
+                  "image_path": "Alternator/img172.jpg",
+                  "caption": "An alternator output terminal protected with rubber boot cover."
+                },
+                {
+                  "image_path": "Alternator/img173.jpg",
+                  "caption": "A diagram showing wiring configuration for alternator connections."
+                },
+                {
+                  "image_path": "Alternator/img174.jpg",
+                  "caption": "A technician using an oscilloscope to inspect alternator waveform."
+                },
+                {
+                  "image_path": "Alternator/img175.jpg",
+                  "caption": "A custom-painted alternator for performance car aesthetic."
+                },
+                {
+                  "image_path": "Alternator/img176.jpg",
+                  "caption": "An alternator casing made from lightweight aluminum alloy."
+                },
+                {
+                  "image_path": "Alternator/img177.jpg",
+                  "caption": "An exploded view showing the internal components of an alternator."
+                },
+                {
+                  "image_path": "Alternator/img178.jpg",
+                  "caption": "An alternator voltage reading on a car dashboard."
+                },
+                {
+                  "image_path": "Alternator/img179.jpg",
+                  "caption": "An alternator with pulley misalignment causing belt noise."
+                },
+                {
+                  "image_path": "Alternator/img180.jpg",
+                  "caption": "A heavy-duty alternator used in refrigerated truck units."
+                },
+                {
+                  "image_path": "Alternator/img181.jpg",
+                  "caption": "An alternator with carbon brush wear indicator exposed."
+                },
+                {
+                  "image_path": "Alternator/img182.jpg",
+                  "caption": "A mobile diagnostic unit checking alternator functionality."
+                },
+                {
+                  "image_path": "Alternator/img183.jpg",
+                  "caption": "A burned-out alternator with damaged windings and casing."
+                },
+                {
+                  "image_path": "Alternator/img184.jpg",
+                  "caption": "A belt-driven alternator sharing drive with power steering pump."
+                },
+                {
+                  "image_path": "Alternator/img185.jpg",
+                  "caption": "An alternator replacement procedure underway in a service garage."
+                },
+                {
+                  "image_path": "Alternator/img186.jpg",
+                  "caption": "A schematic showing alternator in a 12V vehicle electrical system."
+                },
+                {
+                  "image_path": "Alternator/img187.jpg",
+                  "caption": "A battery light warning indicating possible alternator issue."
+                },
+                {
+                  "image_path": "Alternator/img188.jpg",
+                  "caption": "An alternator pulley toolset used for installation and removal."
+                },
+                {
+                  "image_path": "Alternator/img189.jpg",
+                  "caption": "An alternator with integrated fan blades for better cooling."
+                },
+                {
+                  "image_path": "Alternator/img190.jpg",
+                  "caption": "A view of alternator through vehicle wheel well access panel."
+                },
+                {
+                  "image_path": "Alternator/img191.jpg",
+                  "caption": "A hybrid alternator-generator system for energy recovery."
+                },
+                {
+                  "image_path": "Alternator/img192.jpg",
+                  "caption": "An alternator voltage regulator disassembled for inspection."
+                },
+                {
+                  "image_path": "Alternator/img193.jpg",
+                  "caption": "A technician lubricating alternator bearings during overhaul."
+                },
+                {
+                  "image_path": "Alternator/img194.jpg",
+                  "caption": "An alternator bracket mount showing minor cracks under load."
+                },
+                {
+                  "image_path": "Alternator/img195.jpg",
+                  "caption": "A wiring harness attached to alternator connector pins."
+                },
+                {
+                  "image_path": "Alternator/img196.jpg",
+                  "caption": "A removed alternator labeled for core return at auto parts store."
+                },
+                {
+                  "image_path": "Alternator/img197.jpg",
+                  "caption": "A side-by-side comparison of OEM vs aftermarket alternators."
+                },
+                {
+                  "image_path": "Alternator/img198.jpg",
+                  "caption": "A vehicle battery tested under alternator load simulation."
+                },
+                {
+                  "image_path": "Alternator/img199.jpg",
+                  "caption": "A voltage drop test performed across alternator output wire."
+                },
+                {
+                  "image_path": "Alternator/img200.jpg",
+                  "caption": "An alternator cooling duct system diagram for high-performance vehicles."
+                }
+              
+              
+          
+          
+      
+      
+  ]
+  
