@@ -1,594 +1,1017 @@
-{
-    "img1.jpg": {
-        "caption": "A high-performance ignition distributor for enhanced spark timing.",
-        "category": "Distributor"
-    },
-    "img2.jpg": {
-        "caption": "An electronic distributor with precision-tuned advance curves.",
-        "category": "Distributor"
-    },
-    "img3.jpg": {
-        "caption": "A mechanical distributor designed for classic car restoration projects.",
-        "category": "Distributor"
-    },
-    "img4.jpg": {
-        "caption": "A dual-point distributor for improved ignition efficiency.",
-        "category": "Distributor"
-    },
-    "img5.jpg": {
-        "caption": "A billet aluminum distributor for lightweight and durable performance.",
-        "category": "Distributor"
-    },
-    "img6.jpg": {
-        "caption": "A high-voltage distributor with improved coil output.",
-        "category": "Distributor"
-    },
-    "img7.jpg": {
-        "caption": "A distributor with an adjustable vacuum advance for fine-tuning.",
-        "category": "Distributor"
-    },
-    "img8.jpg": {
-        "caption": "A performance distributor with an integrated ignition control module.",
-        "category": "Distributor"
-    },
-    "img9.jpg": {
-        "caption": "A low-profile distributor for compact engine compartments.",
-        "category": "Distributor"
-    },
-    "img10.jpg": {
-        "caption": "A distributor with multi-spark discharge for increased efficiency.",
-        "category": "Distributor"
-    },
-    "img11.jpg": {
-        "caption": "A high-rev distributor with reinforced internals for racing applications.",
-        "category": "Distributor"
-    },
-    "img12.jpg": {
-        "caption": "An aftermarket distributor designed for precise ignition timing control.",
-        "category": "Distributor"
-    },
-    "img13.jpg": {
-        "caption": "A water-resistant distributor for off-road and marine use.",
-        "category": "Distributor"
-    },
-    "img14.jpg": {
-        "caption": "A distributor featuring a high-output coil and brass terminals.",
-        "category": "Distributor"
-    },
-    "img15.jpg": {
-        "caption": "A vintage-style distributor with modern electronic internals.",
-        "category": "Distributor"
-    },
-    "img16.jpg": {
-        "caption": "A distributor with high-speed bearings for smooth operation.",
-        "category": "Distributor"
-    },
-    "img17.jpg": {
-        "caption": "A fully electronic distributor eliminating the need for breaker points.",
-        "category": "Distributor"
-    },
-    "img18.jpg": {
-        "caption": "A performance-oriented distributor with CNC-machined components.",
-        "category": "Distributor"
-    },
-    "img19.jpg": {
-        "caption": "A distributor featuring high-strength gears for longevity.",
-        "category": "Distributor"
-    },
-    "img20.jpg": {
-        "caption": "A sealed distributor designed to prevent moisture intrusion.",
-        "category": "Distributor"
-    },
-    "img21.jpg": {
-        "caption": "A compact distributor for tight engine bay applications.",
-        "category": "Distributor"
-    },
-    "img22.jpg": {
-        "caption": "A distributor with a built-in rev limiter for engine protection.",
-        "category": "Distributor"
-    },
-    "img23.jpg": {
-        "caption": "An adjustable mechanical advance distributor for fine-tuned performance.",
-        "category": "Distributor"
-    },
-    "img24.jpg": {
-        "caption": "A lightweight distributor with an anodized aluminum housing.",
-        "category": "Distributor"
-    },
-    "img25.jpg": {
-        "caption": "A high-performance distributor with a precision-machined rotor.",
-        "category": "Distributor"
-    },
-    "img26.jpg": {
-        "caption": "A distributor with a fully programmable ignition curve.",
-        "category": "Distributor"
+[
+    {
+      "image_path": "Distributor/img1.jpg",
+      "caption": "A classic car distributor with a black cap and visible spark plug wires."
+    },
+    {
+      "image_path": "Distributor/img2.jpg",
+      "caption": "An electronic ignition distributor with a metal housing and rotor."
+    },
+    {
+      "image_path": "Distributor/img3.jpg",
+      "caption": "A high-performance distributor for a racing engine."
+    },
+    {
+      "image_path": "Distributor/img4.jpg",
+      "caption": "A compact distributor with integrated ignition coil."
+    },
+    {
+      "image_path": "Distributor/img5.jpg",
+      "caption": "A distributor assembly with vacuum advance unit attached."
+    },
+    {
+      "image_path": "Distributor/img6.jpg",
+      "caption": "An OEM distributor with clear plug wire markings."
+    },
+    {
+      "image_path": "Distributor/img7.jpg",
+      "caption": "A replacement distributor for a four-cylinder engine."
+    },
+    {
+      "image_path": "Distributor/img8.jpg",
+      "caption": "A used distributor with visible wear on the cap and terminals."
+    },
+    {
+      "image_path": "Distributor/img9.jpg",
+      "caption": "An adjustable performance distributor with polished finish."
+    },
+    {
+      "image_path": "Distributor/img10.jpg",
+      "caption": "A simple distributor removed from a compact car engine."
+    },
+    {
+      "image_path": "Distributor/img11.jpg",
+      "caption": "A red distributor cap with numbered wire positions."
+    },
+    {
+      "image_path": "Distributor/img12.jpg",
+      "caption": "A distributor with timing adjustment marks on the housing."
+    },
+    {
+      "image_path": "Distributor/img13.jpg",
+      "caption": "A modern electronic distributor without cap or rotor."
+    },
+    {
+      "image_path": "Distributor/img14.jpg",
+      "caption": "A side-mounted distributor installed on an inline engine."
+    },
+    {
+      "image_path": "Distributor/img15.jpg",
+      "caption": "A dual-point distributor used in vintage performance cars."
+    },
+    {
+      "image_path": "Distributor/img16.jpg",
+      "caption": "A new distributor unit with shiny metal and clean terminals."
+    },
+    {
+      "image_path": "Distributor/img17.jpg",
+      "caption": "A cutaway view showing the internal mechanism of a distributor."
+    },
+    {
+      "image_path": "Distributor/img18.jpg",
+      "caption": "A black and silver distributor ready for installation."
+    },
+    {
+      "image_path": "Distributor/img19.jpg",
+      "caption": "A distributor mounted on a test bench for diagnostics."
+    },
+    {
+      "image_path": "Distributor/img20.jpg",
+      "caption": "A distributor with a coil pack and ignition control module."
+    },
+    {
+      "image_path": "Distributor/img21.jpg",
+      "caption": "A rebuilt distributor unit with a clean cap and new rotor."
+    },
+    {
+      "image_path": "Distributor/img22.jpg",
+      "caption": "An exploded view of distributor components laid out for display."
+    },
+    {
+      "image_path": "Distributor/img23.jpg",
+      "caption": "A distributor assembly in a clean engine bay."
+    },
+    {
+      "image_path": "Distributor/img24.jpg",
+      "caption": "A weathered distributor with signs of corrosion on the terminals."
+    },
+    {
+      "image_path": "Distributor/img25.jpg",
+      "caption": "A compact distributor for a modern 3-cylinder engine."
+    },
+    {
+      "image_path": "Distributor/img26.jpg",
+      "caption": "A performance distributor with high-output coil and adjustable rotor."
     },
-    "img27.jpg": {
-        "caption": "A durable distributor with reinforced bushings for longevity.",
-        "category": "Distributor"
-    },
-    "img28.jpg": {
-        "caption": "A distributor with a high-speed advance mechanism for racing applications.",
-        "category": "Distributor"
-    },
-    "img29.jpg": {
-        "caption": "A vacuum-advance distributor for improved fuel efficiency.",
-        "category": "Distributor"
-    },
-    "img30.jpg": {
-        "caption": "A high-output distributor designed for turbocharged engines.",
-        "category": "Distributor"
-    },
-    "img31.jpg": {
-        "caption": "A direct-replacement distributor for OEM compatibility.",
-        "category": "Distributor"
-    },
-    "img32.jpg": {
-        "caption": "A low-resistance distributor with premium electrical contacts.",
-        "category": "Distributor"
-    },
-    "img33.jpg": {
-        "caption": "A marine-grade distributor with corrosion-resistant materials.",
-        "category": "Distributor"
-    },
-    "img34.jpg": {
-        "caption": "A high-energy ignition distributor for optimal spark performance.",
-        "category": "Distributor"
-    },
-    "img35.jpg": {
-        "caption": "A distributor with an adjustable rotor phasing for precise tuning.",
-        "category": "Distributor"
-    },
-    "img36.jpg": {
-        "caption": "A drag racing distributor with ultra-high voltage output.",
-        "category": "Distributor"
-    },
-    "img37.jpg": {
-        "caption": "A heavy-duty distributor for diesel and industrial engines.",
-        "category": "Distributor"
-    },
-    "img38.jpg": {
-        "caption": "A distributor with a solid-state ignition module for reliability.",
-        "category": "Distributor"
-    },
-    "img39.jpg": {
-        "caption": "A performance distributor featuring a multi-spark ignition system.",
-        "category": "Distributor"
-    },
-    "img40.jpg": {
-        "caption": "A street/strip distributor designed for balanced performance.",
-        "category": "Distributor"
-    },
-    "img41.jpg": {
-        "caption": "A distributor with dual pickup sensors for redundancy.",
-        "category": "Distributor"
-    },
-    "img42.jpg": {
-        "caption": "A distributor with billet construction for superior durability.",
-        "category": "Distributor"
-    },
-    "img43.jpg": {
-        "caption": "A custom-tuned distributor for optimized ignition timing.",
-        "category": "Distributor"
-    },
-    "img44.jpg": {
-        "caption": "A distributor with brass contacts for improved conductivity.",
-        "category": "Distributor"
-    },
-    "img45.jpg": {
-        "caption": "A racing distributor designed for high-RPM applications.",
-        "category": "Distributor"
-    },
-    "img46.jpg": {
-        "caption": "A high-performance distributor with an external coil option.",
-        "category": "Distributor"
-    },
-    "img47.jpg": {
-        "caption": "A sealed electronic distributor for extreme environments.",
-        "category": "Distributor"
-    },
-    "img48.jpg": {
-        "caption": "A high-energy ignition distributor with a digital control module.",
-        "category": "Distributor"
-    },
-    "img49.jpg": {
-        "caption": "A heavy-duty distributor with extra-large bushings for stability.",
-        "category": "Distributor"
-    },
-    "img50.jpg": {
-        "caption": "A distributor with real-time spark monitoring via Bluetooth.",
-        "category": "Distributor"
-    },
-    "img51.jpg": {
-        "caption": "A specialized distributor designed for supercharged engines.",
-        "category": "Distributor"
-    },
-    "img52.jpg": {
-        "caption": "A distributor with a quick-adjust timing advance system.",
-        "category": "Distributor"
-    },
-    "img53.jpg": {
-        "caption": "A distributor with an integrated knock sensor for tuning.",
-        "category": "Distributor"
-    },
-    "img54.jpg": {
-        "caption": "A performance distributor with an ultra-lightweight rotor.",
-        "category": "Distributor"
-    },
-    "img55.jpg": {
-        "caption": "A distributor with customizable ignition mapping.",
-        "category": "Distributor"
-    },
-    "img56.jpg": {
-        "caption": "A waterproof distributor for extreme off-road conditions.",
-        "category": "Distributor"
-    },
-    "img57.jpg": {
-        "caption": "A high-output distributor with premium ignition coils.",
-        "category": "Distributor"
-    },
-    "img58.jpg": {
-        "caption": "A high-performance distributor with a lightweight rotor for increased efficiency.",
-        "category": "Distributor"
-    },
-    "img59.jpg": {
-        "caption": "An electronically controlled distributor for precise ignition timing.",
-        "category": "Distributor"
-    },
-    "img60.jpg": {
-        "caption": "A high-output distributor designed for forced induction engines.",
-        "category": "Distributor"
-    },
-    "img61.jpg": {
-        "caption": "A billet aluminum distributor with an ultra-durable cap and rotor.",
-        "category": "Distributor"
-    },
-    "img62.jpg": {
-        "caption": "A distributor with a dual pickup sensor system for enhanced reliability.",
-        "category": "Distributor"
-    },
-    "img63.jpg": {
-        "caption": "A high-energy distributor featuring a digital ignition module.",
-        "category": "Distributor"
-    },
-    "img64.jpg": {
-        "caption": "A water-resistant distributor designed for marine and off-road applications.",
-        "category": "Distributor"
-    },
-    "img65.jpg": {
-        "caption": "A performance distributor with an adjustable advance curve.",
-        "category": "Distributor"
-    },
-    "img66.jpg": {
-        "caption": "A distributor designed for smooth ignition at high RPMs.",
-        "category": "Distributor"
-    },
-    "img67.jpg": {
-        "caption": "A street/strip distributor with optimized advance tuning.",
-        "category": "Distributor"
-    },
-    "img68.jpg": {
-        "caption": "A distributor with a low-profile design for compact engine bays.",
-        "category": "Distributor"
-    },
-    "img69.jpg": {
-        "caption": "A high-strength distributor with reinforced internals for durability.",
-        "category": "Distributor"
-    },
-    "img70.jpg": {
-        "caption": "A distributor with real-time ignition monitoring and adjustment capabilities.",
-        "category": "Distributor"
-    },
-    "img71.jpg": {
-        "caption": "A racing-grade distributor designed for ultra-high spark energy output.",
-        "category": "Distributor"
-    },
-    "img72.jpg": {
-        "caption": "A fully programmable distributor with customizable ignition timing maps.",
-        "category": "Distributor"
-    },
-    "img73.jpg": {
-        "caption": "A precision-engineered distributor with ultra-low resistance contacts.",
-        "category": "Distributor"
-    },
-    "img74.jpg": {
-        "caption": "A vacuum-advance distributor optimized for fuel efficiency.",
-        "category": "Distributor"
-    },
-    "img75.jpg": {
-        "caption": "A direct-replacement distributor for seamless OEM compatibility.",
-        "category": "Distributor"
-    },
-    "img76.jpg": {
-        "caption": "A performance-oriented distributor with CNC-machined components.",
-        "category": "Distributor"
-    },
-    "img77.jpg": {
-        "caption": "A heavy-duty distributor for industrial and diesel applications.",
-        "category": "Distributor"
-    },
-    "img78.jpg": {
-        "caption": "A distributor featuring a multi-spark discharge system for efficiency.",
-        "category": "Distributor"
-    },
-    "img79.jpg": {
-        "caption": "A sealed distributor designed to prevent moisture and debris intrusion.",
-        "category": "Distributor"
-    },
-    "img80.jpg": {
-        "caption": "A high-speed distributor with precision-engineered bearings.",
-        "category": "Distributor"
-    },
-    "img81.jpg": {
-        "caption": "A classic-style distributor with modern electronic ignition.",
-        "category": "Distributor"
-    },
-    "img82.jpg": {
-        "caption": "A distributor with quick-adjust timing settings for fine-tuned performance.",
-        "category": "Distributor"
-    },
-    "img83.jpg": {
-        "caption": "A multi-spark ignition distributor with high-output coils.",
-        "category": "Distributor"
-    },
-    "img84.jpg": {
-        "caption": "A distributor with high-voltage spark control for boosted engines.",
-        "category": "Distributor"
-    },
-    "img85.jpg": {
-        "caption": "A drag racing distributor with advanced timing curves.",
-        "category": "Distributor"
-    },
-    "img86.jpg": {
-        "caption": "A digital performance distributor with real-time data logging.",
-        "category": "Distributor"
-    },
-    "img87.jpg": {
-        "caption": "A marine-grade distributor featuring corrosion-resistant components.",
-        "category": "Distributor"
-    },
-    "img88.jpg": {
-        "caption": "A lightweight performance distributor with billet construction.",
-        "category": "Distributor"
-    },
-    "img89.jpg": {
-        "caption": "A distributor with an ultra-fast spark advance mechanism.",
-        "category": "Distributor"
-    },
-    "img90.jpg": {
-        "caption": "A distributor with high-strength gears for extended durability.",
-        "category": "Distributor"
-    },
-    "img91.jpg": {
-        "caption": "A programmable ignition distributor for high-performance engines.",
-        "category": "Distributor"
-    },
-    "img92.jpg": {
-        "caption": "A distributor with a built-in coil for enhanced ignition performance.",
-        "category": "Distributor"
-    },
-    "img93.jpg": {
-        "caption": "A performance-tuned distributor with real-time spark monitoring.",
-        "category": "Distributor"
-    },
-    "img94.jpg": {
-        "caption": "A racing-style distributor designed for maximum spark efficiency.",
-        "category": "Distributor"
-    },
-    "img95.jpg": {
-        "caption": "A precision distributor with an integrated ignition controller.",
-        "category": "Distributor"
-    },
-    "img96.jpg": {
-        "caption": "A distributor featuring enhanced EMI shielding for interference-free operation.",
-        "category": "Distributor"
-    },
-    "img97.jpg": {
-        "caption": "A distributor with high-temperature-resistant components for endurance applications.",
-        "category": "Distributor"
-    },
-    "img98.jpg": {
-        "caption": "A direct-fit distributor for easy installation in modified engines.",
-        "category": "Distributor"
-    },
-    "img99.jpg": {
-        "caption": "A high-output racing distributor with an ultra-durable cap.",
-        "category": "Distributor"
-    },
-    "img100.jpg": {
-        "caption": "A waterproof distributor with reinforced seals for extreme conditions.",
-        "category": "Distributor"
-    },
-    "img101.jpg": {
-        "caption": "A performance distributor with an ultra-responsive ignition advance.",
-        "category": "Distributor"
-    },
-    "img102.jpg": {
-        "caption": "A billet distributor with precision CNC machining for high durability.",
-        "category": "Distributor"
-    },
-    "img103.jpg": {
-        "caption": "A street/strip distributor designed for maximum ignition efficiency.",
-        "category": "Distributor"
-    },
-    "img104.jpg": {
-        "caption": "An electronically controlled distributor with enhanced timing accuracy.",
-        "category": "Distributor"
-    },
-    "img105.jpg": {
-        "caption": "A compact high-performance distributor for tight engine bays.",
-        "category": "Distributor"
-    },
-    "img106.jpg": {
-        "caption": "A high-energy distributor optimized for modern fuel-injected engines.",
-        "category": "Distributor"
-    },
-    "img107.jpg": {
-        "caption": "A classic-style distributor featuring a vacuum advance system.",
-        "category": "Distributor"
-    },
-    "img108.jpg": {
-        "caption": "A race-grade distributor with ultra-low resistance contacts.",
-        "category": "Distributor"
-    },
-    "img109.jpg": {
-        "caption": "A multi-spark distributor designed for improved combustion efficiency.",
-        "category": "Distributor"
-    },
-    "img110.jpg": {
-        "caption": "A distributor with a high-output ignition module for increased power.",
-        "category": "Distributor"
-    },
-    "img111.jpg": {
-        "caption": "A drag racing distributor featuring real-time spark adjustment.",
-        "category": "Distributor"
-    },
-    "img112.jpg": {
-        "caption": "A marine-certified distributor with corrosion-resistant components.",
-        "category": "Distributor"
-    },
-    "img113.jpg": {
-        "caption": "A precision ignition distributor with a reinforced rotor design.",
-        "category": "Distributor"
-    },
-    "img114.jpg": {
-        "caption": "A distributor with high-voltage spark control for turbocharged engines.",
-        "category": "Distributor"
-    },
-    "img115.jpg": {
-        "caption": "A vacuum advance distributor designed for improved fuel economy.",
-        "category": "Distributor"
-    },
-    "img116.jpg": {
-        "caption": "A high-speed distributor optimized for smooth ignition at peak RPMs.",
-        "category": "Distributor"
-    },
-    "img117.jpg": {
-        "caption": "A digital ignition distributor with an integrated real-time data logger.",
-        "category": "Distributor"
-    },
-    "img118.jpg": {
-        "caption": "A low-profile performance distributor designed for compact installations.",
-        "category": "Distributor"
-    },
-    "img119.jpg": {
-        "caption": "A billet aluminum distributor with a lightweight cap and rotor.",
-        "category": "Distributor"
-    },
-    "img120.jpg": {
-        "caption": "A high-durability distributor featuring reinforced gears and contacts.",
-        "category": "Distributor"
-    },
-    "img121.jpg": {
-        "caption": "A precision-tuned distributor with an adjustable mechanical advance.",
-        "category": "Distributor"
-    },
-    "img122.jpg": {
-        "caption": "A waterproof distributor with a sealed cap for off-road applications.",
-        "category": "Distributor"
-    },
-    "img123.jpg": {
-        "caption": "A distributor featuring dual-pickup sensors for enhanced ignition timing.",
-        "category": "Distributor"
-    },
-    "img124.jpg": {
-        "caption": "A performance-oriented distributor with custom timing curves.",
-        "category": "Distributor"
-    },
-    "img125.jpg": {
-        "caption": "A high-output distributor featuring a multi-spark ignition module.",
-        "category": "Distributor"
-    },
-    "img126.jpg": {
-        "caption": "A distributor with a precision advance mechanism for smooth power delivery.",
-        "category": "Distributor"
-    },
-    "img127.jpg": {
-        "caption": "A drag-spec distributor designed for extreme acceleration requirements.",
-        "category": "Distributor"
-    },
-    "img128.jpg": {
-        "caption": "A programmable ignition distributor with fine-tuned spark control.",
-        "category": "Distributor"
-    },
-    "img129.jpg": {
-        "caption": "A lightweight high-performance distributor for racing applications.",
-        "category": "Distributor"
-    },
-    "img130.jpg": {
-        "caption": "A distributor with an ultra-fast spark response for boosted engines.",
-        "category": "Distributor"
-    },
-    "img131.jpg": {
-        "caption": "A marine-grade distributor with heavy-duty weatherproofing.",
-        "category": "Distributor"
-    },
-    "img132.jpg": {
-        "caption": "A distributor featuring a built-in ignition amplifier for higher voltage.",
-        "category": "Distributor"
-    },
-    "img133.jpg": {
-        "caption": "A high-energy distributor with precision-cut gears for extended lifespan.",
-        "category": "Distributor"
-    },
-    "img134.jpg": {
-        "caption": "A distributor with EMI shielding for interference-free ignition operation.",
-        "category": "Distributor"
-    },
-    "img135.jpg": {
-        "caption": "A classic-style distributor with modern electronic ignition upgrades.",
-        "category": "Distributor"
-    },
-    "img136.jpg": {
-        "caption": "A performance-tuned distributor with ultra-low resistance internals.",
-        "category": "Distributor"
-    },
-    "img137.jpg": {
-        "caption": "A distributor with an integrated coil system for space-saving efficiency.",
-        "category": "Distributor"
-    },
-    "img138.jpg": {
-        "caption": "A racing-spec distributor featuring a high-strength cap and rotor.",
-        "category": "Distributor"
-    },
-    "img139.jpg": {
-        "caption": "A distributor designed for seamless integration with aftermarket ECUs.",
-        "category": "Distributor"
-    },
-    "img140.jpg": {
-        "caption": "A high-output distributor optimized for naturally aspirated engines.",
-        "category": "Distributor"
-    },
-    "img141.jpg": {
-        "caption": "A distributor featuring custom ignition mapping for optimal tuning.",
-        "category": "Distributor"
-    },
-    "img142.jpg": {
-        "caption": "A high-voltage distributor with ultra-precise ignition timing control.",
-        "category": "Distributor"
-    },
-    "img143.jpg": {
-        "caption": "A multi-spark distributor designed for improved throttle response.",
-        "category": "Distributor"
-    },
-    "img144.jpg": {
-        "caption": "A distributor with real-time timing adjustments for racing applications.",
-        "category": "Distributor"
-    },
-    "img145.jpg": {
-        "caption": "A billet distributor featuring high-strength internals for durability.",
-        "category": "Distributor"
-    },
-    "img146.jpg": {
-        "caption": "A low-resistance distributor with optimized power delivery.",
-        "category": "Distributor"
-    },
-    "img147.jpg": {
-        "caption": "A high-performance distributor with reinforced spark plug terminals.",
-        "category": "Distributor"
-    },
-    "img148.jpg": {
-        "caption": "A lightweight billet distributor with a sleek anodized finish.",
-        "category": "Distributor"
-    }
-}
+    {
+      "image_path": "Distributor/img27.jpg",
+      "caption": "A sealed distributor cap for weather-resistant applications."
+    },
+    {
+      "image_path": "Distributor/img28.jpg",
+      "caption": "A set of distributors laid out for comparison."
+    },
+    {
+      "image_path": "Distributor/img29.jpg",
+      "caption": "A distributor with a blue cap used in off-road vehicles."
+    },
+    {
+      "image_path": "Distributor/img30.jpg",
+      "caption": "A single-unit distributor and coil module with mounting bracket."
+    },
+    {
+      "image_path": "Distributor/img31.jpg",
+      "caption": "An OEM distributor with wiring harness attached."
+    },
+    {
+      "image_path": "Distributor/img32.jpg",
+      "caption": "A distributor unit used in motorcycles or small engines."
+    },
+    {
+      "image_path": "Distributor/img33.jpg",
+      "caption": "An ignition distributor with internal timing mechanism visible."
+    },
+    {
+      "image_path": "Distributor/img34.jpg",
+      "caption": "A heavy-duty distributor designed for large displacement engines."
+    },
+    {
+      "image_path": "Distributor/img35.jpg",
+      "caption": "A distributor placed beside spark plug wires for connection."
+    },
+    {
+      "image_path": "Distributor/img36.jpg",
+      "caption": "A high RPM distributor with strong rotor contact points."
+    },
+    {
+      "image_path": "Distributor/img37.jpg",
+      "caption": "A basic distributor with no advance features."
+    },
+    {
+      "image_path": "Distributor/img38.jpg",
+      "caption": "A distributor mounted at an angle in a V-type engine."
+    },
+    {
+      "image_path": "Distributor/img39.jpg",
+      "caption": "A rebuilt distributor for an American muscle car."
+    },
+    {
+      "image_path": "Distributor/img40.jpg",
+      "caption": "A diagnostic image showing the wear pattern inside a distributor cap."
+    },
+    {
+      "image_path": "Distributor/img41.jpg",
+      "caption": "A full distributor assembly with rotor, cap, and shaft."
+    },
+    {
+      "image_path": "Distributor/img42.jpg",
+      "caption": "A long-shaft distributor designed for deep engine blocks."
+    },
+    {
+      "image_path": "Distributor/img43.jpg",
+      "caption": "A distributor equipped with dual vacuum advance ports."
+    },
+    {
+      "image_path": "Distributor/img44.jpg",
+      "caption": "A distributor with visible timing marks for tuning."
+    },
+    {
+      "image_path": "Distributor/img45.jpg",
+      "caption": "A distributor showing spark arc burn marks on the terminals."
+    },
+    {
+      "image_path": "Distributor/img46.jpg",
+      "caption": "An aluminum-bodied distributor with a modern design."
+    },
+    {
+      "image_path": "Distributor/img47.jpg",
+      "caption": "A compact unit removed from a hybrid car's ignition system."
+    },
+    {
+      "image_path": "Distributor/img48.jpg",
+      "caption": "A weatherproof distributor with sealed wiring connections."
+    },
+    {
+      "image_path": "Distributor/img49.jpg",
+      "caption": "A classic distributor used in 1970s era sedans."
+    },
+    {
+      "image_path": "Distributor/img50.jpg",
+      "caption": "An aftermarket distributor with performance tuning capabilities."
+    },
+    
+        {
+          "image_path": "Distributor/img51.jpg",
+          "caption": "A performance distributor installed in a V8 engine bay."
+        },
+        {
+          "image_path": "Distributor/img52.jpg",
+          "caption": "An old distributor with worn cap and frayed spark plug wires."
+        },
+        {
+          "image_path": "Distributor/img53.jpg",
+          "caption": "A new distributor with labeled connections for easy setup."
+        },
+        {
+          "image_path": "Distributor/img54.jpg",
+          "caption": "A complete ignition system including distributor and coil pack."
+        },
+        {
+          "image_path": "Distributor/img55.jpg",
+          "caption": "A transparent distributor model showing the internal rotor."
+        },
+        {
+          "image_path": "Distributor/img56.jpg",
+          "caption": "A close-up of a red distributor cap and rotor in place."
+        },
+        {
+          "image_path": "Distributor/img57.jpg",
+          "caption": "An electronic distributor on a high-performance tuning bench."
+        },
+        {
+          "image_path": "Distributor/img58.jpg",
+          "caption": "A distributor showing mechanical advance weights under the rotor."
+        },
+        {
+          "image_path": "Distributor/img59.jpg",
+          "caption": "A distributor designed for fuel-injected engines with timing sensors."
+        },
+        {
+          "image_path": "Distributor/img60.jpg",
+          "caption": "A distributor and ignition coil side by side on a workbench."
+        },
+        {
+          "image_path": "Distributor/img61.jpg",
+          "caption": "A new high-torque distributor shaft for race applications."
+        },
+        {
+          "image_path": "Distributor/img62.jpg",
+          "caption": "A distributor with multi-port connections for engine diagnostics."
+        },
+        {
+          "image_path": "Distributor/img63.jpg",
+          "caption": "A stock distributor with a protective plastic cover."
+        },
+        {
+          "image_path": "Distributor/img64.jpg",
+          "caption": "An exposed view of a rotating distributor shaft."
+        },
+        {
+          "image_path": "Distributor/img65.jpg",
+          "caption": "A performance-oriented billet aluminum distributor."
+        },
+        {
+          "image_path": "Distributor/img66.jpg",
+          "caption": "A distributor with dual coils for split firing."
+        },
+        {
+          "image_path": "Distributor/img67.jpg",
+          "caption": "A factory distributor with matching engine wiring harness."
+        },
+        {
+          "image_path": "Distributor/img68.jpg",
+          "caption": "A small engine distributor with simplified connections."
+        },
+        {
+          "image_path": "Distributor/img69.jpg",
+          "caption": "A test rig with a distributor under spark load simulation."
+        },
+        {
+          "image_path": "Distributor/img70.jpg",
+          "caption": "A restored vintage distributor with polished terminals."
+        },
+        {
+          "image_path": "Distributor/img71.jpg",
+          "caption": "A close-up of the rotor making contact with cap terminals."
+        },
+        {
+          "image_path": "Distributor/img72.jpg",
+          "caption": "A distributor set up for timing advance calibration."
+        },
+        {
+          "image_path": "Distributor/img73.jpg",
+          "caption": "A freshly assembled distributor with high-temp grease applied."
+        },
+        {
+          "image_path": "Distributor/img74.jpg",
+          "caption": "An idle distributor rotating manually on a bench test."
+        },
+        {
+          "image_path": "Distributor/img75.jpg",
+          "caption": "A distributor system with integrated ignition control circuit."
+        },
+        {
+          "image_path": "Distributor/img76.jpg",
+          "caption": "A stripped-down distributor revealing internal coil windings."
+        },
+        {
+          "image_path": "Distributor/img77.jpg",
+          "caption": "A distributor with extra long shaft for modified engine setup."
+        },
+        {
+          "image_path": "Distributor/img78.jpg",
+          "caption": "A fully sealed waterproof distributor used in marine engines."
+        },
+        {
+          "image_path": "Distributor/img79.jpg",
+          "caption": "A rugged distributor with added shock protection."
+        },
+        {
+          "image_path": "Distributor/img80.jpg",
+          "caption": "A standard ignition distributor with a mechanical vacuum advance."
+        },
+        {
+          "image_path": "Distributor/img81.jpg",
+          "caption": "A custom-painted red and black performance distributor."
+        },
+        {
+          "image_path": "Distributor/img82.jpg",
+          "caption": "A distributor fitted in a horizontally opposed engine."
+        },
+        {
+          "image_path": "Distributor/img83.jpg",
+          "caption": "A distributor placed inside an old car engine for maintenance."
+        },
+        {
+          "image_path": "Distributor/img84.jpg",
+          "caption": "An adjustable timing distributor with digital control."
+        },
+        {
+          "image_path": "Distributor/img85.jpg",
+          "caption": "A newly boxed distributor ready for sale or installation."
+        },
+        {
+          "image_path": "Distributor/img86.jpg",
+          "caption": "A distributor rotor tip showing signs of electrical pitting."
+        },
+        {
+          "image_path": "Distributor/img87.jpg",
+          "caption": "An engine bay shot highlighting the mounted distributor and wires."
+        },
+        {
+          "image_path": "Distributor/img88.jpg",
+          "caption": "A classic style mechanical distributor with spring-loaded weights."
+        },
+        {
+          "image_path": "Distributor/img89.jpg",
+          "caption": "A diagnostic tool connected to a distributor for live data logging."
+        },
+        {
+          "image_path": "Distributor/img90.jpg",
+          "caption": "A worn out distributor cap with cracked casing and carbon tracks."
+        },
+        {
+          "image_path": "Distributor/img91.jpg",
+          "caption": "A polished aluminum distributor housing with heat sink fins."
+        },
+        {
+          "image_path": "Distributor/img92.jpg",
+          "caption": "A vintage distributor cleaned and restored for museum display."
+        },
+        {
+          "image_path": "Distributor/img93.jpg",
+          "caption": "A performance distributor with color-coded spark plug wire ports."
+        },
+        {
+          "image_path": "Distributor/img94.jpg",
+          "caption": "A distributor installed in a small block V8 engine."
+        },
+        {
+          "image_path": "Distributor/img95.jpg",
+          "caption": "A close-up of a distributor shaft gear showing tooth alignment."
+        },
+        {
+          "image_path": "Distributor/img96.jpg",
+          "caption": "A large distributor housing removed from a diesel engine."
+        },
+        {
+          "image_path": "Distributor/img97.jpg",
+          "caption": "A basic distributor system used in early 90s cars."
+        },
+        {
+          "image_path": "Distributor/img98.jpg",
+          "caption": "A worn distributor rotor with discoloration from use."
+        },
+        {
+          "image_path": "Distributor/img99.jpg",
+          "caption": "A dual-contact point distributor from a 1960s vehicle."
+        },
+        {
+          "image_path": "Distributor/img100.jpg",
+          "caption": "An engine diagnostic graph showing distributor timing curve."
+        },
+
+        
+            {
+              "image_path": "Distributor/img101.jpg",
+              "caption": "A close-up view of distributor terminals showing minor corrosion."
+            },
+            {
+              "image_path": "Distributor/img102.jpg",
+              "caption": "An exploded diagram of a distributor showing all internal parts."
+            },
+            {
+              "image_path": "Distributor/img103.jpg",
+              "caption": "A distributor installed near a carburetor in a classic car engine."
+            },
+            {
+              "image_path": "Distributor/img104.jpg",
+              "caption": "A laser-etched distributor with RPM adjustment controls."
+            },
+            {
+              "image_path": "Distributor/img105.jpg",
+              "caption": "A distributor shaft aligned with timing marks during installation."
+            },
+            {
+              "image_path": "Distributor/img106.jpg",
+              "caption": "A distributor showing advance mechanism and timing notch."
+            },
+            {
+              "image_path": "Distributor/img107.jpg",
+              "caption": "A lightweight performance distributor for racing applications."
+            },
+            {
+              "image_path": "Distributor/img108.jpg",
+              "caption": "A freshly installed distributor with new spark plug wires attached."
+            },
+            {
+              "image_path": "Distributor/img109.jpg",
+              "caption": "A stripped-down view of distributor points and condenser."
+            },
+            {
+              "image_path": "Distributor/img110.jpg",
+              "caption": "A high-performance distributor with billet aluminum casing."
+            },
+            {
+              "image_path": "Distributor/img111.jpg",
+              "caption": "A bench-tested distributor mounted on a diagnostic spin tool."
+            },
+            {
+              "image_path": "Distributor/img112.jpg",
+              "caption": "A classic distributor installed in a retrofitted engine bay."
+            },
+            {
+              "image_path": "Distributor/img113.jpg",
+              "caption": "A high-quality ignition distributor with coil-on-cap design."
+            },
+            {
+              "image_path": "Distributor/img114.jpg",
+              "caption": "A distributor with integrated crankshaft position sensor."
+            },
+            {
+              "image_path": "Distributor/img115.jpg",
+              "caption": "A refurbished distributor unit with painted metal housing."
+            },
+            {
+              "image_path": "Distributor/img116.jpg",
+              "caption": "A side view of distributor and vacuum advance diaphragm."
+            },
+            {
+              "image_path": "Distributor/img117.jpg",
+              "caption": "A clean distributor mounted on an engine for alignment."
+            },
+            {
+              "image_path": "Distributor/img118.jpg",
+              "caption": "A performance distributor with a removable rotor arm."
+            },
+            {
+              "image_path": "Distributor/img119.jpg",
+              "caption": "A distributor on a maintenance tray with new spark wires."
+            },
+            {
+              "image_path": "Distributor/img120.jpg",
+              "caption": "An ignition control system featuring dual distributor caps."
+            },
+            {
+              "image_path": "Distributor/img121.jpg",
+              "caption": "A technician inspecting the inside of a distributor cap."
+            },
+            {
+              "image_path": "Distributor/img122.jpg",
+              "caption": "A full view of a vintage distributor with long ignition wires."
+            },
+            {
+              "image_path": "Distributor/img123.jpg",
+              "caption": "A distributor gear engaging the camshaft gear inside an engine."
+            },
+            {
+              "image_path": "Distributor/img124.jpg",
+              "caption": "A dusty distributor taken from an old engine block."
+            },
+            {
+              "image_path": "Distributor/img125.jpg",
+              "caption": "A close-up of distributor points with arcing burn marks."
+            },
+            {
+              "image_path": "Distributor/img126.jpg",
+              "caption": "A 3D model of a car distributor for training simulation."
+            },
+            {
+              "image_path": "Distributor/img127.jpg",
+              "caption": "A distributor with cap removed, revealing rotor and terminals."
+            },
+            {
+              "image_path": "Distributor/img128.jpg",
+              "caption": "A timing light pointed at a distributor in use during tune-up."
+            },
+            {
+              "image_path": "Distributor/img129.jpg",
+              "caption": "A modified distributor for twin-plug ignition systems."
+            },
+            {
+              "image_path": "Distributor/img130.jpg",
+              "caption": "A newly assembled ignition system with a clean distributor."
+            },
+            {
+              "image_path": "Distributor/img131.jpg",
+              "caption": "A high-performance ignition distributor on a tuning table."
+            },
+            {
+              "image_path": "Distributor/img132.jpg",
+              "caption": "A distributor with integrated ignition module for modern engines."
+            },
+            {
+              "image_path": "Distributor/img133.jpg",
+              "caption": "A distributor and spark plug wire set displayed for sale."
+            },
+            {
+              "image_path": "Distributor/img134.jpg",
+              "caption": "A distributor with high-durability rubber boot terminals."
+            },
+            {
+              "image_path": "Distributor/img135.jpg",
+              "caption": "An animated diagram showing the firing order using a distributor."
+            },
+            {
+              "image_path": "Distributor/img136.jpg",
+              "caption": "A distributor and crankshaft sensor installed in sync."
+            },
+            {
+              "image_path": "Distributor/img137.jpg",
+              "caption": "A cutaway view showing the inside components of a distributor."
+            },
+            {
+              "image_path": "Distributor/img138.jpg",
+              "caption": "A high-heat shielded distributor for off-road performance."
+            },
+            {
+              "image_path": "Distributor/img139.jpg",
+              "caption": "A worn-out distributor with carbon scoring inside the cap."
+            },
+            {
+              "image_path": "Distributor/img140.jpg",
+              "caption": "A compact distributor designed for smaller 4-cylinder engines."
+            },
+            {
+              "image_path": "Distributor/img141.jpg",
+              "caption": "A freshly packed distributor unit inside foam packaging."
+            },
+            {
+              "image_path": "Distributor/img142.jpg",
+              "caption": "A wiring harness connected to the distributor for testing."
+            },
+            {
+              "image_path": "Distributor/img143.jpg",
+              "caption": "A distributor with aftermarket high-output coil installed."
+            },
+            {
+              "image_path": "Distributor/img144.jpg",
+              "caption": "An aluminum distributor body fitted with high-strength seals."
+            },
+            {
+              "image_path": "Distributor/img145.jpg",
+              "caption": "A distributor setup shown during engine assembly in a workshop."
+            },
+            {
+              "image_path": "Distributor/img146.jpg",
+              "caption": "An isolated image of a rotor arm and distributor cap."
+            },
+            {
+              "image_path": "Distributor/img147.jpg",
+              "caption": "A distributor reconditioning kit with springs and cam plate."
+            },
+            {
+              "image_path": "Distributor/img148.jpg",
+              "caption": "A distributor in a crate engine, ready for dyno testing."
+            },
+            {
+              "image_path": "Distributor/img149.jpg",
+              "caption": "A dual-output distributor cap for multi-spark systems."
+            },
+            {
+              "image_path": "Distributor/img150.jpg",
+              "caption": "A cleanly routed wiring job around a high-end distributor."
+            },
+
+            
+                {
+                  "image_path": "Distributor/img151.jpg",
+                  "caption": "A distributor with timing indicator marked clearly in red."
+                },
+                {
+                  "image_path": "Distributor/img152.jpg",
+                  "caption": "A technician aligning a distributor during engine timing setup."
+                },
+                {
+                  "image_path": "Distributor/img153.jpg",
+                  "caption": "A close-up of distributor contact points and cam lobes."
+                },
+                {
+                  "image_path": "Distributor/img154.jpg",
+                  "caption": "A cleaned distributor set aside on a workbench with tools."
+                },
+                {
+                  "image_path": "Distributor/img155.jpg",
+                  "caption": "A 3D printed distributor prototype model for testing."
+                },
+                {
+                  "image_path": "Distributor/img156.jpg",
+                  "caption": "A worn distributor gear showing signs of chipping."
+                },
+                {
+                  "image_path": "Distributor/img157.jpg",
+                  "caption": "A rebuilt distributor with new shaft and fresh oil seal."
+                },
+                {
+                  "image_path": "Distributor/img158.jpg",
+                  "caption": "An exploded technical drawing of a standard ignition distributor."
+                },
+                {
+                  "image_path": "Distributor/img159.jpg",
+                  "caption": "A distributor placed beside a timing light and service manual."
+                },
+                {
+                  "image_path": "Distributor/img160.jpg",
+                  "caption": "A distributor attached to a vintage inline-6 engine."
+                },
+                {
+                  "image_path": "Distributor/img161.jpg",
+                  "caption": "A chrome-plated performance distributor ready for installation."
+                },
+                {
+                  "image_path": "Distributor/img162.jpg",
+                  "caption": "A disassembled distributor showing coil, rotor, and springs."
+                },
+                {
+                  "image_path": "Distributor/img163.jpg",
+                  "caption": "A distributor mounted in an off-road truck's modified engine."
+                },
+                {
+                  "image_path": "Distributor/img164.jpg",
+                  "caption": "A distributor removed from an engine bay for inspection."
+                },
+                {
+                  "image_path": "Distributor/img165.jpg",
+                  "caption": "A distributor gear aligned with engine timing marks."
+                },
+                {
+                  "image_path": "Distributor/img166.jpg",
+                  "caption": "A distributor with new cap and rotor installed."
+                },
+                {
+                  "image_path": "Distributor/img167.jpg",
+                  "caption": "An ignition distributor with brass terminals for durability."
+                },
+                {
+                  "image_path": "Distributor/img168.jpg",
+                  "caption": "A schematic showing distributor advance curve settings."
+                },
+                {
+                  "image_path": "Distributor/img169.jpg",
+                  "caption": "A side-by-side comparison of old and new distributors."
+                },
+                {
+                  "image_path": "Distributor/img170.jpg",
+                  "caption": "A distributor being tested using a digital oscilloscope."
+                },
+                {
+                  "image_path": "Distributor/img171.jpg",
+                  "caption": "A distributor cap with reinforced insulation for heat resistance."
+                },
+                {
+                  "image_path": "Distributor/img172.jpg",
+                  "caption": "A mechanic applying dielectric grease to distributor terminals."
+                },
+                {
+                  "image_path": "Distributor/img173.jpg",
+                  "caption": "A cutaway distributor mounted for demonstration at a workshop."
+                },
+                {
+                  "image_path": "Distributor/img174.jpg",
+                  "caption": "A distributor installed with a custom ignition harness."
+                },
+                {
+                  "image_path": "Distributor/img175.jpg",
+                  "caption": "An electronic distributor with built-in ignition control module."
+                },
+                {
+                  "image_path": "Distributor/img176.jpg",
+                  "caption": "A newly painted distributor housing with rust-proof coating."
+                },
+                {
+                  "image_path": "Distributor/img177.jpg",
+                  "caption": "A distributor used in a dual ignition setup for efficiency."
+                },
+                {
+                  "image_path": "Distributor/img178.jpg",
+                  "caption": "A view of distributor vacuum advance connected to intake manifold."
+                },
+                {
+                  "image_path": "Distributor/img179.jpg",
+                  "caption": "A toolbox containing spare distributor parts and wires."
+                },
+                {
+                  "image_path": "Distributor/img180.jpg",
+                  "caption": "A large V8 engine with dual distributors mounted side-by-side."
+                },
+                {
+                  "image_path": "Distributor/img181.jpg",
+                  "caption": "A distributor with timing control circuit soldered on PCB."
+                },
+                {
+                  "image_path": "Distributor/img182.jpg",
+                  "caption": "A distributor set for export, wrapped in protective foam."
+                },
+                {
+                  "image_path": "Distributor/img183.jpg",
+                  "caption": "A distributor spring kit placed beside centrifugal advance plate."
+                },
+                {
+                  "image_path": "Distributor/img184.jpg",
+                  "caption": "A dusty but functional distributor found in a scrapyard engine."
+                },
+                {
+                  "image_path": "Distributor/img185.jpg",
+                  "caption": "A disassembled distributor coil and wiring ready for replacement."
+                },
+                {
+                  "image_path": "Distributor/img186.jpg",
+                  "caption": "A close-up of rotor inside distributor spinning with timing strobe."
+                },
+                {
+                  "image_path": "Distributor/img187.jpg",
+                  "caption": "A heavy-duty performance distributor used in drag racing."
+                },
+                {
+                  "image_path": "Distributor/img188.jpg",
+                  "caption": "A diagram explaining vacuum and mechanical advance in a distributor."
+                },
+                {
+                  "image_path": "Distributor/img189.jpg",
+                  "caption": "A distributor in a diesel conversion project engine setup."
+                },
+                {
+                  "image_path": "Distributor/img190.jpg",
+                  "caption": "A distributor showing melted contacts due to overheating."
+                },
+                {
+                  "image_path": "Distributor/img191.jpg",
+                  "caption": "A distributor secured with a polished hold-down clamp."
+                },
+                {
+                  "image_path": "Distributor/img192.jpg",
+                  "caption": "A distributor with auxiliary grounding wire connected."
+                },
+                {
+                  "image_path": "Distributor/img193.jpg",
+                  "caption": "An old-school distributor with cloth-braided ignition wires."
+                },
+                {
+                  "image_path": "Distributor/img194.jpg",
+                  "caption": "A waterproof distributor design for marine applications."
+                },
+                {
+                  "image_path": "Distributor/img195.jpg",
+                  "caption": "A distributor from a hybrid vehicle with digital interface."
+                },
+                {
+                  "image_path": "Distributor/img196.jpg",
+                  "caption": "A classic red distributor cap paired with high-voltage coil."
+                },
+                {
+                  "image_path": "Distributor/img197.jpg",
+                  "caption": "A rusted-out distributor removed from a decades-old engine."
+                },
+                {
+                  "image_path": "Distributor/img198.jpg",
+                  "caption": "A distributor drive shaft connected to cam gear using pin."
+                },
+                {
+                  "image_path": "Distributor/img199.jpg",
+                  "caption": "A top-down view of distributor wiring layout for V8 engines."
+                },
+                {
+                  "image_path": "Distributor/img200.jpg",
+                  "caption": "A fresh distributor unit mounted during engine restoration."
+                },
+              
+              
+                {
+                  "image_path": "Distributor/img151.jpg",
+                  "caption": "A distributor with timing indicator marked clearly in red."
+                },
+                {
+                  "image_path": "Distributor/img152.jpg",
+                  "caption": "A technician aligning a distributor during engine timing setup."
+                },
+                {
+                  "image_path": "Distributor/img153.jpg",
+                  "caption": "A close-up of distributor contact points and cam lobes."
+                },
+                {
+                  "image_path": "Distributor/img154.jpg",
+                  "caption": "A cleaned distributor set aside on a workbench with tools."
+                },
+                {
+                  "image_path": "Distributor/img155.jpg",
+                  "caption": "A 3D printed distributor prototype model for testing."
+                },
+                {
+                  "image_path": "Distributor/img156.jpg",
+                  "caption": "A worn distributor gear showing signs of chipping."
+                },
+                {
+                  "image_path": "Distributor/img157.jpg",
+                  "caption": "A rebuilt distributor with new shaft and fresh oil seal."
+                },
+                {
+                  "image_path": "Distributor/img158.jpg",
+                  "caption": "An exploded technical drawing of a standard ignition distributor."
+                },
+                {
+                  "image_path": "Distributor/img159.jpg",
+                  "caption": "A distributor placed beside a timing light and service manual."
+                },
+                {
+                  "image_path": "Distributor/img160.jpg",
+                  "caption": "A distributor attached to a vintage inline-6 engine."
+                },
+                {
+                  "image_path": "Distributor/img161.jpg",
+                  "caption": "A chrome-plated performance distributor ready for installation."
+                },
+                {
+                  "image_path": "Distributor/img162.jpg",
+                  "caption": "A disassembled distributor showing coil, rotor, and springs."
+                },
+                {
+                  "image_path": "Distributor/img163.jpg",
+                  "caption": "A distributor mounted in an off-road truck's modified engine."
+                },
+                {
+                  "image_path": "Distributor/img164.jpg",
+                  "caption": "A distributor removed from an engine bay for inspection."
+                },
+                {
+                  "image_path": "Distributor/img165.jpg",
+                  "caption": "A distributor gear aligned with engine timing marks."
+                },
+                {
+                  "image_path": "Distributor/img166.jpg",
+                  "caption": "A distributor with new cap and rotor installed."
+                },
+                {
+                  "image_path": "Distributor/img167.jpg",
+                  "caption": "An ignition distributor with brass terminals for durability."
+                },
+                {
+                  "image_path": "Distributor/img168.jpg",
+                  "caption": "A schematic showing distributor advance curve settings."
+                },
+                {
+                  "image_path": "Distributor/img169.jpg",
+                  "caption": "A side-by-side comparison of old and new distributors."
+                },
+                {
+                  "image_path": "Distributor/img170.jpg",
+                  "caption": "A distributor being tested using a digital oscilloscope."
+                },
+                {
+                  "image_path": "Distributor/img171.jpg",
+                  "caption": "A distributor cap with reinforced insulation for heat resistance."
+                },
+                {
+                  "image_path": "Distributor/img172.jpg",
+                  "caption": "A mechanic applying dielectric grease to distributor terminals."
+                },
+                {
+                  "image_path": "Distributor/img173.jpg",
+                  "caption": "A cutaway distributor mounted for demonstration at a workshop."
+                },
+                {
+                  "image_path": "Distributor/img174.jpg",
+                  "caption": "A distributor installed with a custom ignition harness."
+                },
+                {
+                  "image_path": "Distributor/img175.jpg",
+                  "caption": "An electronic distributor with built-in ignition control module."
+                },
+                {
+                  "image_path": "Distributor/img176.jpg",
+                  "caption": "A newly painted distributor housing with rust-proof coating."
+                },
+                {
+                  "image_path": "Distributor/img177.jpg",
+                  "caption": "A distributor used in a dual ignition setup for efficiency."
+                },
+                {
+                  "image_path": "Distributor/img178.jpg",
+                  "caption": "A view of distributor vacuum advance connected to intake manifold."
+                },
+                {
+                  "image_path": "Distributor/img179.jpg",
+                  "caption": "A toolbox containing spare distributor parts and wires."
+                },
+                {
+                  "image_path": "Distributor/img180.jpg",
+                  "caption": "A large V8 engine with dual distributors mounted side-by-side."
+                },
+                {
+                  "image_path": "Distributor/img181.jpg",
+                  "caption": "A distributor with timing control circuit soldered on PCB."
+                },
+                {
+                  "image_path": "Distributor/img182.jpg",
+                  "caption": "A distributor set for export, wrapped in protective foam."
+                },
+                {
+                  "image_path": "Distributor/img183.jpg",
+                  "caption": "A distributor spring kit placed beside centrifugal advance plate."
+                },
+                {
+                  "image_path": "Distributor/img184.jpg",
+                  "caption": "A dusty but functional distributor found in a scrapyard engine."
+                },
+                {
+                  "image_path": "Distributor/img185.jpg",
+                  "caption": "A disassembled distributor coil and wiring ready for replacement."
+                },
+                {
+                  "image_path": "Distributor/img186.jpg",
+                  "caption": "A close-up of rotor inside distributor spinning with timing strobe."
+                },
+                {
+                  "image_path": "Distributor/img187.jpg",
+                  "caption": "A heavy-duty performance distributor used in drag racing."
+                },
+                {
+                  "image_path": "Distributor/img188.jpg",
+                  "caption": "A diagram explaining vacuum and mechanical advance in a distributor."
+                },
+                {
+                  "image_path": "Distributor/img189.jpg",
+                  "caption": "A distributor in a diesel conversion project engine setup."
+                },
+                {
+                  "image_path": "Distributor/img190.jpg",
+                  "caption": "A distributor showing melted contacts due to overheating."
+                },
+                {
+                  "image_path": "Distributor/img191.jpg",
+                  "caption": "A distributor secured with a polished hold-down clamp."
+                },
+                {
+                  "image_path": "Distributor/img192.jpg",
+                  "caption": "A distributor with auxiliary grounding wire connected."
+                },
+                {
+                  "image_path": "Distributor/img193.jpg",
+                  "caption": "An old-school distributor with cloth-braided ignition wires."
+                },
+                {
+                  "image_path": "Distributor/img194.jpg",
+                  "caption": "A waterproof distributor design for marine applications."
+                },
+                {
+                  "image_path": "Distributor/img195.jpg",
+                  "caption": "A distributor from a hybrid vehicle with digital interface."
+                },
+                {
+                  "image_path": "Distributor/img196.jpg",
+                  "caption": "A classic red distributor cap paired with high-voltage coil."
+                },
+                {
+                  "image_path": "Distributor/img197.jpg",
+                  "caption": "A rusted-out distributor removed from a decades-old engine."
+                },
+                {
+                  "image_path": "Distributor/img198.jpg",
+                  "caption": "A distributor drive shaft connected to cam gear using pin."
+                },
+                {
+                  "image_path": "Distributor/img199.jpg",
+                  "caption": "A top-down view of distributor wiring layout for V8 engines."
+                },
+                {
+                  "image_path": "Distributor/img200.jpg",
+                  "caption": "A fresh distributor unit mounted during engine restoration."
+                }
+              
+                            
+          
+          
+      
+      
+
+  ]
+  
