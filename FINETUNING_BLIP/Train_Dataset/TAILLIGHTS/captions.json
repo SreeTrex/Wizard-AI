@@ -1,208 +1,806 @@
-{
-    
-        "img1.jpg": {"caption": "A sleek LED tail light enhancing night visibility.", "category": "tail lights"},
-           "img2.jpg": {"caption": "A high-performance tail light ensuring road safety.", "category": "tail lights"},
-           "img3.jpg": {"caption": "A modern tail light with a sharp and stylish design.", "category": "tail lights"},
-           "img4.jpg": {"caption": "An energy-efficient LED tail light for long-lasting performance.", "category": "tail lights"},
-           "img5.jpg": {"caption": "A waterproof tail light built for all-weather conditions.", "category": "tail lights"},
-           "img6.jpg": {"caption": "A bright tail light ensuring high visibility in foggy conditions.", "category": "tail lights"},
-           "img7.jpg": {"caption": "A sporty tail light designed for a premium look.", "category": "tail lights"},
-           "img8.jpg": {"caption": "A compact and durable tail light for everyday use.", "category": "tail lights"},
-           "img9.jpg": {"caption": "A high-intensity tail light improving nighttime safety.", "category": "tail lights"},
-           "img10.jpg": {"caption": "An ultra-bright tail light for enhanced rear visibility.", "category": "tail lights"},
-           "img11.jpg": {"caption": "A stylish smoked lens tail light adding a modern touch.", "category": "tail lights"},
-           "img12.jpg": {"caption": "A tail light with dynamic turn signal indicators.", "category": "tail lights"},
-           "img13.jpg": {"caption": "A rugged tail light designed for off-road vehicles.", "category": "tail lights"},
-           "img14.jpg": {"caption": "A classic round tail light for a vintage feel.", "category": "tail lights"},
-           "img15.jpg": {"caption": "A multi-layered tail light for extra durability.", "category": "tail lights"},
-           "img16.jpg": {"caption": "A high-beam tail light ensuring maximum brightness.", "category": "tail lights"},
-           "img17.jpg": {"caption": "A high-quality tail light resistant to UV damage.", "category": "tail lights"},
-           "img18.jpg": {"caption": "An easy-to-install tail light for quick replacements.", "category": "tail lights"},
-           "img19.jpg": {"caption": "A premium tail light with an elegant red glow.", "category": "tail lights"},
-           "img20.jpg": {"caption": "A dual-function tail light combining brake and signal lights.", "category": "tail lights"},
-           "img21.jpg": {"caption": "A performance-oriented tail light for sports cars.", "category": "tail lights"},
-           "img22.jpg": {"caption": "A smart tail light integrating advanced sensor technology.", "category": "tail lights"},
-           "img23.jpg": {"caption": "A dust-resistant tail light ensuring long-term clarity.", "category": "tail lights"},
-           "img24.jpg": {"caption": "A curved tail light design for a seamless look.", "category": "tail lights"},
-           "img25.jpg": {"caption": "A heat-resistant tail light preventing overheating issues.", "category": "tail lights"},
-           "img26.jpg": {"caption": "A luxury-grade tail light designed for high-end vehicles.", "category": "tail lights"},
-           "img27.jpg": {"caption": "A neon tail light offering a futuristic glow.", "category": "tail lights"},
-           "img28.jpg": {"caption": "A tail light with enhanced contrast for better night driving.", "category": "tail lights"},
-           "img29.jpg": {"caption": "A shockproof tail light designed for rugged terrains.", "category": "tail lights"},
-           "img30.jpg": {"caption": "A high-tech tail light featuring auto-dimming capability.", "category": "tail lights"},
-           "img31.jpg": {"caption": "A tail light with crystal-clear lens for sharp illumination.", "category": "tail lights"},
-           "img32.jpg": {"caption": "An aerodynamic tail light reducing drag.", "category": "tail lights"},
-           "img33.jpg": {"caption": "A compact LED tail light for motorcycles and bikes.", "category": "tail lights"},
-           "img34.jpg": {"caption": "A dual-layer tail light improving signal intensity.", "category": "tail lights"},
-           "img35.jpg": {"caption": "A tail light with integrated reverse light function.", "category": "tail lights"},
-           "img36.jpg": {"caption": "A minimalist tail light for a sleek vehicle aesthetic.", "category": "tail lights"},
-           "img37.jpg": {"caption": "A crystal-tail light enhancing nighttime visibility.", "category": "tail lights"},
-           "img38.jpg": {"caption": "A smart-responsive tail light adjusting to light conditions.", "category": "tail lights"},
-           "img39.jpg": {"caption": "A toughened-glass tail light for added durability.", "category": "tail lights"},
-           "img40.jpg": {"caption": "A powerful LED tail light reducing power consumption.", "category": "tail lights"},
-           "img41.jpg": {"caption": "A dual-color tail light enhancing signal clarity.", "category": "tail lights"},
-           "img42.jpg": {"caption": "A seamless tail light with an integrated brake system.", "category": "tail lights"},
-           "img43.jpg": {"caption": "A high-tech tail light featuring Bluetooth connectivity.", "category": "tail lights"},
-           "img44.jpg": {"caption": "A tail light designed to match luxury vehicle aesthetics.", "category": "tail lights"},
-           "img45.jpg": {"caption": "A smoke-finish tail light giving a sporty appearance.", "category": "tail lights"},
-           "img46.jpg": {"caption": "A vibration-resistant tail light ensuring stable performance.", "category": "tail lights"},
-           "img47.jpg": {"caption": "A heavy-duty tail light designed for trucks and SUVs.", "category": "tail lights"},
-           "img48.jpg": {"caption": "A dynamic tail light with customizable lighting effects.", "category": "tail lights"},
-           "img49.jpg": {"caption": "A curved-edge tail light providing better road coverage.", "category": "tail lights"},
-           "img50.jpg": {"caption": "A premium tail light featuring smart light adjustment.", "category": "tail lights"},
-           "img51.jpg": {"caption": "A premium LED tail light with enhanced brightness.", "category": "tail lights"},
-           "img52.jpg": {"caption": "A futuristic tail light design improving road visibility.", "category": "tail lights"},
-           "img53.jpg": {"caption": "A compact tail light offering maximum efficiency.", "category": "tail lights"},
-           "img54.jpg": {"caption": "An ultra-durable tail light with a long lifespan.", "category": "tail lights"},
-           "img55.jpg": {"caption": "A water-resistant tail light ensuring safety in all weather.", "category": "tail lights"},
-           "img56.jpg": {"caption": "A sleek tail light enhancing the car’s sporty look.", "category": "tail lights"},
-           "img57.jpg": {"caption": "A reinforced tail light resistant to extreme conditions.", "category": "tail lights"},
-           "img58.jpg": {"caption": "A low-energy tail light optimizing power consumption.", "category": "tail lights"},
-           "img59.jpg": {"caption": "A bright LED tail light improving nighttime driving.", "category": "tail lights"},
-           "img60.jpg": {"caption": "An innovative tail light with automatic brightness control.", "category": "tail lights"},
-           "img61.jpg": {"caption": "A tough tail light built for heavy-duty vehicles.", "category": "tail lights"},
-           "img62.jpg": {"caption": "A tail light with a multi-reflector system.", "category": "tail lights"},
-           "img63.jpg": {"caption": "A stylish tail light for a high-end car appearance.", "category": "tail lights"},
-           "img64.jpg": {"caption": "A tail light with superior resistance to UV exposure.", "category": "tail lights"},
-           "img65.jpg": {"caption": "A tail light with quick-response LED technology.", "category": "tail lights"},
-           "img66.jpg": {"caption": "A tail light featuring advanced glare reduction.", "category": "tail lights"},
-           "img67.jpg": {"caption": "A heavy-duty tail light offering extra durability.", "category": "tail lights"},
-           "img68.jpg": {"caption": "A shockproof tail light built for rugged roads.", "category": "tail lights"},
-           "img69.jpg": {"caption": "A smart tail light integrating motion detection.", "category": "tail lights"},
-           "img70.jpg": {"caption": "A flexible tail light design for custom car styling.", "category": "tail lights"},
-           "img71.jpg": {"caption": "A dual-tone tail light for an aesthetic look.", "category": "tail lights"},
-           "img72.jpg": {"caption": "A tail light providing quick response braking signals.", "category": "tail lights"},
-           "img73.jpg": {"caption": "A rear fog-tail light for added safety in foggy conditions.", "category": "tail lights"},
-           "img74.jpg": {"caption": "A vibrant tail light with maximum beam projection.", "category": "tail lights"},
-           "img75.jpg": {"caption": "A dynamic LED tail light improving vehicle aesthetics.", "category": "tail lights"},
-           "img76.jpg": {"caption": "A premium-grade tail light featuring energy-efficient LEDs.", "category": "tail lights"},
-           "img77.jpg": {"caption": "A tail light with heat-dissipation technology.", "category": "tail lights"},
-           "img78.jpg": {"caption": "A lightweight tail light ensuring easy installation.", "category": "tail lights"},
-           "img79.jpg": {"caption": "A tail light with integrated turn signals for enhanced clarity.", "category": "tail lights"},
-           "img80.jpg": {"caption": "A high-end tail light improving night-time safety.", "category": "tail lights"},
-           "img81.jpg": {"caption": "A corrosion-resistant tail light for extended durability.", "category": "tail lights"},
-           "img82.jpg": {"caption": "A stylish tail light with a crystal-clear design.", "category": "tail lights"},
-           "img83.jpg": {"caption": "A multi-function tail light combining reverse and brake lights.", "category": "tail lights"},
-           "img84.jpg": {"caption": "A rear tail light with enhanced light distribution.", "category": "tail lights"},
-           "img85.jpg": {"caption": "A smoked-lens tail light for a custom vehicle look.", "category": "tail lights"},
-           "img86.jpg": {"caption": "A tail light with a progressive lighting effect.", "category": "tail lights"},
-           "img87.jpg": {"caption": "A reinforced lens tail light offering extra protection.", "category": "tail lights"},
-           "img88.jpg": {"caption": "A streamlined tail light for improved aerodynamics.", "category": "tail lights"},
-           "img89.jpg": {"caption": "A well-illuminated tail light increasing road safety.", "category": "tail lights"},
-           "img90.jpg": {"caption": "A modern tail light designed with a 3D effect.", "category": "tail lights"},
-           "img91.jpg": {"caption": "A tail light with ultra-bright intensity for better visibility.", "category": "tail lights"},
-           "img92.jpg": {"caption": "A high-performance tail light offering energy efficiency.", "category": "tail lights"},
-           "img93.jpg": {"caption": "A tail light with impact-resistant housing.", "category": "tail lights"},
-           "img94.jpg": {"caption": "A futuristic LED tail light with sequential indicators.", "category": "tail lights"},
-           "img95.jpg": {"caption": "A multi-reflector tail light increasing visibility.", "category": "tail lights"},
-           "img96.jpg": {"caption": "A stylish tail light featuring a curved light bar.", "category": "tail lights"},
-           "img97.jpg": {"caption": "A tail light with dual-layer lighting for extra brightness.", "category": "tail lights"},
-           "img98.jpg": {"caption": "A rear tail light providing fast signal response.", "category": "tail lights"},
-           "img99.jpg": {"caption": "A clear-lens tail light ensuring accurate light output.", "category": "tail lights"},
-           "img100.jpg": {"caption": "A waterproof LED tail light ensuring longevity.", "category": "tail lights"},
-           "img101.jpg": {"caption": "A premium tail light with enhanced signal clarity.", "category": "tail lights"},
-           "img102.jpg": {"caption": "A LED tail light improving visibility during night driving.", "category": "tail lights"},
-           "img103.jpg": {"caption": "A long-lasting tail light designed for durability.", "category": "tail lights"},
-           "img104.jpg": {"caption": "A waterproof tail light built to withstand harsh conditions.", "category": "tail lights"},
-           "img105.jpg": {"caption": "A modern tail light offering a sleek and stylish look.", "category": "tail lights"},
-           "img106.jpg": {"caption": "A dynamic tail light with integrated turn indicators.", "category": "tail lights"},
-           "img107.jpg": {"caption": "A shock-resistant tail light ensuring long-term performance.", "category": "tail lights"},
-           "img108.jpg": {"caption": "A bright LED tail light enhancing road safety.", "category": "tail lights"},
-           "img109.jpg": {"caption": "A tail light designed to reduce glare for better clarity.", "category": "tail lights"},
-           "img110.jpg": {"caption": "A high-efficiency tail light minimizing power consumption.", "category": "tail lights"},
-           "img111.jpg": {"caption": "A stylish tail light adding a custom touch to vehicles.", "category": "tail lights"},
-           "img112.jpg": {"caption": "A high-contrast tail light improving visibility in fog.", "category": "tail lights"},
-           "img113.jpg": {"caption": "A smart tail light with motion detection for safety.", "category": "tail lights"},
-           "img114.jpg": {"caption": "A tail light with dual-layer lighting for maximum brightness.", "category": "tail lights"},
-           "img115.jpg": {"caption": "A flexible tail light design fitting multiple car models.", "category": "tail lights"},
-           "img116.jpg": {"caption": "A futuristic LED tail light with sequential indicators.", "category": "tail lights"},
-           "img117.jpg": {"caption": "A rear tail light with ultra-fast signal response.", "category": "tail lights"},
-           "img118.jpg": {"caption": "A reinforced tail light lens for extra protection.", "category": "tail lights"},
-           "img119.jpg": {"caption": "A tail light with a smart braking signal system.", "category": "tail lights"},
-           "img120.jpg": {"caption": "A highly efficient tail light increasing rear-end safety.", "category": "tail lights"},
-           "img121.jpg": {"caption": "A stylish LED tail light enhancing vehicle aesthetics.", "category": "tail lights"},
-           "img122.jpg": {"caption": "A tail light featuring a unique honeycomb LED pattern.", "category": "tail lights"},
-           "img123.jpg": {"caption": "A rear tail light designed for maximum light distribution.", "category": "tail lights"},
-           "img124.jpg": {"caption": "A high-tech tail light with glare reduction features.", "category": "tail lights"},
-           "img125.jpg": {"caption": "A tail light with superior impact resistance.", "category": "tail lights"},
-           "img126.jpg": {"caption": "A heavy-duty tail light for off-road vehicles.", "category": "tail lights"},
-           "img127.jpg": {"caption": "A premium-quality tail light ensuring longevity.", "category": "tail lights"},
-           "img128.jpg": {"caption": "A weatherproof tail light ideal for all seasons.", "category": "tail lights"},
-           "img129.jpg": {"caption": "A high-performance tail light with bright LEDs.", "category": "tail lights"},
-           "img130.jpg": {"caption": "A low-power-consuming tail light maintaining efficiency.", "category": "tail lights"},
-           "img131.jpg": {"caption": "A modern tail light integrating an innovative beam system.", "category": "tail lights"},
-           "img132.jpg": {"caption": "A durable tail light providing stable brightness.", "category": "tail lights"},
-           "img133.jpg": {"caption": "A smoke-lens tail light for a custom car look.", "category": "tail lights"},
-           "img134.jpg": {"caption": "A tail light designed with ultra-bright intensity.", "category": "tail lights"},
-           "img135.jpg": {"caption": "A tail light improving rear-end visibility in heavy traffic.", "category": "tail lights"},
-           "img136.jpg": {"caption": "A seamless tail light design reducing maintenance needs.", "category": "tail lights"},
-           "img137.jpg": {"caption": "A tail light featuring a sleek and futuristic look.", "category": "tail lights"},
-           "img138.jpg": {"caption": "A multi-layered tail light optimizing brightness output.", "category": "tail lights"},
-           "img139.jpg": {"caption": "A high-quality tail light designed for safety and durability.", "category": "tail lights"},
-           "img140.jpg": {"caption": "A tail light built to endure high-impact collisions.", "category": "tail lights"},
-           "img141.jpg": {"caption": "A premium LED tail light enhancing vehicle performance.", "category": "tail lights"},
-           "img142.jpg": {"caption": "A shockproof tail light built for rough driving conditions.", "category": "tail lights"},
-           "img143.jpg": {"caption": "A flexible tail light ensuring universal compatibility.", "category": "tail lights"},
-           "img144.jpg": {"caption": "A high-output tail light ensuring a clear light beam.", "category": "tail lights"},
-           "img145.jpg": {"caption": "A tail light with an energy-efficient lighting system.", "category": "tail lights"},
-           "img146.jpg": {"caption": "A water-resistant tail light ensuring peak performance.", "category": "tail lights"},
-           "img147.jpg": {"caption": "A rear tail light offering a sophisticated night-time glow.", "category": "tail lights"},
-           "img148.jpg": {"caption": "A stylish LED tail light with a progressive lighting effect.", "category": "tail lights"},
-           "img149.jpg": {"caption": "A multi-purpose tail light ensuring clear road signals.", "category": "tail lights"},
-           "img150.jpg": {"caption": "A tail light with a cutting-edge optical design.", "category": "tail lights"},
-           "img151.jpg": {"caption": "A high-visibility tail light improving night driving safety.", "category": "tail lights"},
-           "img152.jpg": {"caption": "A stylish tail light featuring a bold LED strip.", "category": "tail lights"},
-           "img153.jpg": {"caption": "A reinforced tail light built for extreme conditions.", "category": "tail lights"},
-           "img154.jpg": {"caption": "A tail light with a dual-beam system for better illumination.", "category": "tail lights"},
-           "img155.jpg": {"caption": "A smoke-lens tail light adding a sporty touch.", "category": "tail lights"},
-           "img156.jpg": {"caption": "A high-efficiency tail light with rapid response time.", "category": "tail lights"},
-           "img157.jpg": {"caption": "A heavy-duty tail light designed for trucks and SUVs.", "category": "tail lights"},
-           "img158.jpg": {"caption": "A smart tail light featuring adaptive brightness control.", "category": "tail lights"},
-           "img159.jpg": {"caption": "A waterproof tail light ensuring longevity in all climates.", "category": "tail lights"},
-           "img160.jpg": {"caption": "A crystal-clear tail light lens for sharp illumination.", "category": "tail lights"},
-           "img161.jpg": {"caption": "A dynamic tail light with advanced turn signal integration.", "category": "tail lights"},
-           "img162.jpg": {"caption": "A tail light built with energy-efficient LED technology.", "category": "tail lights"},
-           "img163.jpg": {"caption": "A premium tail light offering maximum rear visibility.", "category": "tail lights"},
-           "img164.jpg": {"caption": "A high-performance tail light designed for luxury cars.", "category": "tail lights"},
-           "img165.jpg": {"caption": "A rear tail light with an innovative glare-reduction system.", "category": "tail lights"},
-           "img166.jpg": {"caption": "A tail light designed with a durable impact-resistant shell.", "category": "tail lights"},
-           "img167.jpg": {"caption": "A futuristic LED tail light with a seamless lighting effect.", "category": "tail lights"},
-           "img168.jpg": {"caption": "A smoke-lens LED tail light enhancing aesthetic appeal.", "category": "tail lights"},
-           "img169.jpg": {"caption": "A smart tail light featuring motion-activated signals.", "category": "tail lights"},
-           "img170.jpg": {"caption": "A tail light with multi-angle illumination for better visibility.", "category": "tail lights"},
-           "img171.jpg": {"caption": "A high-luminosity tail light ensuring optimal road safety.", "category": "tail lights"},
-           "img172.jpg": {"caption": "A LED tail light with an ultra-fast response time.", "category": "tail lights"},
-           "img173.jpg": {"caption": "A compact yet powerful tail light enhancing signal clarity.", "category": "tail lights"},
-           "img174.jpg": {"caption": "A sleek tail light integrating advanced LED technology.", "category": "tail lights"},
-           "img175.jpg": {"caption": "A high-intensity tail light improving vehicle visibility.", "category": "tail lights"},
-           "img176.jpg": {"caption": "A dual-layered tail light ensuring durability and performance.", "category": "tail lights"},
-           "img177.jpg": {"caption": "A weather-resistant tail light built for rugged use.", "category": "tail lights"},
-           "img178.jpg": {"caption": "A stylish tail light adding a modern touch to vehicles.", "category": "tail lights"},
-           "img179.jpg": {"caption": "A tail light with an aerodynamic design for sleek aesthetics.", "category": "tail lights"},
-           "img180.jpg": {"caption": "A robust tail light with ultra-bright LEDs.", "category": "tail lights"},
-           "img181.jpg": {"caption": "A high-quality tail light ensuring stable brightness output.", "category": "tail lights"},
-           "img182.jpg": {"caption": "A tail light featuring an anti-fog coating for clarity.", "category": "tail lights"},
-           "img183.jpg": {"caption": "A dynamic LED tail light providing enhanced visibility.", "category": "tail lights"},
-           "img184.jpg": {"caption": "A tail light with a built-in heat dissipation system.", "category": "tail lights"},
-           "img185.jpg": {"caption": "A reinforced tail light for improved impact resistance.", "category": "tail lights"},
-           "img186.jpg": {"caption": "A stylish tail light designed for modern vehicle aesthetics.", "category": "tail lights"},
-           "img187.jpg": {"caption": "A tail light built with eco-friendly energy-saving LEDs.", "category": "tail lights"},
-           "img188.jpg": {"caption": "A tail light offering high visibility in extreme weather.", "category": "tail lights"},
-           "img189.jpg": {"caption": "A tail light with a unique sequential turn signal feature.", "category": "tail lights"},
-           "img190.jpg": {"caption": "A high-intensity LED tail light ensuring road safety.", "category": "tail lights"},
-           "img191.jpg": {"caption": "A rear tail light featuring a progressive LED beam.", "category": "tail lights"},
-           "img192.jpg": {"caption": "A rugged tail light designed for off-road adventures.", "category": "tail lights"},
-           "img193.jpg": {"caption": "A sleek and modern tail light enhancing vehicle design.", "category": "tail lights"},
-           "img194.jpg": {"caption": "A tail light featuring advanced optical technology.", "category": "tail lights"},
-           "img195.jpg": {"caption": "A low-power tail light maintaining high illumination.", "category": "tail lights"},
-           "img196.jpg": {"caption": "A heavy-duty tail light with extended lifespan LEDs.", "category": "tail lights"},
-           "img197.jpg": {"caption": "A precision-engineered tail light for improved performance.", "category": "tail lights"},
-           "img198.jpg": {"caption": "A stylish LED tail light adding a bold rear-end look.", "category": "tail lights"},
-           "img199.jpg": {"caption": "A tail light designed for maximum light dispersion.", "category": "tail lights"},
-           "img200.jpg": {"caption": "A high-tech tail light with a futuristic lighting effect.", "category": "tail lights"}
-       
-   
-       
-       
-   
-}
+[
+        {
+          "image_path": "TAIL LIGHTS/img1.jpg",
+          "caption": "Close-up of a modern car’s red tail light, featuring a sleek LED design."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img2.jpg",
+          "caption": "A vintage car’s tail light with a retro design, glowing warmly in the night."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img3.jpg",
+          "caption": "Tail light of a sports car, accentuating its aggressive and dynamic rear profile."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img4.jpg",
+          "caption": "LED tail light on a luxury sedan, designed for optimal visibility and modern aesthetics."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img5.jpg",
+          "caption": "A bright red tail light illuminating the rear of a compact city car during a rainy evening."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img6.jpg",
+          "caption": "A tail light surrounded by the exhaust pipes of a powerful muscle car."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img7.jpg",
+          "caption": "Tail lights of an electric vehicle, showcasing a futuristic and energy-efficient design."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img8.jpg",
+          "caption": "Bright and distinctive tail light of a sports utility vehicle (SUV) glowing on a city road."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img9.jpg",
+          "caption": "A car’s tail light with integrated turn signal feature, glowing brightly in the dark."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img10.jpg",
+          "caption": "Sleek and minimalistic tail light design on a newly released hybrid vehicle."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img11.jpg",
+          "caption": "A classic car’s tail light with a circular design, glowing in the evening twilight."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img12.jpg",
+          "caption": "Rear view of a car with a unique tail light design that gives a modern touch to its retro shape."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img13.jpg",
+          "caption": "A close-up of a luxury car’s multi-level tail light, illuminating the rear in a distinctive pattern."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img14.jpg",
+          "caption": "Tail light assembly of an off-road vehicle, designed for visibility even in harsh environments."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img15.jpg",
+          "caption": "A custom-tailored tail light for a sports car, glowing bright red on a foggy road."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img16.jpg",
+          "caption": "LED tail light system on a modern car, incorporating a futuristic touch to the rear design."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img17.jpg",
+          "caption": "Tail lights of a high-performance vehicle, designed to stand out with their unique structure."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img18.jpg",
+          "caption": "A car’s tail light lighting up the rear of the vehicle during a night drive, casting a glow on the road."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img19.jpg",
+          "caption": "Tail light of a luxury sedan glowing brightly with an elegant, modern design."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img20.jpg",
+          "caption": "Close-up of a sleek tail light with an innovative design, crafted for high-end vehicles."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img21.jpg",
+          "caption": "A tail light with an advanced dynamic turn signal, smoothly indicating direction in motion."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img22.jpg",
+          "caption": "Car tail light glowing with precision-engineered LED light strips, enhancing nighttime visibility."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img23.jpg",
+          "caption": "A red, oval-shaped tail light glowing brightly on a sports coupe during a dusk drive."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img24.jpg",
+          "caption": "Tail light of a rugged off-road vehicle, shining brightly as it navigates through a mountain trail."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img25.jpg",
+          "caption": "Tail light on an urban car, designed to be sleek and stylish while ensuring visibility on busy roads."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img26.jpg",
+          "caption": "Close-up of the tail light of a luxury sports car, featuring integrated braking and turning signals."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img27.jpg",
+          "caption": "Tail light of a classic car, glowing softly under the city lights, bringing out the vehicle’s vintage charm."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img28.jpg",
+          "caption": "Rear of a new-age vehicle with its innovative tail light design, creating a striking visual appeal."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img29.jpg",
+          "caption": "Tail light illuminating a dimly lit street as a car makes its way through the city at night."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img30.jpg",
+          "caption": "Tail light with a reflective surface, ensuring that the vehicle remains visible from a distance."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img31.jpg",
+          "caption": "A smooth curve of a car's tail light design, lighting up the rear end with glowing red LEDs."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img32.jpg",
+          "caption": "Tail light system of a hybrid vehicle, designed for efficient energy use while enhancing rear visibility."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img33.jpg",
+          "caption": "Modern tail light design of a sedan, featuring a clean, sharp edge that complements its overall look."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img34.jpg",
+          "caption": "Close-up of a unique tail light design, showing off its intricate lens and light-reflecting features."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img35.jpg",
+          "caption": "Bright LED tail light illuminating the night, enhancing the rear profile of a high-performance vehicle."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img36.jpg",
+          "caption": "A tail light that blends seamlessly into the design of the car’s rear end, featuring a minimalistic look."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img37.jpg",
+          "caption": "A clear, high-quality tail light lens that allows the LED lights to shine through effectively."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img38.jpg",
+          "caption": "Tail light glowing red on a vehicle with bold design lines and a powerful rear stance."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img39.jpg",
+          "caption": "Tail light assembly on a car, showing the clarity and precision of modern automotive design."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img40.jpg",
+          "caption": "Rear of a vehicle with elegant tail lights, designed for both style and safety."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img41.jpg",
+          "caption": "Tail light system illuminated in the night, casting a bright glow on a vehicle’s rear end."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img42.jpg",
+          "caption": "Classic car’s tail light, exuding retro style while maintaining modern functionality."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img43.jpg",
+          "caption": "A rear-facing car with glowing LED tail lights, visible from a distance for added safety."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img44.jpg",
+          "caption": "Tail light showing off a well-designed circular lens, offering a unique visual appeal."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img45.jpg",
+          "caption": "Tail light of a performance car with an angular design that complements the vehicle's aggressive stance."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img46.jpg",
+          "caption": "LED-powered tail light that enhances the vehicle’s visual appeal and night-time visibility."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img47.jpg",
+          "caption": "The sleek design of a car’s tail light, featuring smooth curves that match the overall aesthetic."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img48.jpg",
+          "caption": "Tail light with modern features, enhancing the rear end of a vehicle while improving safety."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img49.jpg",
+          "caption": "A dynamic tail light design, blending form and function to provide a futuristic look at the rear of the vehicle."
+        },
+        {
+          "image_path": "TAIL LIGHTS/img50.jpg",
+          "caption": "Tail light and turn signal integrated seamlessly into a sleek design on the rear of a sports car."
+        },  {
+                  "image_path": "TAIL LIGHTS/img51.jpg",
+                  "caption": "Bright, angular tail light design of a luxury car, visible from a great distance."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img52.jpg",
+                  "caption": "Close-up of a car’s elegant rear tail light with a sharp, modern LED setup."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img53.jpg",
+                  "caption": "Classic car tail light glowing in red, showcasing its vintage design at night."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img54.jpg",
+                  "caption": "Rear view of a car with a stylish tail light that complements the sleek bodywork."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img55.jpg",
+                  "caption": "A bright LED tail light system glowing in the dark, offering both aesthetics and safety."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img56.jpg",
+                  "caption": "Tail light of a high-performance vehicle designed with precision for maximum visibility."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img57.jpg",
+                  "caption": "LED tail light on a premium car, seamlessly blending into the rear bumper design."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img58.jpg",
+                  "caption": "Close-up shot of a car's rear LED tail light in full illumination during the night."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img59.jpg",
+                  "caption": "Tail light on a stylish coupe, glowing with a signature red hue to enhance rear visibility."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img60.jpg",
+                  "caption": "A futuristic tail light design on a concept car, with glowing LED elements."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img61.jpg",
+                  "caption": "The tail light of an SUV with an intricate LED design, illuminating the rear end brightly."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img62.jpg",
+                  "caption": "Tail light on a sleek sports car, designed to match the overall sporty appearance of the vehicle."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img63.jpg",
+                  "caption": "Elegant tail light with a smooth curve, adding a luxurious touch to the rear of the car."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img64.jpg",
+                  "caption": "Tail light glowing in the dark, highlighting the modern features of a new-age sedan."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img65.jpg",
+                  "caption": "A tail light on a rugged vehicle, built for durability and visibility in any condition."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img66.jpg",
+                  "caption": "Tail light design of a new sports car, sleek and sharp, offering clear visibility."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img67.jpg",
+                  "caption": "A close-up of a vehicle’s tail light system, featuring intricate LED patterns and bright red illumination."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img68.jpg",
+                  "caption": "Tail light of a vintage vehicle, glowing red against the backdrop of a classic city street."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img69.jpg",
+                  "caption": "A high-tech tail light system illuminating the rear of a cutting-edge electric vehicle."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img70.jpg",
+                  "caption": "Tail light with LED technology providing an elegant glow that matches the car’s stylish rear design."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img71.jpg",
+                  "caption": "Close-up of an advanced tail light system, built for maximum brightness and efficiency."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img72.jpg",
+                  "caption": "Tail light with dynamic turn signals, making a sleek, high-tech statement on a modern vehicle."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img73.jpg",
+                  "caption": "Bright, attention-grabbing tail light glowing on a performance vehicle during a nighttime drive."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img74.jpg",
+                  "caption": "A luxury car with a rear light system that combines LED technology with a unique design pattern."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img75.jpg",
+                  "caption": "Red tail light illuminating the rear of an off-road vehicle, providing visibility during rugged terrain drives."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img76.jpg",
+                  "caption": "LED tail light on a compact city car, offering both style and practicality."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img77.jpg",
+                  "caption": "A streamlined tail light design on a coupe, offering clean aesthetics and perfect illumination."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img78.jpg",
+                  "caption": "Tail light of a sports utility vehicle (SUV), radiating bold red LED lights for enhanced visibility."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img79.jpg",
+                  "caption": "Tail light of a sedan with modern LED strips, providing a sophisticated and sharp look."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img80.jpg",
+                  "caption": "Tail light system of an electric vehicle, showcasing cutting-edge LED technology and efficiency."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img81.jpg",
+                  "caption": "Close-up of a sleek LED tail light system integrated into the rear bumper of a performance car."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img82.jpg",
+                  "caption": "Modern tail light design on an SUV, creating a dynamic and functional rear appearance."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img83.jpg",
+                  "caption": "A classic circular tail light on an antique car, glowing brightly with an elegant design."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img84.jpg",
+                  "caption": "A rear view of a vehicle showing off its advanced tail light system with dynamic illumination."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img85.jpg",
+                  "caption": "A unique tail light design glowing on a luxury car, offering both function and sophistication."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img86.jpg",
+                  "caption": "A car’s tail light system with bright LED lights ensuring clear visibility from a distance."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img87.jpg",
+                  "caption": "Tail light design with a smooth LED strip, ensuring the car’s rear is highly visible at night."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img88.jpg",
+                  "caption": "Tail light of a high-end sedan, seamlessly blending with the vehicle’s modern and sleek rear end."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img89.jpg",
+                  "caption": "An elegant rear light assembly of a luxury vehicle, with integrated LED and signal systems."
+                },
+                {
+                  "image_path": "TAIL LIGHTS/img90.jpg",
+                  "caption": "LED tail light on a new-generation SUV, designed for both safety and striking rear visibility."
+                },
+                        {
+                          "image_path": "TAIL LIGHTS/img91.jpg",
+                          "caption": "A sleek tail light design on a luxury sports car, glowing with vibrant LED accents."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img92.jpg",
+                          "caption": "The tail light of a performance car, with angular LED strips that give it a futuristic look."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img93.jpg",
+                          "caption": "A classic rear light design of a vintage car, featuring a round, red tail light glowing brightly."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img94.jpg",
+                          "caption": "High-tech tail light on a luxury vehicle, offering both high visibility and cutting-edge design."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img95.jpg",
+                          "caption": "A stylish rear tail light on a sports car, glowing with bright LED strips that light up the night."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img96.jpg",
+                          "caption": "A modern, dynamic LED tail light system, offering sharp, sleek lines and great visibility."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img97.jpg",
+                          "caption": "Tail light of an SUV, with a signature LED pattern that adds a touch of elegance to the rear."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img98.jpg",
+                          "caption": "A glowing tail light of a performance sedan, with bright LED lights creating a bold statement."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img99.jpg",
+                          "caption": "LED tail light on an electric car, blending perfectly with the rear bumper and offering safety features."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img100.jpg",
+                          "caption": "A car’s rear LED tail light glowing brightly against the night sky, offering both style and functionality."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img101.jpg",
+                          "caption": "A car's innovative tail light system, showcasing LED lights arranged in a signature pattern."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img102.jpg",
+                          "caption": "Close-up of a dynamic tail light, providing bright red illumination that enhances visibility at night."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img103.jpg",
+                          "caption": "A rear LED light system on a sports car, glowing brightly and creating a futuristic appearance."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img104.jpg",
+                          "caption": "Tail light with angular LED design on a performance car, offering a unique and bold rear aesthetic."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img105.jpg",
+                          "caption": "Close-up of a vintage car’s tail light, with an elegant and timeless red glow."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img106.jpg",
+                          "caption": "Rear view of an SUV showing off its LED tail light, designed for both safety and style."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img107.jpg",
+                          "caption": "Sleek and futuristic tail light design on a concept car, blending seamlessly with the rear structure."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img108.jpg",
+                          "caption": "The rear of a luxury sports car, showcasing an intricate tail light system with bright LED illumination."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img109.jpg",
+                          "caption": "Tail light of a hybrid vehicle, with modern LED design and optimal lighting for visibility."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img110.jpg",
+                          "caption": "Close-up of an elegant rear tail light assembly featuring sleek lines and bright LED lights."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img111.jpg",
+                          "caption": "A glowing LED tail light system on a premium sedan, offering both visibility and an appealing design."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img112.jpg",
+                          "caption": "Tail light of a compact car, with an integrated LED design that enhances its sleek rear end."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img113.jpg",
+                          "caption": "A stylish, modern tail light on a car’s rear, featuring a smooth and continuous LED strip."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img114.jpg",
+                          "caption": "LED tail light of a sleek electric vehicle, visible in bright red against a dark city street."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img115.jpg",
+                          "caption": "The signature LED tail light design of a futuristic car, glowing in bright red to highlight the rear."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img116.jpg",
+                          "caption": "Close-up of a car’s tail light, showcasing vibrant red LED strips and an innovative design."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img117.jpg",
+                          "caption": "Tail light of a sports SUV, shining brightly with red LEDs that ensure clear visibility."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img118.jpg",
+                          "caption": "Rear of a car featuring a minimalistic tail light with sleek LED design, perfect for modern aesthetics."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img119.jpg",
+                          "caption": "The intricate tail light design of a luxury vehicle, utilizing high-tech LED lighting for clarity."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img120.jpg",
+                          "caption": "A tail light on an electric sports car, glowing in red with a signature, attention-grabbing look."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img121.jpg",
+                          "caption": "LED tail light system integrated into a car’s rear bumper, offering both elegance and functionality."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img122.jpg",
+                          "caption": "Rear LED light of a performance car with sharp, angular design elements that enhance visibility."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img123.jpg",
+                          "caption": "Bright red tail light of a vintage car, providing a nostalgic glow that harkens back to classic designs."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img124.jpg",
+                          "caption": "Tail light system on a luxury SUV, featuring multiple LED strips for clear and bright illumination."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img125.jpg",
+                          "caption": "Dynamic LED tail light on a futuristic vehicle, designed for maximum visibility and style."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img126.jpg",
+                          "caption": "Tail light assembly of a modern sedan, with LED lighting that ensures safety and elegance."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img127.jpg",
+                          "caption": "The rear end of a car featuring a glowing tail light that provides both safety and sophistication."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img128.jpg",
+                          "caption": "Tail light of a performance car, glowing brightly to provide clear visibility to other drivers."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img129.jpg",
+                          "caption": "A sleek rear light system on a luxury car, offering a modern touch with vibrant LED lights."
+                        },
+                        {
+                          "image_path": "TAIL LIGHTS/img130.jpg",
+                          "caption": "The dynamic rear tail light system on an electric vehicle, designed to be functional and stylish."
+                        },
+                                {
+                                  "image_path": "TAIL LIGHTS/img131.jpg",
+                                  "caption": "Rear view of a sports car, showcasing a sharp and striking LED tail light design."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img132.jpg",
+                                  "caption": "Tail light of a classic car with a bold circular design and radiant red glow."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img133.jpg",
+                                  "caption": "A rear tail light of a compact electric car, featuring futuristic design and high visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img134.jpg",
+                                  "caption": "A glowing tail light system integrated into the rear of a modern sedan, blending style and function."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img135.jpg",
+                                  "caption": "LED rear light of a sleek SUV, illuminating the dark road with sharp and bright red light."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img136.jpg",
+                                  "caption": "An aerodynamic tail light on a luxury performance car, glowing with precision LEDs for clear visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img137.jpg",
+                                  "caption": "The tail light of a high-performance vehicle, featuring dynamic LED strips in a unique arrangement."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img138.jpg",
+                                  "caption": "Close-up of a car's LED tail light, glowing bright red against the night backdrop, enhancing visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img139.jpg",
+                                  "caption": "Rear tail light of a futuristic electric vehicle, glowing in a sleek and cutting-edge LED pattern."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img140.jpg",
+                                  "caption": "An elegant rear tail light assembly with integrated LED lights, giving the vehicle a modern look."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img141.jpg",
+                                  "caption": "The sharp and angular LED tail light of a performance car, glowing brightly for safety and style."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img142.jpg",
+                                  "caption": "A sleek and minimalistic tail light design on a luxury SUV, offering modern aesthetics and visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img143.jpg",
+                                  "caption": "Rear view of a sports car with a glowing LED tail light system, ensuring clear visibility on the road."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img144.jpg",
+                                  "caption": "Dynamic and stylish LED tail light on an electric car, offering both safety and high-tech appeal."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img145.jpg",
+                                  "caption": "Tail light of a futuristic concept car, glowing with innovative LED lighting for a cutting-edge look."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img146.jpg",
+                                  "caption": "Tail light of a classic muscle car, designed with bright red lighting for a nostalgic yet modern appeal."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img147.jpg",
+                                  "caption": "Sleek and futuristic tail light on an electric vehicle, providing excellent visibility and energy efficiency."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img148.jpg",
+                                  "caption": "A unique, glowing LED tail light on a luxury sedan, offering both performance and sophistication."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img149.jpg",
+                                  "caption": "Rear LED light of a premium car, blending seamlessly into the bodywork with bright, efficient lighting."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img150.jpg",
+                                  "caption": "A modern tail light system featuring multiple LED strips on a compact vehicle, ensuring safety and style."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img151.jpg",
+                                  "caption": "LED tail light of a sleek SUV, glowing in a bright red hue for enhanced road visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img152.jpg",
+                                  "caption": "Rear LED tail light system on a sports car, offering a sharp and futuristic design while illuminating the road."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img153.jpg",
+                                  "caption": "A car's rear end featuring an innovative tail light system, designed for both aesthetics and functionality."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img154.jpg",
+                                  "caption": "Tail light of a high-end vehicle, glowing with precision LED lights for optimal visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img155.jpg",
+                                  "caption": "The rear of a performance car, showcasing its bold tail light system with high-quality LED lights."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img156.jpg",
+                                  "caption": "A clean, modern tail light on an SUV, providing enhanced road safety with its bright LED glow."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img157.jpg",
+                                  "caption": "LED tail light system in a luxury sedan, designed with sleek lines to match the vehicle's high-end aesthetic."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img158.jpg",
+                                  "caption": "Bright and efficient tail light system on a hybrid car, glowing with LED lights that provide visibility in low-light conditions."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img159.jpg",
+                                  "caption": "The rear end of a sleek, modern sports car with a glowing LED tail light for visibility and style."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img160.jpg",
+                                  "caption": "Tail light assembly of a futuristic vehicle, offering innovative LED technology for maximum safety."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img161.jpg",
+                                  "caption": "Rear tail light of an electric car, glowing in a soft red hue with integrated LED lights for superior visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img162.jpg",
+                                  "caption": "Tail light of a luxury sedan, featuring a sleek LED design that enhances both the look and function of the vehicle."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img163.jpg",
+                                  "caption": "Tail light system with dynamic LED technology on a performance car, ensuring optimal visibility."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img164.jpg",
+                                  "caption": "Bright LED tail light of a high-performance sports car, glowing prominently against the dark backdrop."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img165.jpg",
+                                  "caption": "Tail light assembly of a luxury vehicle, designed with cutting-edge LED lights that light up the road."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img166.jpg",
+                                  "caption": "Close-up of a rear LED light on a modern vehicle, glowing brightly for maximum visibility in traffic."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img167.jpg",
+                                  "caption": "LED tail light on a high-tech car, designed for clear visibility and a modern aesthetic."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img168.jpg",
+                                  "caption": "Rear tail light of a sports car, featuring a glowing LED design that emphasizes its powerful, dynamic look."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img169.jpg",
+                                  "caption": "Tail light on a premium car, glowing with bright red LED lights to ensure visibility and add to its luxurious appeal."
+                                },
+                                {
+                                  "image_path": "TAIL LIGHTS/img170.jpg",
+                                  "caption": "Rear view of a luxury sedan with sleek LED tail lights, providing both safety and sophistication."
+                                },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img171.jpg",
+                                          "caption": "A close-up of a futuristic car’s LED tail light, emitting a soft, glowing red hue."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img172.jpg",
+                                          "caption": "Tail light assembly on an off-road vehicle, designed with rugged LEDs to withstand harsh environments."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img173.jpg",
+                                          "caption": "Sleek LED tail light of a modern sedan, glowing brightly to ensure high visibility in low-light conditions."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img174.jpg",
+                                          "caption": "A compact SUV’s tail light, featuring bright LED strips for enhanced road safety."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img175.jpg",
+                                          "caption": "Glowing rear tail light of a futuristic concept car, showcasing cutting-edge LED technology."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img176.jpg",
+                                          "caption": "The rear tail light on a luxury vehicle, designed with advanced LED lights that provide optimal illumination."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img177.jpg",
+                                          "caption": "Tail light on a high-performance sports car, designed with precision LEDs for maximum visibility and a modern aesthetic."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img178.jpg",
+                                          "caption": "An illuminated LED tail light on a classic car, glowing red and providing vintage charm with modern clarity."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img179.jpg",
+                                          "caption": "Rear LED tail light of a city car, offering clear visibility with an efficient and compact design."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img180.jpg",
+                                          "caption": "A rear view of a convertible car’s sleek tail light, glowing brightly under the sun."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img181.jpg",
+                                          "caption": "Tail light system on an off-road SUV, providing enhanced visibility with bright and durable LEDs."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img182.jpg",
+                                          "caption": "LED tail light system with dynamic turn signals on a luxury electric vehicle, offering both style and safety."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img183.jpg",
+                                          "caption": "An intricate LED tail light design on a concept car, highlighting its futuristic approach to automotive lighting."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img184.jpg",
+                                          "caption": "A glowing LED tail light system integrated seamlessly into the rear bumper of a sleek vehicle."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img185.jpg",
+                                          "caption": "Close-up of a vehicle’s rear LED tail light, offering bright illumination with a bold modern design."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img186.jpg",
+                                          "caption": "An elegant and minimalistic rear LED tail light system on a luxury sedan, ensuring high visibility at night."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img187.jpg",
+                                          "caption": "The rear of a sports car showcasing a bold and dynamic LED tail light design."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img188.jpg",
+                                          "caption": "LED tail light system on a hybrid car, glowing brightly and efficiently to ensure visibility in various driving conditions."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img189.jpg",
+                                          "caption": "A sleek and efficient tail light assembly on a compact city car, featuring an advanced LED system."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img190.jpg",
+                                          "caption": "A high-tech LED tail light system installed on a luxury vehicle, offering cutting-edge design and functionality."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img191.jpg",
+                                          "caption": "Close-up of a glowing LED tail light of a classic car, showcasing vintage charm with modern technology."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img192.jpg",
+                                          "caption": "Rear view of a sleek vehicle with a red LED tail light, offering both elegance and visibility."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img193.jpg",
+                                          "caption": "Tail light of a luxury electric vehicle, glowing brightly and designed for optimal road safety."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img194.jpg",
+                                          "caption": "A performance car’s rear tail light, featuring glowing LED strips that provide clear visibility."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img195.jpg",
+                                          "caption": "Tail light assembly of a high-end sedan, glowing with energy-efficient LED technology."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img196.jpg",
+                                          "caption": "The rear tail light of an electric car, glowing softly in the dark to ensure safety while driving at night."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img197.jpg",
+                                          "caption": "LED tail light system on a futuristic vehicle, designed with cutting-edge lighting technology for safety and style."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img198.jpg",
+                                          "caption": "Rear LED tail light assembly of a high-performance car, glowing red with sleek LED technology."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img199.jpg",
+                                          "caption": "A rear LED tail light of a sports car, designed for maximum visibility and aesthetic appeal."
+                                        },
+                                        {
+                                          "image_path": "TAIL LIGHTS/img200.jpg",
+                                          "caption": "Tail light system on an off-road vehicle, glowing brightly with durable LED technology for tough terrains."
+                                        }
+                                      
+
+                              
+                      
+              
+      

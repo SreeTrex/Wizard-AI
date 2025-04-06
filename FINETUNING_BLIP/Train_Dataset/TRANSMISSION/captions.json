@@ -1,206 +1,805 @@
-{
-    
-    "img1.jpg": {"caption": "A high-performance transmission ensuring smooth gear shifts.", "category": "transmission"},
-    "img2.jpg": {"caption": "A durable transmission system designed for enhanced power transfer.", "category": "transmission"},
-    "img3.jpg": {"caption": "A precision-engineered transmission optimizing fuel efficiency.", "category": "transmission"},
-    "img4.jpg": {"caption": "An advanced transmission with seamless acceleration control.", "category": "transmission"},
-    "img5.jpg": {"caption": "A robust transmission ensuring longevity and reliability.", "category": "transmission"},
-    "img6.jpg": {"caption": "A high-torque transmission designed for heavy-duty vehicles.", "category": "transmission"},
-    "img7.jpg": {"caption": "A modern transmission offering quick and responsive gear changes.", "category": "transmission"},
-    "img8.jpg": {"caption": "A transmission with enhanced lubrication for reduced wear.", "category": "transmission"},
-    "img9.jpg": {"caption": "A lightweight transmission improving vehicle efficiency.", "category": "transmission"},
-    "img10.jpg": {"caption": "A high-speed transmission designed for racing performance.", "category": "transmission"},
-    "img11.jpg": {"caption": "An energy-efficient transmission reducing power loss.", "category": "transmission"},
-    "img12.jpg": {"caption": "A transmission with advanced cooling for optimal performance.", "category": "transmission"},
-    "img13.jpg": {"caption": "A reinforced transmission offering high load-bearing capacity.", "category": "transmission"},
-    "img14.jpg": {"caption": "A precision-built transmission ensuring stable power delivery.", "category": "transmission"},
-    "img15.jpg": {"caption": "A transmission with smart adaptive shift control.", "category": "transmission"},
-    "img16.jpg": {"caption": "A high-durability transmission for all-terrain vehicles.", "category": "transmission"},
-    "img17.jpg": {"caption": "A performance-grade transmission delivering superior acceleration.", "category": "transmission"},
-    "img18.jpg": {"caption": "A smooth-shifting transmission enhancing driving comfort.", "category": "transmission"},
-    "img19.jpg": {"caption": "An efficient transmission reducing fuel consumption.", "category": "transmission"},
-    "img20.jpg": {"caption": "A high-tech transmission designed for next-generation vehicles.", "category": "transmission"},
-    "img21.jpg": {"caption": "A resilient transmission system minimizing maintenance needs.", "category": "transmission"},
-    "img22.jpg": {"caption": "A heavy-duty transmission built for commercial vehicles.", "category": "transmission"},
-    "img23.jpg": {"caption": "A transmission with dynamic gear ratio optimization.", "category": "transmission"},
-    "img24.jpg": {"caption": "A transmission offering ultra-fast response for performance driving.", "category": "transmission"},
-    "img25.jpg": {"caption": "A transmission designed for high torque and smooth operation.", "category": "transmission"},
-    "img26.jpg": {"caption": "A low-friction transmission improving overall efficiency.", "category": "transmission"},
-    "img27.jpg": {"caption": "A transmission with enhanced thermal stability for long trips.", "category": "transmission"},
-    "img28.jpg": {"caption": "A transmission engineered for precise and stable shifting.", "category": "transmission"},
-    "img29.jpg": {"caption": "A reinforced transmission capable of handling extreme loads.", "category": "transmission"},
-    "img30.jpg": {"caption": "A high-performance automatic transmission enhancing convenience.", "category": "transmission"},
-    "img31.jpg": {"caption": "A transmission offering superior traction control in tough terrains.", "category": "transmission"},
-    "img32.jpg": {"caption": "An innovative transmission with electronic shift precision.", "category": "transmission"},
-    "img33.jpg": {"caption": "A premium transmission designed for long-lasting performance.", "category": "transmission"},
-    "img34.jpg": {"caption": "A fluid-cooled transmission reducing overheating risks.", "category": "transmission"},
-    "img35.jpg": {"caption": "A transmission system optimized for maximum torque output.", "category": "transmission"},
-    "img36.jpg": {"caption": "A hybrid transmission integrating fuel efficiency and power.", "category": "transmission"},
-    "img37.jpg": {"caption": "A high-efficiency transmission minimizing power loss.", "category": "transmission"},
-    "img38.jpg": {"caption": "A precision-crafted transmission with smooth gear synchronization.", "category": "transmission"},
-    "img39.jpg": {"caption": "A transmission system designed for seamless power delivery.", "category": "transmission"},
-    "img40.jpg": {"caption": "A state-of-the-art transmission offering enhanced driving dynamics.", "category": "transmission"},
-    "img41.jpg": {"caption": "A reinforced transmission ensuring high endurance and strength.", "category": "transmission"},
-    "img42.jpg": {"caption": "A cutting-edge transmission delivering exceptional handling.", "category": "transmission"},
-    "img43.jpg": {"caption": "A performance-boosted transmission system for superior driving experience.", "category": "transmission"},
-    "img44.jpg": {"caption": "A transmission with optimized gear ratios for better efficiency.", "category": "transmission"},
-    "img45.jpg": {"caption": "A transmission offering ultra-smooth shifting and reduced wear.", "category": "transmission"},
-    "img46.jpg": {"caption": "A transmission system built for rugged performance and reliability.", "category": "transmission"},
-    "img47.jpg": {"caption": "A transmission with innovative clutch control for seamless shifts.", "category": "transmission"},
-    "img48.jpg": {"caption": "A lightweight and compact transmission maximizing fuel economy.", "category": "transmission"},
-    "img49.jpg": {"caption": "A transmission featuring advanced friction reduction technology.", "category": "transmission"},
-    "img50.jpg": {"caption": "A next-generation transmission system enhancing vehicle responsiveness.", "category": "transmission"},
-    "img51.jpg": {"caption": "A high-performance transmission delivering seamless acceleration.", "category": "transmission"},
-    "img52.jpg": {"caption": "An efficient transmission reducing engine strain and improving fuel economy.", "category": "transmission"},
-    "img53.jpg": {"caption": "A robust transmission system designed for long-distance travel.", "category": "transmission"},
-    "img54.jpg": {"caption": "A lightweight transmission optimizing power delivery.", "category": "transmission"},
-    "img55.jpg": {"caption": "A next-gen transmission system integrating advanced torque management.", "category": "transmission"},
-    "img56.jpg": {"caption": "A high-speed transmission ensuring quick and smooth gear shifts.", "category": "transmission"},
-    "img57.jpg": {"caption": "A precision-built transmission with superior load-handling capabilities.", "category": "transmission"},
-    "img58.jpg": {"caption": "A performance transmission engineered for race-track level shifts.", "category": "transmission"},
-    "img59.jpg": {"caption": "A durable transmission designed to withstand extreme conditions.", "category": "transmission"},
-    "img60.jpg": {"caption": "A transmission system delivering consistent power with minimal loss.", "category": "transmission"},
-    "img61.jpg": {"caption": "A smooth-shifting transmission enhancing overall driving experience.", "category": "transmission"},
-    "img62.jpg": {"caption": "An advanced transmission improving acceleration efficiency.", "category": "transmission"},
-    "img63.jpg": {"caption": "A reliable transmission system ensuring stability at high speeds.", "category": "transmission"},
-    "img64.jpg": {"caption": "A premium transmission offering superior ride quality and durability.", "category": "transmission"},
-    "img65.jpg": {"caption": "A high-durability transmission system reducing maintenance frequency.", "category": "transmission"},
-    "img66.jpg": {"caption": "An automatic transmission with precision shift logic for better performance.", "category": "transmission"},
-    "img67.jpg": {"caption": "A smart transmission system adapting to driving conditions dynamically.", "category": "transmission"},
-    "img68.jpg": {"caption": "A reinforced transmission built to handle heavy payloads.", "category": "transmission"},
-    "img69.jpg": {"caption": "A race-inspired transmission system delivering exceptional speed transitions.", "category": "transmission"},
-    "img70.jpg": {"caption": "A cutting-edge transmission enhancing control and fuel efficiency.", "category": "transmission"},
-    "img71.jpg": {"caption": "A heavy-duty transmission designed for off-road performance.", "category": "transmission"},
-    "img72.jpg": {"caption": "An advanced transmission with electronically controlled shift patterns.", "category": "transmission"},
-    "img73.jpg": {"caption": "A seamless transmission system reducing shift delays.", "category": "transmission"},
-    "img74.jpg": {"caption": "A next-gen automatic transmission ensuring ultra-smooth transitions.", "category": "transmission"},
-    "img75.jpg": {"caption": "A dual-clutch transmission enhancing shift speed and efficiency.", "category": "transmission"},
-    "img76.jpg": {"caption": "A transmission system providing peak performance for turbocharged engines.", "category": "transmission"},
-    "img77.jpg": {"caption": "A hybrid transmission offering seamless power distribution.", "category": "transmission"},
-    "img78.jpg": {"caption": "A low-friction transmission reducing wear and tear over time.", "category": "transmission"},
-    "img79.jpg": {"caption": "A sports-grade transmission optimizing gear ratios for high performance.", "category": "transmission"},
-    "img80.jpg": {"caption": "A durable transmission with enhanced temperature resistance.", "category": "transmission"},
-    "img81.jpg": {"caption": "A lightweight and fuel-efficient transmission for modern vehicles.", "category": "transmission"},
-    "img82.jpg": {"caption": "A high-torque transmission designed for high-speed stability.", "category": "transmission"},
-    "img83.jpg": {"caption": "A precision-engineered transmission for smooth city and highway driving.", "category": "transmission"},
-    "img84.jpg": {"caption": "An ultra-durable transmission built for rugged terrain handling.", "category": "transmission"},
-    "img85.jpg": {"caption": "A smart transmission adapting to both automatic and manual modes.", "category": "transmission"},
-    "img86.jpg": {"caption": "A quick-response transmission providing instant power transfer.", "category": "transmission"},
-    "img87.jpg": {"caption": "An electronically controlled transmission optimizing gear selection.", "category": "transmission"},
-    "img88.jpg": {"caption": "A premium transmission ensuring noise-free operation.", "category": "transmission"},
-    "img89.jpg": {"caption": "A high-performance transmission enhancing driving precision.", "category": "transmission"},
-    "img90.jpg": {"caption": "A transmission system providing a smooth and controlled ride.", "category": "transmission"},
-    "img91.jpg": {"caption": "An all-terrain transmission engineered for maximum durability.", "category": "transmission"},
-    "img92.jpg": {"caption": "A racing-inspired transmission allowing ultra-fast gear shifts.", "category": "transmission"},
-    "img93.jpg": {"caption": "A compact transmission ensuring better fuel economy and efficiency.", "category": "transmission"},
-    "img94.jpg": {"caption": "A premium-grade transmission offering superior power distribution.", "category": "transmission"},
-    "img95.jpg": {"caption": "A high-performance automatic transmission with smooth transitions.", "category": "transmission"},
-    "img96.jpg": {"caption": "A transmission system engineered for consistent and powerful performance.", "category": "transmission"},
-    "img97.jpg": {"caption": "A smart transmission enhancing driving control in all road conditions.", "category": "transmission"},
-    "img98.jpg": {"caption": "A heavy-duty transmission built for high-stress conditions.", "category": "transmission"},
-    "img99.jpg": {"caption": "A turbo-ready transmission system providing rapid gear shifts.", "category": "transmission"},
-    "img100.jpg": {"caption": "A next-gen transmission enhancing power transfer efficiency.", "category": "transmission"},
-    "img101.jpg": {"caption": "A next-gen transmission ensuring smooth and powerful gear shifts.", "category": "transmission"},
-    "img102.jpg": {"caption": "A heavy-duty transmission system designed for off-road vehicles.", "category": "transmission"},
-    "img103.jpg": {"caption": "An advanced transmission delivering seamless torque distribution.", "category": "transmission"},
-    "img104.jpg": {"caption": "A lightweight transmission optimizing fuel efficiency and power.", "category": "transmission"},
-    "img105.jpg": {"caption": "A premium transmission reducing vibrations and noise.", "category": "transmission"},
-    "img106.jpg": {"caption": "A quick-shifting transmission enhancing overall performance.", "category": "transmission"},
-    "img107.jpg": {"caption": "A reinforced transmission built for durability in extreme conditions.", "category": "transmission"},
-    "img108.jpg": {"caption": "An ultra-responsive transmission system ensuring seamless acceleration.", "category": "transmission"},
-    "img109.jpg": {"caption": "A high-precision transmission designed for maximum driving comfort.", "category": "transmission"},
-    "img110.jpg": {"caption": "A reliable transmission system reducing wear and tear.", "category": "transmission"},
-    "img111.jpg": {"caption": "A race-ready transmission ensuring faster shift times.", "category": "transmission"},
-    "img112.jpg": {"caption": "An automatic transmission with adaptive gear logic.", "category": "transmission"},
-    "img113.jpg": {"caption": "A rugged transmission engineered for high torque demands.", "category": "transmission"},
-    "img114.jpg": {"caption": "A smooth-operating transmission improving handling precision.", "category": "transmission"},
-    "img115.jpg": {"caption": "A fuel-efficient transmission reducing engine load.", "category": "transmission"},
-    "img116.jpg": {"caption": "A robust transmission ensuring excellent power distribution.", "category": "transmission"},
-    "img117.jpg": {"caption": "A precision-engineered transmission for superior driving dynamics.", "category": "transmission"},
-    "img118.jpg": {"caption": "An efficient transmission delivering maximum output with minimal effort.", "category": "transmission"},
-    "img119.jpg": {"caption": "A high-speed transmission optimizing shift response.", "category": "transmission"},
-    "img120.jpg": {"caption": "A durable transmission built to handle tough road conditions.", "category": "transmission"},
-    "img121.jpg": {"caption": "A cutting-edge transmission improving overall ride stability.", "category": "transmission"},
-    "img122.jpg": {"caption": "A smooth transmission reducing power lag during acceleration.", "category": "transmission"},
-    "img123.jpg": {"caption": "A temperature-resistant transmission ensuring reliable performance.", "category": "transmission"},
-    "img124.jpg": {"caption": "A dynamic transmission adapting to different driving conditions.", "category": "transmission"},
-    "img125.jpg": {"caption": "A next-level automatic transmission providing seamless gear changes.", "category": "transmission"},
-    "img126.jpg": {"caption": "A dual-clutch transmission offering rapid and precise shifting.", "category": "transmission"},
-    "img127.jpg": {"caption": "A high-durability transmission designed for consistent long-term use.", "category": "transmission"},
-    "img128.jpg": {"caption": "A versatile transmission suitable for all vehicle types.", "category": "transmission"},
-    "img129.jpg": {"caption": "A high-performance transmission delivering smooth transitions.", "category": "transmission"},
-    "img130.jpg": {"caption": "A reliable transmission with reduced mechanical resistance.", "category": "transmission"},
-    "img131.jpg": {"caption": "An electronically controlled transmission optimizing fuel efficiency.", "category": "transmission"},
-    "img132.jpg": {"caption": "A fast-shifting transmission ensuring uninterrupted power flow.", "category": "transmission"},
-    "img133.jpg": {"caption": "A race-inspired transmission for peak driving performance.", "category": "transmission"},
-    "img134.jpg": {"caption": "A compact and efficient transmission improving acceleration.", "category": "transmission"},
-    "img135.jpg": {"caption": "A next-gen transmission with high-speed stability.", "category": "transmission"},
-    "img136.jpg": {"caption": "A rugged transmission system built for challenging terrains.", "category": "transmission"},
-    "img137.jpg": {"caption": "A smooth-transmission technology for enhanced driver control.", "category": "transmission"},
-    "img138.jpg": {"caption": "A responsive transmission designed for modern vehicles.", "category": "transmission"},
-    "img139.jpg": {"caption": "A turbo-ready transmission offering quick and powerful shifts.", "category": "transmission"},
-    "img140.jpg": {"caption": "An intelligent transmission optimizing gear shifts dynamically.", "category": "transmission"},
-    "img141.jpg": {"caption": "A reinforced transmission enhancing vehicle longevity.", "category": "transmission"},
-    "img142.jpg": {"caption": "A seamless transmission improving power efficiency.", "category": "transmission"},
-    "img143.jpg": {"caption": "A track-tested transmission ensuring rapid gear transitions.", "category": "transmission"},
-    "img144.jpg": {"caption": "A lightweight and durable transmission maximizing performance.", "category": "transmission"},
-    "img145.jpg": {"caption": "A next-gen transmission system designed for hybrid vehicles.", "category": "transmission"},
-    "img146.jpg": {"caption": "A cutting-edge transmission ensuring zero power loss.", "category": "transmission"},
-    "img147.jpg": {"caption": "A high-output transmission delivering precision shifts.", "category": "transmission"},
-    "img148.jpg": {"caption": "An adaptive transmission adjusting to varying driving styles.", "category": "transmission"},
-    "img149.jpg": {"caption": "A smart transmission reducing fuel consumption and increasing efficiency.", "category": "transmission"},
-    "img150.jpg": {"caption": "A performance-focused transmission delivering a superior driving experience.", "category": "transmission"},
-    "img151.jpg": {"caption": "A high-performance transmission ensuring quick and smooth gear shifts.", "category": "transmission"},
-    "img152.jpg": {"caption": "An advanced transmission built for optimal power transfer.", "category": "transmission"},
-    "img153.jpg": {"caption": "A fuel-efficient transmission reducing unnecessary energy loss.", "category": "transmission"},
-    "img154.jpg": {"caption": "A heavy-duty transmission system designed for commercial vehicles.", "category": "transmission"},
-    "img155.jpg": {"caption": "A precision-engineered transmission delivering exceptional torque control.", "category": "transmission"},
-    "img156.jpg": {"caption": "A next-gen transmission improving driving stability and efficiency.", "category": "transmission"},
-    "img157.jpg": {"caption": "A dynamic transmission offering quick response and adaptability.", "category": "transmission"},
-    "img158.jpg": {"caption": "A durable transmission system built to withstand extreme conditions.", "category": "transmission"},
-    "img159.jpg": {"caption": "A track-ready transmission optimizing acceleration power.", "category": "transmission"},
-    "img160.jpg": {"caption": "A premium transmission enhancing driving comfort and handling.", "category": "transmission"},
-    "img161.jpg": {"caption": "A performance-focused transmission delivering rapid gear shifts.", "category": "transmission"},
-    "img162.jpg": {"caption": "A robust transmission reducing engine strain and maximizing output.", "category": "transmission"},
-    "img163.jpg": {"caption": "A cutting-edge automatic transmission for effortless driving.", "category": "transmission"},
-    "img164.jpg": {"caption": "A reinforced transmission system ensuring extended durability.", "category": "transmission"},
-    "img165.jpg": {"caption": "A smooth-operating transmission reducing shift delays.", "category": "transmission"},
-    "img166.jpg": {"caption": "A torque-optimized transmission improving overall vehicle efficiency.", "category": "transmission"},
-    "img167.jpg": {"caption": "A fast-response transmission ensuring uninterrupted power flow.", "category": "transmission"},
-    "img168.jpg": {"caption": "A hybrid transmission designed for both power and fuel economy.", "category": "transmission"},
-    "img169.jpg": {"caption": "A rugged transmission system built for challenging terrains.", "category": "transmission"},
-    "img170.jpg": {"caption": "A next-generation transmission with improved thermal stability.", "category": "transmission"},
-    "img171.jpg": {"caption": "A compact and powerful transmission for high-speed performance.", "category": "transmission"},
-    "img172.jpg": {"caption": "A smart transmission adapting to different driving styles.", "category": "transmission"},
-    "img173.jpg": {"caption": "A race-inspired transmission offering rapid and precise shifts.", "category": "transmission"},
-    "img174.jpg": {"caption": "A lightweight transmission designed for superior acceleration.", "category": "transmission"},
-    "img175.jpg": {"caption": "A high-speed transmission maximizing torque distribution.", "category": "transmission"},
-    "img176.jpg": {"caption": "A cutting-edge transmission ensuring efficient power conversion.", "category": "transmission"},
-    "img177.jpg": {"caption": "A reliable transmission reducing mechanical resistance.", "category": "transmission"},
-    "img178.jpg": {"caption": "A dual-clutch transmission providing seamless gear changes.", "category": "transmission"},
-    "img179.jpg": {"caption": "A temperature-resistant transmission maintaining peak performance.", "category": "transmission"},
-    "img180.jpg": {"caption": "A reinforced transmission improving long-term reliability.", "category": "transmission"},
-    "img181.jpg": {"caption": "A high-durability transmission for extreme driving conditions.", "category": "transmission"},
-    "img182.jpg": {"caption": "A smooth-operating transmission delivering exceptional control.", "category": "transmission"},
-    "img183.jpg": {"caption": "A high-efficiency transmission reducing overall fuel consumption.", "category": "transmission"},
-    "img184.jpg": {"caption": "A next-level transmission system optimizing power delivery.", "category": "transmission"},
-    "img185.jpg": {"caption": "A performance-tuned transmission improving vehicle agility.", "category": "transmission"},
-    "img186.jpg": {"caption": "A reinforced automatic transmission for a superior drive experience.", "category": "transmission"},
-    "img187.jpg": {"caption": "A cutting-edge transmission for peak fuel efficiency and power.", "category": "transmission"},
-    "img188.jpg": {"caption": "A rugged transmission system designed for off-road applications.", "category": "transmission"},
-    "img189.jpg": {"caption": "A dual-mode transmission enhancing performance versatility.", "category": "transmission"},
-    "img190.jpg": {"caption": "A reliable transmission optimizing shift smoothness.", "category": "transmission"},
-    "img191.jpg": {"caption": "A high-output transmission delivering precision torque control.", "category": "transmission"},
-    "img192.jpg": {"caption": "An electronically controlled transmission ensuring fuel economy.", "category": "transmission"},
-    "img193.jpg": {"caption": "A smart transmission automatically adjusting to driving conditions.", "category": "transmission"},
-    "img194.jpg": {"caption": "A performance transmission engineered for maximum efficiency.", "category": "transmission"},
-    "img195.jpg": {"caption": "A race-proven transmission delivering instant power response.", "category": "transmission"},
-    "img196.jpg": {"caption": "A lightweight and durable transmission reducing drivetrain losses.", "category": "transmission"},
-    "img197.jpg": {"caption": "A fast-shifting transmission system enhancing acceleration.", "category": "transmission"},
-    "img198.jpg": {"caption": "A high-tech transmission reducing emissions and increasing efficiency.", "category": "transmission"},
-    "img199.jpg": {"caption": "A reliable and smooth transmission for an effortless drive.", "category": "transmission"},
-    "img200.jpg": {"caption": "A next-gen transmission ensuring seamless power transitions.", "category": "transmission"}
-
-
-
-}
+[
+    {
+      "image_path": "TRANSMISSION/img1.jpg",
+      "caption": "A disassembled car transmission showing gears and shafts on a workshop bench."
+    },
+    {
+      "image_path": "TRANSMISSION/img2.jpg",
+      "caption": "Close-up of a transmission housing with visible mounting points and labels."
+    },
+    {
+      "image_path": "TRANSMISSION/img3.jpg",
+      "caption": "Mechanic holding an automatic transmission unit during a car repair job."
+    },
+    {
+      "image_path": "TRANSMISSION/img4.jpg",
+      "caption": "Transmission gears laid out for inspection with tools beside them."
+    },
+    {
+      "image_path": "TRANSMISSION/img5.jpg",
+      "caption": "A manual transmission system installed inside a performance vehicle."
+    },
+    {
+      "image_path": "TRANSMISSION/img6.jpg",
+      "caption": "Worn-out transmission parts placed on a greasy workshop table."
+    },
+    {
+      "image_path": "TRANSMISSION/img7.jpg",
+      "caption": "Illustration showing how a car transmission interacts with the engine and drivetrain."
+    },
+    {
+      "image_path": "TRANSMISSION/img8.jpg",
+      "caption": "A brand new transmission resting on a metal pallet in a parts warehouse."
+    },
+    {
+      "image_path": "TRANSMISSION/img9.jpg",
+      "caption": "Transmission casing with visible torque converter opening and bolt holes."
+    },
+    {
+      "image_path": "TRANSMISSION/img10.jpg",
+      "caption": "Technician calibrating an automatic transmission using a diagnostic tablet."
+    },
+    {
+      "image_path": "TRANSMISSION/img11.jpg",
+      "caption": "A cutaway model of a transmission showing planetary gear sets and fluid pathways."
+    },
+    {
+      "image_path": "TRANSMISSION/img12.jpg",
+      "caption": "Transmission parts arranged next to a vehicle on a hydraulic lift."
+    },
+    {
+      "image_path": "TRANSMISSION/img13.jpg",
+      "caption": "Car transmission system being lowered from under a lifted vehicle."
+    },
+    {
+      "image_path": "TRANSMISSION/img14.jpg",
+      "caption": "Used transmission covered in grime and oil being prepared for recycling."
+    },
+    {
+      "image_path": "TRANSMISSION/img15.jpg",
+      "caption": "Manual gear selector rod and clutch housing connected to a transmission system."
+    },
+    {
+      "image_path": "TRANSMISSION/img16.jpg",
+      "caption": "Side view of an automatic transmission showing hydraulic lines and sensors."
+    },
+    {
+      "image_path": "TRANSMISSION/img17.jpg",
+      "caption": "Transmission fluid being drained into a pan during a service procedure."
+    },
+    {
+      "image_path": "TRANSMISSION/img18.jpg",
+      "caption": "Automated assembly line with robotic arms placing transmissions into car chassis."
+    },
+    {
+      "image_path": "TRANSMISSION/img19.jpg",
+      "caption": "Close-up of precision-machined gear teeth inside a transmission assembly."
+    },
+    {
+      "image_path": "TRANSMISSION/img20.jpg",
+      "caption": "Technician lifting a transmission with a hoist in an automotive repair bay."
+    },
+    {
+      "image_path": "TRANSMISSION/img21.jpg",
+      "caption": "Vehicle undercarriage showing exposed transmission and driveshaft connection."
+    },
+    {
+      "image_path": "TRANSMISSION/img22.jpg",
+      "caption": "A remanufactured transmission placed on a wooden crate ready for delivery."
+    },
+    {
+      "image_path": "TRANSMISSION/img23.jpg",
+      "caption": "Automatic transmission with solenoids and sensors labeled for training purposes."
+    },
+    {
+      "image_path": "TRANSMISSION/img24.jpg",
+      "caption": "Cut-section of a transmission showing fluid passages and gear clutches."
+    },
+    {
+      "image_path": "TRANSMISSION/img25.jpg",
+      "caption": "High-performance racing transmission installed in a stripped-down vehicle."
+    },
+    {
+      "image_path": "TRANSMISSION/img26.jpg",
+      "caption": "Technician checking alignment before installing the transmission into a vehicle."
+    },
+    {
+      "image_path": "TRANSMISSION/img27.jpg",
+      "caption": "Electric vehicle transmission system with reduced gear complexity."
+    },
+    {
+      "image_path": "TRANSMISSION/img28.jpg",
+      "caption": "Transmission bell housing being inspected for cracks and wear."
+    },
+    {
+      "image_path": "TRANSMISSION/img29.jpg",
+      "caption": "Close-up of a sensor connector attached to a modern car transmission."
+    },
+    {
+      "image_path": "TRANSMISSION/img30.jpg",
+      "caption": "Schematic diagram showing internal parts of a dual-clutch transmission."
+    },
+    {
+      "image_path": "TRANSMISSION/img31.jpg",
+      "caption": "A mechanic tightening transmission mounting bolts underneath a car."
+    },
+    {
+      "image_path": "TRANSMISSION/img32.jpg",
+      "caption": "Detailed view of a continuously variable transmission (CVT) belt system."
+    },
+    {
+      "image_path": "TRANSMISSION/img33.jpg",
+      "caption": "Rusty transmission pulled from an old pickup truck for restoration."
+    },
+    {
+      "image_path": "TRANSMISSION/img34.jpg",
+      "caption": "Transmission dipstick being checked for fluid level and condition."
+    },
+    {
+      "image_path": "TRANSMISSION/img35.jpg",
+      "caption": "Row of transmissions stored in a salvage yard for resale."
+    },
+    {
+      "image_path": "TRANSMISSION/img36.jpg",
+      "caption": "An exploded view of a car transmission on a training board."
+    },
+    {
+      "image_path": "TRANSMISSION/img37.jpg",
+      "caption": "Worker wearing gloves installing a transmission cooler line."
+    },
+    {
+      "image_path": "TRANSMISSION/img38.jpg",
+      "caption": "Automatic transmission with visible valve body and hydraulic circuits."
+    },
+    {
+      "image_path": "TRANSMISSION/img39.jpg",
+      "caption": "Fully assembled car transmission sitting on a workshop floor mat."
+    },
+    {
+      "image_path": "TRANSMISSION/img40.jpg",
+      "caption": "A hybrid vehicle transmission designed for electric motor integration."
+    },
+    {
+      "image_path": "TRANSMISSION/img41.jpg",
+      "caption": "Transmission being flushed with new fluid using a pressurized pump."
+    },
+    {
+      "image_path": "TRANSMISSION/img42.jpg",
+      "caption": "Close-up view of a metal clutch plate in a transmission overhaul."
+    },
+    {
+      "image_path": "TRANSMISSION/img43.jpg",
+      "caption": "Technician scanning transmission codes using a diagnostic tool."
+    },
+    {
+      "image_path": "TRANSMISSION/img44.jpg",
+      "caption": "Manual gearbox system exposed with gears and shift forks visible."
+    },
+    {
+      "image_path": "TRANSMISSION/img45.jpg",
+      "caption": "A newly rebuilt transmission unit coated in anti-rust paint."
+    },
+    {
+      "image_path": "TRANSMISSION/img46.jpg",
+      "caption": "Transmission clutch assembly placed beside a torque converter."
+    },
+    {
+      "image_path": "TRANSMISSION/img47.jpg",
+      "caption": "Transmission and engine assembly being hoisted into an engine bay."
+    },
+    {
+      "image_path": "TRANSMISSION/img48.jpg",
+      "caption": "Automatic gearbox controller connected to a test bench."
+    },
+    {
+      "image_path": "TRANSMISSION/img49.jpg",
+      "caption": "Close-up of gear synchronizers inside a manual transmission."
+    },
+    {
+      "image_path": "TRANSMISSION/img50.jpg",
+      "caption": "Reinforced racing transmission with extra cooling channels and sensors."
+    },
+    {
+        "image_path": "TRANSMISSION/img51.jpg",
+        "caption": "Transmission system placed on a workshop table surrounded by diagnostic tools."
+      },
+      {
+        "image_path": "TRANSMISSION/img52.jpg",
+        "caption": "Shiny transmission casing showing polished aluminum texture and bolt patterns."
+      },
+      {
+        "image_path": "TRANSMISSION/img53.jpg",
+        "caption": "Technician aligning the torque converter with the transmission input shaft."
+      },
+      {
+        "image_path": "TRANSMISSION/img54.jpg",
+        "caption": "Transmission system suspended mid-air by a chain hoist during installation."
+      },
+      {
+        "image_path": "TRANSMISSION/img55.jpg",
+        "caption": "Automatic transmission with visible solenoids and wiring harness attached."
+      },
+      {
+        "image_path": "TRANSMISSION/img56.jpg",
+        "caption": "Close-up view of a freshly greased gear cluster inside a transmission case."
+      },
+      {
+        "image_path": "TRANSMISSION/img57.jpg",
+        "caption": "Transmission valve body exposed, revealing intricate oil flow channels."
+      },
+      {
+        "image_path": "TRANSMISSION/img58.jpg",
+        "caption": "High-performance racing transmission placed on a hydraulic lift."
+      },
+      {
+        "image_path": "TRANSMISSION/img59.jpg",
+        "caption": "Transmission disassembled into parts across a red mechanic’s workbench."
+      },
+      {
+        "image_path": "TRANSMISSION/img60.jpg",
+        "caption": "Technician holding up a transmission housing for inspection under lighting."
+      },
+      {
+        "image_path": "TRANSMISSION/img61.jpg",
+        "caption": "Detailed view of planetary gears inside an automatic transmission system."
+      },
+      {
+        "image_path": "TRANSMISSION/img62.jpg",
+        "caption": "Transmission system sitting next to a car ready for installation."
+      },
+      {
+        "image_path": "TRANSMISSION/img63.jpg",
+        "caption": "Gearbox with gears aligned and highlighted for mechanical training purposes."
+      },
+      {
+        "image_path": "TRANSMISSION/img64.jpg",
+        "caption": "Workshop floor with two used transmissions marked for refurbishment."
+      },
+      {
+        "image_path": "TRANSMISSION/img65.jpg",
+        "caption": "Modern CVT transmission system showing pulley and belt mechanism."
+      },
+      {
+        "image_path": "TRANSMISSION/img66.jpg",
+        "caption": "Clutch plate aligned with the transmission input shaft for proper fitting."
+      },
+      {
+        "image_path": "TRANSMISSION/img67.jpg",
+        "caption": "Transmission unit in a crate, wrapped and ready for shipping."
+      },
+      {
+        "image_path": "TRANSMISSION/img68.jpg",
+        "caption": "Hands demonstrating gear alignment using a manual transmission teaching model."
+      },
+      {
+        "image_path": "TRANSMISSION/img69.jpg",
+        "caption": "Rusty transmission system removed from a vintage car."
+      },
+      {
+        "image_path": "TRANSMISSION/img70.jpg",
+        "caption": "Mechanic inspecting a leak in the automatic transmission pan."
+      },
+      {
+        "image_path": "TRANSMISSION/img71.jpg",
+        "caption": "Transmission input and output shafts laid out for side-by-side comparison."
+      },
+      {
+        "image_path": "TRANSMISSION/img72.jpg",
+        "caption": "Transmission control module mounted on the exterior of the gearbox."
+      },
+      {
+        "image_path": "TRANSMISSION/img73.jpg",
+        "caption": "Cross-section of a DSG transmission model used for training sessions."
+      },
+      {
+        "image_path": "TRANSMISSION/img74.jpg",
+        "caption": "Automotive engineer measuring tolerances inside a transmission housing."
+      },
+      {
+        "image_path": "TRANSMISSION/img75.jpg",
+        "caption": "Close-up of a transmission filter being replaced in a garage."
+      },
+      {
+        "image_path": "TRANSMISSION/img76.jpg",
+        "caption": "Vehicle on lift with the transmission being aligned for reinstallation."
+      },
+      {
+        "image_path": "TRANSMISSION/img77.jpg",
+        "caption": "Automatic transmission system connected to a dynamometer for testing."
+      },
+      {
+        "image_path": "TRANSMISSION/img78.jpg",
+        "caption": "A gearbox with gear oil dripping from its output shaft."
+      },
+      {
+        "image_path": "TRANSMISSION/img79.jpg",
+        "caption": "Exploded view diagram of a transmission system hanging in a classroom."
+      },
+      {
+        "image_path": "TRANSMISSION/img80.jpg",
+        "caption": "Polished performance transmission with carbon fiber accents."
+      },
+      {
+        "image_path": "TRANSMISSION/img81.jpg",
+        "caption": "Open transmission case revealing lubricant-coated moving parts."
+      },
+      {
+        "image_path": "TRANSMISSION/img82.jpg",
+        "caption": "Technician removing a flywheel before accessing the transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img83.jpg",
+        "caption": "Transmission cooling system with attached heat exchanger tubes."
+      },
+      {
+        "image_path": "TRANSMISSION/img84.jpg",
+        "caption": "Transmission undergoing diagnostics using a laptop in a service bay."
+      },
+      {
+        "image_path": "TRANSMISSION/img85.jpg",
+        "caption": "Heavy-duty truck transmission placed on a wheeled dolly."
+      },
+      {
+        "image_path": "TRANSMISSION/img86.jpg",
+        "caption": "New transmission ready for assembly on a padded bench."
+      },
+      {
+        "image_path": "TRANSMISSION/img87.jpg",
+        "caption": "Transmission fluid being drained from the oil pan into a container."
+      },
+      {
+        "image_path": "TRANSMISSION/img88.jpg",
+        "caption": "Technician inspecting the torque converter fins for wear signs."
+      },
+      {
+        "image_path": "TRANSMISSION/img89.jpg",
+        "caption": "Transmission casing placed under inspection lights for damage analysis."
+      },
+      {
+        "image_path": "TRANSMISSION/img90.jpg",
+        "caption": "Line of refurbished transmissions waiting for reinstallation."
+      },
+      {
+        "image_path": "TRANSMISSION/img91.jpg",
+        "caption": "Manual transmission sitting on a wheeled engine hoist."
+      },
+      {
+        "image_path": "TRANSMISSION/img92.jpg",
+        "caption": "Complex gear layout of a high-torque heavy-duty transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img93.jpg",
+        "caption": "Technician sealing a transmission pan with RTV gasket maker."
+      },
+      {
+        "image_path": "TRANSMISSION/img94.jpg",
+        "caption": "Transmission placed on scales for weight measurement testing."
+      },
+      {
+        "image_path": "TRANSMISSION/img95.jpg",
+        "caption": "Transmission gears being measured using calipers for precision fitting."
+      },
+      {
+        "image_path": "TRANSMISSION/img96.jpg",
+        "caption": "Rust-proofed transmission unit ready for long-term storage."
+      },
+      {
+        "image_path": "TRANSMISSION/img97.jpg",
+        "caption": "Transmission being reassembled with torque specifications being followed."
+      },
+      {
+        "image_path": "TRANSMISSION/img98.jpg",
+        "caption": "Shiny rebuilt transmission with a new filter and housing bolts."
+      },
+      {
+        "image_path": "TRANSMISSION/img99.jpg",
+        "caption": "Clutch and pressure plate setup aligned with the transmission input shaft."
+      },
+      {
+        "image_path": "TRANSMISSION/img100.jpg",
+        "caption": "Transmission installed into vehicle chassis showing clean routing of cables."
+      },
+      {
+        "image_path": "TRANSMISSION/img101.jpg",
+        "caption": "Transmission control module and wiring harness mounted neatly inside the engine bay."
+      },
+      {
+        "image_path": "TRANSMISSION/img102.jpg",
+        "caption": "Close-up of a technician tightening bolts on a transmission oil pan."
+      },
+      {
+        "image_path": "TRANSMISSION/img103.jpg",
+        "caption": "Gear synchronizers being installed inside a manual transmission system."
+      },
+      {
+        "image_path": "TRANSMISSION/img104.jpg",
+        "caption": "Newly manufactured transmission with barcode labels for inventory tracking."
+      },
+      {
+        "image_path": "TRANSMISSION/img105.jpg",
+        "caption": "Sectioned model of a transmission system used for training mechanics."
+      },
+      {
+        "image_path": "TRANSMISSION/img106.jpg",
+        "caption": "Reconditioned automatic transmission on a clean inspection table."
+      },
+      {
+        "image_path": "TRANSMISSION/img107.jpg",
+        "caption": "Technician applying sealant to a transmission casing flange."
+      },
+      {
+        "image_path": "TRANSMISSION/img108.jpg",
+        "caption": "Transmission and engine components aligned together for reassembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img109.jpg",
+        "caption": "Transmission mounted to a test rig with computer diagnostics in use."
+      },
+      {
+        "image_path": "TRANSMISSION/img110.jpg",
+        "caption": "Mechanic wiping down a freshly serviced transmission unit."
+      },
+      {
+        "image_path": "TRANSMISSION/img111.jpg",
+        "caption": "A worn clutch disc removed from the transmission for replacement."
+      },
+      {
+        "image_path": "TRANSMISSION/img112.jpg",
+        "caption": "Performance car transmission with carbon fiber shielding and cooling vents."
+      },
+      {
+        "image_path": "TRANSMISSION/img113.jpg",
+        "caption": "Transmission housing supported by a rolling jack under a lifted car."
+      },
+      {
+        "image_path": "TRANSMISSION/img114.jpg",
+        "caption": "Cutaway view showing the clutch assembly interacting with the transmission input."
+      },
+      {
+        "image_path": "TRANSMISSION/img115.jpg",
+        "caption": "Technician draining red transmission fluid into a transparent container."
+      },
+      {
+        "image_path": "TRANSMISSION/img116.jpg",
+        "caption": "Mounted transmission with torque converter clearly visible through the bell housing."
+      },
+      {
+        "image_path": "TRANSMISSION/img117.jpg",
+        "caption": "Interior of a differential housing connected to the transmission system."
+      },
+      {
+        "image_path": "TRANSMISSION/img118.jpg",
+        "caption": "Manual transmission linkage rods arranged for demonstration on a bench."
+      },
+      {
+        "image_path": "TRANSMISSION/img119.jpg",
+        "caption": "High-mileage transmission marked for recycling and parts salvage."
+      },
+      {
+        "image_path": "TRANSMISSION/img120.jpg",
+        "caption": "Freshly painted transmission casing ready for rebuild assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img121.jpg",
+        "caption": "Transmission repair diagram displayed on a laptop screen in front of the unit."
+      },
+      {
+        "image_path": "TRANSMISSION/img122.jpg",
+        "caption": "Old transmission removed and resting on an oil-stained work surface."
+      },
+      {
+        "image_path": "TRANSMISSION/img123.jpg",
+        "caption": "Dual-clutch transmission partially disassembled showing parallel gear systems."
+      },
+      {
+        "image_path": "TRANSMISSION/img124.jpg",
+        "caption": "Transmission hoisted mid-air while mechanics secure it to the underside of a car."
+      },
+      {
+        "image_path": "TRANSMISSION/img125.jpg",
+        "caption": "Transmission filter held up next to a used, oil-soaked counterpart."
+      },
+      {
+        "image_path": "TRANSMISSION/img126.jpg",
+        "caption": "Modern SUV transmission removed for scheduled maintenance service."
+      },
+      {
+        "image_path": "TRANSMISSION/img127.jpg",
+        "caption": "Lubrication points on a gearbox housing clearly labeled for technician reference."
+      },
+      {
+        "image_path": "TRANSMISSION/img128.jpg",
+        "caption": "Transmission assembly guide showing torque specs and bolt sequences."
+      },
+      {
+        "image_path": "TRANSMISSION/img129.jpg",
+        "caption": "Hands operating a manual transmission cutaway for teaching gear shifts."
+      },
+      {
+        "image_path": "TRANSMISSION/img130.jpg",
+        "caption": "Refurbished transmission lined with new gaskets and fresh gear oil."
+      },
+      {
+        "image_path": "TRANSMISSION/img131.jpg",
+        "caption": "Transmission casing cleaned and inspected for stress cracks under UV light."
+      },
+      {
+        "image_path": "TRANSMISSION/img132.jpg",
+        "caption": "Stack of used transmissions sorted by model in an auto salvage yard."
+      },
+      {
+        "image_path": "TRANSMISSION/img133.jpg",
+        "caption": "Control cables leading into a transmission interface for gear actuation."
+      },
+      {
+        "image_path": "TRANSMISSION/img134.jpg",
+        "caption": "Technician inserting alignment pins into a freshly machined transmission plate."
+      },
+      {
+        "image_path": "TRANSMISSION/img135.jpg",
+        "caption": "Shiny new bolts lined up next to an open transmission ready for assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img136.jpg",
+        "caption": "Transmission cooling lines detached and drained before removal."
+      },
+      {
+        "image_path": "TRANSMISSION/img137.jpg",
+        "caption": "Clean environment setup for high-performance transmission build."
+      },
+      {
+        "image_path": "TRANSMISSION/img138.jpg",
+        "caption": "Multi-speed transmission on display with cutaway sections showing internal gears."
+      },
+      {
+        "image_path": "TRANSMISSION/img139.jpg",
+        "caption": "Technician referencing a printed service manual beside a transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img140.jpg",
+        "caption": "Gear train and synchronizers arranged neatly inside a manual transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img141.jpg",
+        "caption": "Dirty and used transmission casing awaiting sandblasting and cleaning."
+      },
+      {
+        "image_path": "TRANSMISSION/img142.jpg",
+        "caption": "Technician reattaching the output shaft housing onto the transmission body."
+      },
+      {
+        "image_path": "TRANSMISSION/img143.jpg",
+        "caption": "Transmission secured to a custom dolly for safe maneuvering across the shop."
+      },
+      {
+        "image_path": "TRANSMISSION/img144.jpg",
+        "caption": "Hands applying threadlocker to bolts during transmission assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img145.jpg",
+        "caption": "Reassembled transmission with all hardware torqued to spec."
+      },
+      {
+        "image_path": "TRANSMISSION/img146.jpg",
+        "caption": "Transmission undergoing fluid refill through the top access port."
+      },
+      {
+        "image_path": "TRANSMISSION/img147.jpg",
+        "caption": "High-performance transmission set beside a race car in a tuning garage."
+      },
+      {
+        "image_path": "TRANSMISSION/img148.jpg",
+        "caption": "Cross-drilled casing of a transmission designed for cooling efficiency."
+      },
+      {
+        "image_path": "TRANSMISSION/img149.jpg",
+        "caption": "Engineer analyzing transmission parts using a digital micrometer."
+      },
+      {
+        "image_path": "TRANSMISSION/img150.jpg",
+        "caption": "Transmission housing submerged in a parts washer for thorough cleaning."
+      },{
+        "image_path": "TRANSMISSION/img151.jpg",
+        "caption": "Technician using a torque wrench on transmission housing bolts."
+      },
+      {
+        "image_path": "TRANSMISSION/img152.jpg",
+        "caption": "Detailed view of planetary gear set inside an automatic transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img153.jpg",
+        "caption": "Old transmission fluid draining from a vehicle onto a catch pan."
+      },
+      {
+        "image_path": "TRANSMISSION/img154.jpg",
+        "caption": "Transmission and differential mounted on a custom drivetrain rig."
+      },
+      {
+        "image_path": "TRANSMISSION/img155.jpg",
+        "caption": "Mechanic replacing seals on a disassembled transmission system."
+      },
+      {
+        "image_path": "TRANSMISSION/img156.jpg",
+        "caption": "High-resolution photo showing spline shaft inside a gearbox."
+      },
+      {
+        "image_path": "TRANSMISSION/img157.jpg",
+        "caption": "Automated gearbox laid out on a diagnostic workstation."
+      },
+      {
+        "image_path": "TRANSMISSION/img158.jpg",
+        "caption": "Used transmission next to new replacement ready for installation."
+      },
+      {
+        "image_path": "TRANSMISSION/img159.jpg",
+        "caption": "Transmission components being weighed and logged for balancing."
+      },
+      {
+        "image_path": "TRANSMISSION/img160.jpg",
+        "caption": "Cross-sectional display of a CVT transmission at a trade show."
+      },
+      {
+        "image_path": "TRANSMISSION/img161.jpg",
+        "caption": "Reinforced clutch plate fitted within the transmission assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img162.jpg",
+        "caption": "Underside of a lifted vehicle showing transmission lines and mounts."
+      },
+      {
+        "image_path": "TRANSMISSION/img163.jpg",
+        "caption": "Technician inserting a shift fork into a manual transmission case."
+      },
+      {
+        "image_path": "TRANSMISSION/img164.jpg",
+        "caption": "Transmission valve body on a clean workbench before reassembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img165.jpg",
+        "caption": "Disassembled parts of a dual-clutch transmission organized neatly."
+      },
+      {
+        "image_path": "TRANSMISSION/img166.jpg",
+        "caption": "New transmission system with serial number tags for tracking."
+      },
+      {
+        "image_path": "TRANSMISSION/img167.jpg",
+        "caption": "Side view of a 6-speed manual transmission placed on inspection rack."
+      },
+      {
+        "image_path": "TRANSMISSION/img168.jpg",
+        "caption": "Mechanic flushing out transmission cooler lines using compressed air."
+      },
+      {
+        "image_path": "TRANSMISSION/img169.jpg",
+        "caption": "Transmission case cut open to reveal gear cluster for educational purposes."
+      },
+      {
+        "image_path": "TRANSMISSION/img170.jpg",
+        "caption": "Worn synchronizer rings removed during transmission servicing."
+      },
+      {
+        "image_path": "TRANSMISSION/img171.jpg",
+        "caption": "Gear selector mechanism with cables connected inside the transmission bay."
+      },
+      {
+        "image_path": "TRANSMISSION/img172.jpg",
+        "caption": "Technician reapplying lubrication on gears before final assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img173.jpg",
+        "caption": "Automatic transmission control unit connected to diagnostic laptop."
+      },
+      {
+        "image_path": "TRANSMISSION/img174.jpg",
+        "caption": "Transmission output shaft aligned with rear driveshaft on lift."
+      },
+      {
+        "image_path": "TRANSMISSION/img175.jpg",
+        "caption": "Large commercial truck transmission placed on hydraulic dolly."
+      },
+      {
+        "image_path": "TRANSMISSION/img176.jpg",
+        "caption": "Transmission gears and bearings soaked in cleaning solution bath."
+      },
+      {
+        "image_path": "TRANSMISSION/img177.jpg",
+        "caption": "Close-up of toothed gear alignment inside manual transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img178.jpg",
+        "caption": "Transmission jack positioned under a heavy-duty gearbox."
+      },
+      {
+        "image_path": "TRANSMISSION/img179.jpg",
+        "caption": "Service guide beside labeled transmission parts for beginner training."
+      },
+      {
+        "image_path": "TRANSMISSION/img180.jpg",
+        "caption": "Engineer inspecting gear mesh pattern using marking compound."
+      },
+      {
+        "image_path": "TRANSMISSION/img181.jpg",
+        "caption": "Transmission housing placed inside parts washer for deep cleaning."
+      },
+      {
+        "image_path": "TRANSMISSION/img182.jpg",
+        "caption": "A technician connecting shift sensors to a smart transmission module."
+      },
+      {
+        "image_path": "TRANSMISSION/img183.jpg",
+        "caption": "Damaged gear teeth from a worn-out transmission under close inspection."
+      },
+      {
+        "image_path": "TRANSMISSION/img184.jpg",
+        "caption": "Fully assembled automatic transmission ready for shipment."
+      },
+      {
+        "image_path": "TRANSMISSION/img185.jpg",
+        "caption": "Manual gear selector lever connected to transmission linkage."
+      },
+      {
+        "image_path": "TRANSMISSION/img186.jpg",
+        "caption": "High-torque performance transmission mounted on a racing car chassis."
+      },
+      {
+        "image_path": "TRANSMISSION/img187.jpg",
+        "caption": "Technician applying final torque check to transmission bolts."
+      },
+      {
+        "image_path": "TRANSMISSION/img188.jpg",
+        "caption": "Used transmission fluid being tested for contaminants and particles."
+      },
+      {
+        "image_path": "TRANSMISSION/img189.jpg",
+        "caption": "Exploded diagram of an automotive transmission system in training room."
+      },
+      {
+        "image_path": "TRANSMISSION/img190.jpg",
+        "caption": "Transmission case marked for crack testing using magnetic particle inspection."
+      },
+      {
+        "image_path": "TRANSMISSION/img191.jpg",
+        "caption": "Engine and transmission bolted together on a vehicle assembly line."
+      },
+      {
+        "image_path": "TRANSMISSION/img192.jpg",
+        "caption": "High-resolution close-up of helical gears inside a transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img193.jpg",
+        "caption": "Stacked transmission components awaiting quality inspection."
+      },
+      {
+        "image_path": "TRANSMISSION/img194.jpg",
+        "caption": "Transmission fluid pump removed and placed on clean towel for examination."
+      },
+      {
+        "image_path": "TRANSMISSION/img195.jpg",
+        "caption": "New transmission casing with heat-resistant finish in production area."
+      },
+      {
+        "image_path": "TRANSMISSION/img196.jpg",
+        "caption": "Transmission lever mechanism displayed at an automotive expo."
+      },
+      {
+        "image_path": "TRANSMISSION/img197.jpg",
+        "caption": "Digital torque settings displayed on screen during transmission assembly."
+      },
+      {
+        "image_path": "TRANSMISSION/img198.jpg",
+        "caption": "Transmission drain plug being removed with hand tool by technician."
+      },
+      {
+        "image_path": "TRANSMISSION/img199.jpg",
+        "caption": "Mechanic installing shift solenoids into an automatic transmission."
+      },
+      {
+        "image_path": "TRANSMISSION/img200.jpg",
+        "caption": "Fully refurbished transmission unit with new seals and inspection tags."
+      }
+    ]
+      
+      
+      
+  
