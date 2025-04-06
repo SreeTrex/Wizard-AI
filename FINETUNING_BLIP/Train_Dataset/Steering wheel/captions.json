@@ -1,203 +1,804 @@
-{
-    "img1.jpg": {"caption": "A premium steering wheel designed for ultimate grip and control.", "category": "steering wheel"},
-    "img2.jpg": {"caption": "A high-quality leather-wrapped steering wheel for enhanced comfort.", "category": "steering wheel"},
-    "img3.jpg": {"caption": "A performance-grade steering wheel for precise handling.", "category": "steering wheel"},
-    "img4.jpg": {"caption": "An ergonomic steering wheel reducing driver fatigue.", "category": "steering wheel"},
-    "img5.jpg": {"caption": "A sports-style steering wheel designed for aggressive driving.", "category": "steering wheel"},
-    "img6.jpg": {"caption": "A multi-functional steering wheel with advanced controls.", "category": "steering wheel"},
-    "img7.jpg": {"caption": "A custom-designed steering wheel tailored for luxury vehicles.", "category": "steering wheel"},
-    "img8.jpg": {"caption": "A lightweight steering wheel enhancing driving dynamics.", "category": "steering wheel"},
-    "img9.jpg": {"caption": "A durable steering wheel built for long-lasting performance.", "category": "steering wheel"},
-    "img10.jpg": {"caption": "A heat-resistant steering wheel suitable for all weather conditions.", "category": "steering wheel"},
-    "img11.jpg": {"caption": "A racing-inspired steering wheel offering exceptional grip.", "category": "steering wheel"},
-    "img12.jpg": {"caption": "A high-strength steering wheel designed for extreme conditions.", "category": "steering wheel"},
-    "img13.jpg": {"caption": "A premium suede steering wheel providing superior comfort.", "category": "steering wheel"},
-    "img14.jpg": {"caption": "A compact steering wheel designed for precision control.", "category": "steering wheel"},
-    "img15.jpg": {"caption": "A shock-absorbing steering wheel reducing road vibrations.", "category": "steering wheel"},
-    "img16.jpg": {"caption": "A modern steering wheel featuring smart touch controls.", "category": "steering wheel"},
-    "img17.jpg": {"caption": "A reinforced steering wheel ensuring long-term reliability.", "category": "steering wheel"},
-    "img18.jpg": {"caption": "A luxury-grade steering wheel with a sleek finish.", "category": "steering wheel"},
-    "img19.jpg": {"caption": "A stylish steering wheel enhancing the vehicle’s interior aesthetics.", "category": "steering wheel"},
-    "img20.jpg": {"caption": "A lightweight aluminum steering wheel improving maneuverability.", "category": "steering wheel"},
-    "img21.jpg": {"caption": "A customizable steering wheel with multiple grip options.", "category": "steering wheel"},
-    "img22.jpg": {"caption": "A high-tech steering wheel integrating voice command support.", "category": "steering wheel"},
-    "img23.jpg": {"caption": "A carbon-fiber steering wheel ensuring high strength and low weight.", "category": "steering wheel"},
-    "img24.jpg": {"caption": "A classic wooden steering wheel providing a vintage look.", "category": "steering wheel"},
-    "img25.jpg": {"caption": "A precision-engineered steering wheel for smooth turns.", "category": "steering wheel"},
-    "img26.jpg": {"caption": "A heat-insulated steering wheel for comfortable driving in hot climates.", "category": "steering wheel"},
-    "img27.jpg": {"caption": "A self-healing steering wheel material extending lifespan.", "category": "steering wheel"},
-    "img28.jpg": {"caption": "A reinforced grip steering wheel ensuring non-slip handling.", "category": "steering wheel"},
-    "img29.jpg": {"caption": "A futuristic steering wheel with gesture control technology.", "category": "steering wheel"},
-    "img30.jpg": {"caption": "A next-generation steering wheel designed for electric vehicles.", "category": "steering wheel"},
-    "img31.jpg": {"caption": "A soft-textured steering wheel for extra comfort on long drives.", "category": "steering wheel"},
-    "img32.jpg": {"caption": "A scratch-resistant steering wheel maintaining a fresh look.", "category": "steering wheel"},
-    "img33.jpg": {"caption": "A robust steering wheel designed for off-road adventures.", "category": "steering wheel"},
-    "img34.jpg": {"caption": "A reinforced frame steering wheel ensuring maximum durability.", "category": "steering wheel"},
-    "img35.jpg": {"caption": "A noise-dampening steering wheel reducing vibrations.", "category": "steering wheel"},
-    "img36.jpg": {"caption": "A high-sensitivity steering wheel improving response time.", "category": "steering wheel"},
-    "img37.jpg": {"caption": "A minimalist steering wheel designed for modern interiors.", "category": "steering wheel"},
-    "img38.jpg": {"caption": "A chrome-finished steering wheel adding a touch of elegance.", "category": "steering wheel"},
-    "img39.jpg": {"caption": "A fully adjustable steering wheel for driver convenience.", "category": "steering wheel"},
-    "img40.jpg": {"caption": "A race-ready steering wheel delivering quick turn feedback.", "category": "steering wheel"},
-    "img41.jpg": {"caption": "A high-end performance steering wheel for sports cars.", "category": "steering wheel"},
-    "img42.jpg": {"caption": "A pressure-sensitive steering wheel improving safety controls.", "category": "steering wheel"},
-    "img43.jpg": {"caption": "A detachable steering wheel for added security and customization.", "category": "steering wheel"},
-    "img44.jpg": {"caption": "A curved ergonomic steering wheel reducing hand strain.", "category": "steering wheel"},
-    "img45.jpg": {"caption": "A laser-etched steering wheel offering superior aesthetics.", "category": "steering wheel"},
-    "img46.jpg": {"caption": "A next-gen steering wheel enhancing driver-assist features.", "category": "steering wheel"},
-    "img47.jpg": {"caption": "A vibration-controlled steering wheel ensuring smooth handling.", "category": "steering wheel"},
-    "img48.jpg": {"caption": "A water-resistant steering wheel built for extreme conditions.", "category": "steering wheel"},
-    "img49.jpg": {"caption": "A smart-touch steering wheel integrating digital controls.", "category": "steering wheel"},
-    "img50.jpg": {"caption": "A stylish yet functional steering wheel balancing grip and comfort.", "category": "steering wheel"},
-    "img51.jpg": {"caption": "A durable steering wheel crafted for high-performance driving.", "category": "steering wheel"},
-    "img52.jpg": {"caption": "A top-tier racing steering wheel with superior grip control.", "category": "steering wheel"},
-    "img53.jpg": {"caption": "A luxury steering wheel enhancing driver comfort and style.", "category": "steering wheel"},
-    "img54.jpg": {"caption": "An all-weather steering wheel built for ultimate durability.", "category": "steering wheel"},
-    "img55.jpg": {"caption": "A reinforced ergonomic steering wheel reducing wrist strain.", "category": "steering wheel"},
-    "img56.jpg": {"caption": "A lightweight yet sturdy steering wheel for improved handling.", "category": "steering wheel"},
-    "img57.jpg": {"caption": "A classic-style steering wheel adding a vintage appeal.", "category": "steering wheel"},
-    "img58.jpg": {"caption": "A reinforced leather-wrapped steering wheel for extra comfort.", "category": "steering wheel"},
-    "img59.jpg": {"caption": "A precision-engineered steering wheel offering smooth turns.", "category": "steering wheel"},
-    "img60.jpg": {"caption": "A race-inspired steering wheel delivering enhanced control.", "category": "steering wheel"},
-    "img61.jpg": {"caption": "A multi-functional steering wheel integrating smart controls.", "category": "steering wheel"},
-    "img62.jpg": {"caption": "A premium suede steering wheel ensuring a luxurious feel.", "category": "steering wheel"},
-    "img63.jpg": {"caption": "A modern steering wheel featuring advanced driving assist.", "category": "steering wheel"},
-    "img64.jpg": {"caption": "A high-strength aluminum steering wheel for superior durability.", "category": "steering wheel"},
-    "img65.jpg": {"caption": "A sporty steering wheel designed for aggressive cornering.", "category": "steering wheel"},
-    "img66.jpg": {"caption": "A textured grip steering wheel improving handling precision.", "category": "steering wheel"},
-    "img67.jpg": {"caption": "A compact steering wheel optimizing control and maneuverability.", "category": "steering wheel"},
-    "img68.jpg": {"caption": "A heat-resistant steering wheel suitable for extreme temperatures.", "category": "steering wheel"},
-    "img69.jpg": {"caption": "A customizable steering wheel allowing grip preference selection.", "category": "steering wheel"},
-    "img70.jpg": {"caption": "A reinforced carbon-fiber steering wheel maximizing strength.", "category": "steering wheel"},
-    "img71.jpg": {"caption": "A next-gen steering wheel with integrated touchscreen controls.", "category": "steering wheel"},
-    "img72.jpg": {"caption": "A water-resistant steering wheel ensuring longevity.", "category": "steering wheel"},
-    "img73.jpg": {"caption": "A high-performance steering wheel enhancing vehicle responsiveness.", "category": "steering wheel"},
-    "img74.jpg": {"caption": "A vibration-dampening steering wheel reducing road feedback.", "category": "steering wheel"},
-    "img75.jpg": {"caption": "A scratch-resistant steering wheel maintaining its pristine look.", "category": "steering wheel"},
-    "img76.jpg": {"caption": "A soft-touch steering wheel providing a superior grip.", "category": "steering wheel"},
-    "img77.jpg": {"caption": "A minimalist steering wheel complementing modern interiors.", "category": "steering wheel"},
-    "img78.jpg": {"caption": "A fully adjustable steering wheel offering personalized comfort.", "category": "steering wheel"},
-    "img79.jpg": {"caption": "A race-grade steering wheel enhancing vehicle control.", "category": "steering wheel"},
-    "img80.jpg": {"caption": "A dual-texture steering wheel combining grip and luxury.", "category": "steering wheel"},
-    "img81.jpg": {"caption": "A shock-absorbing steering wheel reducing driving strain.", "category": "steering wheel"},
-    "img82.jpg": {"caption": "A curved ergonomic steering wheel designed for long drives.", "category": "steering wheel"},
-    "img83.jpg": {"caption": "A fast-response steering wheel for precise steering inputs.", "category": "steering wheel"},
-    "img84.jpg": {"caption": "A smart-steering wheel with AI-powered driving assistance.", "category": "steering wheel"},
-    "img85.jpg": {"caption": "A premium leather-wrapped steering wheel offering superior grip.", "category": "steering wheel"},
-    "img86.jpg": {"caption": "A heat-insulated steering wheel ensuring driving comfort.", "category": "steering wheel"},
-    "img87.jpg": {"caption": "A customizable LED steering wheel for a high-tech experience.", "category": "steering wheel"},
-    "img88.jpg": {"caption": "A multi-textured grip steering wheel designed for better handling.", "category": "steering wheel"},
-    "img89.jpg": {"caption": "A futuristic steering wheel integrating biometric controls.", "category": "steering wheel"},
-    "img90.jpg": {"caption": "A carbon-fiber reinforced steering wheel for lightweight performance.", "category": "steering wheel"},
-    "img91.jpg": {"caption": "A next-generation steering wheel supporting voice commands.", "category": "steering wheel"},
-    "img92.jpg": {"caption": "A performance-driven steering wheel enhancing vehicle stability.", "category": "steering wheel"},
-    "img93.jpg": {"caption": "A detachable steering wheel for added security and flexibility.", "category": "steering wheel"},
-    "img94.jpg": {"caption": "A dual-spoke steering wheel balancing style and functionality.", "category": "steering wheel"},
-    "img95.jpg": {"caption": "A reinforced frame steering wheel providing long-lasting use.", "category": "steering wheel"},
-    "img96.jpg": {"caption": "A smooth-finish steering wheel delivering a comfortable grip.", "category": "steering wheel"},
-    "img97.jpg": {"caption": "A sports-tuned steering wheel for high-speed precision.", "category": "steering wheel"},
-    "img98.jpg": {"caption": "A stylish steering wheel elevating the car’s interior appeal.", "category": "steering wheel"},
-    "img99.jpg": {"caption": "A motion-sensitive steering wheel for advanced driving control.", "category": "steering wheel"},
-    "img100.jpg": {"caption": "A high-end steering wheel designed for performance vehicles.", "category": "steering wheel"},
-    "img101.jpg": {"caption": "A dynamic steering wheel designed for responsive handling.", "category": "steering wheel"},
-    "img102.jpg": {"caption": "A racing-inspired steering wheel for ultimate driving control.", "category": "steering wheel"},
-    "img103.jpg": {"caption": "A soft-touch steering wheel providing exceptional grip comfort.", "category": "steering wheel"},
-    "img104.jpg": {"caption": "A reinforced steel-core steering wheel ensuring durability.", "category": "steering wheel"},
-    "img105.jpg": {"caption": "A lightweight aluminum steering wheel optimized for agility.", "category": "steering wheel"},
-    "img106.jpg": {"caption": "A luxury steering wheel with stitched leather wrapping.", "category": "steering wheel"},
-    "img107.jpg": {"caption": "A precision-tuned steering wheel for enhanced control.", "category": "steering wheel"},
-    "img108.jpg": {"caption": "A heat-resistant steering wheel ideal for all climates.", "category": "steering wheel"},
-    "img109.jpg": {"caption": "A high-grip suede steering wheel for superior handling.", "category": "steering wheel"},
-    "img110.jpg": {"caption": "A vibration-absorbing steering wheel reducing driver fatigue.", "category": "steering wheel"},
-    "img111.jpg": {"caption": "A contoured steering wheel designed for maximum comfort.", "category": "steering wheel"},
-    "img112.jpg": {"caption": "A fully adjustable steering wheel ensuring ergonomic positioning.", "category": "steering wheel"},
-    "img113.jpg": {"caption": "A high-tech steering wheel with integrated smart features.", "category": "steering wheel"},
-    "img114.jpg": {"caption": "A minimalist steering wheel enhancing vehicle aesthetics.", "category": "steering wheel"},
-    "img115.jpg": {"caption": "A track-ready steering wheel built for high-speed control.", "category": "steering wheel"},
-    "img116.jpg": {"caption": "A noise-dampening steering wheel reducing road vibrations.", "category": "steering wheel"},
-    "img117.jpg": {"caption": "A luxurious wood-trimmed steering wheel for classic vehicles.", "category": "steering wheel"},
-    "img118.jpg": {"caption": "A quick-release steering wheel for added security and convenience.", "category": "steering wheel"},
-    "img119.jpg": {"caption": "A sporty dual-grip steering wheel improving hand placement.", "category": "steering wheel"},
-    "img120.jpg": {"caption": "A next-gen steering wheel integrating AI-assisted driving.", "category": "steering wheel"},
-    "img121.jpg": {"caption": "A weatherproof steering wheel resistant to extreme conditions.", "category": "steering wheel"},
-    "img122.jpg": {"caption": "A microfiber-covered steering wheel providing a superior grip.", "category": "steering wheel"},
-    "img123.jpg": {"caption": "A lightweight steering wheel designed for easy maneuvering.", "category": "steering wheel"},
-    "img124.jpg": {"caption": "A three-spoke steering wheel optimizing driving precision.", "category": "steering wheel"},
-    "img125.jpg": {"caption": "A curved ergonomic steering wheel for a natural grip feel.", "category": "steering wheel"},
-    "img126.jpg": {"caption": "A dual-material steering wheel combining style and function.", "category": "steering wheel"},
-    "img127.jpg": {"caption": "A reinforced composite steering wheel ensuring long-lasting use.", "category": "steering wheel"},
-    "img128.jpg": {"caption": "A heat-insulated steering wheel preventing temperature extremes.", "category": "steering wheel"},
-    "img129.jpg": {"caption": "A luxury performance steering wheel with precision control.", "category": "steering wheel"},
-    "img130.jpg": {"caption": "A classic-style wooden steering wheel with a vintage touch.", "category": "steering wheel"},
-    "img131.jpg": {"caption": "A custom-molded steering wheel for an exact fit.", "category": "steering wheel"},
-    "img132.jpg": {"caption": "A hybrid-friendly steering wheel with energy-saving design.", "category": "steering wheel"},
-    "img133.jpg": {"caption": "A durable steering wheel built to withstand heavy use.", "category": "steering wheel"},
-    "img134.jpg": {"caption": "A multi-function steering wheel integrating vehicle controls.", "category": "steering wheel"},
-    "img135.jpg": {"caption": "A reinforced alloy steering wheel for high-impact resistance.", "category": "steering wheel"},
-    "img136.jpg": {"caption": "A smooth-touch steering wheel ensuring a seamless grip.", "category": "steering wheel"},
-    "img137.jpg": {"caption": "A carbon-fiber steering wheel for ultra-lightweight strength.", "category": "steering wheel"},
-    "img138.jpg": {"caption": "A sports-inspired steering wheel boosting driving engagement.", "category": "steering wheel"},
-    "img139.jpg": {"caption": "A premium handcrafted steering wheel with stitched accents.", "category": "steering wheel"},
-    "img140.jpg": {"caption": "A seamless design steering wheel offering a modern touch.", "category": "steering wheel"},
-    "img141.jpg": {"caption": "A suede-wrapped steering wheel providing extra grip control.", "category": "steering wheel"},
-    "img142.jpg": {"caption": "A dual-texture steering wheel improving hand stability.", "category": "steering wheel"},
-    "img143.jpg": {"caption": "A racing-grade steering wheel built for extreme performance.", "category": "steering wheel"},
-    "img144.jpg": {"caption": "A hand-stitched leather steering wheel for a premium feel.", "category": "steering wheel"},
-    "img145.jpg": {"caption": "A next-generation smart steering wheel with touch integration.", "category": "steering wheel"},
-    "img146.jpg": {"caption": "A sleek performance steering wheel optimizing agility.", "category": "steering wheel"},
-    "img147.jpg": {"caption": "A fully digital steering wheel offering real-time driving data.", "category": "steering wheel"},
-    "img148.jpg": {"caption": "A shock-resistant steering wheel ensuring stable handling.", "category": "steering wheel"},
-    "img149.jpg": {"caption": "A slimline steering wheel designed for high-speed maneuvers.", "category": "steering wheel"},
-    "img150.jpg": {"caption": "A driver-focused steering wheel with ergonomic thumb rests.", "category": "steering wheel"},
-    "img151.jpg": {"caption": "A compact steering wheel enhancing driver maneuverability.", "category": "steering wheel"},
-    "img152.jpg": {"caption": "A high-performance steering wheel with superior grip.", "category": "steering wheel"},
-    "img153.jpg": {"caption": "A rugged steering wheel built for off-road adventures.", "category": "steering wheel"},
-    "img154.jpg": {"caption": "A multi-layered steering wheel for extra durability.", "category": "steering wheel"},
-    "img155.jpg": {"caption": "A heat-resistant steering wheel for long-distance drives.", "category": "steering wheel"},
-    "img156.jpg": {"caption": "A precision-cut steering wheel enhancing steering accuracy.", "category": "steering wheel"},
-    "img157.jpg": {"caption": "A smooth-textured steering wheel for effortless handling.", "category": "steering wheel"},
-    "img158.jpg": {"caption": "A modern steering wheel with customizable control buttons.", "category": "steering wheel"},
-    "img159.jpg": {"caption": "A three-dimensional ergonomic steering wheel for driver comfort.", "category": "steering wheel"},
-    "img160.jpg": {"caption": "A premium wooden steering wheel adding a vintage appeal.", "category": "steering wheel"},
-    "img161.jpg": {"caption": "A sleek black leather steering wheel for a luxurious touch.", "category": "steering wheel"},
-    "img162.jpg": {"caption": "A robust aluminum steering wheel with a sporty edge.", "category": "steering wheel"},
-    "img163.jpg": {"caption": "A scratch-resistant steering wheel for long-term usage.", "category": "steering wheel"},
-    "img164.jpg": {"caption": "A carbon-reinforced steering wheel ensuring extra durability.", "category": "steering wheel"},
-    "img165.jpg": {"caption": "A firm-grip steering wheel minimizing hand fatigue.", "category": "steering wheel"},
-    "img166.jpg": {"caption": "A lightweight steering wheel maximizing driving ease.", "category": "steering wheel"},
-    "img167.jpg": {"caption": "A futuristic steering wheel integrating touch controls.", "category": "steering wheel"},
-    "img168.jpg": {"caption": "A temperature-controlled steering wheel for enhanced comfort.", "category": "steering wheel"},
-    "img169.jpg": {"caption": "A vibration-free steering wheel ensuring a smoother ride.", "category": "steering wheel"},
-    "img170.jpg": {"caption": "A compact racing-style steering wheel for agile performance.", "category": "steering wheel"},
-    "img171.jpg": {"caption": "A synthetic leather-wrapped steering wheel for added elegance.", "category": "steering wheel"},
-    "img172.jpg": {"caption": "A high-traction steering wheel improving vehicle stability.", "category": "steering wheel"},
-    "img173.jpg": {"caption": "A hand-stitched suede steering wheel for an ultra-premium feel.", "category": "steering wheel"},
-    "img174.jpg": {"caption": "A dual-layered grip steering wheel for precision handling.", "category": "steering wheel"},
-    "img175.jpg": {"caption": "A waterproof steering wheel for all-weather reliability.", "category": "steering wheel"},
-    "img176.jpg": {"caption": "A reinforced rubber steering wheel reducing road vibrations.", "category": "steering wheel"},
-    "img177.jpg": {"caption": "A high-end steering wheel with a brushed metal finish.", "category": "steering wheel"},
-    "img178.jpg": {"caption": "A compact steering wheel ensuring optimal space efficiency.", "category": "steering wheel"},
-    "img179.jpg": {"caption": "A full-circle ergonomic steering wheel offering better handling.", "category": "steering wheel"},
-    "img180.jpg": {"caption": "A textured steering wheel preventing accidental slips.", "category": "steering wheel"},
-    "img181.jpg": {"caption": "A racing-inspired steering wheel optimizing speed response.", "category": "steering wheel"},
-    "img182.jpg": {"caption": "A power-assisted steering wheel reducing driver effort.", "category": "steering wheel"},
-    "img183.jpg": {"caption": "A high-density foam steering wheel absorbing shocks.", "category": "steering wheel"},
-    "img184.jpg": {"caption": "A dual-grip steering wheel for improved control on sharp turns.", "category": "steering wheel"},
-    "img185.jpg": {"caption": "A vintage-style steering wheel adding a classic touch.", "category": "steering wheel"},
-    "img186.jpg": {"caption": "A sleek ergonomic steering wheel offering unmatched style.", "category": "steering wheel"},
-    "img187.jpg": {"caption": "A custom-molded steering wheel designed for driver comfort.", "category": "steering wheel"},
-    "img188.jpg": {"caption": "A stylish leather-wrapped steering wheel for a premium finish.", "category": "steering wheel"},
-    "img189.jpg": {"caption": "A heavy-duty steering wheel engineered for durability.", "category": "steering wheel"},
-    "img190.jpg": {"caption": "A sporty steering wheel enhancing driver engagement.", "category": "steering wheel"},
-    "img191.jpg": {"caption": "A smart steering wheel integrating voice command features.", "category": "steering wheel"},
-    "img192.jpg": {"caption": "A minimalist steering wheel adding a modern aesthetic.", "category": "steering wheel"},
-    "img193.jpg": {"caption": "A dust-resistant steering wheel ensuring long-term cleanliness.", "category": "steering wheel"},
-    "img194.jpg": {"caption": "A high-tech digital display steering wheel with built-in controls.", "category": "steering wheel"},
-    "img195.jpg": {"caption": "A reinforced steel-core steering wheel enhancing durability.", "category": "steering wheel"},
-    "img196.jpg": {"caption": "A contoured steering wheel providing a firm and comfortable grip.", "category": "steering wheel"},
-    "img197.jpg": {"caption": "A sports performance steering wheel with rapid feedback response.", "category": "steering wheel"},
-    "img198.jpg": {"caption": "A grip-enhancing steering wheel for secure handling at high speeds.", "category": "steering wheel"},
-    "img199.jpg": {"caption": "A next-gen steering wheel designed for seamless connectivity.", "category": "steering wheel"},
-    "img200.jpg": {"caption": "A heavy-duty commercial steering wheel built for long-term use.", "category": "steering wheel"}
-
-}
+[
+    {
+      "image_path": "STEERING WHEEL/img1.jpg",
+      "caption": "A black steering wheel with textured grip and chrome accents mounted inside a car."
+    },
+    {
+      "image_path": "STEERING WHEEL/img2.jpg",
+      "caption": "A leather-wrapped steering wheel featuring a central horn and multifunction buttons."
+    },
+    {
+      "image_path": "STEERING WHEEL/img3.jpg",
+      "caption": "A close-up of a car steering wheel with a sporty design and red stitching."
+    },
+    {
+      "image_path": "STEERING WHEEL/img4.jpg",
+      "caption": "Driver gripping a modern steering wheel with paddle shifters and a digital dashboard."
+    },
+    {
+      "image_path": "STEERING WHEEL/img5.jpg",
+      "caption": "Classic vintage steering wheel with a wooden rim and metal spokes."
+    },
+    {
+      "image_path": "STEERING WHEEL/img6.jpg",
+      "caption": "Interior of a car showing the steering wheel with cruise control buttons."
+    },
+    {
+      "image_path": "STEERING WHEEL/img7.jpg",
+      "caption": "A luxury car’s steering wheel with leather finish and emblem in the center."
+    },
+    {
+      "image_path": "STEERING WHEEL/img8.jpg",
+      "caption": "A worn-out steering wheel showing signs of usage and faded material."
+    },
+    {
+      "image_path": "STEERING WHEEL/img9.jpg",
+      "caption": "A sporty steering wheel with carbon fiber trim and racing controls."
+    },
+    {
+      "image_path": "STEERING WHEEL/img10.jpg",
+      "caption": "The dashboard view focusing on a steering wheel and navigation display behind it."
+    },
+    {
+      "image_path": "STEERING WHEEL/img11.jpg",
+      "caption": "A top-down view of a steering wheel with hands positioned at 10 and 2."
+    },
+    {
+      "image_path": "STEERING WHEEL/img12.jpg",
+      "caption": "A modern electric car steering wheel with touch-sensitive controls."
+    },
+    {
+      "image_path": "STEERING WHEEL/img13.jpg",
+      "caption": "A truck’s steering wheel with a wide diameter and rugged texture."
+    },
+    {
+      "image_path": "STEERING WHEEL/img14.jpg",
+      "caption": "Steering wheel inside a compact car with a simple and minimalistic design."
+    },
+    {
+      "image_path": "STEERING WHEEL/img15.jpg",
+      "caption": "Steering wheel of a convertible car with visible sunlight and shadow."
+    },
+    {
+      "image_path": "STEERING WHEEL/img16.jpg",
+      "caption": "A steering wheel with mounted audio and voice command buttons."
+    },
+    {
+      "image_path": "STEERING WHEEL/img17.jpg",
+      "caption": "Interior shot showing a steering wheel and speedometer panel behind it."
+    },
+    {
+      "image_path": "STEERING WHEEL/img18.jpg",
+      "caption": "A futuristic steering wheel design with a flat top and bottom edge."
+    },
+    {
+      "image_path": "STEERING WHEEL/img19.jpg",
+      "caption": "Close-up of the central emblem on a luxury car's steering wheel."
+    },
+    {
+      "image_path": "STEERING WHEEL/img20.jpg",
+      "caption": "A steering wheel featuring both manual and digital driving control options."
+    },
+    {
+      "image_path": "STEERING WHEEL/img21.jpg",
+      "caption": "A round steering wheel with a custom fabric cover and stitched edge."
+    },
+    {
+      "image_path": "STEERING WHEEL/img22.jpg",
+      "caption": "The steering wheel is slightly turned, showing dashboard indicators in motion."
+    },
+    {
+      "image_path": "STEERING WHEEL/img23.jpg",
+      "caption": "A steering wheel inside an SUV with robust design and thicker grip."
+    },
+    {
+      "image_path": "STEERING WHEEL/img24.jpg",
+      "caption": "A retro steering wheel with a horn ring and thin rim."
+    },
+    {
+      "image_path": "STEERING WHEEL/img25.jpg",
+      "caption": "A steering wheel wrapped in suede material, typically found in racing vehicles."
+    },
+    {
+      "image_path": "STEERING WHEEL/img26.jpg",
+      "caption": "Driver adjusting a tilt-and-telescoping steering wheel inside the cabin."
+    },
+    {
+      "image_path": "STEERING WHEEL/img27.jpg",
+      "caption": "A sporty steering wheel with red stitching and aluminum paddle shifters."
+    },
+    {
+      "image_path": "STEERING WHEEL/img28.jpg",
+      "caption": "A steering wheel with mounted controls for lights and wipers."
+    },
+    {
+      "image_path": "STEERING WHEEL/img29.jpg",
+      "caption": "High-end steering wheel with touch display integration and leather grip."
+    },
+    {
+      "image_path": "STEERING WHEEL/img30.jpg",
+      "caption": "Hands resting gently on the steering wheel during idle car position."
+    },
+    {
+      "image_path": "STEERING WHEEL/img31.jpg",
+      "caption": "Steering wheel in a parked sedan with cloth interior visible behind."
+    },
+    {
+      "image_path": "STEERING WHEEL/img32.jpg",
+      "caption": "Round steering wheel with airbag section visible in the middle."
+    },
+    {
+      "image_path": "STEERING WHEEL/img33.jpg",
+      "caption": "Interior lighting highlighting the textured grip of a leather steering wheel."
+    },
+    {
+      "image_path": "STEERING WHEEL/img34.jpg",
+      "caption": "Driver’s hand turning the wheel while driving on a city road."
+    },
+    {
+      "image_path": "STEERING WHEEL/img35.jpg",
+      "caption": "Custom logo added to the center of a standard steering wheel."
+    },
+    {
+      "image_path": "STEERING WHEEL/img36.jpg",
+      "caption": "Steering wheel with matte black finish and sharp contour design."
+    },
+    {
+      "image_path": "STEERING WHEEL/img37.jpg",
+      "caption": "Close-up of the seam detail on a premium stitched steering wheel."
+    },
+    {
+      "image_path": "STEERING WHEEL/img38.jpg",
+      "caption": "A dashboard-focused view showing odometer and steering wheel alignment."
+    },
+    {
+      "image_path": "STEERING WHEEL/img39.jpg",
+      "caption": "Steering wheel in a luxury SUV with wood trim and soft-touch controls."
+    },
+    {
+      "image_path": "STEERING WHEEL/img40.jpg",
+      "caption": "Flat-bottomed steering wheel often found in high-performance vehicles."
+    },
+    {
+      "image_path": "STEERING WHEEL/img41.jpg",
+      "caption": "Interior showing steering wheel and infotainment screen interaction."
+    },
+    {
+      "image_path": "STEERING WHEEL/img42.jpg",
+      "caption": "A manual transmission car showing gearstick and steering wheel combo."
+    },
+    {
+      "image_path": "STEERING WHEEL/img43.jpg",
+      "caption": "A two-tone steering wheel with beige and black leather wrapping."
+    },
+    {
+      "image_path": "STEERING WHEEL/img44.jpg",
+      "caption": "Steering wheel inside a classic sports car with analog dials."
+    },
+    {
+      "image_path": "STEERING WHEEL/img45.jpg",
+      "caption": "Gloved hand turning a performance car’s steering wheel during a race."
+    },
+    {
+      "image_path": "STEERING WHEEL/img46.jpg",
+      "caption": "Interior of an autonomous vehicle showing a minimalistic steering wheel design."
+    },
+    {
+      "image_path": "STEERING WHEEL/img47.jpg",
+      "caption": "A child-sized steering wheel toy inside a mini electric car."
+    },
+    {
+      "image_path": "STEERING WHEEL/img48.jpg",
+      "caption": "Steering wheel with custom LED light accents around the rim."
+    },
+    {
+      "image_path": "STEERING WHEEL/img49.jpg",
+      "caption": "Classic muscle car interior showing a steering wheel with bold emblem."
+    },
+    {
+      "image_path": "STEERING WHEEL/img50.jpg",
+      "caption": "A clean black steering wheel inside a newly detailed vehicle."
+    },
+        {
+          "image_path": "STEERING WHEEL/img51.jpg",
+          "caption": "A steering wheel with chrome trim and a bold central badge inside a modern sedan."
+        },
+        {
+          "image_path": "STEERING WHEEL/img52.jpg",
+          "caption": "Driver’s view of a steering wheel and illuminated dashboard at night."
+        },
+        {
+          "image_path": "STEERING WHEEL/img53.jpg",
+          "caption": "A sleek steering wheel with thumb rests and ergonomic contours."
+        },
+        {
+          "image_path": "STEERING WHEEL/img54.jpg",
+          "caption": "A high-performance car's steering wheel featuring digital controls and carbon accents."
+        },
+        {
+          "image_path": "STEERING WHEEL/img55.jpg",
+          "caption": "Classic luxury car interior showing a large steering wheel with metallic spokes."
+        },
+        {
+          "image_path": "STEERING WHEEL/img56.jpg",
+          "caption": "An elegant beige steering wheel with wooden detailing and leather inserts."
+        },
+        {
+          "image_path": "STEERING WHEEL/img57.jpg",
+          "caption": "Driver turning the steering wheel while reversing into a parking space."
+        },
+        {
+          "image_path": "STEERING WHEEL/img58.jpg",
+          "caption": "Flat-bottom sports steering wheel with red stitching and gearshift indicators."
+        },
+        {
+          "image_path": "STEERING WHEEL/img59.jpg",
+          "caption": "A steering wheel placed slightly left-aligned in a right-hand drive car."
+        },
+        {
+          "image_path": "STEERING WHEEL/img60.jpg",
+          "caption": "A digital instrument cluster framed behind a leather-wrapped steering wheel."
+        },
+        {
+          "image_path": "STEERING WHEEL/img61.jpg",
+          "caption": "Futuristic concept car steering wheel resembling a joystick design."
+        },
+        {
+          "image_path": "STEERING WHEEL/img62.jpg",
+          "caption": "A steering wheel with a transparent center showcasing internal mechanics."
+        },
+        {
+          "image_path": "STEERING WHEEL/img63.jpg",
+          "caption": "An aftermarket steering wheel with racing grip and metallic center ring."
+        },
+        {
+          "image_path": "STEERING WHEEL/img64.jpg",
+          "caption": "Driver adjusting volume controls on the steering wheel while cruising."
+        },
+        {
+          "image_path": "STEERING WHEEL/img65.jpg",
+          "caption": "A compact hatchback interior featuring a rounded steering wheel with soft edges."
+        },
+        {
+          "image_path": "STEERING WHEEL/img66.jpg",
+          "caption": "Child's hands playfully gripping a toy car’s imitation steering wheel."
+        },
+        {
+          "image_path": "STEERING WHEEL/img67.jpg",
+          "caption": "A performance-oriented steering wheel with gear shift paddles and stitched leather."
+        },
+        {
+          "image_path": "STEERING WHEEL/img68.jpg",
+          "caption": "Steering wheel on a rainy day with blurred windshield in the background."
+        },
+        {
+          "image_path": "STEERING WHEEL/img69.jpg",
+          "caption": "Minimalist steering wheel inside an electric vehicle with screen-only controls."
+        },
+        {
+          "image_path": "STEERING WHEEL/img70.jpg",
+          "caption": "Dashboard warning lights illuminated behind a centered steering wheel."
+        },
+        {
+          "image_path": "STEERING WHEEL/img71.jpg",
+          "caption": "Close-up of a stitched leather pattern on a high-end steering wheel grip."
+        },
+        {
+          "image_path": "STEERING WHEEL/img72.jpg",
+          "caption": "An old-school steering wheel with cracks and signs of aging leather."
+        },
+        {
+          "image_path": "STEERING WHEEL/img73.jpg",
+          "caption": "Wide-angle view of an SUV’s cockpit with the steering wheel in the center."
+        },
+        {
+          "image_path": "STEERING WHEEL/img74.jpg",
+          "caption": "Multifunction steering wheel with heated steering option and cruise assist."
+        },
+        {
+          "image_path": "STEERING WHEEL/img75.jpg",
+          "caption": "Steering wheel with neon LED lights outlining the edges for a futuristic look."
+        },
+        {
+          "image_path": "STEERING WHEEL/img76.jpg",
+          "caption": "Driver using steering wheel controls to activate hands-free calling."
+        },
+        {
+          "image_path": "STEERING WHEEL/img77.jpg",
+          "caption": "An aftermarket steering wheel in a rally car with a quick-release hub."
+        },
+        {
+          "image_path": "STEERING WHEEL/img78.jpg",
+          "caption": "Steering wheel of a luxury electric vehicle with touch-responsive buttons."
+        },
+        {
+          "image_path": "STEERING WHEEL/img79.jpg",
+          "caption": "Driver holding a textured steering wheel on a winding mountain road."
+        },
+        {
+          "image_path": "STEERING WHEEL/img80.jpg",
+          "caption": "Ergonomic steering wheel with clear thumb grips and a flat top design."
+        },
+        {
+          "image_path": "STEERING WHEEL/img81.jpg",
+          "caption": "A rugged truck steering wheel with matte surface and large control pads."
+        },
+        {
+          "image_path": "STEERING WHEEL/img82.jpg",
+          "caption": "The logo emblem in the center of a brand-new car steering wheel."
+        },
+        {
+          "image_path": "STEERING WHEEL/img83.jpg",
+          "caption": "Steering wheel positioned with an airbag warning label visible on the side."
+        },
+        {
+          "image_path": "STEERING WHEEL/img84.jpg",
+          "caption": "A dual-tone steering wheel in a two-seater sports coupe."
+        },
+        {
+          "image_path": "STEERING WHEEL/img85.jpg",
+          "caption": "Nighttime shot of steering wheel with glowing dashboard gauges."
+        },
+        {
+          "image_path": "STEERING WHEEL/img86.jpg",
+          "caption": "A concept car steering wheel integrated into the dashboard structure."
+        },
+        {
+          "image_path": "STEERING WHEEL/img87.jpg",
+          "caption": "A driver's hands tightly gripping a steering wheel while making a sharp turn."
+        },
+        {
+          "image_path": "STEERING WHEEL/img88.jpg",
+          "caption": "A worn cloth cover wrapped around an old steering wheel."
+        },
+        {
+          "image_path": "STEERING WHEEL/img89.jpg",
+          "caption": "A sporty vehicle’s steering wheel with thumb shift toggles and LED strip."
+        },
+        {
+          "image_path": "STEERING WHEEL/img90.jpg",
+          "caption": "A driver adjusting the telescopic steering column for better comfort."
+        },
+        {
+          "image_path": "STEERING WHEEL/img91.jpg",
+          "caption": "Interior view showing steering wheel, dashboard, and center console layout."
+        },
+        {
+          "image_path": "STEERING WHEEL/img92.jpg",
+          "caption": "Flat-top racing steering wheel used in high-speed formula vehicles."
+        },
+        {
+          "image_path": "STEERING WHEEL/img93.jpg",
+          "caption": "A toy steering wheel mounted on a children’s ride-on car."
+        },
+        {
+          "image_path": "STEERING WHEEL/img94.jpg",
+          "caption": "Interior cockpit of a modern car showing an elegant steering wheel design."
+        },
+        {
+          "image_path": "STEERING WHEEL/img95.jpg",
+          "caption": "Steering wheel of an SUV with fingerprint sensor and digital command interface."
+        },
+        {
+          "image_path": "STEERING WHEEL/img96.jpg",
+          "caption": "Red leather-wrapped steering wheel in a convertible sports car."
+        },
+        {
+          "image_path": "STEERING WHEEL/img97.jpg",
+          "caption": "A zoomed-in view of dashboard controls next to the steering wheel column."
+        },
+        {
+          "image_path": "STEERING WHEEL/img98.jpg",
+          "caption": "A smooth polyurethane steering wheel with slip-resistant grip pattern."
+        },
+        {
+          "image_path": "STEERING WHEEL/img99.jpg",
+          "caption": "Steering wheel with gesture control sensors integrated into the rim."
+        },
+        {
+          "image_path": "STEERING WHEEL/img100.jpg",
+          "caption": "A futuristic rectangular steering wheel inside a concept electric vehicle."
+        }
+        {
+            "image_path": "STEERING WHEEL/img101.jpg",
+            "caption": "Driver adjusting the steering wheel while parked in a shaded area."
+          },
+          {
+            "image_path": "STEERING WHEEL/img102.jpg",
+            "caption": "Steering wheel wrapped in leather with decorative stitching visible."
+          },
+          {
+            "image_path": "STEERING WHEEL/img103.jpg",
+            "caption": "A sporty steering wheel with paddle shifters behind it."
+          },
+          {
+            "image_path": "STEERING WHEEL/img104.jpg",
+            "caption": "Hands gripping the steering wheel tightly during city traffic."
+          },
+          {
+            "image_path": "STEERING WHEEL/img105.jpg",
+            "caption": "View from the back seat showing the steering wheel and dashboard layout."
+          },
+          {
+            "image_path": "STEERING WHEEL/img106.jpg",
+            "caption": "Driver using the horn on the center of the steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img107.jpg",
+            "caption": "A shiny steering wheel center emblem reflecting sunlight."
+          },
+          {
+            "image_path": "STEERING WHEEL/img108.jpg",
+            "caption": "A car interior showing a leather steering wheel with a digital cluster."
+          },
+          {
+            "image_path": "STEERING WHEEL/img109.jpg",
+            "caption": "Close-up of a heated steering wheel button and grip texture."
+          },
+          {
+            "image_path": "STEERING WHEEL/img110.jpg",
+            "caption": "Driver's view focusing on the steering wheel with cruise control buttons."
+          },
+          {
+            "image_path": "STEERING WHEEL/img111.jpg",
+            "caption": "The steering wheel of an old classic car with a wooden rim."
+          },
+          {
+            "image_path": "STEERING WHEEL/img112.jpg",
+            "caption": "A steering wheel turned slightly left, with turn signal on."
+          },
+          {
+            "image_path": "STEERING WHEEL/img113.jpg",
+            "caption": "Hands adjusting the tilt angle of a car steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img114.jpg",
+            "caption": "A close-up of a modern steering wheel with multimedia buttons."
+          },
+          {
+            "image_path": "STEERING WHEEL/img115.jpg",
+            "caption": "The stitched grip of a sports steering wheel in a race car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img116.jpg",
+            "caption": "Steering wheel illuminated by dashboard lights during night driving."
+          },
+          {
+            "image_path": "STEERING WHEEL/img117.jpg",
+            "caption": "Mechanic working on a detached steering wheel during repair."
+          },
+          {
+            "image_path": "STEERING WHEEL/img118.jpg",
+            "caption": "Steering wheel with a fuzzy cover and decorative beads on it."
+          },
+          {
+            "image_path": "STEERING WHEEL/img119.jpg",
+            "caption": "Driver’s hand turning the wheel while reversing the vehicle."
+          },
+          {
+            "image_path": "STEERING WHEEL/img120.jpg",
+            "caption": "A race car steering wheel with minimalistic design and controls."
+          },
+          {
+            "image_path": "STEERING WHEEL/img121.jpg",
+            "caption": "Steering wheel and interior lit with ambient red lighting."
+          },
+          {
+            "image_path": "STEERING WHEEL/img122.jpg",
+            "caption": "Vintage car steering wheel with chrome and ivory detailing."
+          },
+          {
+            "image_path": "STEERING WHEEL/img123.jpg",
+            "caption": "A close-up of the stitching pattern on a premium steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img124.jpg",
+            "caption": "Driver’s view showing dashboard and firmly gripped steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img125.jpg",
+            "caption": "A small steering wheel on a compact electric city car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img126.jpg",
+            "caption": "Man’s hand resting on the top of a steering wheel while idling."
+          },
+          {
+            "image_path": "STEERING WHEEL/img127.jpg",
+            "caption": "Interior view of a truck with a large, rugged steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img128.jpg",
+            "caption": "Steering wheel being wiped clean during a car detailing session."
+          },
+          {
+            "image_path": "STEERING WHEEL/img129.jpg",
+            "caption": "Driver steering through a curve, hands positioned at 10 and 2."
+          },
+          {
+            "image_path": "STEERING WHEEL/img130.jpg",
+            "caption": "Dashboard warning lights glowing behind the steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img131.jpg",
+            "caption": "Luxury car steering wheel with chrome accents and soft leather."
+          },
+          {
+            "image_path": "STEERING WHEEL/img132.jpg",
+            "caption": "Driver’s hand lightly touching the bottom edge of the wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img133.jpg",
+            "caption": "Steering wheel with an airbag module partially exposed."
+          },
+          {
+            "image_path": "STEERING WHEEL/img134.jpg",
+            "caption": "Digital dashboard centered around a multifunction steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img135.jpg",
+            "caption": "Child pretending to drive while holding onto a steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img136.jpg",
+            "caption": "Driver’s side showing both the steering wheel and gear shifter."
+          },
+          {
+            "image_path": "STEERING WHEEL/img137.jpg",
+            "caption": "A steering wheel with a sunshade partially visible through the windshield."
+          },
+          {
+            "image_path": "STEERING WHEEL/img138.jpg",
+            "caption": "Modern car with a minimalist dashboard and a thick steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img139.jpg",
+            "caption": "Steering wheel with a custom wrap for extra grip and comfort."
+          },
+          {
+            "image_path": "STEERING WHEEL/img140.jpg",
+            "caption": "Driver turning the steering wheel while navigating a parking lot."
+          },
+          {
+            "image_path": "STEERING WHEEL/img141.jpg",
+            "caption": "View from passenger side focusing on the steering wheel and console."
+          },
+          {
+            "image_path": "STEERING WHEEL/img142.jpg",
+            "caption": "Sunlight reflecting off a glossy steering wheel badge."
+          },
+          {
+            "image_path": "STEERING WHEEL/img143.jpg",
+            "caption": "Close-up of a steering wheel with a thumb rest and perforated grip."
+          },
+          {
+            "image_path": "STEERING WHEEL/img144.jpg",
+            "caption": "Steering wheel with mounted controls for volume and voice command."
+          },
+          {
+            "image_path": "STEERING WHEEL/img145.jpg",
+            "caption": "Driver gripping the steering wheel firmly while climbing a steep hill."
+          },
+          {
+            "image_path": "STEERING WHEEL/img146.jpg",
+            "caption": "Interior of a luxury SUV showing a premium steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img147.jpg",
+            "caption": "A steering wheel reflecting the car’s interior ambient lights."
+          },
+          {
+            "image_path": "STEERING WHEEL/img148.jpg",
+            "caption": "Driver adjusting seat with one hand on the steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img149.jpg",
+            "caption": "A smart steering wheel with haptic feedback and LED indicators."
+          },
+          {
+            "image_path": "STEERING WHEEL/img150.jpg",
+            "caption": "Hands resting gently on the steering wheel at a red traffic light."
+          }
+          {
+            "image_path": "STEERING WHEEL/img151.jpg",
+            "caption": "A steering wheel with advanced touch controls for media and navigation."
+          },
+          {
+            "image_path": "STEERING WHEEL/img152.jpg",
+            "caption": "Driver holding the steering wheel as rain pours on the windshield."
+          },
+          {
+            "image_path": "STEERING WHEEL/img153.jpg",
+            "caption": "A child sitting in the front seat pretending to steer the car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img154.jpg",
+            "caption": "Worn-out steering wheel in an old vehicle showing visible cracks."
+          },
+          {
+            "image_path": "STEERING WHEEL/img155.jpg",
+            "caption": "A steering wheel with decorative stitching in red and black leather."
+          },
+          {
+            "image_path": "STEERING WHEEL/img156.jpg",
+            "caption": "Interior of a modern hybrid car with a compact steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img157.jpg",
+            "caption": "The central horn pad of a steering wheel engraved with a brand logo."
+          },
+          {
+            "image_path": "STEERING WHEEL/img158.jpg",
+            "caption": "Steering wheel of a car parked in an underground garage."
+          },
+          {
+            "image_path": "STEERING WHEEL/img159.jpg",
+            "caption": "A customized steering wheel with a carbon fiber finish."
+          },
+          {
+            "image_path": "STEERING WHEEL/img160.jpg",
+            "caption": "Driver’s hand on the wheel while driving during sunset."
+          },
+          {
+            "image_path": "STEERING WHEEL/img161.jpg",
+            "caption": "Minimalistic steering wheel design with flat bottom edge."
+          },
+          {
+            "image_path": "STEERING WHEEL/img162.jpg",
+            "caption": "Steering wheel controls for adaptive cruise and lane assist."
+          },
+          {
+            "image_path": "STEERING WHEEL/img163.jpg",
+            "caption": "Close-up of textured grip surface on a performance steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img164.jpg",
+            "caption": "A rugged steering wheel in an off-road vehicle interior."
+          },
+          {
+            "image_path": "STEERING WHEEL/img165.jpg",
+            "caption": "Interior shot highlighting the steering wheel and head-up display."
+          },
+          {
+            "image_path": "STEERING WHEEL/img166.jpg",
+            "caption": "Car interior showing steering wheel alongside center console screen."
+          },
+          {
+            "image_path": "STEERING WHEEL/img167.jpg",
+            "caption": "A sleek steering wheel inside a self-driving concept car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img168.jpg",
+            "caption": "Driver gripping the steering wheel firmly in heavy traffic."
+          },
+          {
+            "image_path": "STEERING WHEEL/img169.jpg",
+            "caption": "Steering wheel of a vehicle equipped with advanced driver assistance."
+          },
+          {
+            "image_path": "STEERING WHEEL/img170.jpg",
+            "caption": "Detailed shot of airbag and horn button on steering wheel center."
+          },
+          {
+            "image_path": "STEERING WHEEL/img171.jpg",
+            "caption": "Driver using thumb controls on a multifunctional steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img172.jpg",
+            "caption": "Classic wooden steering wheel mounted on vintage dashboard."
+          },
+          {
+            "image_path": "STEERING WHEEL/img173.jpg",
+            "caption": "Gloved hand resting on a heated leather-wrapped steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img174.jpg",
+            "caption": "Steering wheel with mounted GPS controller and infotainment buttons."
+          },
+          {
+            "image_path": "STEERING WHEEL/img175.jpg",
+            "caption": "Dashboard camera view capturing steering wheel movement."
+          },
+          {
+            "image_path": "STEERING WHEEL/img176.jpg",
+            "caption": "A flat-bottom steering wheel used in a high-performance car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img177.jpg",
+            "caption": "Interior showing dual-tone steering wheel in a designer finish."
+          },
+          {
+            "image_path": "STEERING WHEEL/img178.jpg",
+            "caption": "Worn fabric cover wrapped around an aging steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img179.jpg",
+            "caption": "Driver’s arm resting casually while steering through countryside."
+          },
+          {
+            "image_path": "STEERING WHEEL/img180.jpg",
+            "caption": "A steering wheel with an emergency call button near the horn."
+          },
+          {
+            "image_path": "STEERING WHEEL/img181.jpg",
+            "caption": "Steering wheel integrated with touch-sensitive control areas."
+          },
+          {
+            "image_path": "STEERING WHEEL/img182.jpg",
+            "caption": "Classic rally car steering wheel with quick-release hub."
+          },
+          {
+            "image_path": "STEERING WHEEL/img183.jpg",
+            "caption": "Minimalist steering wheel design with tactile feedback points."
+          },
+          {
+            "image_path": "STEERING WHEEL/img184.jpg",
+            "caption": "Interior of a family SUV featuring a large ergonomic steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img185.jpg",
+            "caption": "Steering wheel wrapped in soft suede for extra grip and feel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img186.jpg",
+            "caption": "Digital interface glowing behind a futuristic steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img187.jpg",
+            "caption": "Driver adjusting steering wheel tilt and telescopic position."
+          },
+          {
+            "image_path": "STEERING WHEEL/img188.jpg",
+            "caption": "Steering wheel with a retro three-spoke design and thin rim."
+          },
+          {
+            "image_path": "STEERING WHEEL/img189.jpg",
+            "caption": "A plush steering wheel cover featuring a colorful pattern."
+          },
+          {
+            "image_path": "STEERING WHEEL/img190.jpg",
+            "caption": "A steering wheel with a built-in fingerprint recognition sensor."
+          },
+          {
+            "image_path": "STEERING WHEEL/img191.jpg",
+            "caption": "Cruise control and voice command toggles on a steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img192.jpg",
+            "caption": "Child spinning a play steering wheel mounted in a toy car."
+          },
+          {
+            "image_path": "STEERING WHEEL/img193.jpg",
+            "caption": "The center of a premium steering wheel featuring a luxury logo."
+          },
+          {
+            "image_path": "STEERING WHEEL/img194.jpg",
+            "caption": "Car interior showing driver gripping steering wheel with confidence."
+          },
+          {
+            "image_path": "STEERING WHEEL/img195.jpg",
+            "caption": "Digital meter cluster wrapping around a sporty steering wheel."
+          },
+          {
+            "image_path": "STEERING WHEEL/img196.jpg",
+            "caption": "Nighttime drive with dashboard and steering wheel softly illuminated."
+          },
+          {
+            "image_path": "STEERING WHEEL/img197.jpg",
+            "caption": "Driver tapping steering wheel buttons to answer a phone call."
+          },
+          {
+            "image_path": "STEERING WHEEL/img198.jpg",
+            "caption": "View from backseat with steering wheel framing cityscape ahead."
+          },
+          {
+            "image_path": "STEERING WHEEL/img199.jpg",
+            "caption": "A textured steering wheel customized for off-road adventures."
+          },
+          {
+            "image_path": "STEERING WHEEL/img200.jpg",
+            "caption": "Driver posing with both hands on the steering wheel in park mode."
+          }
+                    
+      
+  

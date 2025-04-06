@@ -1,205 +1,808 @@
-{
-    
-    "img1.jpg": {"caption": "A high-efficiency water pump ensuring optimal coolant flow.", "category": "water pump"},
-    "img2.jpg": {"caption": "A durable water pump designed for long-lasting engine cooling.", "category": "water pump"},
-    "img3.jpg": {"caption": "A precision-engineered water pump for consistent temperature regulation.", "category": "water pump"},
-    "img4.jpg": {"caption": "A high-performance water pump preventing engine overheating.", "category": "water pump"},
-    "img5.jpg": {"caption": "A corrosion-resistant water pump built for extreme conditions.", "category": "water pump"},
-    "img6.jpg": {"caption": "A lightweight water pump maximizing fuel efficiency.", "category": "water pump"},
-    "img7.jpg": {"caption": "A premium water pump ensuring smooth coolant circulation.", "category": "water pump"},
-    "img8.jpg": {"caption": "A high-output water pump improving engine longevity.", "category": "water pump"},
-    "img9.jpg": {"caption": "A reinforced water pump providing optimal pressure balance.", "category": "water pump"},
-    "img10.jpg": {"caption": "An easy-to-install water pump designed for various vehicle models.", "category": "water pump"},
-    "img11.jpg": {"caption": "A performance water pump enhancing radiator efficiency.", "category": "water pump"},
-    "img12.jpg": {"caption": "A leak-proof water pump minimizing coolant loss.", "category": "water pump"},
-    "img13.jpg": {"caption": "A high-speed water pump ensuring rapid coolant circulation.", "category": "water pump"},
-    "img14.jpg": {"caption": "An advanced water pump designed for modern engine systems.", "category": "water pump"},
-    "img15.jpg": {"caption": "A heat-resistant water pump maintaining stable engine temperature.", "category": "water pump"},
-    "img16.jpg": {"caption": "A heavy-duty water pump built for commercial vehicles.", "category": "water pump"},
-    "img17.jpg": {"caption": "A low-maintenance water pump reducing service intervals.", "category": "water pump"},
-    "img18.jpg": {"caption": "A precision-balanced water pump improving coolant efficiency.", "category": "water pump"},
-    "img19.jpg": {"caption": "A long-life water pump featuring wear-resistant bearings.", "category": "water pump"},
-    "img20.jpg": {"caption": "A quiet-operation water pump reducing engine noise.", "category": "water pump"},
-    "img21.jpg": {"caption": "An eco-friendly water pump minimizing energy consumption.", "category": "water pump"},
-    "img22.jpg": {"caption": "A self-lubricating water pump extending bearing life.", "category": "water pump"},
-    "img23.jpg": {"caption": "A seamless water pump design preventing leaks and failures.", "category": "water pump"},
-    "img24.jpg": {"caption": "A next-gen water pump improving vehicle performance.", "category": "water pump"},
-    "img25.jpg": {"caption": "A smart water pump adapting to varying engine loads.", "category": "water pump"},
-    "img26.jpg": {"caption": "A reinforced impeller water pump increasing coolant pressure.", "category": "water pump"},
-    "img27.jpg": {"caption": "A turbo-compatible water pump for high-performance engines.", "category": "water pump"},
-    "img28.jpg": {"caption": "A robust water pump offering superior thermal management.", "category": "water pump"},
-    "img29.jpg": {"caption": "An optimized-flow water pump reducing energy loss.", "category": "water pump"},
-    "img30.jpg": {"caption": "A universal water pump suitable for various car models.", "category": "water pump"},
-    "img31.jpg": {"caption": "A stainless-steel water pump resisting rust and corrosion.", "category": "water pump"},
-    "img32.jpg": {"caption": "A compact water pump maximizing engine space efficiency.", "category": "water pump"},
-    "img33.jpg": {"caption": "A high-pressure water pump ensuring steady coolant circulation.", "category": "water pump"},
-    "img34.jpg": {"caption": "An aerodynamic impeller water pump for maximum efficiency.", "category": "water pump"},
-    "img35.jpg": {"caption": "A weather-resistant water pump handling extreme climates.", "category": "water pump"},
-    "img36.jpg": {"caption": "A cutting-edge water pump reducing thermal fluctuations.", "category": "water pump"},
-    "img37.jpg": {"caption": "A factory-tested water pump ensuring reliable performance.", "category": "water pump"},
-    "img38.jpg": {"caption": "A low-friction water pump minimizing engine drag.", "category": "water pump"},
-    "img39.jpg": {"caption": "A race-ready water pump for high-speed cooling demands.", "category": "water pump"},
-    "img40.jpg": {"caption": "A wear-resistant water pump delivering extended service life.", "category": "water pump"},
-    "img41.jpg": {"caption": "A premium-grade water pump built for durability.", "category": "water pump"},
-    "img42.jpg": {"caption": "A fast-circulating water pump improving engine response.", "category": "water pump"},
-    "img43.jpg": {"caption": "A dynamically balanced water pump for smooth operation.", "category": "water pump"},
-    "img44.jpg": {"caption": "A high-flow water pump preventing engine overheating.", "category": "water pump"},
-    "img45.jpg": {"caption": "An easy-maintenance water pump reducing downtime.", "category": "water pump"},
-    "img46.jpg": {"caption": "A precision-crafted water pump enhancing engine stability.", "category": "water pump"},
-    "img47.jpg": {"caption": "A rugged water pump designed for off-road vehicles.", "category": "water pump"},
-    "img48.jpg": {"caption": "A vibration-dampening water pump ensuring smooth function.", "category": "water pump"},
-    "img49.jpg": {"caption": "A fuel-efficient water pump lowering engine workload.", "category": "water pump"},
-    "img50.jpg": {"caption": "A smart sensor-equipped water pump for automatic cooling adjustments.", "category": "water pump"},
-    "img51.jpg": {"caption": "A premium water pump ensuring smooth coolant circulation.", "category": "water pump"},
-    "img52.jpg": {"caption": "A corrosion-resistant water pump built to withstand extreme conditions.", "category": "water pump"},
-    "img53.jpg": {"caption": "A precision-engineered water pump maintaining optimal engine temperature.", "category": "water pump"},
-    "img54.jpg": {"caption": "A high-capacity water pump improving thermal efficiency.", "category": "water pump"},
-    "img55.jpg": {"caption": "A performance water pump designed for heavy-duty engines.", "category": "water pump"},
-    "img56.jpg": {"caption": "A lightweight water pump minimizing energy consumption.", "category": "water pump"},
-    "img57.jpg": {"caption": "A high-efficiency water pump enhancing radiator performance.", "category": "water pump"},
-    "img58.jpg": {"caption": "A reinforced impeller water pump increasing coolant flow.", "category": "water pump"},
-    "img59.jpg": {"caption": "A leak-proof water pump reducing coolant loss.", "category": "water pump"},
-    "img60.jpg": {"caption": "A smart water pump optimizing engine cooling dynamically.", "category": "water pump"},
-    "img61.jpg": {"caption": "A heat-resistant water pump designed for extreme climates.", "category": "water pump"},
-    "img62.jpg": {"caption": "A high-output water pump ensuring rapid heat dissipation.", "category": "water pump"},
-    "img63.jpg": {"caption": "A self-lubricating water pump extending operational lifespan.", "category": "water pump"},
-    "img64.jpg": {"caption": "A heavy-duty water pump built for commercial and industrial vehicles.", "category": "water pump"},
-    "img65.jpg": {"caption": "A universal water pump suitable for various engine models.", "category": "water pump"},
-    "img66.jpg": {"caption": "A cutting-edge water pump improving thermal management.", "category": "water pump"},
-    "img67.jpg": {"caption": "A high-flow water pump preventing overheating in high-performance engines.", "category": "water pump"},
-    "img68.jpg": {"caption": "A dynamically balanced water pump ensuring quiet operation.", "category": "water pump"},
-    "img69.jpg": {"caption": "A weather-resistant water pump ideal for off-road applications.", "category": "water pump"},
-    "img70.jpg": {"caption": "A turbocharged water pump supporting enhanced cooling requirements.", "category": "water pump"},
-    "img71.jpg": {"caption": "A fast-circulating water pump ensuring steady coolant flow.", "category": "water pump"},
-    "img72.jpg": {"caption": "A wear-resistant water pump reducing maintenance needs.", "category": "water pump"},
-    "img73.jpg": {"caption": "A rust-proof water pump maintaining peak performance.", "category": "water pump"},
-    "img74.jpg": {"caption": "A precision-milled water pump offering high durability.", "category": "water pump"},
-    "img75.jpg": {"caption": "A vibration-resistant water pump ensuring stable operation.", "category": "water pump"},
-    "img76.jpg": {"caption": "A fuel-efficient water pump lowering engine load.", "category": "water pump"},
-    "img77.jpg": {"caption": "A high-speed water pump maintaining steady cooling output.", "category": "water pump"},
-    "img78.jpg": {"caption": "A leak-resistant water pump ensuring long-term reliability.", "category": "water pump"},
-    "img79.jpg": {"caption": "A stainless-steel water pump resisting corrosion and rust.", "category": "water pump"},
-    "img80.jpg": {"caption": "A factory-tested water pump guaranteeing OEM compatibility.", "category": "water pump"},
-    "img81.jpg": {"caption": "A performance-grade water pump enhancing heat dissipation.", "category": "water pump"},
-    "img82.jpg": {"caption": "A long-lasting water pump featuring reinforced seals.", "category": "water pump"},
-    "img83.jpg": {"caption": "A compact water pump providing space efficiency.", "category": "water pump"},
-    "img84.jpg": {"caption": "A dual-seal water pump preventing leaks and pressure loss.", "category": "water pump"},
-    "img85.jpg": {"caption": "A reinforced bearing water pump increasing durability.", "category": "water pump"},
-    "img86.jpg": {"caption": "An easy-install water pump compatible with multiple models.", "category": "water pump"},
-    "img87.jpg": {"caption": "A low-friction water pump reducing engine strain.", "category": "water pump"},
-    "img88.jpg": {"caption": "A precision-balanced water pump ensuring smooth coolant flow.", "category": "water pump"},
-    "img89.jpg": {"caption": "A rapid-response water pump optimizing temperature control.", "category": "water pump"},
-    "img90.jpg": {"caption": "A shock-resistant water pump handling tough road conditions.", "category": "water pump"},
-    "img91.jpg": {"caption": "A cooling-optimized water pump for racing engines.", "category": "water pump"},
-    "img92.jpg": {"caption": "A low-maintenance water pump reducing service costs.", "category": "water pump"},
-    "img93.jpg": {"caption": "A heat-tolerant water pump maintaining efficiency at high RPMs.", "category": "water pump"},
-    "img94.jpg": {"caption": "A power-efficient water pump improving fuel economy.", "category": "water pump"},
-    "img95.jpg": {"caption": "A next-gen water pump integrating smart cooling technology.", "category": "water pump"},
-    "img96.jpg": {"caption": "A reinforced impeller water pump providing superior performance.", "category": "water pump"},
-    "img97.jpg": {"caption": "A vibration-dampening water pump ensuring noise-free operation.", "category": "water pump"},
-    "img98.jpg": {"caption": "A robust water pump delivering maximum durability.", "category": "water pump"},
-    "img99.jpg": {"caption": "A seamless-design water pump reducing leaks and failures.", "category": "water pump"},
-    "img100.jpg": {"caption": "A high-performance water pump extending engine lifespan.", "category": "water pump"},
-    "img101.jpg": {"caption": "A premium water pump ensuring smooth coolant circulation.", "category": "water pump"},
-    "img102.jpg": {"caption": "A corrosion-resistant water pump built to withstand extreme conditions.", "category": "water pump"},
-    "img103.jpg": {"caption": "A precision-engineered water pump maintaining optimal engine temperature.", "category": "water pump"},
-    "img104.jpg": {"caption": "A high-capacity water pump improving thermal efficiency.", "category": "water pump"},
-    "img105.jpg": {"caption": "A performance water pump designed for heavy-duty engines.", "category": "water pump"},
-    "img106.jpg": {"caption": "A lightweight water pump minimizing energy consumption.", "category": "water pump"},
-    "img107.jpg": {"caption": "A high-efficiency water pump enhancing radiator performance.", "category": "water pump"},
-    "img108.jpg": {"caption": "A reinforced impeller water pump increasing coolant flow.", "category": "water pump"},
-    "img109.jpg": {"caption": "A leak-proof water pump reducing coolant loss.", "category": "water pump"},
-    "img110.jpg": {"caption": "A smart water pump optimizing engine cooling dynamically.", "category": "water pump"},
-    "img111.jpg": {"caption": "A heat-resistant water pump designed for extreme climates.", "category": "water pump"},
-    "img112.jpg": {"caption": "A high-output water pump ensuring rapid heat dissipation.", "category": "water pump"},
-    "img113.jpg": {"caption": "A self-lubricating water pump extending operational lifespan.", "category": "water pump"},
-    "img114.jpg": {"caption": "A heavy-duty water pump built for commercial and industrial vehicles.", "category": "water pump"},
-    "img115.jpg": {"caption": "A universal water pump suitable for various engine models.", "category": "water pump"},
-    "img116.jpg": {"caption": "A cutting-edge water pump improving thermal management.", "category": "water pump"},
-    "img117.jpg": {"caption": "A high-flow water pump preventing overheating in high-performance engines.", "category": "water pump"},
-    "img118.jpg": {"caption": "A dynamically balanced water pump ensuring quiet operation.", "category": "water pump"},
-    "img119.jpg": {"caption": "A weather-resistant water pump ideal for off-road applications.", "category": "water pump"},
-    "img120.jpg": {"caption": "A turbocharged water pump supporting enhanced cooling requirements.", "category": "water pump"},
-    "img121.jpg": {"caption": "A fast-circulating water pump ensuring steady coolant flow.", "category": "water pump"},
-    "img122.jpg": {"caption": "A wear-resistant water pump reducing maintenance needs.", "category": "water pump"},
-    "img123.jpg": {"caption": "A rust-proof water pump maintaining peak performance.", "category": "water pump"},
-    "img124.jpg": {"caption": "A precision-milled water pump offering high durability.", "category": "water pump"},
-    "img125.jpg": {"caption": "A vibration-resistant water pump ensuring stable operation.", "category": "water pump"},
-    "img126.jpg": {"caption": "A fuel-efficient water pump lowering engine load.", "category": "water pump"},
-    "img127.jpg": {"caption": "A high-speed water pump maintaining steady cooling output.", "category": "water pump"},
-    "img128.jpg": {"caption": "A leak-resistant water pump ensuring long-term reliability.", "category": "water pump"},
-    "img129.jpg": {"caption": "A stainless-steel water pump resisting corrosion and rust.", "category": "water pump"},
-    "img130.jpg": {"caption": "A factory-tested water pump guaranteeing OEM compatibility.", "category": "water pump"},
-    "img131.jpg": {"caption": "A performance-grade water pump enhancing heat dissipation.", "category": "water pump"},
-    "img132.jpg": {"caption": "A long-lasting water pump featuring reinforced seals.", "category": "water pump"},
-    "img133.jpg": {"caption": "A compact water pump providing space efficiency.", "category": "water pump"},
-    "img134.jpg": {"caption": "A dual-seal water pump preventing leaks and pressure loss.", "category": "water pump"},
-    "img135.jpg": {"caption": "A reinforced bearing water pump increasing durability.", "category": "water pump"},
-    "img136.jpg": {"caption": "An easy-install water pump compatible with multiple models.", "category": "water pump"},
-    "img137.jpg": {"caption": "A low-friction water pump reducing engine strain.", "category": "water pump"},
-    "img138.jpg": {"caption": "A precision-balanced water pump ensuring smooth coolant flow.", "category": "water pump"},
-    "img139.jpg": {"caption": "A rapid-response water pump optimizing temperature control.", "category": "water pump"},
-    "img140.jpg": {"caption": "A shock-resistant water pump handling tough road conditions.", "category": "water pump"},
-    "img141.jpg": {"caption": "A cooling-optimized water pump for racing engines.", "category": "water pump"},
-    "img142.jpg": {"caption": "A low-maintenance water pump reducing service costs.", "category": "water pump"},
-    "img143.jpg": {"caption": "A heat-tolerant water pump maintaining efficiency at high RPMs.", "category": "water pump"},
-    "img144.jpg": {"caption": "A power-efficient water pump improving fuel economy.", "category": "water pump"},
-    "img145.jpg": {"caption": "A next-gen water pump integrating smart cooling technology.", "category": "water pump"},
-    "img146.jpg": {"caption": "A reinforced impeller water pump providing superior performance.", "category": "water pump"},
-    "img147.jpg": {"caption": "A vibration-dampening water pump ensuring noise-free operation.", "category": "water pump"},
-    "img148.jpg": {"caption": "A robust water pump delivering maximum durability.", "category": "water pump"},
-    "img149.jpg": {"caption": "A seamless-design water pump reducing leaks and failures.", "category": "water pump"},
-    "img150.jpg": {"caption": "A high-performance water pump extending engine lifespan.", "category": "water pump"},
-    "img151.jpg": {"caption": "A durable water pump ensuring consistent coolant flow.", "category": "water pump"},
-    "img152.jpg": {"caption": "A high-quality water pump designed for optimal engine cooling.", "category": "water pump"},
-    "img153.jpg": {"caption": "An advanced water pump preventing overheating issues.", "category": "water pump"},
-    "img154.jpg": {"caption": "A corrosion-proof water pump ensuring long-lasting efficiency.", "category": "water pump"},
-    "img155.jpg": {"caption": "A high-efficiency water pump improving thermal stability.", "category": "water pump"},
-    "img156.jpg": {"caption": "A low-noise water pump for smooth and quiet operation.", "category": "water pump"},
-    "img157.jpg": {"caption": "A heavy-duty water pump ideal for tough driving conditions.", "category": "water pump"},
-    "img158.jpg": {"caption": "A premium water pump ensuring rapid heat dissipation.", "category": "water pump"},
-    "img159.jpg": {"caption": "A fuel-saving water pump reducing engine load.", "category": "water pump"},
-    "img160.jpg": {"caption": "A precision-machined water pump delivering superior performance.", "category": "water pump"},
-    "img161.jpg": {"caption": "A vibration-resistant water pump designed for stability.", "category": "water pump"},
-    "img162.jpg": {"caption": "A temperature-resistant water pump maintaining peak efficiency.", "category": "water pump"},
-    "img163.jpg": {"caption": "A leak-resistant water pump ensuring seamless operation.", "category": "water pump"},
-    "img164.jpg": {"caption": "A high-flow water pump improving cooling circulation.", "category": "water pump"},
-    "img165.jpg": {"caption": "A shockproof water pump built for rough terrains.", "category": "water pump"},
-    "img166.jpg": {"caption": "A high-durability water pump extending vehicle lifespan.", "category": "water pump"},
-    "img167.jpg": {"caption": "An easy-install water pump for convenient replacement.", "category": "water pump"},
-    "img168.jpg": {"caption": "A low-maintenance water pump reducing servicing needs.", "category": "water pump"},
-    "img169.jpg": {"caption": "A next-generation water pump featuring smart cooling technology.", "category": "water pump"},
-    "img170.jpg": {"caption": "A dynamically balanced water pump enhancing performance.", "category": "water pump"},
-    "img171.jpg": {"caption": "A reinforced-seal water pump preventing coolant leaks.", "category": "water pump"},
-    "img172.jpg": {"caption": "A high-output water pump designed for turbocharged engines.", "category": "water pump"},
-    "img173.jpg": {"caption": "A high-speed water pump ensuring rapid coolant circulation.", "category": "water pump"},
-    "img174.jpg": {"caption": "A robust water pump built for commercial vehicles.", "category": "water pump"},
-    "img175.jpg": {"caption": "A power-efficient water pump reducing engine strain.", "category": "water pump"},
-    "img176.jpg": {"caption": "A cutting-edge water pump improving overall engine efficiency.", "category": "water pump"},
-    "img177.jpg": {"caption": "A rust-resistant water pump maintaining consistent cooling.", "category": "water pump"},
-    "img178.jpg": {"caption": "A fast-cooling water pump designed for extreme performance.", "category": "water pump"},
-    "img179.jpg": {"caption": "A compact water pump providing high functionality.", "category": "water pump"},
-    "img180.jpg": {"caption": "A precision-engineered water pump ensuring long-term reliability.", "category": "water pump"},
-    "img181.jpg": {"caption": "A dual-seal water pump enhancing coolant retention.", "category": "water pump"},
-    "img182.jpg": {"caption": "A turbocharged-compatible water pump for high-performance engines.", "category": "water pump"},
-    "img183.jpg": {"caption": "A reinforced impeller water pump increasing efficiency.", "category": "water pump"},
-    "img184.jpg": {"caption": "A waterproof water pump ensuring seamless operation in wet conditions.", "category": "water pump"},
-    "img185.jpg": {"caption": "A lightweight water pump reducing energy consumption.", "category": "water pump"},
-    "img186.jpg": {"caption": "A seamless water pump providing enhanced cooling stability.", "category": "water pump"},
-    "img187.jpg": {"caption": "A state-of-the-art water pump designed for next-gen vehicles.", "category": "water pump"},
-    "img188.jpg": {"caption": "A weather-resistant water pump for all-season use.", "category": "water pump"},
-    "img189.jpg": {"caption": "A premium water pump enhancing heat dissipation.", "category": "water pump"},
-    "img190.jpg": {"caption": "A long-lasting water pump featuring reinforced bearings.", "category": "water pump"},
-    "img191.jpg": {"caption": "A reinforced-blade water pump delivering superior coolant flow.", "category": "water pump"},
-    "img192.jpg": {"caption": "A high-flow rate water pump preventing engine overheating.", "category": "water pump"},
-    "img193.jpg": {"caption": "A smart water pump dynamically adjusting to cooling needs.", "category": "water pump"},
-    "img194.jpg": {"caption": "A high-efficiency water pump extending radiator lifespan.", "category": "water pump"},
-    "img195.jpg": {"caption": "A low-friction water pump reducing power consumption.", "category": "water pump"},
-    "img196.jpg": {"caption": "A precision-sealed water pump minimizing coolant loss.", "category": "water pump"},
-    "img197.jpg": {"caption": "A performance-grade water pump boosting cooling efficiency.", "category": "water pump"},
-    "img198.jpg": {"caption": "A universal-fit water pump compatible with multiple vehicles.", "category": "water pump"},
-    "img199.jpg": {"caption": "A leak-proof water pump ensuring steady cooling performance.", "category": "water pump"},
-    "img200.jpg": {"caption": "A rugged water pump built for extreme durability.", "category": "water pump"}
-
-
-}
+[
+    {
+      "image_path": "WATER PUMP/img1.jpg",
+      "caption": "A clean water pump with metal housing and attached pulley system."
+    },
+    {
+      "image_path": "WATER PUMP/img2.jpg",
+      "caption": "Close-up view of a water pump's impeller inside the housing."
+    },
+    {
+      "image_path": "WATER PUMP/img3.jpg",
+      "caption": "Rusty old water pump removed from an engine bay."
+    },
+    {
+      "image_path": "WATER PUMP/img4.jpg",
+      "caption": "Newly installed water pump with visible gasket and bolts."
+    },
+    {
+      "image_path": "WATER PUMP/img5.jpg",
+      "caption": "Aluminum car water pump resting on a garage floor."
+    },
+    {
+      "image_path": "WATER PUMP/img6.jpg",
+      "caption": "Mechanic holding a water pump beside the car engine."
+    },
+    {
+      "image_path": "WATER PUMP/img7.jpg",
+      "caption": "Side view of a car water pump with inlet and outlet ports."
+    },
+    {
+      "image_path": "WATER PUMP/img8.jpg",
+      "caption": "Disassembled water pump showing internal rotating parts."
+    },
+    {
+      "image_path": "WATER PUMP/img9.jpg",
+      "caption": "Shiny metal water pump with brand-new fittings and housing."
+    },
+    {
+      "image_path": "WATER PUMP/img10.jpg",
+      "caption": "Close-up of the water pump pulley attached to the drive belt."
+    },
+    {
+      "image_path": "WATER PUMP/img11.jpg",
+      "caption": "Used water pump placed on a red workbench with tools nearby."
+    },
+    {
+      "image_path": "WATER PUMP/img12.jpg",
+      "caption": "High-performance water pump designed for sports engines."
+    },
+    {
+      "image_path": "WATER PUMP/img13.jpg",
+      "caption": "Mechanic aligning a new water pump with the mounting holes."
+    },
+    {
+      "image_path": "WATER PUMP/img14.jpg",
+      "caption": "Boxed aftermarket water pump ready for installation."
+    },
+    {
+      "image_path": "WATER PUMP/img15.jpg",
+      "caption": "Water pump surrounded by coolant stains and corrosion."
+    },
+    {
+      "image_path": "WATER PUMP/img16.jpg",
+      "caption": "Underside of a water pump showing impeller blades."
+    },
+    {
+      "image_path": "WATER PUMP/img17.jpg",
+      "caption": "A black-painted water pump with mounting flanges."
+    },
+    {
+      "image_path": "WATER PUMP/img18.jpg",
+      "caption": "Thermal gasket attached to the base of a water pump."
+    },
+    {
+      "image_path": "WATER PUMP/img19.jpg",
+      "caption": "Partially installed water pump within a disassembled engine."
+    },
+    {
+      "image_path": "WATER PUMP/img20.jpg",
+      "caption": "Cutaway view of a water pump showing coolant flow channels."
+    },
+    {
+      "image_path": "WATER PUMP/img21.jpg",
+      "caption": "Old water pump with signs of rust and metal flaking."
+    },
+    {
+      "image_path": "WATER PUMP/img22.jpg",
+      "caption": "Water pump next to a cooling fan and radiator hose."
+    },
+    {
+      "image_path": "WATER PUMP/img23.jpg",
+      "caption": "New water pump displayed with a set of bolts and gasket."
+    },
+    {
+      "image_path": "WATER PUMP/img24.jpg",
+      "caption": "Water pump housing beside engine block with gasket applied."
+    },
+    {
+      "image_path": "WATER PUMP/img25.jpg",
+      "caption": "Mechanic removing bolts from an old water pump."
+    },
+    {
+      "image_path": "WATER PUMP/img26.jpg",
+      "caption": "Water pump installed in engine bay with surrounding components."
+    },
+    {
+      "image_path": "WATER PUMP/img27.jpg",
+      "caption": "Engine cooling system showing connected water pump."
+    },
+    {
+      "image_path": "WATER PUMP/img28.jpg",
+      "caption": "Back view of a water pump revealing coolant outlet ports."
+    },
+    {
+      "image_path": "WATER PUMP/img29.jpg",
+      "caption": "Compact water pump assembly for a small car engine."
+    },
+    {
+      "image_path": "WATER PUMP/img30.jpg",
+      "caption": "Removed water pump with worn-out gasket material."
+    },
+    {
+      "image_path": "WATER PUMP/img31.jpg",
+      "caption": "Factory-sealed water pump with barcode and part number."
+    },
+    {
+      "image_path": "WATER PUMP/img32.jpg",
+      "caption": "Water pump resting on an oily workbench with tools."
+    },
+    {
+      "image_path": "WATER PUMP/img33.jpg",
+      "caption": "Illustration of water pump placement in a car's engine system."
+    },
+    {
+      "image_path": "WATER PUMP/img34.jpg",
+      "caption": "Mechanic tightening bolts on a freshly installed water pump."
+    },
+    {
+      "image_path": "WATER PUMP/img35.jpg",
+      "caption": "A close look at the impeller blades inside a water pump."
+    },
+    {
+      "image_path": "WATER PUMP/img36.jpg",
+      "caption": "Water pump with pulley attached to serpentine belt system."
+    },
+    {
+      "image_path": "WATER PUMP/img37.jpg",
+      "caption": "Engine block prepared for new water pump installation."
+    },
+    {
+      "image_path": "WATER PUMP/img38.jpg",
+      "caption": "Pump removed with signs of leakage from gasket edges."
+    },
+    {
+      "image_path": "WATER PUMP/img39.jpg",
+      "caption": "High-efficiency water pump designed for turbocharged engines."
+    },
+    {
+      "image_path": "WATER PUMP/img40.jpg",
+      "caption": "New pump installed with visible coolant lines connected."
+    },
+    {
+      "image_path": "WATER PUMP/img41.jpg",
+      "caption": "Mechanic cleaning mounting surface for water pump gasket."
+    },
+    {
+      "image_path": "WATER PUMP/img42.jpg",
+      "caption": "Electric water pump with sensor wires and connectors."
+    },
+    {
+      "image_path": "WATER PUMP/img43.jpg",
+      "caption": "Side-mounted water pump with cast metal housing."
+    },
+    {
+      "image_path": "WATER PUMP/img44.jpg",
+      "caption": "Old water pump next to a new replacement part."
+    },
+    {
+      "image_path": "WATER PUMP/img45.jpg",
+      "caption": "Hand placing gasket onto the water pump's mating surface."
+    },
+    {
+      "image_path": "WATER PUMP/img46.jpg",
+      "caption": "Water pump aligned and bolted onto the engine block."
+    },
+    {
+      "image_path": "WATER PUMP/img47.jpg",
+      "caption": "Close-up of corroded water pump bolts after removal."
+    },
+    {
+      "image_path": "WATER PUMP/img48.jpg",
+      "caption": "Mechanic comparing two different water pump designs."
+    },
+    {
+      "image_path": "WATER PUMP/img49.jpg",
+      "caption": "New water pump resting on engine blueprint diagram."
+    },
+    {
+      "image_path": "WATER PUMP/img50.jpg",
+      "caption": "Water pump removed from hybrid engine cooling system."
+    },
+        {
+          "image_path": "WATER PUMP/img51.jpg",
+          "caption": "Water pump with integrated thermostat control for engine cooling."
+        },
+        {
+          "image_path": "WATER PUMP/img52.jpg",
+          "caption": "Slightly worn water pump showing minor corrosion around edges."
+        },
+        {
+          "image_path": "WATER PUMP/img53.jpg",
+          "caption": "New water pump surrounded by engine components ready for installation."
+        },
+        {
+          "image_path": "WATER PUMP/img54.jpg",
+          "caption": "Pump and impeller assembly in a detailed close-up showing the inner workings."
+        },
+        {
+          "image_path": "WATER PUMP/img55.jpg",
+          "caption": "Mechanic securing water pump with tightening wrench for a firm fit."
+        },
+        {
+          "image_path": "WATER PUMP/img56.jpg",
+          "caption": "Clean water pump with cooling fins and stainless steel parts."
+        },
+        {
+          "image_path": "WATER PUMP/img57.jpg",
+          "caption": "View of water pump from above showing the inlet and outlet ports."
+        },
+        {
+          "image_path": "WATER PUMP/img58.jpg",
+          "caption": "Water pump with mounting bracket secured onto engine mount."
+        },
+        {
+          "image_path": "WATER PUMP/img59.jpg",
+          "caption": "Close-up of water pump rotor connected to the engine’s crankshaft."
+        },
+        {
+          "image_path": "WATER PUMP/img60.jpg",
+          "caption": "New water pump in packaging with manufacturer label on the box."
+        },
+        {
+          "image_path": "WATER PUMP/img61.jpg",
+          "caption": "Mounted water pump with all hoses and belts attached to the engine."
+        },
+        {
+          "image_path": "WATER PUMP/img62.jpg",
+          "caption": "Impeller blades inside a water pump rotating to circulate coolant."
+        },
+        {
+          "image_path": "WATER PUMP/img63.jpg",
+          "caption": "Water pump placed inside the car’s engine bay with detailed bolts."
+        },
+        {
+          "image_path": "WATER PUMP/img64.jpg",
+          "caption": "Corroded water pump removed from the vehicle during routine maintenance."
+        },
+        {
+          "image_path": "WATER PUMP/img65.jpg",
+          "caption": "Side angle view of the installed water pump with cooling hoses visible."
+        },
+        {
+          "image_path": "WATER PUMP/img66.jpg",
+          "caption": "Refurbished water pump ready for reinstallation in a car engine."
+        },
+        {
+          "image_path": "WATER PUMP/img67.jpg",
+          "caption": "Detailed image of water pump housing showing inlet and outlet design."
+        },
+        {
+          "image_path": "WATER PUMP/img68.jpg",
+          "caption": "New water pump displayed next to the original engine assembly."
+        },
+        {
+          "image_path": "WATER PUMP/img69.jpg",
+          "caption": "Close-up of bolts securing the water pump to the engine block."
+        },
+        {
+          "image_path": "WATER PUMP/img70.jpg",
+          "caption": "Water pump part number visible on the engine's accessory bracket."
+        },
+        {
+          "image_path": "WATER PUMP/img71.jpg",
+          "caption": "Water pump in a maintenance kit with tools for easy replacement."
+        },
+        {
+          "image_path": "WATER PUMP/img72.jpg",
+          "caption": "Water pump and cooling components being installed on a vehicle engine."
+        },
+        {
+          "image_path": "WATER PUMP/img73.jpg",
+          "caption": "Rugged water pump model built for off-road vehicles and trucks."
+        },
+        {
+          "image_path": "WATER PUMP/img74.jpg",
+          "caption": "Water pump with silicone sealant applied to prevent leaks."
+        },
+        {
+          "image_path": "WATER PUMP/img75.jpg",
+          "caption": "Close-up of a water pump's rubber seals ensuring tightness during operation."
+        },
+        {
+          "image_path": "WATER PUMP/img76.jpg",
+          "caption": "Large commercial water pump designed for industrial cooling systems."
+        },
+        {
+          "image_path": "WATER PUMP/img77.jpg",
+          "caption": "Shiny water pump with stainless steel parts exposed in a vehicle engine."
+        },
+        {
+          "image_path": "WATER PUMP/img78.jpg",
+          "caption": "Gasket placed carefully on the water pump to avoid leakage."
+        },
+        {
+          "image_path": "WATER PUMP/img79.jpg",
+          "caption": "Detailed diagram of the water pump showing internal components."
+        },
+        {
+          "image_path": "WATER PUMP/img80.jpg",
+          "caption": "Water pump removed with visible signs of age and wear on the surface."
+        },
+        {
+          "image_path": "WATER PUMP/img81.jpg",
+          "caption": "Side view of a newly installed water pump with visible connectors."
+        },
+        {
+          "image_path": "WATER PUMP/img82.jpg",
+          "caption": "Hybrid car's water pump system fitted with additional electric cooling options."
+        },
+        {
+          "image_path": "WATER PUMP/img83.jpg",
+          "caption": "Internal components of the water pump with gears and rotating parts exposed."
+        },
+        {
+          "image_path": "WATER PUMP/img84.jpg",
+          "caption": "Engine bay showing the water pump integrated with other cooling components."
+        },
+        {
+          "image_path": "WATER PUMP/img85.jpg",
+          "caption": "Partially installed water pump with tool used for securing bolts."
+        },
+        {
+          "image_path": "WATER PUMP/img86.jpg",
+          "caption": "Water pump on a mechanic's workbench awaiting final installation."
+        },
+        {
+          "image_path": "WATER PUMP/img87.jpg",
+          "caption": "Mechanical system showing water pump connected to the engine's cooling loop."
+        },
+        {
+          "image_path": "WATER PUMP/img88.jpg",
+          "caption": "Water pump surrounded by engine hoses and other mechanical parts."
+        },
+        {
+          "image_path": "WATER PUMP/img89.jpg",
+          "caption": "Detailed view of the water pump flange and mounting surface."
+        },
+        {
+          "image_path": "WATER PUMP/img90.jpg",
+          "caption": "Inspection of a water pump's inlet for wear and tear before installation."
+        },
+        {
+          "image_path": "WATER PUMP/img91.jpg",
+          "caption": "Worn out water pump removed from an engine showing cracked seals."
+        },
+        {
+          "image_path": "WATER PUMP/img92.jpg",
+          "caption": "Mechanic applying anti-corrosion coating on the water pump."
+        },
+        {
+          "image_path": "WATER PUMP/img93.jpg",
+          "caption": "Engine compartment with water pump and cooling fan installed."
+        },
+        {
+          "image_path": "WATER PUMP/img94.jpg",
+          "caption": "Close-up of the water pump housing showing precision cut metal parts."
+        },
+        {
+          "image_path": "WATER PUMP/img95.jpg",
+          "caption": "Car water pump replaced with a high-efficiency performance part."
+        },
+        {
+          "image_path": "WATER PUMP/img96.jpg",
+          "caption": "Pulley attached to the water pump to drive the cooling system."
+        },
+        {
+          "image_path": "WATER PUMP/img97.jpg",
+          "caption": "Water pump and hoses attached to the engine’s cooling block."
+        },
+        {
+          "image_path": "WATER PUMP/img98.jpg",
+          "caption": "Fully assembled engine with water pump in position."
+        },
+        {
+          "image_path": "WATER PUMP/img99.jpg",
+          "caption": "Water pump alongside the engine block and radiator hoses."
+        },
+        {
+          "image_path": "WATER PUMP/img100.jpg",
+          "caption": "Water pump with visible wear, showing signs of corrosion and leakage."
+        },
+            {
+              "image_path": "WATER PUMP/img101.jpg",
+              "caption": "Water pump installed in the engine compartment with new seals and gaskets."
+            },
+            {
+              "image_path": "WATER PUMP/img102.jpg",
+              "caption": "Engine cooling system components, including water pump and hoses, being inspected."
+            },
+            {
+              "image_path": "WATER PUMP/img103.jpg",
+              "caption": "Freshly installed water pump on an engine, showing clean and functional parts."
+            },
+            {
+              "image_path": "WATER PUMP/img104.jpg",
+              "caption": "Mechanic using a torque wrench to secure the water pump to the engine."
+            },
+            {
+              "image_path": "WATER PUMP/img105.jpg",
+              "caption": "Water pump and its connections fully assembled and ready for coolant circulation."
+            },
+            {
+              "image_path": "WATER PUMP/img106.jpg",
+              "caption": "Water pump unit with visible signs of coolant residue from a previous leak."
+            },
+            {
+              "image_path": "WATER PUMP/img107.jpg",
+              "caption": "Engine bay showing a water pump surrounded by various mechanical systems."
+            },
+            {
+              "image_path": "WATER PUMP/img108.jpg",
+              "caption": "Close-up of water pump impeller showing the intricate blades used for coolant movement."
+            },
+            {
+              "image_path": "WATER PUMP/img109.jpg",
+              "caption": "Water pump designed for heavy-duty trucks, built with durable materials."
+            },
+            {
+              "image_path": "WATER PUMP/img110.jpg",
+              "caption": "Engine components being carefully arranged for the installation of a new water pump."
+            },
+            {
+              "image_path": "WATER PUMP/img111.jpg",
+              "caption": "Mechanic using high-quality tools to mount a new water pump into place."
+            },
+            {
+              "image_path": "WATER PUMP/img112.jpg",
+              "caption": "Water pump with multiple cooling fins designed for efficient heat dissipation."
+            },
+            {
+              "image_path": "WATER PUMP/img113.jpg",
+              "caption": "Water pump and belts system being adjusted in the engine compartment."
+            },
+            {
+              "image_path": "WATER PUMP/img114.jpg",
+              "caption": "Detailed inspection of the water pump to ensure no wear before reinstallation."
+            },
+            {
+              "image_path": "WATER PUMP/img115.jpg",
+              "caption": "Mechanic ensuring proper alignment of the water pump with the engine’s cooling system."
+            },
+            {
+              "image_path": "WATER PUMP/img116.jpg",
+              "caption": "Water pump after a routine inspection, showing minimal wear and tear."
+            },
+            {
+              "image_path": "WATER PUMP/img117.jpg",
+              "caption": "Newly fitted water pump ready to supply coolant to the engine block."
+            },
+            {
+              "image_path": "WATER PUMP/img118.jpg",
+              "caption": "Engine compartment with water pump and associated cooling parts installed."
+            },
+            {
+              "image_path": "WATER PUMP/img119.jpg",
+              "caption": "Close-up of the water pump connection points showing tight sealant application."
+            },
+            {
+              "image_path": "WATER PUMP/img120.jpg",
+              "caption": "New water pump system for performance vehicles, designed for enhanced cooling."
+            },
+            {
+              "image_path": "WATER PUMP/img121.jpg",
+              "caption": "Water pump showing the detailed corrosion-resistant coating applied to its surfaces."
+            },
+            {
+              "image_path": "WATER PUMP/img122.jpg",
+              "caption": "Water pump installation process, showing the mechanic connecting hoses and securing bolts."
+            },
+            {
+              "image_path": "WATER PUMP/img123.jpg",
+              "caption": "Water pump system with special features for eco-friendly hybrid vehicles."
+            },
+            {
+              "image_path": "WATER PUMP/img124.jpg",
+              "caption": "Water pump secured in position within a high-performance engine."
+            },
+            {
+              "image_path": "WATER PUMP/img125.jpg",
+              "caption": "Detailed shot of the water pump pulley and its connection to the engine belt."
+            },
+            {
+              "image_path": "WATER PUMP/img126.jpg",
+              "caption": "A precision-built water pump designed for high-efficiency vehicles."
+            },
+            {
+              "image_path": "WATER PUMP/img127.jpg",
+              "caption": "Old water pump showing clear signs of wear, requiring replacement."
+            },
+            {
+              "image_path": "WATER PUMP/img128.jpg",
+              "caption": "Mechanic inspecting the water pump for any potential leaks before reinstalling."
+            },
+            {
+              "image_path": "WATER PUMP/img129.jpg",
+              "caption": "Water pump assembly with integrated anti-vibration mounts for smoother operation."
+            },
+            {
+              "image_path": "WATER PUMP/img130.jpg",
+              "caption": "Large industrial water pump designed for cooling heavy machinery engines."
+            },
+            {
+              "image_path": "WATER PUMP/img131.jpg",
+              "caption": "Water pump being tested for leaks and pressure before installation."
+            },
+            {
+              "image_path": "WATER PUMP/img132.jpg",
+              "caption": "Mounted water pump with coolant circulating through the system."
+            },
+            {
+              "image_path": "WATER PUMP/img133.jpg",
+              "caption": "Water pump system surrounded by cooling pipes and a freshly installed radiator."
+            },
+            {
+              "image_path": "WATER PUMP/img134.jpg",
+              "caption": "Water pump with reinforced housing to prevent failure under high pressure."
+            },
+            {
+              "image_path": "WATER PUMP/img135.jpg",
+              "caption": "Car’s engine bay with a new water pump and all essential hoses in place."
+            },
+            {
+              "image_path": "WATER PUMP/img136.jpg",
+              "caption": "Water pump inspected under bright light showing no visible flaws."
+            },
+            {
+              "image_path": "WATER PUMP/img137.jpg",
+              "caption": "A hybrid vehicle’s water pump designed with eco-friendly materials."
+            },
+            {
+              "image_path": "WATER PUMP/img138.jpg",
+              "caption": "Mechanic installing a heavy-duty water pump in a high-performance vehicle."
+            },
+            {
+              "image_path": "WATER PUMP/img139.jpg",
+              "caption": "Close-up of the water pump pulley system attached to the engine crankshaft."
+            },
+            {
+              "image_path": "WATER PUMP/img140.jpg",
+              "caption": "Water pump and surrounding engine components being replaced during maintenance."
+            },
+            {
+              "image_path": "WATER PUMP/img141.jpg",
+              "caption": "Water pump on display showing intricate internal gears and blades."
+            },
+            {
+              "image_path": "WATER PUMP/img142.jpg",
+              "caption": "Water pump with anti-corrosion coating being installed in a luxury vehicle."
+            },
+            {
+              "image_path": "WATER PUMP/img143.jpg",
+              "caption": "Detailed view of the water pump connection, including cooling hoses and brackets."
+            },
+            {
+              "image_path": "WATER PUMP/img144.jpg",
+              "caption": "Engine cooling system showing a brand-new water pump installed on the block."
+            },
+            {
+              "image_path": "WATER PUMP/img145.jpg",
+              "caption": "Water pump surrounded by fans and belts, integrated into the vehicle’s cooling setup."
+            },
+            {
+              "image_path": "WATER PUMP/img146.jpg",
+              "caption": "Water pump assembly placed on a mechanic's workbench, awaiting installation."
+            },
+            {
+              "image_path": "WATER PUMP/img147.jpg",
+              "caption": "Water pump unit fitted with high-end bearings for reduced friction and enhanced performance."
+            },
+            {
+              "image_path": "WATER PUMP/img148.jpg",
+              "caption": "Water pump components laid out on a work surface for cleaning and reassembly."
+            },
+            {
+              "image_path": "WATER PUMP/img149.jpg",
+              "caption": "Engine bay showing newly installed water pump with coolant system connected."
+            },
+            {
+              "image_path": "WATER PUMP/img150.jpg",
+              "caption": "Precision-engineered water pump with a durable metallic finish for long-lasting performance."
+            },
+                {
+                  "image_path": "WATER PUMP/img151.jpg",
+                  "caption": "Close-up of a precision water pump showing the mechanical components inside the housing."
+                },
+                {
+                  "image_path": "WATER PUMP/img152.jpg",
+                  "caption": "Water pump installed on a performance vehicle with clean lines and high-quality materials."
+                },
+                {
+                  "image_path": "WATER PUMP/img153.jpg",
+                  "caption": "Mechanic checking the water pump's alignment before securing the component with bolts."
+                },
+                {
+                  "image_path": "WATER PUMP/img154.jpg",
+                  "caption": "Inspection of the water pump and its connection to the radiator in a high-efficiency engine."
+                },
+                {
+                  "image_path": "WATER PUMP/img155.jpg",
+                  "caption": "Water pump and cooling system components being tested for leaks and coolant flow."
+                },
+                {
+                  "image_path": "WATER PUMP/img156.jpg",
+                  "caption": "Water pump securely installed on a truck engine, with coolant lines connected and ready."
+                },
+                {
+                  "image_path": "WATER PUMP/img157.jpg",
+                  "caption": "Freshly installed water pump with reinforced housing, designed to prevent leaks over time."
+                },
+                {
+                  "image_path": "WATER PUMP/img158.jpg",
+                  "caption": "Water pump in the process of being removed from an engine during maintenance."
+                },
+                {
+                  "image_path": "WATER PUMP/img159.jpg",
+                  "caption": "Detailed view of the water pump impeller, a key component for circulating coolant effectively."
+                },
+                {
+                  "image_path": "WATER PUMP/img160.jpg",
+                  "caption": "A technician carefully aligning the water pump and securing the mounting bolts."
+                },
+                {
+                  "image_path": "WATER PUMP/img161.jpg",
+                  "caption": "Water pump mounted on a heavy-duty engine, surrounded by heat shields and other cooling components."
+                },
+                {
+                  "image_path": "WATER PUMP/img162.jpg",
+                  "caption": "A compact water pump designed for compact engines, featuring high-efficiency cooling."
+                },
+                {
+                  "image_path": "WATER PUMP/img163.jpg",
+                  "caption": "Water pump installed in an electric vehicle’s cooling system, integrated with a specialized circuit."
+                },
+                {
+                  "image_path": "WATER PUMP/img164.jpg",
+                  "caption": "Water pump’s impeller mechanism being inspected for wear before reassembly."
+                },
+                {
+                  "image_path": "WATER PUMP/img165.jpg",
+                  "caption": "Water pump connected to the engine block with coolant hoses securely in place."
+                },
+                {
+                  "image_path": "WATER PUMP/img166.jpg",
+                  "caption": "A technician working on the water pump to ensure optimal coolant circulation in the engine."
+                },
+                {
+                  "image_path": "WATER PUMP/img167.jpg",
+                  "caption": "Close-up of a brand-new water pump, with attention to details such as seals and mountings."
+                },
+                {
+                  "image_path": "WATER PUMP/img168.jpg",
+                  "caption": "Water pump surrounded by other key engine components, including belts and pulleys."
+                },
+                {
+                  "image_path": "WATER PUMP/img169.jpg",
+                  "caption": "Water pump system with advanced cooling features, specifically designed for high-performance cars."
+                },
+                {
+                  "image_path": "WATER PUMP/img170.jpg",
+                  "caption": "Maintenance technician performing a diagnostic check on a water pump system."
+                },
+                {
+                  "image_path": "WATER PUMP/img171.jpg",
+                  "caption": "Water pump installed inside an engine bay, with hoses carefully routed to ensure maximum efficiency."
+                },
+                {
+                  "image_path": "WATER PUMP/img172.jpg",
+                  "caption": "Water pump and its cooling fins carefully arranged for maximum coolant flow and heat dissipation."
+                },
+                {
+                  "image_path": "WATER PUMP/img173.jpg",
+                  "caption": "An overhead view of a water pump and its connections, showing the entire cooling system in place."
+                },
+                {
+                  "image_path": "WATER PUMP/img174.jpg",
+                  "caption": "Water pump with an attached pulley system, ready to be connected to the engine's timing belt."
+                },
+                {
+                  "image_path": "WATER PUMP/img175.jpg",
+                  "caption": "Water pump being installed on a sports car’s engine block, designed for high heat endurance."
+                },
+                {
+                  "image_path": "WATER PUMP/img176.jpg",
+                  "caption": "Engine bay showing the water pump working alongside the radiator and other cooling components."
+                },
+                {
+                  "image_path": "WATER PUMP/img177.jpg",
+                  "caption": "The inner mechanism of a water pump, highlighting its efficient design for optimal coolant flow."
+                },
+                {
+                  "image_path": "WATER PUMP/img178.jpg",
+                  "caption": "Water pump with a heavy-duty design, suited for industrial applications."
+                },
+                {
+                  "image_path": "WATER PUMP/img179.jpg",
+                  "caption": "Close-up of the water pump’s mounting bracket and connection to the engine’s coolant system."
+                },
+                {
+                  "image_path": "WATER PUMP/img180.jpg",
+                  "caption": "Technician adjusting the water pump’s alignment before tightening the final bolts."
+                },
+                {
+                  "image_path": "WATER PUMP/img181.jpg",
+                  "caption": "Water pump assembly with corrosion-resistant seals and gaskets in place."
+                },
+                {
+                  "image_path": "WATER PUMP/img182.jpg",
+                  "caption": "Water pump mounted securely, with all hoses and connections tested for leaks."
+                },
+                {
+                  "image_path": "WATER PUMP/img183.jpg",
+                  "caption": "Water pump being installed on a diesel engine, designed for efficient long-term cooling."
+                },
+                {
+                  "image_path": "WATER PUMP/img184.jpg",
+                  "caption": "Mechanic inspecting the water pump for any potential issues before the engine is started."
+                },
+                {
+                  "image_path": "WATER PUMP/img185.jpg",
+                  "caption": "Water pump with an advanced cooling system, installed on a sports car for peak performance."
+                },
+                {
+                  "image_path": "WATER PUMP/img186.jpg",
+                  "caption": "Water pump ready to circulate coolant in the engine of a heavy-duty vehicle."
+                },
+                {
+                  "image_path": "WATER PUMP/img187.jpg",
+                  "caption": "Mechanic carefully adjusting the water pump for precise coolant flow within the engine."
+                },
+                {
+                  "image_path": "WATER PUMP/img188.jpg",
+                  "caption": "Water pump and hoses connected in a hybrid vehicle's engine, promoting energy-efficient cooling."
+                },
+                {
+                  "image_path": "WATER PUMP/img189.jpg",
+                  "caption": "High-performance water pump installed in a race car, ensuring optimal cooling under extreme conditions."
+                },
+                {
+                  "image_path": "WATER PUMP/img190.jpg",
+                  "caption": "Water pump with anti-corrosion properties, designed to prevent leaks and extend the pump's lifespan."
+                },
+                {
+                  "image_path": "WATER PUMP/img191.jpg",
+                  "caption": "Water pump in a precision-engineered automotive setup, ensuring optimal coolant distribution."
+                },
+                {
+                  "image_path": "WATER PUMP/img192.jpg",
+                  "caption": "Water pump and its mounting points aligned precisely for efficient operation."
+                },
+                {
+                  "image_path": "WATER PUMP/img193.jpg",
+                  "caption": "Water pump impeller system ready for assembly, featuring finely tuned blades."
+                },
+                {
+                  "image_path": "WATER PUMP/img194.jpg",
+                  "caption": "Water pump with clear fluid flow visible, indicating efficient circulation of coolant."
+                },
+                {
+                  "image_path": "WATER PUMP/img195.jpg",
+                  "caption": "Water pump installed with hoses and clamps, ensuring no leakage in the engine's cooling system."
+                },
+                {
+                  "image_path": "WATER PUMP/img196.jpg",
+                  "caption": "Water pump showing cooling system integration in the context of automotive maintenance."
+                },
+                {
+                  "image_path": "WATER PUMP/img197.jpg",
+                  "caption": "A fully functional water pump system connected to the engine block and radiator."
+                },
+                {
+                  "image_path": "WATER PUMP/img198.jpg",
+                  "caption": "Water pump under inspection to verify pressure before the engine is fired up."
+                },
+                {
+                  "image_path": "WATER PUMP/img199.jpg",
+                  "caption": "Final checkup of the water pump system before vehicle handover, ensuring no leaks."
+                },
+                {
+                  "image_path": "WATER PUMP/img200.jpg",
+                  "caption": "Engine bay with the water pump installed and functional, contributing to a fully operational cooling system."
+                }
+              
+              
+          
+          
+      
+      
+  
