@@ -1,667 +1,668 @@
-{
-    "img1.jpg": {
-        "caption": "A compact fuse box designed for efficient circuit protection in modern vehicles.",
-        "category": "Fuse Box"
-    },
-    "img2.jpg": {
-        "caption": "A high-capacity fuse box capable of housing multiple fuses for advanced electrical systems.",
-        "category": "Fuse Box"
-    },
-    "img3.jpg": {
-        "caption": "A weatherproof fuse box suitable for outdoor and rugged automotive applications.",
-        "category": "Fuse Box"
-    },
-    "img4.jpg": {
-        "caption": "A fuse box with an integrated relay panel for enhanced circuit control.",
-        "category": "Fuse Box"
-    },
-    "img5.jpg": {
-        "caption": "A modular fuse box with customizable slots for various fuse sizes.",
-        "category": "Fuse Box"
-    },
-    "img6.jpg": {
-        "caption": "A fuse box featuring LED indicators for easy blown fuse detection.",
-        "category": "Fuse Box"
-    },
-    "img7.jpg": {
-        "caption": "A compact fuse box with a transparent cover for quick visual inspection.",
-        "category": "Fuse Box"
-    },
-    "img8.jpg": {
-        "caption": "A high-durability fuse box with shock-resistant construction.",
-        "category": "Fuse Box"
-    },
-    "img9.jpg": {
-        "caption": "A fuse box equipped with thermal protection for increased safety.",
-        "category": "Fuse Box"
-    },
-    "img10.jpg": {
-        "caption": "A universal fuse box designed for compatibility with various vehicle models.",
-        "category": "Fuse Box"
-    },
-    "img11.jpg": {
-        "caption": "A heavy-duty fuse box with reinforced mounting brackets.",
-        "category": "Fuse Box"
-    },
-    "img12.jpg": {
-        "caption": "A fuse box with integrated surge protection to prevent electrical damage.",
-        "category": "Fuse Box"
-    },
-    "img13.jpg": {
-        "caption": "A smart fuse box with remote monitoring capabilities.",
-        "category": "Fuse Box"
-    },
-    "img14.jpg": {
-        "caption": "A fuse box designed for high-amperage applications in performance vehicles.",
-        "category": "Fuse Box"
-    },
-    "img15.jpg": {
-        "caption": "A fuse box with an easy-access panel for quick fuse replacement.",
-        "category": "Fuse Box"
-    },
-    "img16.jpg": {
-        "caption": "A fuse box featuring an ergonomic layout for organized wiring management.",
-        "category": "Fuse Box"
-    },
-    "img17.jpg": {
-        "caption": "A waterproof fuse box ideal for marine and off-road applications.",
-        "category": "Fuse Box"
-    },
-    "img18.jpg": {
-        "caption": "A fuse box with corrosion-resistant terminals for enhanced durability.",
-        "category": "Fuse Box"
-    },
-    "img19.jpg": {
-        "caption": "A fuse box engineered for seamless integration with modern electrical systems.",
-        "category": "Fuse Box"
-    },
-    "img20.jpg": {
-        "caption": "A mini fuse box with a space-saving design for compact installations.",
-        "category": "Fuse Box"
-    },
-    "img21.jpg": {
-        "caption": "A fuse box designed with high-temperature-resistant materials for added safety.",
-        "category": "Fuse Box"
-    },
-    "img22.jpg": {
-        "caption": "A fuse box featuring a quick-release latch for easy servicing.",
-        "category": "Fuse Box"
-    },
-    "img23.jpg": {
-        "caption": "A fuse box with labeled slots for effortless fuse identification.",
-        "category": "Fuse Box"
-    },
-    "img24.jpg": {
-        "caption": "A fuse box with dual power input support for flexible wiring configurations.",
-        "category": "Fuse Box"
-    },
-    "img25.jpg": {
-        "caption": "A robust fuse box featuring multiple grounding points for secure connections.",
-        "category": "Fuse Box"
-    },
-    "img26.jpg": {
-        "caption": "A high-performance fuse box with enhanced circuit isolation.",
-        "category": "Fuse Box"
-    },
-    "img27.jpg": {
-        "caption": "A fuse box designed for seamless integration with auxiliary power systems.",
-        "category": "Fuse Box"
-    },
-    "img28.jpg": {
-        "caption": "A fuse box with a heat-dissipating design for improved efficiency.",
-        "category": "Fuse Box"
-    },
-    "img29.jpg": {
-        "caption": "A fuse box featuring auto-reset fuses for continuous circuit protection.",
-        "category": "Fuse Box"
-    },
-    "img30.jpg": {
-        "caption": "A fuse box with integrated voltage monitoring to prevent overloads.",
-        "category": "Fuse Box"
-    },
-    "img31.jpg": {
-        "caption": "A fuse box with a reinforced outer casing for added impact resistance.",
-        "category": "Fuse Box"
-    },
-    "img32.jpg": {
-        "caption": "A fuse box engineered for use in hybrid and electric vehicles.",
-        "category": "Fuse Box"
-    },
-    "img33.jpg": {
-        "caption": "A universal fuse box with an adaptable design for various applications.",
-        "category": "Fuse Box"
-    },
-    "img34.jpg": {
-        "caption": "A fuse box featuring an optimized circuit layout for maximum efficiency.",
-        "category": "Fuse Box"
-    },
-    "img35.jpg": {
-        "caption": "A fuse box with dustproof sealing for improved longevity.",
-        "category": "Fuse Box"
-    },
-    "img36.jpg": {
-        "caption": "A fuse box with secure snap-fit connections for vibration resistance.",
-        "category": "Fuse Box"
-    },
-    "img37.jpg": {
-        "caption": "A lightweight fuse box designed for race car applications.",
-        "category": "Fuse Box"
-    },
-    "img38.jpg": {
-        "caption": "A fuse box with expandable slots for additional circuit integration.",
-        "category": "Fuse Box"
-    },
-    "img39.jpg": {
-        "caption": "A fuse box featuring multiple fuse types for compatibility with various systems.",
-        "category": "Fuse Box"
-    },
-    "img40.jpg": {
-        "caption": "A fuse box with a high-output capacity for demanding electrical loads.",
-        "category": "Fuse Box"
-    },
-    "img41.jpg": {
-        "caption": "A fuse box with a user-friendly interface for simplified maintenance.",
-        "category": "Fuse Box"
-    },
-    "img42.jpg": {
-        "caption": "A fuse box featuring integrated wire management clips for tidy installations.",
-        "category": "Fuse Box"
-    },
-    "img43.jpg": {
-        "caption": "A fuse box with modular expansion capability for future upgrades.",
-        "category": "Fuse Box"
-    },
-    "img44.jpg": {
-        "caption": "A fuse box designed for rapid fuse replacement without additional tools.",
-        "category": "Fuse Box"
-    },
-    "img45.jpg": {
-        "caption": "A fuse box with circuit breaker compatibility for added protection.",
-        "category": "Fuse Box"
-    },
-    "img46.jpg": {
-        "caption": "A compact fuse box ideal for motorcycles and small vehicles.",
-        "category": "Fuse Box"
-    },
-    "img47.jpg": {
-        "caption": "A high-efficiency fuse box designed for electric powertrains.",
-        "category": "Fuse Box"
-    },
-    "img48.jpg": {
-        "caption": "A fuse box featuring reinforced connectors for secure electrical contact.",
-        "category": "Fuse Box"
-    },
-    "img49.jpg": {
-        "caption": "A fuse box with multiple grounding terminals for stable connections.",
-        "category": "Fuse Box"
-    },
-    "img50.jpg": {
-        "caption": "A heavy-duty fuse box built to withstand extreme conditions.",
-        "category": "Fuse Box"
-    },
-    "img51.jpg": {
-        "caption": "A high-performance fuse box designed for automotive and industrial applications.",
-        "category": "Fuse Box"
-    },
-    "img52.jpg": {
-        "caption": "A compact fuse box with optimized space management for tight installations.",
-        "category": "Fuse Box"
-    },
-    "img53.jpg": {
-        "caption": "A fuse box featuring quick-access panels for easy maintenance.",
-        "category": "Fuse Box"
-    },
-    "img54.jpg": {
-        "caption": "A modular fuse box with expansion slots for additional circuit protection.",
-        "category": "Fuse Box"
-    },
-    "img55.jpg": {
-        "caption": "A fuse box with reinforced connectors for high-amperage applications.",
-        "category": "Fuse Box"
-    },
-    "img56.jpg": {
-        "caption": "A fuse box engineered for seamless integration with smart vehicle systems.",
-        "category": "Fuse Box"
-    },
-    "img57.jpg": {
-        "caption": "A fuse box with vibration-resistant housing for off-road vehicles.",
-        "category": "Fuse Box"
-    },
-    "img58.jpg": {
-        "caption": "A heavy-duty fuse box featuring an advanced thermal protection system.",
-        "category": "Fuse Box"
-    },
-    "img59.jpg": {
-        "caption": "A waterproof fuse box designed for use in extreme weather conditions.",
-        "category": "Fuse Box"
-    },
-    "img60.jpg": {
-        "caption": "A fuse box with multiple power input terminals for flexible wiring setups.",
-        "category": "Fuse Box"
-    },
-    "img61.jpg": {
-        "caption": "A fuse box featuring corrosion-resistant contacts for enhanced durability.",
-        "category": "Fuse Box"
-    },
-    "img62.jpg": {
-        "caption": "A universal fuse box with labeled slots for easy identification.",
-        "category": "Fuse Box"
-    },
-    "img63.jpg": {
-        "caption": "A fuse box designed with high-grade insulation to prevent short circuits.",
-        "category": "Fuse Box"
-    },
-    "img64.jpg": {
-        "caption": "A fuse box featuring LED indicators for blown fuse detection.",
-        "category": "Fuse Box"
-    },
-    "img65.jpg": {
-        "caption": "A lightweight fuse box optimized for fuel-efficient vehicles.",
-        "category": "Fuse Box"
-    },
-    "img66.jpg": {
-        "caption": "A fuse box with integrated fuses and relays for a streamlined design.",
-        "category": "Fuse Box"
-    },
-    "img67.jpg": {
-        "caption": "A fuse box with an innovative cooling system to prevent overheating.",
-        "category": "Fuse Box"
-    },
-    "img68.jpg": {
-        "caption": "A fuse box with a dustproof and shock-resistant outer casing.",
-        "category": "Fuse Box"
-    },
-    "img69.jpg": {
-        "caption": "A smart fuse box with wireless monitoring and diagnostics.",
-        "category": "Fuse Box"
-    },
-    "img70.jpg": {
-        "caption": "A fuse box engineered for high-voltage applications in EVs and hybrids.",
-        "category": "Fuse Box"
-    },
-    "img71.jpg": {
-        "caption": "A fuse box with a space-saving vertical design for compact vehicles.",
-        "category": "Fuse Box"
-    },
-    "img72.jpg": {
-        "caption": "A fuse box featuring advanced circuit protection technology.",
-        "category": "Fuse Box"
-    },
-    "img73.jpg": {
-        "caption": "A fuse box with an ergonomic layout for user-friendly wiring connections.",
-        "category": "Fuse Box"
-    },
-    "img74.jpg": {
-        "caption": "A fuse box designed for quick installation and minimal maintenance.",
-        "category": "Fuse Box"
-    },
-    "img75.jpg": {
-        "caption": "A fuse box featuring a reinforced locking mechanism for added security.",
-        "category": "Fuse Box"
-    },
-    "img76.jpg": {
-        "caption": "A fuse box with optimized wiring channels for improved cable management.",
-        "category": "Fuse Box"
-    },
-    "img77.jpg": {
-        "caption": "A fuse box with a built-in surge protector to prevent electrical spikes.",
-        "category": "Fuse Box"
-    },
-    "img78.jpg": {
-        "caption": "A heavy-duty fuse box with military-grade durability.",
-        "category": "Fuse Box"
-    },
-    "img79.jpg": {
-        "caption": "A fuse box designed to support high-current circuits with minimal resistance.",
-        "category": "Fuse Box"
-    },
-    "img80.jpg": {
-        "caption": "A fuse box with an IP-rated enclosure for superior weather protection.",
-        "category": "Fuse Box"
-    },
-    "img81.jpg": {
-        "caption": "A fuse box engineered for dual voltage applications in hybrid vehicles.",
-        "category": "Fuse Box"
-    },
-    "img82.jpg": {
-        "caption": "A fuse box with an anti-tamper design for added security in fleet vehicles.",
-        "category": "Fuse Box"
-    },
-    "img83.jpg": {
-        "caption": "A fuse box featuring precision-molded slots for secure fuse placement.",
-        "category": "Fuse Box"
-    },
-    "img84.jpg": {
-        "caption": "A fuse box with universal mounting brackets for easy installation.",
-        "category": "Fuse Box"
-    },
-    "img85.jpg": {
-        "caption": "A fuse box designed with energy-efficient materials for minimal power loss.",
-        "category": "Fuse Box"
-    },
-    "img86.jpg": {
-        "caption": "A fuse box with integrated sensors for real-time fuse status updates.",
-        "category": "Fuse Box"
-    },
-    "img87.jpg": {
-        "caption": "A fuse box engineered for heavy machinery and industrial applications.",
-        "category": "Fuse Box"
-    },
-    "img88.jpg": {
-        "caption": "A fuse box with multi-layered protection against electrical faults.",
-        "category": "Fuse Box"
-    },
-    "img89.jpg": {
-        "caption": "A fuse box with a modular design for customizable fuse configurations.",
-        "category": "Fuse Box"
-    },
-    "img90.jpg": {
-        "caption": "A fuse box with secure snap-on covers for enhanced safety.",
-        "category": "Fuse Box"
-    },
-    "img91.jpg": {
-        "caption": "A fuse box featuring advanced insulation to prevent electrical leakage.",
-        "category": "Fuse Box"
-    },
-    "img92.jpg": {
-        "caption": "A fuse box with an easy-access service port for quick troubleshooting.",
-        "category": "Fuse Box"
-    },
-    "img93.jpg": {
-        "caption": "A fuse box with reinforced power distribution rails for maximum efficiency.",
-        "category": "Fuse Box"
-    },
-    "img94.jpg": {
-        "caption": "A fuse box engineered to withstand extreme temperatures and environments.",
-        "category": "Fuse Box"
-    },
-    "img95.jpg": {
-        "caption": "A fuse box featuring precision-cut openings for seamless wiring integration.",
-        "category": "Fuse Box"
-    },
-    "img96.jpg": {
-        "caption": "A fuse box with built-in circuit diagnostics for automated fault detection.",
-        "category": "Fuse Box"
-    },
-    "img97.jpg": {
-        "caption": "A fuse box with a heat-resistant enclosure for added thermal protection.",
-        "category": "Fuse Box"
-    },
-    "img98.jpg": {
-        "caption": "A fuse box with dual-layer shielding to minimize electrical interference.",
-        "category": "Fuse Box"
-    },
-    "img99.jpg": {
-        "caption": "A fuse box with an intuitive layout for simplified wiring management.",
-        "category": "Fuse Box"
-    },
-    "img100.jpg": {
-        "caption": "A fuse box featuring ruggedized construction for extreme-duty performance.",
-        "category": "Fuse Box"
-    },
-    "img101.jpg": {
-        "caption": "A fuse box with a robust metal casing for maximum protection.",
-        "category": "Fuse Box"
-    },
-    "img102.jpg": {
-        "caption": "A fuse box with an auto-reset function for continuous operation.",
-        "category": "Fuse Box"
-    },
-    "img103.jpg": {
-        "caption": "A smart fuse box with app-controlled monitoring for enhanced convenience.",
-        "category": "Fuse Box"
-    },
-    "img104.jpg": {
-        "caption": "A fuse box with an integrated bus bar for efficient power distribution.",
-        "category": "Fuse Box"
-    },
-    "img105.jpg": {
-        "caption": "A fuse box designed for seamless integration with modern ECU systems.",
-        "category": "Fuse Box"
-    },
-    "img106.jpg": {
-        "caption": "A fuse box with enhanced fire-resistant insulation for added safety.",
-        "category": "Fuse Box"
-    },
-    "img107.jpg": {
-        "caption": "A fuse box featuring quick-connect terminals for easy installation.",
-        "category": "Fuse Box"
-    },
-    "img108.jpg": {
-        "caption": "A high-capacity fuse box suitable for heavy-duty electrical systems.",
-        "category": "Fuse Box"
-    },
-    "img109.jpg": {
-        "caption": "A fuse box with a sleek, space-saving design for compact vehicles.",
-        "category": "Fuse Box"
-    },
-    "img110.jpg": {
-        "caption": "A waterproof and dustproof fuse box designed for rugged applications.",
-        "category": "Fuse Box"
-    },
-    "img111.jpg": {
-        "caption": "A fuse box featuring a modular design for flexible circuit configurations.",
-        "category": "Fuse Box"
-    },
-    "img112.jpg": {
-        "caption": "A fuse box with high-conductivity copper connectors for superior efficiency.",
-        "category": "Fuse Box"
-    },
-    "img113.jpg": {
-        "caption": "A fuse box with an impact-resistant outer shell for extreme environments.",
-        "category": "Fuse Box"
-    },
-    "img114.jpg": {
-        "caption": "A fuse box with a color-coded fuse system for quick identification.",
-        "category": "Fuse Box"
-    },
-    "img115.jpg": {
-        "caption": "A fuse box with an intelligent overload detection feature for added safety.",
-        "category": "Fuse Box"
-    },
-    "img116.jpg": {
-        "caption": "A fuse box with a built-in LED warning system for blown fuses.",
-        "category": "Fuse Box"
-    },
-    "img117.jpg": {
-        "caption": "A fuse box with a dual-layer heat dissipation system to prevent overheating.",
-        "category": "Fuse Box"
-    },
-    "img118.jpg": {
-        "caption": "A fuse box engineered for high-performance racing applications.",
-        "category": "Fuse Box"
-    },
-    "img119.jpg": {
-        "caption": "A fuse box with a high-temperature-resistant housing for extreme conditions.",
-        "category": "Fuse Box"
-    },
-    "img120.jpg": {
-        "caption": "A fuse box with an ergonomic fuse puller for quick replacements.",
-        "category": "Fuse Box"
-    },
-    "img121.jpg": {
-        "caption": "A fuse box with a transparent cover for easy inspection.",
-        "category": "Fuse Box"
-    },
-    "img122.jpg": {
-        "caption": "A fuse box designed with advanced circuit protection for EVs.",
-        "category": "Fuse Box"
-    },
-    "img123.jpg": {
-        "caption": "A heavy-duty fuse box with enhanced shock resistance for industrial use.",
-        "category": "Fuse Box"
-    },
-    "img124.jpg": {
-        "caption": "A fuse box featuring dual voltage support for hybrid vehicles.",
-        "category": "Fuse Box"
-    },
-    "img125.jpg": {
-        "caption": "A fuse box with a flexible wiring layout for easy customization.",
-        "category": "Fuse Box"
-    },
-    "img126.jpg": {
-        "caption": "A fuse box with an IP67-rated waterproof casing for outdoor use.",
-        "category": "Fuse Box"
-    },
-    "img127.jpg": {
-        "caption": "A fuse box engineered for seamless compatibility with CAN bus systems.",
-        "category": "Fuse Box"
-    },
-    "img128.jpg": {
-        "caption": "A fuse box with an anti-corrosion coating for long-term reliability.",
-        "category": "Fuse Box"
-    },
-    "img129.jpg": {
-        "caption": "A fuse box designed for energy-efficient operation in modern vehicles.",
-        "category": "Fuse Box"
-    },
-    "img130.jpg": {
-        "caption": "A fuse box featuring reinforced mounting brackets for secure installation.",
-        "category": "Fuse Box"
-    },
-    "img131.jpg": {
-        "caption": "A fuse box with an optimized airflow system for heat dissipation.",
-        "category": "Fuse Box"
-    },
-    "img132.jpg": {
-        "caption": "A fuse box with built-in relay slots for integrated functionality.",
-        "category": "Fuse Box"
-    },
-    "img133.jpg": {
-        "caption": "A fuse box with a high-current rating for demanding electrical loads.",
-        "category": "Fuse Box"
-    },
-    "img134.jpg": {
-        "caption": "A fuse box with an automatic reset function for quick recovery.",
-        "category": "Fuse Box"
-    },
-    "img135.jpg": {
-        "caption": "A fuse box with a lockable cover for added security.",
-        "category": "Fuse Box"
-    },
-    "img136.jpg": {
-        "caption": "A fuse box with an intuitive LED interface for fault diagnostics.",
-        "category": "Fuse Box"
-    },
-    "img137.jpg": {
-        "caption": "A fuse box with fire-resistant insulation for enhanced protection.",
-        "category": "Fuse Box"
-    },
-    "img138.jpg": {
-        "caption": "A fuse box with reinforced copper contacts for high-efficiency power transfer.",
-        "category": "Fuse Box"
-    },
-    "img139.jpg": {
-        "caption": "A fuse box featuring vibration-resistant mounts for rough terrain vehicles.",
-        "category": "Fuse Box"
-    },
-    "img140.jpg": {
-        "caption": "A fuse box with integrated thermal sensors to prevent overheating.",
-        "category": "Fuse Box"
-    },
-    "img141.jpg": {
-        "caption": "A fuse box with a streamlined design for easy panel integration.",
-        "category": "Fuse Box"
-    },
-    "img142.jpg": {
-        "caption": "A fuse box with an expandable module for additional fuses.",
-        "category": "Fuse Box"
-    },
-    "img143.jpg": {
-        "caption": "A fuse box with a rapid-disconnect feature for easy maintenance.",
-        "category": "Fuse Box"
-    },
-    "img144.jpg": {
-        "caption": "A fuse box designed for marine applications with salt-resistant materials.",
-        "category": "Fuse Box"
-    },
-    "img145.jpg": {
-        "caption": "A fuse box with an ultra-compact design for motorcycles and ATVs.",
-        "category": "Fuse Box"
-    },
-    "img146.jpg": {
-        "caption": "A fuse box engineered for aerospace-grade reliability.",
-        "category": "Fuse Box"
-    },
-    "img147.jpg": {
-        "caption": "A fuse box featuring gold-plated connectors for superior conductivity.",
-        "category": "Fuse Box"
-    },
-    "img148.jpg": {
-        "caption": "A fuse box with an adaptive cooling system for high-power circuits.",
-        "category": "Fuse Box"
-    },
-    "img149.jpg": {
-        "caption": "A fuse box with an embedded fuse testing mechanism.",
-        "category": "Fuse Box"
-    },
-    "img150.jpg": {
-        "caption": "A fuse box with universal compatibility for aftermarket applications.",
-        "category": "Fuse Box"
-    },
-    "img151.jpg": {
-        "caption": "A fuse box featuring reinforced high-voltage insulation.",
-        "category": "Fuse Box"
-    },
-    "img152.jpg": {
-        "caption": "A fuse box with a modular PCB-based fuse system.",
-        "category": "Fuse Box"
-    },
-    "img153.jpg": {
-        "caption": "A fuse box optimized for high-performance sports cars.",
-        "category": "Fuse Box"
-    },
-    "img154.jpg": {
-        "caption": "A fuse box with smart integration for IoT-based vehicles.",
-        "category": "Fuse Box"
-    },
-    "img155.jpg": {
-        "caption": "A fuse box with an eco-friendly material composition.",
-        "category": "Fuse Box"
-    },
-    "img156.jpg": {
-        "caption": "A fuse box designed for enhanced safety in emergency vehicles.",
-        "category": "Fuse Box"
-    },
-    "img157.jpg": {
-        "caption": "A fuse box with reinforced connectors for heavy-duty applications.",
-        "category": "Fuse Box"
-    },
-    "img158.jpg": {
-        "caption": "A fuse box with a quick-swap fuse replacement system.",
-        "category": "Fuse Box"
-    },
-    "img159.jpg": {
-        "caption": "A fuse box featuring anti-corrosion terminals for extended durability.",
-        "category": "Fuse Box"
-    },
-    "img160.jpg": {
-        "caption": "A fuse box with advanced surge protection technology.",
-        "category": "Fuse Box"
-    },
-    "img161.jpg": {
-        "caption": "A fuse box with built-in circuit breakers for enhanced safety.",
-        "category": "Fuse Box"
-    },
-    "img162.jpg": {
-        "caption": "A fuse box optimized for high-efficiency energy distribution.",
-        "category": "Fuse Box"
-    },
-    "img163.jpg": {
-        "caption": "A fuse box with a flexible mounting system for easy installation.",
-        "category": "Fuse Box"
-    },
-    "img164.jpg": {
-        "caption": "A fuse box featuring a tamper-proof cover for added security.",
-        "category": "Fuse Box"
-    },
-    "img165.jpg": {
-        "caption": "A fuse box with integrated cooling fins for superior heat dissipation.",
-        "category": "Fuse Box"
-    },
-    "img166.jpg": {
-        "caption": "A fuse box designed for optimal performance in extreme temperatures.",
-        "category": "Fuse Box"
-    }
-
-}
+[
+    {
+      "image_path": "Fuse_Box/img1.jpg",
+      "caption": "A compact automotive fuse box with transparent cover."
+    },
+    {
+      "image_path": "Fuse_Box/img2.jpg",
+      "caption": "An open car fuse box showing various colored fuses."
+    },
+    {
+      "image_path": "Fuse_Box/img3.jpg",
+      "caption": "A mechanic inspecting a vehicle's fuse box under the hood."
+    },
+    {
+      "image_path": "Fuse_Box/img4.jpg",
+      "caption": "A fuse box with labeled circuits for easy identification."
+    },
+    {
+      "image_path": "Fuse_Box/img5.jpg",
+      "caption": "A close-up view of blade-type fuses in a fuse box."
+    },
+    {
+      "image_path": "Fuse_Box/img6.jpg",
+      "caption": "A fuse box diagram indicating fuse locations and amperage."
+    },
+    {
+      "image_path": "Fuse_Box/img7.jpg",
+      "caption": "An aftermarket fuse box with additional relay slots."
+    },
+    {
+      "image_path": "Fuse_Box/img8.jpg",
+      "caption": "A waterproof fuse box suitable for marine applications."
+    },
+    {
+      "image_path": "Fuse_Box/img9.jpg",
+      "caption": "A fuse box with blown fuse indicators illuminated."
+    },
+    {
+      "image_path": "Fuse_Box/img10.jpg",
+      "caption": "A modular fuse box system for customizable configurations."
+    },
+    {
+      "image_path": "Fuse_Box/img11.jpg",
+      "caption": "A fuse box mounted in the trunk of a modern sedan."
+    },
+    {
+      "image_path": "Fuse_Box/img12.jpg",
+      "caption": "A technician replacing a fuse in a vehicle's fuse panel."
+    },
+    {
+      "image_path": "Fuse_Box/img13.jpg",
+      "caption": "An under-dash fuse box with easy-access design."
+    },
+    {
+      "image_path": "Fuse_Box/img14.jpg",
+      "caption": "A fuse box with integrated circuit breakers."
+    },
+    {
+      "image_path": "Fuse_Box/img15.jpg",
+      "caption": "A high-capacity fuse box for heavy-duty vehicles."
+    },
+    {
+      "image_path": "Fuse_Box/img16.jpg",
+      "caption": "A fuse box with LED indicators for active circuits."
+    },
+    {
+      "image_path": "Fuse_Box/img17.jpg",
+      "caption": "A compact fuse box designed for motorcycles."
+    },
+    {
+      "image_path": "Fuse_Box/img18.jpg",
+      "caption": "A fuse box with a hinged cover for tool-free access."
+    },
+    {
+      "image_path": "Fuse_Box/img19.jpg",
+      "caption": "A fuse box featuring both standard and mini fuses."
+    },
+    {
+      "image_path": "Fuse_Box/img20.jpg",
+      "caption": "An engine bay fuse box with heat-resistant housing."
+    },
+    {
+      "image_path": "Fuse_Box/img21.jpg",
+      "caption": "A fuse box with color-coded fuses for quick identification."
+    },
+    {
+      "image_path": "Fuse_Box/img22.jpg",
+      "caption": "A technician using a multimeter to test fuses in a fuse box."
+    },
+    {
+      "image_path": "Fuse_Box/img23.jpg",
+      "caption": "A fuse box with spare fuse holders included."
+    },
+    {
+      "image_path": "Fuse_Box/img24.jpg",
+      "caption": "A customizable fuse box with removable slots."
+    },
+    {
+      "image_path": "Fuse_Box/img25.jpg",
+      "caption": "A fuse box with a built-in fuse puller tool."
+    },
+    {
+      "image_path": "Fuse_Box/img26.jpg",
+      "caption": "An organized fuse box with neatly arranged wiring."
+    },
+    {
+      "image_path": "Fuse_Box/img27.jpg",
+      "caption": "A fuse box with a transparent cover for easy inspection."
+    },
+    {
+      "image_path": "Fuse_Box/img28.jpg",
+      "caption": "A fuse box designed for off-road vehicles."
+    },
+    {
+      "image_path": "Fuse_Box/img29.jpg",
+      "caption": "A fuse box with integrated relays for auxiliary equipment."
+    },
+    {
+      "image_path": "Fuse_Box/img30.jpg",
+      "caption": "A fuse box with corrosion-resistant terminals."
+    },
+    {
+      "image_path": "Fuse_Box/img31.jpg",
+      "caption": "A fuse box installed in a classic car restoration project."
+    },
+    {
+      "image_path": "Fuse_Box/img32.jpg",
+      "caption": "A fuse box with a locking mechanism for security."
+    },
+    {
+      "image_path": "Fuse_Box/img33.jpg",
+      "caption": "A fuse box with multiple grounding points."
+    },
+    {
+      "image_path": "Fuse_Box/img34.jpg",
+      "caption": "A fuse box with an integrated voltage meter."
+    },
+    {
+      "image_path": "Fuse_Box/img35.jpg",
+      "caption": "A fuse box with a compact design for limited spaces."
+    },
+    {
+      "image_path": "Fuse_Box/img36.jpg",
+      "caption": "A fuse box with high-temperature resistant components."
+    },
+    {
+      "image_path": "Fuse_Box/img37.jpg",
+      "caption": "A fuse box with a snap-on cover for quick access."
+    },
+    {
+      "image_path": "Fuse_Box/img38.jpg",
+      "caption": "A fuse box with an integrated bus bar for power distribution."
+    },
+    {
+      "image_path": "Fuse_Box/img39.jpg",
+      "caption": "A fuse box with clearly labeled input and output terminals."
+    },
+    {
+      "image_path": "Fuse_Box/img40.jpg",
+      "caption": "A fuse box with a built-in circuit tester."
+    },
+    {
+      "image_path": "Fuse_Box/img41.jpg",
+      "caption": "A fuse box with a modular design for expansion."
+    },
+    {
+      "image_path": "Fuse_Box/img42.jpg",
+      "caption": "A fuse box with a weatherproof seal for outdoor use."
+    },
+    {
+      "image_path": "Fuse_Box/img43.jpg",
+      "caption": "A fuse box with a built-in fan for cooling."
+    },
+    {
+      "image_path": "Fuse_Box/img44.jpg",
+      "caption": "A fuse box with an LED display showing active circuits."
+    },
+    {
+      "image_path": "Fuse_Box/img45.jpg",
+      "caption": "A fuse box with a quick-connect wiring system."
+    },
+    {
+      "image_path": "Fuse_Box/img46.jpg",
+      "caption": "A fuse box with a built-in surge protector."
+    },
+    {
+      "image_path": "Fuse_Box/img47.jpg",
+      "caption": "A fuse box with a detachable mounting bracket."
+    },
+    {
+      "image_path": "Fuse_Box/img48.jpg",
+      "caption": "A fuse box with an integrated timer for accessory control."
+    },
+    {
+        "image_path": "Fuse_Box/img49.jpg",
+        "caption": "A fuse box with LED indicators for blown fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img50.jpg",
+        "caption": "A car's dashboard fuse box located near the steering column."
+      },
+      {
+        "image_path": "Fuse_Box/img51.jpg",
+        "caption": "An RV fuse box with multiple fuse ratings labeled clearly."
+      },
+      {
+        "image_path": "Fuse_Box/img52.jpg",
+        "caption": "A fuse box with compact mini blade fuses installed."
+      },
+      {
+        "image_path": "Fuse_Box/img53.jpg",
+        "caption": "A fuse box featuring dual power input terminals."
+      },
+      {
+        "image_path": "Fuse_Box/img54.jpg",
+        "caption": "A fuse panel with a user manual showing fuse configurations."
+      },
+      {
+        "image_path": "Fuse_Box/img55.jpg",
+        "caption": "A mounted fuse box with wiring harnesses neatly tied."
+      },
+      {
+        "image_path": "Fuse_Box/img56.jpg",
+        "caption": "A modern fuse box used in electric vehicles."
+      },
+      {
+        "image_path": "Fuse_Box/img57.jpg",
+        "caption": "A labeled fuse box showing each fuse’s function."
+      },
+      {
+        "image_path": "Fuse_Box/img58.jpg",
+        "caption": "A vehicle fuse box with high-amp fuses for power-hungry devices."
+      },
+      {
+        "image_path": "Fuse_Box/img59.jpg",
+        "caption": "A transparent fuse box with clearly visible fuse arrangement."
+      },
+      {
+        "image_path": "Fuse_Box/img60.jpg",
+        "caption": "A weather-sealed fuse box installed on an ATV."
+      },
+      {
+        "image_path": "Fuse_Box/img61.jpg",
+        "caption": "A fuse box with metal terminals and flame-retardant casing."
+      },
+      {
+        "image_path": "Fuse_Box/img62.jpg",
+        "caption": "A vintage car fuse box showing ceramic tube fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img63.jpg",
+        "caption": "A fuse box with integrated relay module for headlight control."
+      },
+      {
+        "image_path": "Fuse_Box/img64.jpg",
+        "caption": "A motorbike fuse box with only a few essential fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img65.jpg",
+        "caption": "A fuse box designed to support solar power inverters."
+      },
+      {
+        "image_path": "Fuse_Box/img66.jpg",
+        "caption": "An exposed view of a car fuse box with relays removed."
+      },
+      {
+        "image_path": "Fuse_Box/img67.jpg",
+        "caption": "A marine-grade fuse box mounted inside a boat cabin."
+      },
+      {
+        "image_path": "Fuse_Box/img68.jpg",
+        "caption": "A technician labeling wires in an auxiliary fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img69.jpg",
+        "caption": "A fuse box placed under the rear passenger seat."
+      },
+      {
+        "image_path": "Fuse_Box/img70.jpg",
+        "caption": "A fully loaded fuse box powering multiple car accessories."
+      },
+      {
+        "image_path": "Fuse_Box/img71.jpg",
+        "caption": "A fuse box with dual-layer fuse slots for expanded capacity."
+      },
+      {
+        "image_path": "Fuse_Box/img72.jpg",
+        "caption": "A fuse box schematic diagram printed inside the fuse cover."
+      },
+      {
+        "image_path": "Fuse_Box/img73.jpg",
+        "caption": "A sealed fuse box designed for engine compartment installation."
+      },
+      {
+        "image_path": "Fuse_Box/img74.jpg",
+        "caption": "A technician using fuse pliers to remove a blown fuse."
+      },
+      {
+        "image_path": "Fuse_Box/img75.jpg",
+        "caption": "A colorful fuse array neatly arranged inside a fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img76.jpg",
+        "caption": "A smart fuse box system with Bluetooth connectivity."
+      },
+      {
+        "image_path": "Fuse_Box/img77.jpg",
+        "caption": "A fuse box with replaceable relay modules included."
+      },
+      {
+        "image_path": "Fuse_Box/img78.jpg",
+        "caption": "A fuse box with warning stickers for high voltage components."
+      },
+      {
+        "image_path": "Fuse_Box/img79.jpg",
+        "caption": "A fuse panel with adjacent circuit breaker toggles."
+      },
+      {
+        "image_path": "Fuse_Box/img80.jpg",
+        "caption": "A weatherproof automotive fuse box mounted near the battery."
+      },
+      {
+        "image_path": "Fuse_Box/img81.jpg",
+        "caption": "A technician verifying fuse amperage ratings during inspection."
+      },
+      {
+        "image_path": "Fuse_Box/img82.jpg",
+        "caption": "A dual-fuse block setup with separate power distribution lines."
+      },
+      {
+        "image_path": "Fuse_Box/img83.jpg",
+        "caption": "A close-up of mini fuses inside a compact fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img84.jpg",
+        "caption": "A fuse box installed on an electric scooter's control board."
+      },
+      {
+        "image_path": "Fuse_Box/img85.jpg",
+        "caption": "An aftermarket fuse box upgrade for additional car electronics."
+      },
+      {
+        "image_path": "Fuse_Box/img86.jpg",
+        "caption": "A hidden fuse box behind the dashboard access panel."
+      },
+      {
+        "image_path": "Fuse_Box/img87.jpg",
+        "caption": "A portable fuse box tester connected to car diagnostics port."
+      },
+      {
+        "image_path": "Fuse_Box/img88.jpg",
+        "caption": "An off-grid solar setup with a protective fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img89.jpg",
+        "caption": "A fuse box integrated into a custom camper van build."
+      },
+      {
+        "image_path": "Fuse_Box/img90.jpg",
+        "caption": "A fuse box with ultra-low profile blade fuses installed."
+      },
+      {
+        "image_path": "Fuse_Box/img91.jpg",
+        "caption": "A fuse box with protective cover removed, showing internal connections."
+      },
+      {
+        "image_path": "Fuse_Box/img92.jpg",
+        "caption": "A DIY fuse box mounted on a plywood board for a home project."
+      },
+      {
+        "image_path": "Fuse_Box/img93.jpg",
+        "caption": "A fuse box with color-coded fuse placement for quick reference."
+      },
+      {
+        "image_path": "Fuse_Box/img94.jpg",
+        "caption": "A compact fuse box installed under a car hood."
+      },
+      {
+        "image_path": "Fuse_Box/img95.jpg",
+        "caption": "A technician inserting a fuse into a motorcycle fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img96.jpg",
+        "caption": "A rugged fuse box enclosure designed for harsh environments."
+      },
+      {
+        "image_path": "Fuse_Box/img97.jpg",
+        "caption": "A fuse box with integrated power distribution block."
+      },
+      {
+        "image_path": "Fuse_Box/img98.jpg",
+        "caption": "An open fuse box with missing fuses and exposed terminals."
+      },
+      {
+        "image_path": "Fuse_Box/img99.jpg",
+        "caption": "A heavy-duty fuse box with brass terminals for high current loads."
+      },
+      {
+        "image_path": "Fuse_Box/img100.jpg",
+        "caption": "A modern fuse box design with push-button resettable fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img101.jpg",
+        "caption": "A vehicle fuse box next to the battery in the engine compartment."
+      },
+      {
+        "image_path": "Fuse_Box/img102.jpg",
+        "caption": "A semi-transparent cover allowing easy inspection of fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img103.jpg",
+        "caption": "A DIY campervan fuse box with hand-labeled wiring."
+      },
+      {
+        "image_path": "Fuse_Box/img104.jpg",
+        "caption": "A fuse box featuring modular connections for easy expansion."
+      },
+      {
+        "image_path": "Fuse_Box/img105.jpg",
+        "caption": "A waterproof automotive fuse box with silicone seals."
+      },
+      {
+        "image_path": "Fuse_Box/img106.jpg",
+        "caption": "A fuse box with extra slots for future fuse additions."
+      },
+      {
+        "image_path": "Fuse_Box/img107.jpg",
+        "caption": "A minimalist fuse box mounted directly onto a battery pack."
+      },
+      {
+        "image_path": "Fuse_Box/img108.jpg",
+        "caption": "A marine fuse box mounted in a fiberglass compartment."
+      },
+      {
+        "image_path": "Fuse_Box/img109.jpg",
+        "caption": "A fuse box with see-through lid and clear labeling."
+      },
+      {
+        "image_path": "Fuse_Box/img110.jpg",
+        "caption": "An RV fuse box with labeled fuse ratings and usage guide."
+      },
+      {
+        "image_path": "Fuse_Box/img111.jpg",
+        "caption": "A large fuse box with relay slots and multiple fuse rows."
+      },
+      {
+        "image_path": "Fuse_Box/img112.jpg",
+        "caption": "A compact fuse box used for auxiliary lighting circuits."
+      },
+      {
+        "image_path": "Fuse_Box/img113.jpg",
+        "caption": "A dual-channel fuse box for isolating separate circuits."
+      },
+      {
+        "image_path": "Fuse_Box/img114.jpg",
+        "caption": "A simple inline fuse box used in low-voltage applications."
+      },
+      {
+        "image_path": "Fuse_Box/img115.jpg",
+        "caption": "A heavy gauge wire entering a high-amperage fuse box."
+      },
+      {
+        "image_path": "Fuse_Box/img116.jpg",
+        "caption": "A modern automotive fuse box with CAN bus integration."
+      },
+      {
+        "image_path": "Fuse_Box/img117.jpg",
+        "caption": "A technician installing fuses into a backup power system."
+      },
+      {
+        "image_path": "Fuse_Box/img118.jpg",
+        "caption": "A fuse box built into a battery management system."
+      },
+      {
+        "image_path": "Fuse_Box/img119.jpg",
+        "caption": "An auxiliary fuse box mounted behind the rear seats."
+      },
+      {
+        "image_path": "Fuse_Box/img120.jpg",
+        "caption": "A fuse box with LED test points for each circuit."
+      },
+      {
+        "image_path": "Fuse_Box/img121.jpg",
+        "caption": "A vintage-style fuse box with ceramic and glass fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img122.jpg",
+        "caption": "A fuse box with snap-in mounting clips and wire terminals."
+      },
+      {
+        "image_path": "Fuse_Box/img123.jpg",
+        "caption": "A fuse box with relays for engine start and fuel pump."
+      },
+      {
+        "image_path": "Fuse_Box/img124.jpg",
+        "caption": "A compact motorcycle fuse box with waterproof cover."
+      },
+      {
+        "image_path": "Fuse_Box/img125.jpg",
+        "caption": "A fuse box housed within a toolbox for portable use."
+      },
+      {
+        "image_path": "Fuse_Box/img126.jpg",
+        "caption": "An under-seat fuse box with factory-installed harness."
+      },
+      {
+        "image_path": "Fuse_Box/img127.jpg",
+        "caption": "A custom fuse panel made for 4x4 off-road vehicle."
+      },
+      {
+        "image_path": "Fuse_Box/img128.jpg",
+        "caption": "A dual-layer fuse box with space-saving vertical layout."
+      },
+      {
+        "image_path": "Fuse_Box/img129.jpg",
+        "caption": "A labeled fuse diagram sticker on the fuse box lid."
+      },
+      {
+        "image_path": "Fuse_Box/img130.jpg",
+        "caption": "A universal-fit fuse box with ring terminals installed."
+      },
+      {
+        "image_path": "Fuse_Box/img131.jpg",
+        "caption": "A plastic-encased fuse box installed near trailer hitch wiring."
+      },
+      {
+        "image_path": "Fuse_Box/img132.jpg",
+        "caption": "An electrical panel with fuse box for 12V distribution."
+      },
+      {
+        "image_path": "Fuse_Box/img133.jpg",
+        "caption": "A fuse box installed in a vehicle firewall compartment."
+      },
+      {
+        "image_path": "Fuse_Box/img134.jpg",
+        "caption": "A modular fuse box with expandable relay slots."
+      },
+      {
+        "image_path": "Fuse_Box/img135.jpg",
+        "caption": "A fuse block with corrosion-resistant terminals."
+      },
+      {
+        "image_path": "Fuse_Box/img136.jpg",
+        "caption": "A fuse box with internal bus bar to reduce wiring clutter."
+      },
+      {
+        "image_path": "Fuse_Box/img137.jpg",
+        "caption": "A high-capacity fuse box supporting multiple DC circuits."
+      },
+      {
+        "image_path": "Fuse_Box/img138.jpg",
+        "caption": "A fuse panel showing blown fuses with melted tips."
+      },
+      {
+        "image_path": "Fuse_Box/img139.jpg",
+        "caption": "A fuse box designed for solar battery backup systems."
+      },
+      {
+        "image_path": "Fuse_Box/img140.jpg",
+        "caption": "An inline fuse box with quick-connect terminals."
+      },
+      {
+        "image_path": "Fuse_Box/img141.jpg",
+        "caption": "A compact fuse box with adhesive backing for mounting."
+      },
+      {
+        "image_path": "Fuse_Box/img142.jpg",
+        "caption": "A fuse panel with integrated voltmeter display."
+      },
+      {
+        "image_path": "Fuse_Box/img143.jpg",
+        "caption": "A marine fuse box with tinned copper bus bars."
+      },
+      {
+        "image_path": "Fuse_Box/img144.jpg",
+        "caption": "A brightly colored fuse set installed in clear fuse slots."
+      },
+      {
+        "image_path": "Fuse_Box/img145.jpg",
+        "caption": "A technician checking continuity in a fuse box circuit."
+      },
+      {
+        "image_path": "Fuse_Box/img146.jpg",
+        "caption": "A fuse box with LED alert for blown fuse detection."
+      },
+      {
+        "image_path": "Fuse_Box/img147.jpg",
+        "caption": "An organized fuse box for vehicle lighting circuits."
+      },
+      {
+        "image_path": "Fuse_Box/img148.jpg",
+        "caption": "A fuse block with vertical blade orientation for easy access."
+      },
+      {
+        "image_path": "Fuse_Box/img149.jpg",
+        "caption": "A mounted fuse box connected to auxiliary batteries."
+      },
+      {
+        "image_path": "Fuse_Box/img150.jpg",
+        "caption": "A labeled fuse box installed in a van conversion project."
+      },
+      {
+        "image_path": "Fuse_Box/img151.jpg",
+        "caption": "A fuse box in an electric vehicle with high-voltage fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img152.jpg",
+        "caption": "A fuse box mounted inside a glove compartment for easy access."
+      },
+      {
+        "image_path": "Fuse_Box/img153.jpg",
+        "caption": "A compact waterproof fuse box designed for jet skis."
+      },
+      {
+        "image_path": "Fuse_Box/img154.jpg",
+        "caption": "A labeled fuse box showing power windows and horn circuits."
+      },
+      {
+        "image_path": "Fuse_Box/img155.jpg",
+        "caption": "A portable fuse box with individual circuit indicators."
+      },
+      {
+        "image_path": "Fuse_Box/img156.jpg",
+        "caption": "A fuse box with extra fuses stored in a hidden compartment."
+      },
+      {
+        "image_path": "Fuse_Box/img157.jpg",
+        "caption": "An off-road vehicle’s fuse box with mud-resistant casing."
+      },
+      {
+        "image_path": "Fuse_Box/img158.jpg",
+        "caption": "A technician demonstrating fuse replacement in a classroom."
+      },
+      {
+        "image_path": "Fuse_Box/img159.jpg",
+        "caption": "A car fuse box diagram showing wiring paths and amperage."
+      },
+      {
+        "image_path": "Fuse_Box/img160.jpg",
+        "caption": "A marine fuse panel with toggle switches and blade fuses."
+      },
+      {
+        "image_path": "Fuse_Box/img161.jpg",
+        "caption": "A clear fuse box housing with visible terminals and bus bar."
+      },
+      {
+        "image_path": "Fuse_Box/img162.jpg",
+        "caption": "A custom rally car fuse box designed for quick service."
+      },
+      {
+        "image_path": "Fuse_Box/img163.jpg",
+        "caption": "A digital display fuse panel showing real-time voltage."
+      },
+      {
+        "image_path": "Fuse_Box/img164.jpg",
+        "caption": "A fuse box with 3D printed mounting clips."
+      },
+      {
+        "image_path": "Fuse_Box/img165.jpg",
+        "caption": "A weatherproof fuse box mounted externally on a utility trailer."
+      },
+      {
+        "image_path": "Fuse_Box/img166.jpg",
+        "caption": "An RV interior showing the location of the fuse panel under the seat."
+      }  
+]    
+   
+   

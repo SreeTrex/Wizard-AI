@@ -1,839 +1,841 @@
-{
-    "img1.jpg": {
-        "caption": "A high-intensity LED fog light for enhanced visibility in harsh weather.",
-        "category": "Fog Light"
-    },
-    "img2.jpg": {
-        "caption": "A round halogen fog light designed for classic vehicle styling.",
-        "category": "Fog Light"
-    },
-    "img3.jpg": {
-        "caption": "A pair of universal-fit fog lights with adjustable mounting brackets.",
-        "category": "Fog Light"
-    },
-    "img4.jpg": {
-        "caption": "A yellow-tinted fog light for improved penetration through heavy fog.",
-        "category": "Fog Light"
-    },
-    "img5.jpg": {
-        "caption": "A waterproof fog light housing built for off-road durability.",
-        "category": "Fog Light"
-    },
-    "img6.jpg": {
-        "caption": "A compact fog light set with easy plug-and-play installation.",
-        "category": "Fog Light"
-    },
-    "img7.jpg": {
-        "caption": "An energy-efficient LED fog light with a long lifespan.",
-        "category": "Fog Light"
-    },
-    "img8.jpg": {
-        "caption": "A projector-style fog light for focused beam control.",
-        "category": "Fog Light"
-    },
-    "img9.jpg": {
-        "caption": "A smoked-lens fog light with a sleek, modern design.",
-        "category": "Fog Light"
-    },
-    "img10.jpg": {
-        "caption": "A dual-color fog light capable of switching between white and yellow.",
-        "category": "Fog Light"
-    },
-    "img11.jpg": {
-        "caption": "A high-output HID fog light for superior brightness.",
-        "category": "Fog Light"
-    },
-    "img12.jpg": {
-        "caption": "A fog light with built-in daytime running light (DRL) functionality.",
-        "category": "Fog Light"
-    },
-    "img13.jpg": {
-        "caption": "A rugged fog light with an impact-resistant lens.",
-        "category": "Fog Light"
-    },
-    "img14.jpg": {
-        "caption": "A stylish fog light with chrome bezels for luxury vehicles.",
-        "category": "Fog Light"
-    },
-    "img15.jpg": {
-        "caption": "A rally-spec fog light designed for extreme weather conditions.",
-        "category": "Fog Light"
-    },
-    "img16.jpg": {
-        "caption": "An OEM-style fog light replacement for seamless factory fitment.",
-        "category": "Fog Light"
-    },
-    "img17.jpg": {
-        "caption": "A compact LED fog light with minimal power consumption.",
-        "category": "Fog Light"
-    },
-    "img18.jpg": {
-        "caption": "A sealed beam fog light resistant to water and dust.",
-        "category": "Fog Light"
-    },
-    "img19.jpg": {
-        "caption": "An ultra-slim fog light design for a discreet look.",
-        "category": "Fog Light"
-    },
-    "img20.jpg": {
-        "caption": "A high-performance fog light with a reinforced aluminum housing.",
-        "category": "Fog Light"
-    },
-    "img21.jpg": {
-        "caption": "A plug-and-play fog light set with universal compatibility.",
-        "category": "Fog Light"
-    },
-    "img22.jpg": {
-        "caption": "A wide-beam LED fog light for better road coverage.",
-        "category": "Fog Light"
-    },
-    "img23.jpg": {
-        "caption": "A heavy-duty fog light built for off-road vehicles.",
-        "category": "Fog Light"
-    },
-    "img24.jpg": {
-        "caption": "A crystal-clear lens fog light for enhanced clarity.",
-        "category": "Fog Light"
-    },
-    "img25.jpg": {
-        "caption": "A durable fog light with shockproof construction.",
-        "category": "Fog Light"
-    },
-    "img26.jpg": {
-        "caption": "A mini fog light designed for motorcycles and ATVs.",
-        "category": "Fog Light"
+[
+    {
+      "image_path": "Fog_Light/img1.jpg",
+      "caption": "A high-intensity LED fog light for enhanced visibility in harsh weather."
+    },
+    {
+      "image_path": "Fog_Light/img2.jpg",
+      "caption": "A round halogen fog light designed for classic vehicle styling."
+    },
+    {
+      "image_path": "Fog_Light/img3.jpg",
+      "caption": "A pair of universal-fit fog lights with adjustable mounting brackets."
+    },
+    {
+      "image_path": "Fog_Light/img4.jpg",
+      "caption": "A yellow-tinted fog light for improved penetration through heavy fog."
+    },
+    {
+      "image_path": "Fog_Light/img5.jpg",
+      "caption": "A waterproof fog light housing built for off-road durability."
+    },
+    {
+      "image_path": "Fog_Light/img6.jpg",
+      "caption": "A compact fog light set with easy plug-and-play installation."
+    },
+    {
+      "image_path": "Fog_Light/img7.jpg",
+      "caption": "An energy-efficient LED fog light with a long lifespan."
+    },
+    {
+      "image_path": "Fog_Light/img8.jpg",
+      "caption": "A projector-style fog light for focused beam control."
+    },
+    {
+      "image_path": "Fog_Light/img9.jpg",
+      "caption": "A smoked-lens fog light with a sleek, modern design."
+    },
+    {
+      "image_path": "Fog_Light/img10.jpg",
+      "caption": "A dual-color fog light capable of switching between white and yellow."
+    },
+    {
+      "image_path": "Fog_Light/img11.jpg",
+      "caption": "A high-output HID fog light for superior brightness."
+    },
+    {
+      "image_path": "Fog_Light/img12.jpg",
+      "caption": "A fog light with built-in daytime running light (DRL) functionality."
+    },
+    {
+      "image_path": "Fog_Light/img13.jpg",
+      "caption": "A rugged fog light with an impact-resistant lens."
+    },
+    {
+      "image_path": "Fog_Light/img14.jpg",
+      "caption": "A stylish fog light with chrome bezels for luxury vehicles."
+    },
+    {
+      "image_path": "Fog_Light/img15.jpg",
+      "caption": "A rally-spec fog light designed for extreme weather conditions."
+    },
+    {
+      "image_path": "Fog_Light/img16.jpg",
+      "caption": "An OEM-style fog light replacement for seamless factory fitment."
+    },
+    {
+      "image_path": "Fog_Light/img17.jpg",
+      "caption": "A compact LED fog light with minimal power consumption."
+    },
+    {
+      "image_path": "Fog_Light/img18.jpg",
+      "caption": "A sealed beam fog light resistant to water and dust."
+    },
+    {
+      "image_path": "Fog_Light/img19.jpg",
+      "caption": "An ultra-slim fog light design for a discreet look."
+    },
+    {
+      "image_path": "Fog_Light/img20.jpg",
+      "caption": "A high-performance fog light with a reinforced aluminum housing."
+    },
+    {
+      "image_path": "Fog_Light/img21.jpg",
+      "caption": "A plug-and-play fog light set with universal compatibility."
+    },
+    {
+      "image_path": "Fog_Light/img22.jpg",
+      "caption": "A wide-beam LED fog light for better road coverage."
+    },
+    {
+      "image_path": "Fog_Light/img23.jpg",
+      "caption": "A heavy-duty fog light built for off-road vehicles."
+    },
+    {
+      "image_path": "Fog_Light/img24.jpg",
+      "caption": "A crystal-clear lens fog light for enhanced clarity."
+    },
+    {
+      "image_path": "Fog_Light/img25.jpg",
+      "caption": "A durable fog light with shockproof construction."
+    },
+    {
+      "image_path": "Fog_Light/img26.jpg",
+      "caption": "A mini fog light designed for motorcycles and ATVs."
     },
-    "img27.jpg": {
-        "caption": "An advanced fog light with adaptive beam technology.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img27.jpg",
+      "caption": "An advanced fog light with adaptive beam technology."
     },
-    "img28.jpg": {
-        "caption": "A factory-style fog light replacement for sedans and SUVs.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img28.jpg",
+      "caption": "A factory-style fog light replacement for sedans and SUVs."
     },
-    "img29.jpg": {
-        "caption": "A quad-row LED fog light bar for maximum brightness.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img29.jpg",
+      "caption": "A quad-row LED fog light bar for maximum brightness."
     },
-    "img30.jpg": {
-        "caption": "A blue-tinted fog light for a unique aesthetic appearance.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img30.jpg",
+      "caption": "A blue-tinted fog light for a unique aesthetic appearance."
     },
-    "img31.jpg": {
-        "caption": "A wireless-controlled fog light with multiple brightness settings.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img31.jpg",
+      "caption": "A wireless-controlled fog light with multiple brightness settings."
     },
-    "img32.jpg": {
-        "caption": "A high-lumen LED fog light for ultimate road visibility.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img32.jpg",
+      "caption": "A high-lumen LED fog light for ultimate road visibility."
     },
-    "img33.jpg": {
-        "caption": "A fog light with built-in amber strobe function.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img33.jpg",
+      "caption": "A fog light with built-in amber strobe function."
     },
-    "img34.jpg": {
-        "caption": "A corrosion-resistant stainless steel fog light housing.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img34.jpg",
+      "caption": "A corrosion-resistant stainless steel fog light housing."
     },
-    "img35.jpg": {
-        "caption": "A long-range fog light designed for highway driving.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img35.jpg",
+      "caption": "A long-range fog light designed for highway driving."
     },
-    "img36.jpg": {
-        "caption": "A high-efficiency LED fog light with built-in cooling fins.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img36.jpg",
+      "caption": "A high-efficiency LED fog light with built-in cooling fins."
     },
-    "img37.jpg": {
-        "caption": "A slim-profile fog light designed for sports cars.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img37.jpg",
+      "caption": "A slim-profile fog light designed for sports cars."
     },
-    "img38.jpg": {
-        "caption": "A DOT-approved fog light ensuring road safety compliance.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img38.jpg",
+      "caption": "A DOT-approved fog light ensuring road safety compliance."
     },
-    "img39.jpg": {
-        "caption": "A quick-install fog light kit with pre-wired harness.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img39.jpg",
+      "caption": "A quick-install fog light kit with pre-wired harness."
     },
-    "img40.jpg": {
-        "caption": "A rectangular fog light ideal for commercial vehicles.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img40.jpg",
+      "caption": "A rectangular fog light ideal for commercial vehicles."
     },
-    "img41.jpg": {
-        "caption": "A high-powered rally fog light with maximum durability.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img41.jpg",
+      "caption": "A high-powered rally fog light with maximum durability."
     },
-    "img42.jpg": {
-        "caption": "A precision-focused projector fog light for long-distance lighting.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img42.jpg",
+      "caption": "A precision-focused projector fog light for long-distance lighting."
     },
-    "img43.jpg": {
-        "caption": "A factory-fit fog light with exact OEM specifications.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img43.jpg",
+      "caption": "A factory-fit fog light with exact OEM specifications."
     },
-    "img44.jpg": {
-        "caption": "A smoke-lens LED fog light for a stealthy appearance.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img44.jpg",
+      "caption": "A smoke-lens LED fog light for a stealthy appearance."
     },
-    "img45.jpg": {
-        "caption": "An integrated fog light and turn signal combo unit.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img45.jpg",
+      "caption": "An integrated fog light and turn signal combo unit."
     },
-    "img46.jpg": {
-        "caption": "A fog light with reinforced polycarbonate lens for durability.",
-        "category": "Fog Light"
+    {
+      "image_path": "Fog_Light/img46.jpg",
+      "caption": "A fog light with reinforced polycarbonate lens for durability."
     },
-    "img47.jpg": {
-        "caption": "A round fog light with an adjustable mounting system.",
-        "category": "Fog Light"
-    },
-    "img48.jpg": {
-        "caption": "A shockproof fog light for off-road adventures.",
-        "category": "Fog Light"
-    },
-    "img49.jpg": {
-        "caption": "A durable LED fog light resistant to extreme temperatures.",
-        "category": "Fog Light"
-    },
-    "img50.jpg": {
-        "caption": "A bright LED fog light with high-visibility performance.",
-        "category": "Fog Light"
-    },
-    "img51.jpg": {
-        "caption": "A weather-resistant fog light designed for all-season use.",
-        "category": "Fog Light"
-    },
-    "img52.jpg": {
-        "caption": "A universal-fit fog light with easy installation.",
-        "category": "Fog Light"
-    },
-    "img53.jpg": {
-        "caption": "A heavy-duty fog light ideal for extreme weather conditions.",
-        "category": "Fog Light"
-    },
-    "img54.jpg": {
-        "caption": "A white LED fog light for modern vehicle applications.",
-        "category": "Fog Light"
-    },
-    "img55.jpg": {
-        "caption": "A focused beam fog light to reduce glare in foggy conditions.",
-        "category": "Fog Light"
-    },
-    "img56.jpg": {
-        "caption": "A high-contrast amber fog light for increased visibility.",
-        "category": "Fog Light"
-    },
-    "img57.jpg": {
-        "caption": "A curved fog light housing designed for aerodynamic vehicles.",
-        "category": "Fog Light"
-    },
-    "img58.jpg": {
-        "caption": "A fog light with dual-color temperature adjustment.",
-        "category": "Fog Light"
-    },
-    "img59.jpg": {
-        "caption": "A smart fog light with automatic brightness adjustment.",
-        "category": "Fog Light"
-    },
-    "img60.jpg": {
-        "caption": "A stylish rectangular fog light for modern SUVs.",
-        "category": "Fog Light"
-    },
-    "img61.jpg": {
-        "caption": "A DOT-approved fog light for highway safety compliance.",
-        "category": "Fog Light"
-    },
-    "img62.jpg": {
-        "caption": "A low-profile fog light designed for sports coupes.",
-        "category": "Fog Light"
-    },
-    "img63.jpg": {
-        "caption": "A crystal-clear fog light lens for superior light output.",
-        "category": "Fog Light"
-    },
-    "img64.jpg": {
-        "caption": "A reinforced fog light housing for off-road durability.",
-        "category": "Fog Light"
-    },
-    "img65.jpg": {
-        "caption": "A fog light with built-in cooling system for extended lifespan.",
-        "category": "Fog Light"
-    },
-    "img66.jpg": {
-        "caption": "A powerful LED fog light with maximum beam intensity.",
-        "category": "Fog Light"
-    },
-    "img67.jpg": {
-        "caption": "A military-grade fog light with reinforced steel casing.",
-        "category": "Fog Light"
-    },
-    "img68.jpg": {
-        "caption": "A premium fog light designed for luxury sedans.",
-        "category": "Fog Light"
-    },
-    "img69.jpg": {
-        "caption": "A fog light with an integrated high-beam assist feature.",
-        "category": "Fog Light"
-    },
-    "img70.jpg": {
-        "caption": "A water-resistant fog light ideal for monsoon driving.",
-        "category": "Fog Light"
-    },
-    "img71.jpg": {
-        "caption": "A compact fog light with ultra-bright LEDs.",
-        "category": "Fog Light"
-    },
-    "img72.jpg": {
-        "caption": "A high-intensity HID fog light for extreme weather conditions.",
-        "category": "Fog Light"
-    },
-    "img73.jpg": {
-        "caption": "A hybrid fog light system combining LED and halogen technology.",
-        "category": "Fog Light"
-    },
-    "img74.jpg": {
-        "caption": "A fog light kit with all necessary wiring for easy installation.",
-        "category": "Fog Light"
-    },
-    "img75.jpg": {
-        "caption": "A durable fog light with impact-resistant glass.",
-        "category": "Fog Light"
-    },
-    "img76.jpg": {
-        "caption": "A street-legal fog light with an adjustable beam pattern.",
-        "category": "Fog Light"
-    },
-    "img77.jpg": {
-        "caption": "A dual-lens fog light system for better coverage.",
-        "category": "Fog Light"
-    },
-    "img78.jpg": {
-        "caption": "A heavy-duty LED fog light with long-lasting durability.",
-        "category": "Fog Light"
-    },
-    "img79.jpg": {
-        "caption": "A multi-angle fog light system for enhanced road safety.",
-        "category": "Fog Light"
-    },
-    "img80.jpg": {
-        "caption": "A carbon fiber fog light housing for lightweight strength.",
-        "category": "Fog Light"
-    },
-    "img81.jpg": {
-        "caption": "A digital-controlled fog light with smartphone compatibility.",
-        "category": "Fog Light"
-    },
-    "img82.jpg": {
-        "caption": "A rally-spec fog light for high-speed nighttime driving.",
-        "category": "Fog Light"
-    },
-    "img83.jpg": {
-        "caption": "A sleek modern fog light with a smoked lens finish.",
-        "category": "Fog Light"
-    },
-    "img84.jpg": {
-        "caption": "A high-efficiency fog light with heat dissipation technology.",
-        "category": "Fog Light"
-    },
-    "img85.jpg": {
-        "caption": "A wide-angle fog light for maximum road coverage.",
-        "category": "Fog Light"
-    },
-    "img86.jpg": {
-        "caption": "A plug-and-play LED fog light for quick installation.",
-        "category": "Fog Light"
-    },
-    "img87.jpg": {
-        "caption": "A triple-layer sealed fog light to prevent moisture buildup.",
-        "category": "Fog Light"
-    },
-    "img88.jpg": {
-        "caption": "A rectangular fog light designed for rugged terrain.",
-        "category": "Fog Light"
-    },
-    "img89.jpg": {
-        "caption": "A dual-purpose fog light with an integrated DRL function.",
-        "category": "Fog Light"
-    },
-    "img90.jpg": {
-        "caption": "A bulletproof fog light lens for maximum durability.",
-        "category": "Fog Light"
-    },
-    "img91.jpg": {
-        "caption": "A precision-engineered fog light for focused beam output.",
-        "category": "Fog Light"
-    },
-    "img92.jpg": {
-        "caption": "A color-changing fog light with remote control operation.",
-        "category": "Fog Light"
-    },
-    "img93.jpg": {
-        "caption": "A long-range fog light designed for optimal highway visibility.",
-        "category": "Fog Light"
-    },
-    "img94.jpg": {
-        "caption": "A high-output fog light for extreme off-road adventures.",
-        "category": "Fog Light"
-    },
-    "img95.jpg": {
-        "caption": "A laser-enhanced fog light for cutting through dense fog.",
-        "category": "Fog Light"
-    },
-    "img96.jpg": {
-        "caption": "A dual-beam fog light system for enhanced night vision.",
-        "category": "Fog Light"
-    },
-    "img97.jpg": {
-        "caption": "An ultra-bright fog light with a high-lumen output.",
-        "category": "Fog Light"
-    },
-    "img98.jpg": {
-        "caption": "A compact yet powerful fog light for motorcycles and ATVs.",
-        "category": "Fog Light"
-    },
-    "img99.jpg": {
-        "caption": "A high-performance fog light with a reinforced aluminum body.",
-        "category": "Fog Light"
-    },
-    "img100.jpg": {
-        "caption": "An innovative fog light with adaptive brightness control.",
-        "category": "Fog Light"
-    },
-    "img101.jpg": {
-        "caption": "A precision-cut fog light designed for enhanced night driving visibility.",
-        "category": "Fog Light"
-    },
-    "img102.jpg": {
-        "caption": "A super-bright LED fog light with an extended lifespan.",
-        "category": "Fog Light"
-    },
-    "img103.jpg": {
-        "caption": "A road-legal fog light with optimized beam pattern.",
-        "category": "Fog Light"
-    },
-    "img104.jpg": {
-        "caption": "A compact fog light with an adjustable mounting bracket.",
-        "category": "Fog Light"
-    },
-    "img105.jpg": {
-        "caption": "A fog light with reinforced polycarbonate lens for impact resistance.",
-        "category": "Fog Light"
-    },
-    "img106.jpg": {
-        "caption": "A fog light designed to improve vehicle aesthetics and performance.",
-        "category": "Fog Light"
-    },
-    "img107.jpg": {
-        "caption": "A smart fog light with automatic weather detection.",
-        "category": "Fog Light"
-    },
-    "img108.jpg": {
-        "caption": "A blue-tinted fog light for improved contrast in heavy fog.",
-        "category": "Fog Light"
-    },
-    "img109.jpg": {
-        "caption": "A fully adjustable fog light with 360-degree rotation.",
-        "category": "Fog Light"
-    },
-    "img110.jpg": {
-        "caption": "A military-grade fog light with shockproof casing.",
-        "category": "Fog Light"
-    },
-    "img111.jpg": {
-        "caption": "A rugged fog light with an IP68 waterproof rating.",
-        "category": "Fog Light"
-    },
-    "img112.jpg": {
-        "caption": "A fast-cooling fog light designed for high-performance vehicles.",
-        "category": "Fog Light"
-    },
-    "img113.jpg": {
-        "caption": "A fog light with high-efficiency LED chips for maximum brightness.",
-        "category": "Fog Light"
-    },
-    "img114.jpg": {
-        "caption": "A universal-fit fog light compatible with most vehicle models.",
-        "category": "Fog Light"
-    },
-    "img115.jpg": {
-        "caption": "A stylish chrome-finished fog light for a premium look.",
-        "category": "Fog Light"
-    },
-    "img116.jpg": {
-        "caption": "A fog light with built-in reflectors for improved light distribution.",
-        "category": "Fog Light"
-    },
-    "img117.jpg": {
-        "caption": "A dual-intensity fog light for both city and highway use.",
-        "category": "Fog Light"
-    },
-    "img118.jpg": {
-        "caption": "A long-lasting fog light with anti-fog coating technology.",
-        "category": "Fog Light"
-    },
-    "img119.jpg": {
-        "caption": "A lightweight and aerodynamic fog light for sports cars.",
-        "category": "Fog Light"
-    },
-    "img120.jpg": {
-        "caption": "A cutting-edge fog light with adaptive beam adjustment.",
-        "category": "Fog Light"
-    },
-    "img121.jpg": {
-        "caption": "A fog light with enhanced side illumination for better cornering.",
-        "category": "Fog Light"
-    },
-    "img122.jpg": {
-        "caption": "A crystal-clear lens fog light with anti-glare technology.",
-        "category": "Fog Light"
-    },
-    "img123.jpg": {
-        "caption": "A fog light with optimized heat dissipation for prolonged use.",
-        "category": "Fog Light"
-    },
-    "img124.jpg": {
-        "caption": "A durable aluminum-cased fog light for off-road enthusiasts.",
-        "category": "Fog Light"
-    },
-    "img125.jpg": {
-        "caption": "A waterproof fog light built to withstand extreme conditions.",
-        "category": "Fog Light"
-    },
-    "img126.jpg": {
-        "caption": "A multi-functional fog light with built-in DRLs.",
-        "category": "Fog Light"
-    },
-    "img127.jpg": {
-        "caption": "A customizable fog light with interchangeable lens colors.",
-        "category": "Fog Light"
-    },
-    "img128.jpg": {
-        "caption": "A high-intensity yellow fog light for improved rainy-day driving.",
-        "category": "Fog Light"
-    },
-    "img129.jpg": {
-        "caption": "A streamlined fog light designed for modern vehicles.",
-        "category": "Fog Light"
-    },
-    "img130.jpg": {
-        "caption": "A top-rated fog light with maximum light dispersion.",
-        "category": "Fog Light"
-    },
-    "img131.jpg": {
-        "caption": "A fog light with reinforced mounting brackets for extra stability.",
-        "category": "Fog Light"
-    },
-    "img132.jpg": {
-        "caption": "A glare-free fog light with an optimized cutoff line.",
-        "category": "Fog Light"
-    },
-    "img133.jpg": {
-        "caption": "A plug-and-play fog light for easy DIY installation.",
-        "category": "Fog Light"
-    },
-    "img134.jpg": {
-        "caption": "A vibration-resistant fog light for rough terrains.",
-        "category": "Fog Light"
-    },
-    "img135.jpg": {
-        "caption": "A fog light engineered for maximum road coverage.",
-        "category": "Fog Light"
-    },
-    "img136.jpg": {
-        "caption": "A fog light with customizable brightness settings.",
-        "category": "Fog Light"
-    },
-    "img137.jpg": {
-        "caption": "A rust-resistant fog light built for long-term durability.",
-        "category": "Fog Light"
-    },
-    "img138.jpg": {
-        "caption": "A DOT-approved fog light meeting safety standards.",
-        "category": "Fog Light"
-    },
-    "img139.jpg": {
-        "caption": "A powerful high-lumen fog light for nighttime driving.",
-        "category": "Fog Light"
-    },
-    "img140.jpg": {
-        "caption": "A sleek modern fog light with smoked lens aesthetics.",
-        "category": "Fog Light"
-    },
-    "img141.jpg": {
-        "caption": "A top-rated fog light with a high-lumen output.",
-        "category": "Fog Light"
-    },
-    "img142.jpg": {
-        "caption": "A compact fog light with an integrated daytime running light.",
-        "category": "Fog Light"
-    },
-    "img143.jpg": {
-        "caption": "A shockproof fog light for extreme off-road conditions.",
-        "category": "Fog Light"
-    },
-    "img144.jpg": {
-        "caption": "A durable impact-resistant fog light with a reinforced casing.",
-        "category": "Fog Light"
-    },
-    "img145.jpg": {
-        "caption": "A high-powered fog light with a 50,000-hour lifespan.",
-        "category": "Fog Light"
-    },
-    "img146.jpg": {
-        "caption": "A precision-crafted fog light with an anti-glare design.",
-        "category": "Fog Light"
-    },
-    "img147.jpg": {
-        "caption": "A curved fog light designed for optimal beam angle.",
-        "category": "Fog Light"
-    },
-    "img148.jpg": {
-        "caption": "A fog light with a built-in color temperature adjustment feature.",
-        "category": "Fog Light"
-    },
-    "img149.jpg": {
-        "caption": "A stylish fog light with a chrome accent design.",
-        "category": "Fog Light"
-    },
-    "img150.jpg": {
-        "caption": "A fog light with a scratch-resistant and shatterproof lens.",
-        "category": "Fog Light"
-    },
-    "img151.jpg": {
-        "caption": "A professional-grade fog light designed for commercial fleets.",
-        "category": "Fog Light"
-    },
-    "img152.jpg": {
-        "caption": "A high-output fog light for superior nighttime clarity.",
-        "category": "Fog Light"
-    },
-    "img153.jpg": {
-        "caption": "A durable, all-weather fog light with reinforced protection.",
-        "category": "Fog Light"
-    },
-    "img154.jpg": {
-        "caption": "A multi-angle adjustable fog light for better visibility.",
-        "category": "Fog Light"
-    },
-    "img155.jpg": {
-        "caption": "A fog light with a sleek black housing for modern cars.",
-        "category": "Fog Light"
-    },
-    "img156.jpg": {
-        "caption": "A heavy-duty fog light with reinforced shockproof housing.",
-        "category": "Fog Light"
-    },
-    "img157.jpg": {
-        "caption": "A fog light with an extra-wide beam for improved road coverage.",
-        "category": "Fog Light"
-    },
-    "img158.jpg": {
-        "caption": "A long-lasting fog light with an anodized aluminum body.",
-        "category": "Fog Light"
-    },
-    "img159.jpg": {
-        "caption": "A high-performance fog light with increased light intensity.",
-        "category": "Fog Light"
-    },
-    "img160.jpg": {
-        "caption": "A fog light with a scratch-resistant glass lens for durability.",
-        "category": "Fog Light"
-    },
-    "img161.jpg": {
-        "caption": "A fog light featuring heat-resistant technology for extended use.",
-        "category": "Fog Light"
-    },
-    "img162.jpg": {
-        "caption": "A universal fog light kit with an easy plug-and-play installation.",
-        "category": "Fog Light"
-    },
-    "img163.jpg": {
-        "caption": "A fog light with a unique honeycomb lens design for uniform illumination.",
-        "category": "Fog Light"
-    },
-    "img164.jpg": {
-        "caption": "A compact fog light designed for better aerodynamics.",
-        "category": "Fog Light"
-    },
-    "img165.jpg": {
-        "caption": "A fog light with a high-intensity discharge (HID) system.",
-        "category": "Fog Light"
-    },
-    "img166.jpg": {
-        "caption": "A fog light with multi-angle reflectors for enhanced visibility.",
-        "category": "Fog Light"
-    },
-    "img167.jpg": {
-        "caption": "A street-legal fog light meeting all safety regulations.",
-        "category": "Fog Light"
-    },
-    "img168.jpg": {
-        "caption": "A fog light with a fast-cooling aluminum heat sink.",
-        "category": "Fog Light"
-    },
-    "img169.jpg": {
-        "caption": "A fog light engineered for high-performance sports cars.",
-        "category": "Fog Light"
-    },
-    "img170.jpg": {
-        "caption": "A fog light with a reinforced bracket for better stability.",
-        "category": "Fog Light"
-    },
-    "img171.jpg": {
-        "caption": "A water-resistant fog light with a sealed enclosure.",
-        "category": "Fog Light"
-    },
-    "img172.jpg": {
-        "caption": "A powerful dual-beam fog light for superior road coverage.",
-        "category": "Fog Light"
-    },
-    "img173.jpg": {
-        "caption": "A fog light with an exclusive glare-reducing lens coating.",
-        "category": "Fog Light"
-    },
-    "img174.jpg": {
-        "caption": "A high-output LED fog light for energy-efficient lighting.",
-        "category": "Fog Light"
-    },
-    "img175.jpg": {
-        "caption": "A fog light with an adjustable beam pattern for custom lighting.",
-        "category": "Fog Light"
-    },
-    "img176.jpg": {
-        "caption": "A sleek and modern fog light with a smoked lens.",
-        "category": "Fog Light"
-    },
-    "img177.jpg": {
-        "caption": "A fog light designed for extreme weather conditions.",
-        "category": "Fog Light"
-    },
-    "img178.jpg": {
-        "caption": "A fog light with a premium reflector for enhanced beam focus.",
-        "category": "Fog Light"
-    },
-    "img179.jpg": {
-        "caption": "A long-lasting fog light with an anti-corrosion finish.",
-        "category": "Fog Light"
-    },
-    "img180.jpg": {
-        "caption": "A powerful fog light designed for off-road adventures.",
-        "category": "Fog Light"
-    },
-    "img181.jpg": {
-        "caption": "A fog light with a compact design for easy installation.",
-        "category": "Fog Light"
-    },
-    "img182.jpg": {
-        "caption": "A dual-color fog light for customizable lighting options.",
-        "category": "Fog Light"
-    },
-    "img183.jpg": {
-        "caption": "A high-efficiency fog light with ultra-low power consumption.",
-        "category": "Fog Light"
-    },
-    "img184.jpg": {
-        "caption": "A fog light with an integrated daytime running light feature.",
-        "category": "Fog Light"
-    },
-    "img185.jpg": {
-        "caption": "A weather-resistant fog light for all-season performance.",
-        "category": "Fog Light"
-    },
-    "img186.jpg": {
-        "caption": "A fog light with an advanced cooling system for longevity.",
-        "category": "Fog Light"
-    },
-    "img187.jpg": {
-        "caption": "A fog light with superior beam clarity for enhanced visibility.",
-        "category": "Fog Light"
-    },
-    "img188.jpg": {
-        "caption": "A shockproof fog light designed for rugged terrains.",
-        "category": "Fog Light"
-    },
-    "img189.jpg": {
-        "caption": "A plug-and-play fog light compatible with most vehicles.",
-        "category": "Fog Light"
-    },
-    "img190.jpg": {
-        "caption": "A high-intensity yellow fog light for maximum road contrast.",
-        "category": "Fog Light"
-    },
-    "img191.jpg": {
-        "caption": "A modern fog light with a crystal-clear lens for precision lighting.",
-        "category": "Fog Light"
-    },
-    "img192.jpg": {
-        "caption": "A fog light with a wide-beam design for improved side visibility.",
-        "category": "Fog Light"
-    },
-    "img193.jpg": {
-        "caption": "A powerful fog light with a durable weatherproof seal.",
-        "category": "Fog Light"
-    },
-    "img194.jpg": {
-        "caption": "A fog light designed for high-performance luxury vehicles.",
-        "category": "Fog Light"
-    },
-    "img195.jpg": {
-        "caption": "A fog light with reinforced LED chips for extended lifespan.",
-        "category": "Fog Light"
-    },
-    "img196.jpg": {
-        "caption": "A fog light engineered with impact-resistant materials.",
-        "category": "Fog Light"
-    },
-    "img197.jpg": {
-        "caption": "A top-rated fog light with maximum road illumination.",
-        "category": "Fog Light"
-    },
-    "img198.jpg": {
-        "caption": "A fog light with anti-glare technology for reduced eye strain.",
-        "category": "Fog Light"
-    },
-    "img199.jpg": {
-        "caption": "A high-efficiency fog light with a lightweight aluminum frame.",
-        "category": "Fog Light"
-    },
-    "img200.jpg": {
-        "caption": "A stylish LED fog light with a futuristic design.",
-        "category": "Fog Light"
-    },
-    "img201.jpg": {
-        "caption": "A fog light with enhanced light diffusion for superior coverage.",
-        "category": "Fog Light"
-    },
-    "img202.jpg": {
-        "caption": "A rugged fog light built for extreme off-road conditions.",
-        "category": "Fog Light"
-    },
-    "img203.jpg": {
-        "caption": "A fog light with a built-in switch for convenient control.",
-        "category": "Fog Light"
-    },
-    "img204.jpg": {
-        "caption": "A fog light with a unique curved design for a sleek look.",
-        "category": "Fog Light"
-    },
-    "img205.jpg": {
-        "caption": "A high-contrast fog light for enhanced depth perception.",
-        "category": "Fog Light"
-    },
-    "img206.jpg": {
-        "caption": "A fog light with a reinforced steel housing for impact protection.",
-        "category": "Fog Light"
-    },
-    "img207.jpg": {
-        "caption": "A fog light with a glare-free optical design for night driving.",
-        "category": "Fog Light"
-    },
-    "img208.jpg": {
-        "caption": "A fog light featuring adjustable color temperature settings.",
-        "category": "Fog Light"
-    },
-    "img209.jpg": {
-        "caption": "A fog light with a high-intensity beam for all-terrain use.",
-        "category": "Fog Light"
-    }
-
-}
+    {
+      "image_path": "Fog_Light/img47.jpg",
+      "caption": "A round fog light with an adjustable mounting system."
+    },
+    {
+      "image_path": "Fog_Light/img48.jpg",
+      "caption": "A shockproof fog light for off-road adventures."
+    },
+    {
+      "image_path": "Fog_Light/img49.jpg",
+      "caption": "A durable LED fog light resistant to extreme temperatures."
+    },
+    {
+      "image_path": "Fog_Light/img50.jpg",
+      "caption": "A bright LED fog light with high-visibility performance."
+    },
+    {
+      "image_path": "Fog_Light/img51.jpg",
+      "caption": "A weather-resistant fog light designed for all-season use."
+    },
+    {
+      "image_path": "Fog_Light/img52.jpg",
+      "caption": "A universal-fit fog light with easy installation."
+    },
+    {
+      "image_path": "Fog_Light/img53.jpg",
+      "caption": "A heavy-duty fog light ideal for extreme weather conditions."
+    },
+    {
+      "image_path": "Fog_Light/img54.jpg",
+      "caption": "A white LED fog light for modern vehicle applications."
+    },
+    {
+      "image_path": "Fog_Light/img55.jpg",
+      "caption": "A focused beam fog light to reduce glare in foggy conditions."
+    },
+    {
+      "image_path": "Fog_Light/img56.jpg",
+      "caption": "A high-contrast amber fog light for increased visibility."
+    },
+    {
+      "image_path": "Fog_Light/img57.jpg",
+      "caption": "A curved fog light housing designed for aerodynamic vehicles."
+    },
+    {
+      "image_path": "Fog_Light/img58.jpg",
+      "caption": "A fog light with dual-color temperature adjustment."
+    },
+    {
+      "image_path": "Fog_Light/img59.jpg",
+      "caption": "A smart fog light with automatic brightness adjustment."
+    },
+    {
+      "image_path": "Fog_Light/img60.jpg",
+      "caption": "A stylish rectangular fog light for modern SUVs."
+    },
+    {
+      "image_path": "Fog_Light/img61.jpg",
+      "caption": "A DOT-approved fog light for highway safety compliance."
+    },
+    {
+      "image_path": "Fog_Light/img62.jpg",
+      "caption": "A low-profile fog light designed for sports coupes."
+    },
+    {
+      "image_path": "Fog_Light/img63.jpg",
+      "caption": "A crystal-clear fog light lens for superior light output."
+    },
+    {
+      "image_path": "Fog_Light/img64.jpg",
+      "caption": "A reinforced fog light housing for off-road durability."
+    },
+    {
+      "image_path": "Fog_Light/img65.jpg",
+      "caption": "A fog light with built-in cooling system for extended lifespan."
+    },
+    {
+      "image_path": "Fog_Light/img66.jpg",
+      "caption": "A powerful LED fog light with maximum beam intensity."
+    },
+    {
+      "image_path": "Fog_Light/img67.jpg",
+      "caption": "A military-grade fog light with reinforced steel casing."
+    },
+    {
+      "image_path": "Fog_Light/img68.jpg",
+      "caption": "A premium fog light designed for luxury sedans."
+    },
+    {
+      "image_path": "Fog_Light/img69.jpg",
+      "caption": "A fog light with an integrated high-beam assist feature."
+    },
+    {
+      "image_path": "Fog_Light/img70.jpg",
+      "caption": "A water-resistant fog light ideal for monsoon driving."
+    },
+    {
+        "image_path": "Fog_Light/img71.jpg",
+        "caption": "A universal fog light kit with mounting hardware included."
+      },
+      {
+        "image_path": "Fog_Light/img72.jpg",
+        "caption": "A high-efficiency LED fog light with CAN bus error-free design."
+      },
+      {
+        "image_path": "Fog_Light/img73.jpg",
+        "caption": "A fog light with reinforced aluminum heat sink for longer operation."
+      },
+      {
+        "image_path": "Fog_Light/img74.jpg",
+        "caption": "A fog light featuring aerospace-grade lens coating for clarity."
+      },
+      {
+        "image_path": "Fog_Light/img75.jpg",
+        "caption": "A flush-mount fog light designed for custom bumper installations."
+      },
+      {
+        "image_path": "Fog_Light/img76.jpg",
+        "caption": "A quick-connect LED fog light for effortless replacement."
+      },
+      {
+        "image_path": "Fog_Light/img77.jpg",
+        "caption": "A high-output fog light with uniform beam pattern."
+      },
+      {
+        "image_path": "Fog_Light/img78.jpg",
+        "caption": "An aftermarket fog light with sleek angular design."
+      },
+      {
+        "image_path": "Fog_Light/img79.jpg",
+        "caption": "A modular fog light compatible with multiple light colors."
+      },
+      {
+        "image_path": "Fog_Light/img80.jpg",
+        "caption": "A slim LED bar fog light for low-profile installations."
+      },
+      {
+        "image_path": "Fog_Light/img81.jpg",
+        "caption": "A rugged fog light with reinforced rubber gaskets for sealing."
+      },
+      {
+        "image_path": "Fog_Light/img82.jpg",
+        "caption": "A dual-beam fog light providing low and high-intensity output."
+      },
+      {
+        "image_path": "Fog_Light/img83.jpg",
+        "caption": "A fog light optimized for cornering and side illumination."
+      },
+      {
+        "image_path": "Fog_Light/img84.jpg",
+        "caption": "A compact fog light with vibration resistance for rough roads."
+      },
+      {
+        "image_path": "Fog_Light/img85.jpg",
+        "caption": "A crystal fog light lens for precise light dispersion."
+      },
+      {
+        "image_path": "Fog_Light/img86.jpg",
+        "caption": "A wide-angle fog light for enhanced peripheral vision."
+      },
+      {
+        "image_path": "Fog_Light/img87.jpg",
+        "caption": "A micro-sized fog light fitting tight vehicle spaces."
+      },
+      {
+        "image_path": "Fog_Light/img88.jpg",
+        "caption": "A high-brightness LED fog light for trucks and RVs."
+      },
+      {
+        "image_path": "Fog_Light/img89.jpg",
+        "caption": "A built-in dimmable fog light controlled via remote."
+      },
+      {
+        "image_path": "Fog_Light/img90.jpg",
+        "caption": "A rectangular fog light built for commercial fleet vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img91.jpg",
+        "caption": "A dual-lens fog light with split color temperature."
+      },
+      {
+        "image_path": "Fog_Light/img92.jpg",
+        "caption": "A customizable LED fog light with programmable modes."
+      },
+      {
+        "image_path": "Fog_Light/img93.jpg",
+        "caption": "A rugged terrain fog light with extra shock protection."
+      },
+      {
+        "image_path": "Fog_Light/img94.jpg",
+        "caption": "A durable fog light with anti-fog coating on lens."
+      },
+      {
+        "image_path": "Fog_Light/img95.jpg",
+        "caption": "A basic halogen fog light for budget vehicle upgrades."
+      },
+      {
+        "image_path": "Fog_Light/img96.jpg",
+        "caption": "A tri-color LED fog light with user-selectable output."
+      },
+      {
+        "image_path": "Fog_Light/img97.jpg",
+        "caption": "A strong fog light beam with anti-glare shielding."
+      },
+      {
+        "image_path": "Fog_Light/img98.jpg",
+        "caption": "A heavy-duty fog light with industrial-grade wiring."
+      },
+      {
+        "image_path": "Fog_Light/img99.jpg",
+        "caption": "A fog light designed for hybrid and electric vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img100.jpg",
+        "caption": "A compact fog light kit with quick-attach brackets."
+      },
+      {
+        "image_path": "Fog_Light/img101.jpg",
+        "caption": "A smart fog light compatible with vehicle onboard systems."
+      },
+      {
+        "image_path": "Fog_Light/img102.jpg",
+        "caption": "A round LED fog light with deep reflector housing."
+      },
+      {
+        "image_path": "Fog_Light/img103.jpg",
+        "caption": "A smoked lens fog light ideal for custom builds."
+      },
+      {
+        "image_path": "Fog_Light/img104.jpg",
+        "caption": "An ultra-slim fog light with stealth mounting hardware."
+      },
+      {
+        "image_path": "Fog_Light/img105.jpg",
+        "caption": "A dual-purpose fog light with emergency strobe mode."
+      },
+      {
+        "image_path": "Fog_Light/img106.jpg",
+        "caption": "A curved lens fog light for panoramic light spread."
+      },
+      {
+        "image_path": "Fog_Light/img107.jpg",
+        "caption": "A round projector fog light with anti-glare coating."
+      },
+      {
+        "image_path": "Fog_Light/img108.jpg",
+        "caption": "An easy-install fog light kit with universal wiring harness."
+      },
+      {
+        "image_path": "Fog_Light/img109.jpg",
+        "caption": "A retro-style fog light for vintage car enthusiasts."
+      },
+      {
+        "image_path": "Fog_Light/img110.jpg",
+        "caption": "A high-beam assist fog light integrated with sensors."
+      },
+      {
+        "image_path": "Fog_Light/img111.jpg",
+        "caption": "A fog light with wide temperature resistance range."
+      },
+      {
+        "image_path": "Fog_Light/img112.jpg",
+        "caption": "A universal fog light compatible with side mounting."
+      },
+      {
+        "image_path": "Fog_Light/img113.jpg",
+        "caption": "A fog light with sealed electrical connectors for waterproofing."
+      },
+      {
+        "image_path": "Fog_Light/img114.jpg",
+        "caption": "A dual-chip LED fog light for enhanced output control."
+      },
+      {
+        "image_path": "Fog_Light/img115.jpg",
+        "caption": "A rally-approved fog light with focused beam pattern."
+      },
+      {
+        "image_path": "Fog_Light/img116.jpg",
+        "caption": "A square fog light designed for performance trucks."
+      },
+      {
+        "image_path": "Fog_Light/img117.jpg",
+        "caption": "A simple plug-in halogen fog light kit for daily drivers."
+      },
+      {
+        "image_path": "Fog_Light/img118.jpg",
+        "caption": "A waterproof fog light with marine-grade seals."
+      },
+      {
+        "image_path": "Fog_Light/img119.jpg",
+        "caption": "An extra-wide beam fog light for backcountry driving."
+      },
+      {
+        "image_path": "Fog_Light/img120.jpg",
+        "caption": "A stylish fog light ring with RGB lighting effect."
+      },
+      {
+        "image_path": "Fog_Light/img121.jpg",
+        "caption": "A dynamic beam fog light with directional light spread."
+      },
+      {
+        "image_path": "Fog_Light/img122.jpg",
+        "caption": "A customizable fog light with removable lenses."
+      },
+      {
+        "image_path": "Fog_Light/img123.jpg",
+        "caption": "A high-power yellow fog light for snowy conditions."
+      },
+      {
+        "image_path": "Fog_Light/img124.jpg",
+        "caption": "A low-glare fog light optimized for fog and rain."
+      },
+      {
+        "image_path": "Fog_Light/img125.jpg",
+        "caption": "An aerodynamic fog light housing for high-speed vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img126.jpg",
+        "caption": "A high-brightness fog light with beam pattern options."
+      },
+      {
+        "image_path": "Fog_Light/img127.jpg",
+        "caption": "A side-emitting fog light for advanced side visibility."
+      },
+      {
+        "image_path": "Fog_Light/img128.jpg",
+        "caption": "A crystal-clear lens fog light with UV protection."
+      },
+      {
+        "image_path": "Fog_Light/img129.jpg",
+        "caption": "A high-power fog light with integrated beam angle adjustment."
+      },
+      {
+        "image_path": "Fog_Light/img130.jpg",
+        "caption": "A low-profile fog light for compact car bumpers."
+      },
+      {
+        "image_path": "Fog_Light/img131.jpg",
+        "caption": "A triple-LED fog light with high luminous efficiency."
+      },
+      {
+        "image_path": "Fog_Light/img132.jpg",
+        "caption": "A vented fog light housing to reduce heat buildup."
+      },
+      {
+        "image_path": "Fog_Light/img133.jpg",
+        "caption": "A road-legal fog light with E-mark certification."
+      },
+      {
+        "image_path": "Fog_Light/img134.jpg",
+        "caption": "A self-cleaning fog light with water-repellent lens."
+      },
+      {
+        "image_path": "Fog_Light/img135.jpg",
+        "caption": "A magnetically mounted fog light for temporary use."
+      },
+      {
+        "image_path": "Fog_Light/img136.jpg",
+        "caption": "A compact cube fog light for minimalist design vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img137.jpg",
+        "caption": "A durable fog light designed for salt and mud exposure."
+      },
+      {
+        "image_path": "Fog_Light/img138.jpg",
+        "caption": "A thermal-controlled fog light to prevent overheating."
+      },
+      {
+        "image_path": "Fog_Light/img139.jpg",
+        "caption": "A fast-responding LED fog light with no warm-up delay."
+      },
+      {
+        "image_path": "Fog_Light/img140.jpg",
+        "caption": "A stylish oval fog light for modern car aesthetics."
+      },
+      {
+        "image_path": "Fog_Light/img141.jpg",
+        "caption": "A heavy-duty fog light with shockproof metal casing."
+      },
+      {
+        "image_path": "Fog_Light/img142.jpg",
+        "caption": "A simple OEM-style fog light for factory replacements."
+      },
+      {
+        "image_path": "Fog_Light/img143.jpg",
+        "caption": "A low-consumption LED fog light with high performance."
+      },
+      {
+        "image_path": "Fog_Light/img144.jpg",
+        "caption": "A classic rectangular fog light with chrome accents."
+      },
+      {
+        "image_path": "Fog_Light/img145.jpg",
+        "caption": "A DOT-compliant fog light for U.S. vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img146.jpg",
+        "caption": "An off-road fog light with reinforced brackets."
+      },
+      {
+        "image_path": "Fog_Light/img147.jpg",
+        "caption": "A narrow beam fog light to cut through dense fog."
+      },
+      {
+        "image_path": "Fog_Light/img148.jpg",
+        "caption": "An amber-colored fog light for better visibility in snow."
+      },
+      {
+        "image_path": "Fog_Light/img149.jpg",
+        "caption": "A shock-resistant fog light designed for uneven terrain."
+      },
+      {
+        "image_path": "Fog_Light/img150.jpg",
+        "caption": "A tinted lens fog light for sporty appearance."
+      },
+      {
+        "image_path": "Fog_Light/img151.jpg",
+        "caption": "A high-output LED fog light with plug-and-play design."
+      },
+      {
+        "image_path": "Fog_Light/img152.jpg",
+        "caption": "A rubber-mounted fog light to reduce vibration."
+      },
+      {
+        "image_path": "Fog_Light/img153.jpg",
+        "caption": "A high CRI fog light for better color visibility at night."
+      },
+      {
+        "image_path": "Fog_Light/img154.jpg",
+        "caption": "A weatherproof fog light suitable for extreme climates."
+      },
+      {
+        "image_path": "Fog_Light/img155.jpg",
+        "caption": "A downward-angled fog light to avoid dazzling drivers."
+      },
+      {
+        "image_path": "Fog_Light/img156.jpg",
+        "caption": "An adjustable bracket fog light for custom aiming."
+      },
+      {
+        "image_path": "Fog_Light/img157.jpg",
+        "caption": "A projector fog light with a focused lens beam."
+      },
+      {
+        "image_path": "Fog_Light/img158.jpg",
+        "caption": "A stylish dual-color fog light with switch control."
+      },
+      {
+        "image_path": "Fog_Light/img159.jpg",
+        "caption": "A wide-spread fog light for full road coverage."
+      },
+      {
+        "image_path": "Fog_Light/img160.jpg",
+        "caption": "A compact aluminum body fog light for durability."
+      },
+      {
+        "image_path": "Fog_Light/img161.jpg",
+        "caption": "An LED strip-style fog light integrated in bumper."
+      },
+      {
+        "image_path": "Fog_Light/img162.jpg",
+        "caption": "A simple square fog light with sealed back housing."
+      },
+      {
+        "image_path": "Fog_Light/img163.jpg",
+        "caption": "A halo ring fog light with dual-tone illumination."
+      },
+      {
+        "image_path": "Fog_Light/img164.jpg",
+        "caption": "A UV-resistant fog light lens for long-term clarity."
+      },
+      {
+        "image_path": "Fog_Light/img165.jpg",
+        "caption": "A rapid-installation fog light kit with snap-fit clips."
+      },
+      {
+        "image_path": "Fog_Light/img166.jpg",
+        "caption": "A thick lens fog light offering improved durability."
+      },
+      {
+        "image_path": "Fog_Light/img167.jpg",
+        "caption": "A mesh-covered fog light for off-road debris protection."
+      },
+      {
+        "image_path": "Fog_Light/img168.jpg",
+        "caption": "A hybrid white/yellow beam fog light for adaptive lighting."
+      },
+      {
+        "image_path": "Fog_Light/img169.jpg",
+        "caption": "A compact fog light with energy-efficient design."
+      },
+      {
+        "image_path": "Fog_Light/img170.jpg",
+        "caption": "A smooth-finish fog light housing to reduce drag."
+      },
+      {
+        "image_path": "Fog_Light/img171.jpg",
+        "caption": "A dual-beam fog light offering both flood and spot modes."
+      },
+      {
+        "image_path": "Fog_Light/img172.jpg",
+        "caption": "A laser-assisted fog light for extreme visibility range."
+      },
+      {
+        "image_path": "Fog_Light/img173.jpg",
+        "caption": "A long-lasting LED fog light rated for 50,000 hours."
+      },
+      {
+        "image_path": "Fog_Light/img174.jpg",
+        "caption": "A compact fog light ideal for electric vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img175.jpg",
+        "caption": "A chrome-finished fog light for premium styling."
+      },
+      {
+        "image_path": "Fog_Light/img176.jpg",
+        "caption": "A wide-angle LED fog light for maximum road spread."
+      },
+      {
+        "image_path": "Fog_Light/img177.jpg",
+        "caption": "An easy-to-install fog light with pre-attached wiring."
+      },
+      {
+        "image_path": "Fog_Light/img178.jpg",
+        "caption": "A flush-mount fog light for a clean bumper look."
+      },
+      {
+        "image_path": "Fog_Light/img179.jpg",
+        "caption": "A heavy-duty sealed fog light for construction vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img180.jpg",
+        "caption": "A magnetic LED fog light for temporary attachment."
+      },
+      {
+        "image_path": "Fog_Light/img181.jpg",
+        "caption": "A polarized fog light lens to reduce reflective glare."
+      },
+      {
+        "image_path": "Fog_Light/img182.jpg",
+        "caption": "An ultra-lightweight fog light for racing applications."
+      },
+      {
+        "image_path": "Fog_Light/img183.jpg",
+        "caption": "A fog light with heat-dissipating aluminum fins."
+      },
+      {
+        "image_path": "Fog_Light/img184.jpg",
+        "caption": "A remote-controlled fog light system with multiple modes."
+      },
+      {
+        "image_path": "Fog_Light/img185.jpg",
+        "caption": "A reinforced polycarbonate fog light for impact resistance."
+      },
+      {
+        "image_path": "Fog_Light/img186.jpg",
+        "caption": "A solar-powered fog light for off-grid vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img187.jpg",
+        "caption": "A color-changing fog light controlled via mobile app."
+      },
+      {
+        "image_path": "Fog_Light/img188.jpg",
+        "caption": "A bolt-on fog light kit for fast DIY installation."
+      },
+      {
+        "image_path": "Fog_Light/img189.jpg",
+        "caption": "An all-black fog light for a stealth appearance."
+      },
+      {
+        "image_path": "Fog_Light/img190.jpg",
+        "caption": "A triple-layer sealed fog light for waterproof performance."
+      },
+      {
+        "image_path": "Fog_Light/img191.jpg",
+        "caption": "A customizable fog light housing for aftermarket mods."
+      },
+      {
+        "image_path": "Fog_Light/img192.jpg",
+        "caption": "A vibration-resistant fog light for uneven roads."
+      },
+      {
+        "image_path": "Fog_Light/img193.jpg",
+        "caption": "A silicone-sealed fog light to block dust and moisture."
+      },
+      {
+        "image_path": "Fog_Light/img194.jpg",
+        "caption": "An aerodynamic fog light built into a lower grille."
+      },
+      {
+        "image_path": "Fog_Light/img195.jpg",
+        "caption": "A colored halo fog light for show vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img196.jpg",
+        "caption": "A plug-and-play HID fog light conversion kit."
+      },
+      {
+        "image_path": "Fog_Light/img197.jpg",
+        "caption": "A steel-frame fog light designed for rugged use."
+      },
+      {
+        "image_path": "Fog_Light/img198.jpg",
+        "caption": "A multi-LED cluster fog light with high beam density."
+      },
+      {
+        "image_path": "Fog_Light/img199.jpg",
+        "caption": "A reflective cup fog light for concentrated beam focus."
+      },
+      {
+        "image_path": "Fog_Light/img200.jpg",
+        "caption": "A micro-sized fog light for limited space applications."
+      },
+      {
+        "image_path": "Fog_Light/img201.jpg",
+        "caption": "A fog light integrated into a skid plate for off-road vehicles."
+      },
+      {
+        "image_path": "Fog_Light/img202.jpg",
+        "caption": "An angled-lens fog light to follow road curves better."
+      },
+      {
+        "image_path": "Fog_Light/img203.jpg",
+        "caption": "A bright amber fog light for heavy rain visibility."
+      },
+      {
+        "image_path": "Fog_Light/img204.jpg",
+        "caption": "A curved LED fog light bar for panoramic illumination."
+      },
+      {
+        "image_path": "Fog_Light/img205.jpg",
+        "caption": "A reinforced mount fog light for trucks and SUVs."
+      },
+      {
+        "image_path": "Fog_Light/img206.jpg",
+        "caption": "A military-style fog light with tactical finish."
+      },
+      {
+        "image_path": "Fog_Light/img207.jpg",
+        "caption": "A matte-finish fog light for aggressive styling."
+      },
+      {
+        "image_path": "Fog_Light/img208.jpg",
+        "caption": "A smart sensor fog light that adjusts with weather."
+      },
+      {
+        "image_path": "Fog_Light/img209.jpg",
+        "caption": "A high-efficiency fog light designed for battery-powered vehicles."
+      }
+]
+   
+  
+   

@@ -1,209 +1,526 @@
-{
-    "img1.jpg": {"caption": "A high-performance ignition coil ensuring efficient fuel combustion.", "category": "ignition coil"},
-    "img2.jpg": {"caption": "An advanced ignition coil designed for superior spark energy delivery.", "category": "ignition coil"},
-    "img3.jpg": {"caption": "A compact and durable ignition coil for reliable engine startups.", "category": "ignition coil"},
-    "img4.jpg": {"caption": "A premium ignition coil enhancing fuel efficiency and engine performance.", "category": "ignition coil"},
-    "img5.jpg": {"caption": "A weather-resistant ignition coil ideal for extreme driving conditions.", "category": "ignition coil"},
-    "img6.jpg": {"caption": "A high-output ignition coil designed for racing and performance vehicles.", "category": "ignition coil"},
-    "img7.jpg": {"caption": "A lightweight ignition coil ensuring smooth engine operation.", "category": "ignition coil"},
-    "img8.jpg": {"caption": "A durable ignition coil providing consistent voltage for better ignition.", "category": "ignition coil"},
-    "img9.jpg": {"caption": "An OEM-grade ignition coil designed for factory-spec vehicle performance.", "category": "ignition coil"},
-    "img10.jpg": {"caption": "A corrosion-resistant ignition coil for long-lasting efficiency.", "category": "ignition coil"},
-    "img11.jpg": {"caption": "A performance ignition coil delivering a stronger and hotter spark.", "category": "ignition coil"},
-    "img12.jpg": {"caption": "A high-voltage ignition coil improving combustion efficiency.", "category": "ignition coil"},
-    "img13.jpg": {"caption": "An eco-friendly ignition coil reducing emissions and enhancing mileage.", "category": "ignition coil"},
-    "img14.jpg": {"caption": "A modern ignition coil featuring advanced insulation for heat resistance.", "category": "ignition coil"},
-    "img15.jpg": {"caption": "An easy-to-install ignition coil ensuring seamless engine performance.", "category": "ignition coil"},
-    "img16.jpg": {"caption": "A high-energy ignition coil boosting ignition power and efficiency.", "category": "ignition coil"},
-    "img17.jpg": {"caption": "A robust ignition coil designed for longevity and reliability.", "category": "ignition coil"},
-    "img18.jpg": {"caption": "An efficient ignition coil reducing engine misfires and improving acceleration.", "category": "ignition coil"},
-    "img19.jpg": {"caption": "A precision-crafted ignition coil ensuring optimal spark plug performance.", "category": "ignition coil"},
-    "img20.jpg": {"caption": "A versatile ignition coil suitable for a variety of vehicle models.", "category": "ignition coil"},
-    "img21.jpg": {"caption": "A top-tier ignition coil delivering consistent energy output.", "category": "ignition coil"},
-    "img22.jpg": {"caption": "A heat-resistant ignition coil ensuring stability under extreme temperatures.", "category": "ignition coil"},
-    "img23.jpg": {"caption": "An innovative ignition coil designed for seamless vehicle performance.", "category": "ignition coil"},
-    "img24.jpg": {"caption": "A high-capacity ignition coil optimizing fuel consumption.", "category": "ignition coil"},
-    "img25.jpg": {"caption": "A specially engineered ignition coil for high-speed engines.", "category": "ignition coil"},
-    "img26.jpg": {"caption": "A lightweight ignition coil ensuring minimal energy loss.", "category": "ignition coil"},
-    "img27.jpg": {"caption": "A multi-layered ignition coil improving electrical insulation.", "category": "ignition coil"},
-    "img28.jpg": {"caption": "An advanced ignition coil reducing maintenance costs.", "category": "ignition coil"},
-    "img29.jpg": {"caption": "A long-lasting ignition coil designed for daily drivers.", "category": "ignition coil"},
-    "img30.jpg": {"caption": "A premium ignition coil enhancing throttle response.", "category": "ignition coil"},
-    "img31.jpg": {"caption": "A waterproof ignition coil suitable for all-weather conditions.", "category": "ignition coil"},
-    "img32.jpg": {"caption": "An ultra-efficient ignition coil boosting acceleration power.", "category": "ignition coil"},
-    "img33.jpg": {"caption": "A reinforced ignition coil preventing voltage fluctuations.", "category": "ignition coil"},
-    "img34.jpg": {"caption": "A smart ignition coil adapting to engine conditions.", "category": "ignition coil"},
-    "img35.jpg": {"caption": "A dual-coil system for enhanced spark efficiency.", "category": "ignition coil"},
-    "img36.jpg": {"caption": "A high-output ignition coil improving ignition timing.", "category": "ignition coil"},
-    "img37.jpg": {"caption": "An ultra-reliable ignition coil reducing ignition lag.", "category": "ignition coil"},
-    "img38.jpg": {"caption": "A shockproof ignition coil designed for off-road vehicles.", "category": "ignition coil"},
-    "img39.jpg": {"caption": "An advanced ignition coil for turbocharged engines.", "category": "ignition coil"},
-    "img40.jpg": {"caption": "A precision ignition coil delivering optimal spark output.", "category": "ignition coil"},
-    "img41.jpg": {"caption": "A heavy-duty ignition coil built for long-term durability.", "category": "ignition coil"},
-    "img42.jpg": {"caption": "A highly conductive ignition coil maximizing energy transfer.", "category": "ignition coil"},
-    "img43.jpg": {"caption": "A temperature-resistant ignition coil maintaining consistent performance.", "category": "ignition coil"},
-    "img44.jpg": {"caption": "An eco-conscious ignition coil reducing carbon emissions.", "category": "ignition coil"},
-    "img45.jpg": {"caption": "A fast-response ignition coil for smoother acceleration.", "category": "ignition coil"},
-    "img46.jpg": {"caption": "A stable ignition coil designed for hybrid vehicles.", "category": "ignition coil"},
-    "img47.jpg": {"caption": "A next-generation ignition coil integrating smart diagnostics.", "category": "ignition coil"},
-    "img48.jpg": {"caption": "A seamlessly designed ignition coil reducing engine noise.", "category": "ignition coil"},
-    "img49.jpg": {"caption": "A corrosion-proof ignition coil ensuring prolonged efficiency.", "category": "ignition coil"},
-    "img50.jpg": {"caption": "An advanced ignition coil for high-revving engines.", "category": "ignition coil"},
-        "img51.jpg": {"caption": "A premium ignition coil designed for long-lasting ignition stability.", "category": "ignition coil"},
-        "img52.jpg": {"caption": "A next-gen ignition coil optimizing fuel-to-air combustion.", "category": "ignition coil"},
-        "img53.jpg": {"caption": "A reinforced ignition coil providing superior conductivity.", "category": "ignition coil"},
-        "img54.jpg": {"caption": "A compact ignition coil delivering consistent high-voltage output.", "category": "ignition coil"},
-        "img55.jpg": {"caption": "A durable ignition coil improving cold-weather startups.", "category": "ignition coil"},
-        "img56.jpg": {"caption": "An energy-efficient ignition coil reducing battery strain.", "category": "ignition coil"},
-        "img57.jpg": {"caption": "A reliable ignition coil minimizing power loss during acceleration.", "category": "ignition coil"},
-        "img58.jpg": {"caption": "An innovative ignition coil featuring enhanced electromagnetic properties.", "category": "ignition coil"},
-        "img59.jpg": {"caption": "A fast-response ignition coil improving throttle control.", "category": "ignition coil"},
-        "img60.jpg": {"caption": "A precisely engineered ignition coil for high-performance vehicles.", "category": "ignition coil"},
-        "img61.jpg": {"caption": "A smart ignition coil adjusting voltage for optimal efficiency.", "category": "ignition coil"},
-        "img62.jpg": {"caption": "A heavy-duty ignition coil designed for trucks and SUVs.", "category": "ignition coil"},
-        "img63.jpg": {"caption": "A specialized ignition coil for fuel-injected engines.", "category": "ignition coil"},
-        "img64.jpg": {"caption": "A heat-resistant ignition coil ensuring stable performance in extreme temperatures.", "category": "ignition coil"},
-        "img65.jpg": {"caption": "A high-spark ignition coil improving combustion efficiency.", "category": "ignition coil"},
-        "img66.jpg": {"caption": "A water-resistant ignition coil preventing electrical shorts.", "category": "ignition coil"},
-        "img67.jpg": {"caption": "A quick-install ignition coil compatible with multiple vehicle models.", "category": "ignition coil"},
-        "img68.jpg": {"caption": "A performance-grade ignition coil boosting torque and horsepower.", "category": "ignition coil"},
-        "img69.jpg": {"caption": "A noise-reducing ignition coil ensuring quiet engine operation.", "category": "ignition coil"},
-        "img70.jpg": {"caption": "A lightweight ignition coil enhancing vehicle acceleration.", "category": "ignition coil"},
-        "img71.jpg": {"caption": "A durable ignition coil with anti-corrosion coating.", "category": "ignition coil"},
-        "img72.jpg": {"caption": "A precision ignition coil providing optimal energy distribution.", "category": "ignition coil"},
-        "img73.jpg": {"caption": "A powerful ignition coil improving ignition timing accuracy.", "category": "ignition coil"},
-        "img74.jpg": {"caption": "An ultra-efficient ignition coil extending spark plug lifespan.", "category": "ignition coil"},
-        "img75.jpg": {"caption": "A custom-engineered ignition coil reducing fuel wastage.", "category": "ignition coil"},
-        "img76.jpg": {"caption": "A reliable ignition coil designed for high-mileage vehicles.", "category": "ignition coil"},
-        "img77.jpg": {"caption": "A shockproof ignition coil ideal for rough terrains.", "category": "ignition coil"},
-        "img78.jpg": {"caption": "A turbo-compatible ignition coil improving forced induction response.", "category": "ignition coil"},
-        "img79.jpg": {"caption": "An industrial-grade ignition coil ensuring uninterrupted engine function.", "category": "ignition coil"},
-        "img80.jpg": {"caption": "A next-gen ignition coil maximizing power output.", "category": "ignition coil"},
-        "img81.jpg": {"caption": "A reliable ignition coil improving long-distance driving efficiency.", "category": "ignition coil"},
-        "img82.jpg": {"caption": "A vibration-resistant ignition coil reducing wear and tear.", "category": "ignition coil"},
-        "img83.jpg": {"caption": "A dual-output ignition coil ensuring double the spark efficiency.", "category": "ignition coil"},
-        "img84.jpg": {"caption": "A stable ignition coil maintaining voltage consistency.", "category": "ignition coil"},
-        "img85.jpg": {"caption": "A multi-layered ignition coil enhancing insulation protection.", "category": "ignition coil"},
-        "img86.jpg": {"caption": "A professional-grade ignition coil for racing applications.", "category": "ignition coil"},
-        "img87.jpg": {"caption": "A smooth-performance ignition coil eliminating ignition lag.", "category": "ignition coil"},
-        "img88.jpg": {"caption": "A self-regulating ignition coil preventing overheating issues.", "category": "ignition coil"},
-        "img89.jpg": {"caption": "A modern ignition coil designed for hybrid and electric vehicles.", "category": "ignition coil"},
-        "img90.jpg": {"caption": "A premium ignition coil offering enhanced voltage regulation.", "category": "ignition coil"},
-        "img91.jpg": {"caption": "A low-resistance ignition coil maximizing ignition efficiency.", "category": "ignition coil"},
-        "img92.jpg": {"caption": "A precisely calibrated ignition coil improving engine RPM consistency.", "category": "ignition coil"},
-        "img93.jpg": {"caption": "An industrial-strength ignition coil for commercial vehicles.", "category": "ignition coil"},
-        "img94.jpg": {"caption": "A specially coated ignition coil protecting against corrosion and rust.", "category": "ignition coil"},
-        "img95.jpg": {"caption": "A seamless ignition coil design reducing electrical interference.", "category": "ignition coil"},
-        "img96.jpg": {"caption": "A highly responsive ignition coil improving throttle feedback.", "category": "ignition coil"},
-        "img97.jpg": {"caption": "A cutting-edge ignition coil featuring rapid ignition cycles.", "category": "ignition coil"},
-        "img98.jpg": {"caption": "A precision-wound ignition coil improving energy distribution.", "category": "ignition coil"},
-        "img99.jpg": {"caption": "An adaptable ignition coil compatible with multiple engine types.", "category": "ignition coil"},
-        "img100.jpg": {"caption": "A top-tier ignition coil engineered for peak engine performance.", "category": "ignition coil"},
-        
-            "img101.jpg": {"caption": "A precision-engineered ignition coil ensuring smooth power delivery.", "category": "ignition coil"},
-            "img102.jpg": {"caption": "A high-energy ignition coil designed for maximum spark efficiency.", "category": "ignition coil"},
-            "img103.jpg": {"caption": "A next-generation ignition coil enhancing fuel economy.", "category": "ignition coil"},
-            "img104.jpg": {"caption": "A compact ignition coil ensuring reliable cold-start performance.", "category": "ignition coil"},
-            "img105.jpg": {"caption": "A reinforced ignition coil providing stable high-voltage output.", "category": "ignition coil"},
-            "img106.jpg": {"caption": "A fast-response ignition coil reducing engine hesitation.", "category": "ignition coil"},
-            "img107.jpg": {"caption": "A weatherproof ignition coil designed for extreme conditions.", "category": "ignition coil"},
-            "img108.jpg": {"caption": "A low-resistance ignition coil improving ignition response.", "category": "ignition coil"},
-            "img109.jpg": {"caption": "A race-inspired ignition coil boosting acceleration and performance.", "category": "ignition coil"},
-            "img110.jpg": {"caption": "An innovative ignition coil extending engine component lifespan.", "category": "ignition coil"},
-            "img111.jpg": {"caption": "A corrosion-resistant ignition coil ensuring long-term efficiency.", "category": "ignition coil"},
-            "img112.jpg": {"caption": "A precision-calibrated ignition coil optimizing combustion cycles.", "category": "ignition coil"},
-            "img113.jpg": {"caption": "A high-output ignition coil improving overall vehicle performance.", "category": "ignition coil"},
-            "img114.jpg": {"caption": "A durable ignition coil reducing the risk of misfires.", "category": "ignition coil"},
-            "img115.jpg": {"caption": "A performance-grade ignition coil maximizing energy transfer.", "category": "ignition coil"},
-            "img116.jpg": {"caption": "An ultra-reliable ignition coil ensuring consistent voltage supply.", "category": "ignition coil"},
-            "img117.jpg": {"caption": "A hybrid-compatible ignition coil improving energy efficiency.", "category": "ignition coil"},
-            "img118.jpg": {"caption": "A dual-spark ignition coil enhancing combustion efficiency.", "category": "ignition coil"},
-            "img119.jpg": {"caption": "A multi-layer insulated ignition coil ensuring long-term durability.", "category": "ignition coil"},
-            "img120.jpg": {"caption": "A high-performance ignition coil for turbocharged engines.", "category": "ignition coil"},
-            "img121.jpg": {"caption": "A shockproof ignition coil designed for rugged driving conditions.", "category": "ignition coil"},
-            "img122.jpg": {"caption": "A modern ignition coil with self-diagnostic capabilities.", "category": "ignition coil"},
-            "img123.jpg": {"caption": "An advanced ignition coil engineered for high-speed ignition.", "category": "ignition coil"},
-            "img124.jpg": {"caption": "A reliable ignition coil reducing voltage drop under load.", "category": "ignition coil"},
-            "img125.jpg": {"caption": "A weather-sealed ignition coil preventing moisture damage.", "category": "ignition coil"},
-            "img126.jpg": {"caption": "A precisely wound ignition coil ensuring uniform spark distribution.", "category": "ignition coil"},
-            "img127.jpg": {"caption": "A high-voltage ignition coil delivering rapid ignition cycles.", "category": "ignition coil"},
-            "img128.jpg": {"caption": "A cutting-edge ignition coil with improved spark density.", "category": "ignition coil"},
-            "img129.jpg": {"caption": "A turbo-ready ignition coil enhancing boost efficiency.", "category": "ignition coil"},
-            "img130.jpg": {"caption": "A heavy-duty ignition coil for high-load applications.", "category": "ignition coil"},
-            "img131.jpg": {"caption": "A next-gen ignition coil improving fuel atomization.", "category": "ignition coil"},
-            "img132.jpg": {"caption": "A reinforced ignition coil offering superior voltage stability.", "category": "ignition coil"},
-            "img133.jpg": {"caption": "A self-adjusting ignition coil optimizing spark intensity.", "category": "ignition coil"},
-            "img134.jpg": {"caption": "An innovative ignition coil reducing engine knock.", "category": "ignition coil"},
-            "img135.jpg": {"caption": "A compact ignition coil designed for fuel efficiency.", "category": "ignition coil"},
-            "img136.jpg": {"caption": "A durable ignition coil ensuring long-lasting reliability.", "category": "ignition coil"},
-            "img137.jpg": {"caption": "A vibration-resistant ignition coil for smooth operation.", "category": "ignition coil"},
-            "img138.jpg": {"caption": "A lightweight ignition coil reducing engine load.", "category": "ignition coil"},
-            "img139.jpg": {"caption": "A precision-crafted ignition coil improving combustion timing.", "category": "ignition coil"},
-            "img140.jpg": {"caption": "An eco-friendly ignition coil minimizing fuel consumption.", "category": "ignition coil"},
-            "img141.jpg": {"caption": "A race-proven ignition coil delivering maximum ignition efficiency.", "category": "ignition coil"},
-            "img142.jpg": {"caption": "A performance ignition coil enhancing torque output.", "category": "ignition coil"},
-            "img143.jpg": {"caption": "A rugged ignition coil designed for off-road vehicles.", "category": "ignition coil"},
-            "img144.jpg": {"caption": "A dual-core ignition coil improving spark efficiency.", "category": "ignition coil"},
-            "img145.jpg": {"caption": "A corrosion-proof ignition coil ensuring uninterrupted operation.", "category": "ignition coil"},
-            "img146.jpg": {"caption": "A high-spark ignition coil reducing engine lag.", "category": "ignition coil"},
-            "img147.jpg": {"caption": "A premium ignition coil designed for performance tuning.", "category": "ignition coil"},
-            "img148.jpg": {"caption": "A water-resistant ignition coil preventing electrical shorts.", "category": "ignition coil"},
-            "img149.jpg": {"caption": "A noise-reducing ignition coil improving driving comfort.", "category": "ignition coil"},
-            "img150.jpg": {"caption": "A reinforced ignition coil providing optimal voltage output.", "category": "ignition coil"},
-            "img151.jpg": {"caption": "A low-maintenance ignition coil reducing wear over time.", "category": "ignition coil"},
-            "img152.jpg": {"caption": "A custom ignition coil for modified high-performance engines.", "category": "ignition coil"},
-            "img153.jpg": {"caption": "A stable ignition coil minimizing voltage fluctuations.", "category": "ignition coil"},
-            "img154.jpg": {"caption": "A reliable ignition coil engineered for endurance.", "category": "ignition coil"},
-            "img155.jpg": {"caption": "A smart ignition coil adapting to real-time engine needs.", "category": "ignition coil"},
-            "img156.jpg": {"caption": "A dual-output ignition coil enhancing spark efficiency.", "category": "ignition coil"},
-            "img157.jpg": {"caption": "A precisely tuned ignition coil improving engine responsiveness.", "category": "ignition coil"},
-            "img158.jpg": {"caption": "A self-cooling ignition coil for high-temperature environments.", "category": "ignition coil"},
-            "img159.jpg": {"caption": "A fast-igniting coil designed for performance engines.", "category": "ignition coil"},
-            "img160.jpg": {"caption": "A road-tested ignition coil improving fuel efficiency.", "category": "ignition coil"},
-            "img161.jpg": {"caption": "A premium ignition coil ensuring flawless ignition cycles.", "category": "ignition coil"},
-            "img162.jpg": {"caption": "A multi-layer ignition coil maximizing spark plug lifespan.", "category": "ignition coil"},
-            "img163.jpg": {"caption": "An ultra-fast ignition coil reducing engine hesitation.", "category": "ignition coil"},
-            "img164.jpg": {"caption": "A high-durability ignition coil optimized for longevity.", "category": "ignition coil"},
-            "img165.jpg": {"caption": "A smart-coil system adapting to various engine loads.", "category": "ignition coil"},
-            
-                "img166.jpg": {"caption": "A next-generation ignition coil delivering superior spark accuracy.", "category": "ignition coil"},
-                "img167.jpg": {"caption": "A high-intensity ignition coil designed for peak engine efficiency.", "category": "ignition coil"},
-                "img168.jpg": {"caption": "A premium ignition coil engineered for rapid power delivery.", "category": "ignition coil"},
-                "img169.jpg": {"caption": "A heat-resistant ignition coil ensuring durability in extreme conditions.", "category": "ignition coil"},
-                "img170.jpg": {"caption": "A precision ignition coil boosting fuel combustion efficiency.", "category": "ignition coil"},
-                "img171.jpg": {"caption": "A turbo-compatible ignition coil maximizing boost performance.", "category": "ignition coil"},
-                "img172.jpg": {"caption": "A lightweight ignition coil designed for high-speed acceleration.", "category": "ignition coil"},
-                "img173.jpg": {"caption": "A vibration-resistant ignition coil providing uninterrupted performance.", "category": "ignition coil"},
-                "img174.jpg": {"caption": "A waterproof ignition coil preventing moisture-related failures.", "category": "ignition coil"},
-                "img175.jpg": {"caption": "A reinforced ignition coil for consistent high-voltage output.", "category": "ignition coil"},
-                "img176.jpg": {"caption": "An energy-efficient ignition coil reducing fuel consumption.", "category": "ignition coil"},
-                "img177.jpg": {"caption": "A smart ignition coil integrating advanced voltage control.", "category": "ignition coil"},
-                "img178.jpg": {"caption": "A high-output ignition coil delivering stable spark energy.", "category": "ignition coil"},
-                "img179.jpg": {"caption": "A multi-spark ignition coil enhancing ignition efficiency.", "category": "ignition coil"},
-                "img180.jpg": {"caption": "A rugged ignition coil designed for heavy-duty applications.", "category": "ignition coil"},
-                "img181.jpg": {"caption": "A dual-core ignition coil boosting ignition speed and accuracy.", "category": "ignition coil"},
-                "img182.jpg": {"caption": "A corrosion-proof ignition coil ensuring long-lasting performance.", "category": "ignition coil"},
-                "img183.jpg": {"caption": "A next-gen ignition coil reducing engine lag and misfires.", "category": "ignition coil"},
-                "img184.jpg": {"caption": "A hybrid-compatible ignition coil optimizing battery efficiency.", "category": "ignition coil"},
-                "img185.jpg": {"caption": "A low-resistance ignition coil improving voltage transfer.", "category": "ignition coil"},
-                "img186.jpg": {"caption": "A race-proven ignition coil maximizing combustion power.", "category": "ignition coil"},
-                "img187.jpg": {"caption": "A shockproof ignition coil designed for rugged terrains.", "category": "ignition coil"},
-                "img188.jpg": {"caption": "A self-regulating ignition coil optimizing spark intensity.", "category": "ignition coil"},
-                "img189.jpg": {"caption": "A precision-engineered ignition coil reducing ignition lag.", "category": "ignition coil"},
-                "img190.jpg": {"caption": "A high-performance ignition coil built for endurance and power.", "category": "ignition coil"},
-                "img191.jpg": {"caption": "A seamlessly integrated ignition coil enhancing throttle response.", "category": "ignition coil"},
-                "img192.jpg": {"caption": "A fast-acting ignition coil improving cold start reliability.", "category": "ignition coil"},
-                "img193.jpg": {"caption": "A compact ignition coil ensuring efficient energy transfer.", "category": "ignition coil"},
-                "img194.jpg": {"caption": "A next-level ignition coil designed for advanced vehicle tuning.", "category": "ignition coil"},
-                "img195.jpg": {"caption": "A durable ignition coil reducing maintenance costs over time.", "category": "ignition coil"},
-                "img196.jpg": {"caption": "A road-tested ignition coil delivering optimal fuel efficiency.", "category": "ignition coil"},
-                "img197.jpg": {"caption": "A performance-grade ignition coil minimizing ignition losses.", "category": "ignition coil"},
-                "img198.jpg": {"caption": "A reinforced ignition coil providing high-voltage stability.", "category": "ignition coil"},
-                "img199.jpg": {"caption": "An ultra-reliable ignition coil reducing power fluctuations.", "category": "ignition coil"},
-                "img200.jpg": {"caption": "A smart ignition coil adapting to engine conditions for optimal performance.", "category": "ignition coil"}
-            
-}
-        
-        
-    
-    
+[
+    { "image_path": "Ignition_coil/img1.jpg", "caption": "Ignition coil mounted on top of engine with visible wires" },
+    { "image_path": "Ignition_coil/img2.jpg", "caption": "Close-up of a dual tower ignition coil installed in a vehicle" },
+    { "image_path": "Ignition_coil/img3.jpg", "caption": "Ignition coil showing rust and signs of wear" },
+    { "image_path": "Ignition_coil/img4.jpg", "caption": "High-performance ignition coil in a sports car engine" },
+    { "image_path": "Ignition_coil/img5.jpg", "caption": "Top view of ignition coil connectors and terminals" },
+    { "image_path": "Ignition_coil/img6.jpg", "caption": "Ignition coil attached to spark plug wires in an engine bay" },
+    { "image_path": "Ignition_coil/img7.jpg", "caption": "A row of ignition coils mounted on the cylinder head" },
+    { "image_path": "Ignition_coil/img8.jpg", "caption": "Black ignition coil with electrical connector unplugged" },
+    { "image_path": "Ignition_coil/img9.jpg", "caption": "Mechanic holding a faulty ignition coil during inspection" },
+    { "image_path": "Ignition_coil/img10.jpg", "caption": "Single ignition coil with part number label on casing" },
+    { "image_path": "Ignition_coil/img11.jpg", "caption": "Zoomed image of ignition coil electrical pin configuration" },
+    { "image_path": "Ignition_coil/img12.jpg", "caption": "Ignition coil resting on workshop table with diagnostic tools" },
+    { "image_path": "Ignition_coil/img13.jpg", "caption": "Engine with visible ignition coils next to fuel rail" },
+    { "image_path": "Ignition_coil/img14.jpg", "caption": "Worn ignition coil with cracks on housing" },
+    { "image_path": "Ignition_coil/img15.jpg", "caption": "Mounted ignition coil showing its bolt and wiring" },
+    { "image_path": "Ignition_coil/img16.jpg", "caption": "Ignition coil and spark plug connected for bench testing" },
+    { "image_path": "Ignition_coil/img17.jpg", "caption": "Close-up of ignition coil connector housing and clips" },
+    { "image_path": "Ignition_coil/img18.jpg", "caption": "Ignition coil removed from a V6 engine" },
+    { "image_path": "Ignition_coil/img19.jpg", "caption": "Car engine with coil-on-plug ignition system" },
+    { "image_path": "Ignition_coil/img20.jpg", "caption": "Mechanic replacing ignition coil in modern vehicle" },
+    { "image_path": "Ignition_coil/img21.jpg", "caption": "Ignition coil laid beside wiring harness and spark plug" },
+    { "image_path": "Ignition_coil/img22.jpg", "caption": "Coil pack ignition system with four output terminals" },
+    { "image_path": "Ignition_coil/img23.jpg", "caption": "Ignition coil mounted with insulation boot visible" },
+    { "image_path": "Ignition_coil/img24.jpg", "caption": "Close-up showing label and connector of ignition coil" },
+    { "image_path": "Ignition_coil/img25.jpg", "caption": "Ignition coil assembly removed from cylinder head" },
+    { "image_path": "Ignition_coil/img26.jpg", "caption": "Black ignition coil lying on a vehicle service manual" },
+    { "image_path": "Ignition_coil/img27.jpg", "caption": "Ignition coil on a four-cylinder engine during repair" },
+    { "image_path": "Ignition_coil/img28.jpg", "caption": "Testing ignition coil resistance using multimeter" },
+    { "image_path": "Ignition_coil/img29.jpg", "caption": "Disassembled ignition coil showing internal windings" },
+    { "image_path": "Ignition_coil/img30.jpg", "caption": "Ignition coil side view showing electrical pins" },
+    { "image_path": "Ignition_coil/img31.jpg", "caption": "Ignition coil fitted near throttle body and intake" },
+    { "image_path": "Ignition_coil/img32.jpg", "caption": "Two ignition coils placed on a rubber mat for inspection" },
+    { "image_path": "Ignition_coil/img33.jpg", "caption": "Ignition coil assembly with attached cable ties" },
+    { "image_path": "Ignition_coil/img34.jpg", "caption": "Ignition coil with rubber boot placed on metal surface" },
+    { "image_path": "Ignition_coil/img35.jpg", "caption": "Wiring diagram showing ignition coil connection to ECU" },
+    { "image_path": "Ignition_coil/img36.jpg", "caption": "Ignition coil pack installed next to battery terminal" },
+    { "image_path": "Ignition_coil/img37.jpg", "caption": "Close-up of dual coil unit with molded plastic body" },
+    { "image_path": "Ignition_coil/img38.jpg", "caption": "Ignition coil housing removed revealing windings" },
+    { "image_path": "Ignition_coil/img39.jpg", "caption": "Ignition coil with cracked insulation boot and rust" },
+    { "image_path": "Ignition_coil/img40.jpg", "caption": "Ignition coil secured with mounting bolts and wire clip" },
+    { "image_path": "Ignition_coil/img41.jpg", "caption": "Ignition coil with clearly marked positive and negative terminals" },
+    { "image_path": "Ignition_coil/img42.jpg", "caption": "Top angle of ignition coil showing part number and barcode" },
+    { "image_path": "Ignition_coil/img43.jpg", "caption": "Ignition coil with cylindrical core and plug connection" },
+    { "image_path": "Ignition_coil/img44.jpg", "caption": "Vehicle engine bay with ignition coil highlighted in red" },
+    { "image_path": "Ignition_coil/img45.jpg", "caption": "Ignition coil in disassembled car engine with wiring exposed" },
+    { "image_path": "Ignition_coil/img46.jpg", "caption": "Coil-on-plug ignition system on inline engine" },
+    { "image_path": "Ignition_coil/img47.jpg", "caption": "Mechanic pointing at faulty ignition coil" },
+    { "image_path": "Ignition_coil/img48.jpg", "caption": "Ignition coil removed from diesel engine for replacement" },
+    { "image_path": "Ignition_coil/img49.jpg", "caption": "Ignition coil with mounting bracket and retaining screw" },
+    { "image_path": "Ignition_coil/img50.jpg", "caption": "Close-up of coil pack used in four-cylinder engines" },
+    { "image_path": "Ignition_coil/img51.jpg", "caption": "Ignition coil with plastic casing and vent grooves" },
+    { "image_path": "Ignition_coil/img52.jpg", "caption": "Spark plug connected to ignition coil via ignition wire" },
+    { "image_path": "Ignition_coil/img53.jpg", "caption": "Ignition coil assembly next to engine valve cover" },
+    { "image_path": "Ignition_coil/img54.jpg", "caption": "Mechanic testing ignition coil voltage with tester" },
+    { "image_path": "Ignition_coil/img55.jpg", "caption": "Ignition coil in hybrid engine bay layout" },
+    { "image_path": "Ignition_coil/img56.jpg", "caption": "Engine compartment with visible ignition coil connections" },
+    { "image_path": "Ignition_coil/img57.jpg", "caption": "Dirty ignition coil placed on repair bench" },
+    { "image_path": "Ignition_coil/img58.jpg", "caption": "Ignition coil next to spark plug for size comparison" },
+    { "image_path": "Ignition_coil/img59.jpg", "caption": "Ignition coil pack with rubber seal and mounting post" },
+    { "image_path": "Ignition_coil/img60.jpg", "caption": "Ignition coil with worn rubber boot and loose wires" },
+    { "image_path": "Ignition_coil/img61.jpg", "caption": "Top view of ignition coil mounted on flat surface" },
+    { "image_path": "Ignition_coil/img62.jpg", "caption": "Ignition coil on wooden board with tools nearby" },
+    { "image_path": "Ignition_coil/img63.jpg", "caption": "Engine with ignition coil pack placed at the rear" },
+    { "image_path": "Ignition_coil/img64.jpg", "caption": "Ignition coil and distributor cap placed side by side" },
+    { "image_path": "Ignition_coil/img65.jpg", "caption": "Ignition coil isolated on white background for catalog" },
+    { "image_path": "Ignition_coil/img66.jpg", "caption": "Used ignition coil with signs of oil residue" },
+    { "image_path": "Ignition_coil/img67.jpg", "caption": "Ignition coil with dual terminals and plastic cap" },
+    { "image_path": "Ignition_coil/img68.jpg", "caption": "Ignition coil wire harness with clip connector" },
+    { "image_path": "Ignition_coil/img69.jpg", "caption": "Ignition coil from hybrid vehicle engine removed" },
+    { "image_path": "Ignition_coil/img70.jpg", "caption": "Ignition coil pack fitted in row with cylinder numbers marked" },
+    { "image_path": "Ignition_coil/img71.jpg", "caption": "Damaged ignition coil with cracked housing" },
+    { "image_path": "Ignition_coil/img72.jpg", "caption": "Ignition coil beside box labeled OEM part number" },
+    { "image_path": "Ignition_coil/img73.jpg", "caption": "Ignition coil from electric car showing compact design" },
+    { "image_path": "Ignition_coil/img74.jpg", "caption": "Mechanic showing how to disconnect ignition coil connector" },
+    { "image_path": "Ignition_coil/img75.jpg", "caption": "Old and new ignition coils placed side by side" },
+    { "image_path": "Ignition_coil/img76.jpg", "caption": "Ignition coil under diagnosis with oscilloscope probe" },
+    { "image_path": "Ignition_coil/img77.jpg", "caption": "Ignition coil on diagnostic bench with multimeter" },
+    { "image_path": "Ignition_coil/img78.jpg", "caption": "Ignition coil with cylindrical core and rubber tip" },
+    { "image_path": "Ignition_coil/img79.jpg", "caption": "Ignition coil pack for six-cylinder engine in row" },
+    { "image_path": "Ignition_coil/img80.jpg", "caption": "Mechanic installing new ignition coil into engine slot" },
+    {
+        "image_path": "Ignition_coil/img90.jpg",
+        "caption": "Close-up of ignition coil boot with visible spring terminal inside."
+      },
+      {
+        "image_path": "Ignition_coil/img91.jpg",
+        "caption": "Ignition coil next to spark tester during diagnostics."
+      },
+      {
+        "image_path": "Ignition_coil/img92.jpg",
+        "caption": "Ignition coil with clearly labeled terminals for wiring."
+      },
+      {
+        "image_path": "Ignition_coil/img93.jpg",
+        "caption": "Mechanic examining ignition coil using a circuit tester."
+      },
+      {
+        "image_path": "Ignition_coil/img94.jpg",
+        "caption": "Ignition coil with heat sink fins for improved cooling."
+      },
+      {
+        "image_path": "Ignition_coil/img95.jpg",
+        "caption": "Ignition coil aligned with spark plug for accurate connection."
+      },
+      {
+        "image_path": "Ignition_coil/img96.jpg",
+        "caption": "Compact ignition coil from motorcycle engine assembly."
+      },
+      {
+        "image_path": "Ignition_coil/img97.jpg",
+        "caption": "Ignition coil beside manufacturer box and barcode."
+      },
+      {
+        "image_path": "Ignition_coil/img98.jpg",
+        "caption": "High-output ignition coil designed for racing vehicles."
+      },
+      {
+        "image_path": "Ignition_coil/img99.jpg",
+        "caption": "Ignition coil removed from electric hybrid vehicle."
+      },
+      {
+        "image_path": "Ignition_coil/img100.jpg",
+        "caption": "Stacked ignition coils on metal tray in workshop."
+      },
+      {
+        "image_path": "Ignition_coil/img101.jpg",
+        "caption": "Ignition coil with broken connector and exposed pins."
+      },
+      {
+        "image_path": "Ignition_coil/img102.jpg",
+        "caption": "Technician performing resistance test on ignition coil terminals."
+      },
+      {
+        "image_path": "Ignition_coil/img103.jpg",
+        "caption": "Used ignition coil with signs of carbon tracking."
+      },
+      {
+        "image_path": "Ignition_coil/img104.jpg",
+        "caption": "Ignition coil fitted in aluminum engine block housing."
+      },
+      {
+        "image_path": "Ignition_coil/img105.jpg",
+        "caption": "Close-up of ignition coil mounting bolts and bracket."
+      },
+      {
+        "image_path": "Ignition_coil/img106.jpg",
+        "caption": "Ignition coil side profile showing insulation groves."
+      },
+      {
+        "image_path": "Ignition_coil/img107.jpg",
+        "caption": "Ignition coil paired with ECU in testing bench setup."
+      },
+      {
+        "image_path": "Ignition_coil/img108.jpg",
+        "caption": "Ignition coil mounted near engine air intake system."
+      },
+      {
+        "image_path": "Ignition_coil/img109.jpg",
+        "caption": "Mechanic replacing coil-on-plug module from inline-four engine."
+      },
+      {
+        "image_path": "Ignition_coil/img110.jpg",
+        "caption": "Coil pack system showing output terminals for each cylinder."
+      },
+      {
+        "image_path": "Ignition_coil/img111.jpg",
+        "caption": "Ignition coil laid out with O-ring and retaining screw."
+      },
+      {
+        "image_path": "Ignition_coil/img112.jpg",
+        "caption": "Inspection of ignition coil using LED timing light tool."
+      },
+      {
+        "image_path": "Ignition_coil/img113.jpg",
+        "caption": "Ignition coil viewed from underneath the engine block."
+      },
+      {
+        "image_path": "Ignition_coil/img114.jpg",
+        "caption": "Ignition coil and spark plug removed during engine service."
+      },
+      {
+        "image_path": "Ignition_coil/img115.jpg",
+        "caption": "Rusty ignition coil with missing protective cover."
+      },
+      {
+        "image_path": "Ignition_coil/img116.jpg",
+        "caption": "Ignition coil wiring connected to engine's electrical harness."
+      },
+      {
+        "image_path": "Ignition_coil/img117.jpg",
+        "caption": "Ignition coil pack mounted on distributor-less ignition system."
+      },
+      {
+        "image_path": "Ignition_coil/img118.jpg",
+        "caption": "Coil-on-plug design ignition coil installed on V8 engine."
+      },
+      {
+        "image_path": "Ignition_coil/img119.jpg",
+        "caption": "Ignition coil setup for high-compression turbocharged engine."
+      },
+      {
+        "image_path": "Ignition_coil/img120.jpg",
+        "caption": "Ignition coil with plug boot and spring contact laid out."
+      },
+      {
+        "image_path": "Ignition_coil/img121.jpg",
+        "caption": "Disassembled ignition coil showing core and winding layers."
+      },
+      {
+        "image_path": "Ignition_coil/img122.jpg",
+        "caption": "Spark tester tool connected to ignition coil in lab setting."
+      },
+      {
+        "image_path": "Ignition_coil/img123.jpg",
+        "caption": "Ignition coil with detachable boot showing connection slot."
+      },
+      {
+        "image_path": "Ignition_coil/img124.jpg",
+        "caption": "Engine bay view with ignition coil mounted under intake plenum."
+      },
+      {
+        "image_path": "Ignition_coil/img125.jpg",
+        "caption": "Ignition coil removed from high-performance engine setup."
+      },
+      {
+        "image_path": "Ignition_coil/img126.jpg",
+        "caption": "Ignition coil tested on bench with oscilloscope probe."
+      },
+      {
+        "image_path": "Ignition_coil/img127.jpg",
+        "caption": "Set of ignition coils in foam-padded container for shipping."
+      },
+      {
+        "image_path": "Ignition_coil/img128.jpg",
+        "caption": "Ignition coil placed next to diagnostic scan tool screen."
+      },
+      {
+        "image_path": "Ignition_coil/img129.jpg",
+        "caption": "Ignition coil viewed in slow motion testing for voltage arc."
+      },
+      {
+        "image_path": "Ignition_coil/img130.jpg",
+        "caption": "Ignition coil with blue colored housing for performance model."
+      },
+      {
+        "image_path": "Ignition_coil/img131.jpg",
+        "caption": "Ignition coil placed on cloth mat for pre-installation check."
+      },
+      {
+        "image_path": "Ignition_coil/img132.jpg",
+        "caption": "Ignition coil and plug wire combo placed for display."
+      },
+      {
+        "image_path": "Ignition_coil/img133.jpg",
+        "caption": "Multiple ignition coils arranged for quality inspection."
+      },
+      {
+        "image_path": "Ignition_coil/img134.jpg",
+        "caption": "Cutout section of ignition coil showing insulation layers."
+      },
+      {
+        "image_path": "Ignition_coil/img135.jpg",
+        "caption": "Ignition coil mounted vertically on compact engine block."
+      },
+      {
+        "image_path": "Ignition_coil/img136.jpg",
+        "caption": "Side clip view of ignition coil connector terminal."
+      },
+      {
+        "image_path": "Ignition_coil/img137.jpg",
+        "caption": "Spark plug wire attached to ignition coil in crossfire engine."
+      },
+      {
+        "image_path": "Ignition_coil/img138.jpg",
+        "caption": "Close-up of label and manufacturer details on ignition coil body."
+      },
+      {
+        "image_path": "Ignition_coil/img139.jpg",
+        "caption": "Old ignition coil set placed in oil-stained box."
+      },
+      {
+        "image_path": "Ignition_coil/img140.jpg",
+        "caption": "Ignition coil lined up beside voltmeter and test plugs."
+      },
+      {
+        "image_path": "Ignition_coil/img141.jpg",
+        "caption": "Mechanic tightening bolts on new ignition coil unit."
+      },
+      {
+        "image_path": "Ignition_coil/img142.jpg",
+        "caption": "Damaged ignition coil beside new replacement part on bench."
+      },
+      {
+        "image_path": "Ignition_coil/img143.jpg",
+        "caption": "Ignition coil assembled in compact 3-cylinder vehicle engine."
+      },
+      {
+        "image_path": "Ignition_coil/img144.jpg",
+        "caption": "Ignition coil pack used in off-road vehicle displayed on hood."
+      },
+      {
+        "image_path": "Ignition_coil/img145.jpg",
+        "caption": "Close-up of ignition coil with grease and dirt buildup."
+      },
+      {
+        "image_path": "Ignition_coil/img146.jpg",
+        "caption": "Ignition coil terminals highlighted with colored caps for demo."
+      },
+      {
+        "image_path": "Ignition_coil/img147.jpg",
+        "caption": "Ignition coil and plug connector laid on steel platform."
+      },
+      {
+        "image_path": "Ignition_coil/img148.jpg",
+        "caption": "Workshop technician replacing ignition coil with gloves on."
+      },
+      {
+        "image_path": "Ignition_coil/img149.jpg",
+        "caption": "Ignition coil showing wear marks from extended use."
+      },
+      {
+        "image_path": "Ignition_coil/img150.jpg",
+        "caption": "Ignition coil and torque wrench placed beside engine assembly."
+      },
+      {
+        "image_path": "Ignition_coil/img151.jpg",
+        "caption": "Isolated ignition coil with orange safety housing."
+      },
+      {
+        "image_path": "Ignition_coil/img152.jpg",
+        "caption": "Ignition coil pack installed above timing belt casing."
+      },
+      {
+        "image_path": "Ignition_coil/img153.jpg",
+        "caption": "Ignition coil connected via multi-pin connector to control unit."
+      },
+      {
+        "image_path": "Ignition_coil/img154.jpg",
+        "caption": "Ignition coil part of coil-on-plug system from luxury sedan."
+      },
+      {
+        "image_path": "Ignition_coil/img155.jpg",
+        "caption": "Ignition coil placed on anti-static pad in electronics bay."
+      },
+      {
+        "image_path": "Ignition_coil/img156.jpg",
+        "caption": "Ignition coil pair used in dual-spark ignition system."
+      },
+      {
+        "image_path": "Ignition_coil/img157.jpg",
+        "caption": "Ignition coil fitted under firewall shield in compact engine bay."
+      },
+      {
+        "image_path": "Ignition_coil/img158.jpg",
+        "caption": "Ignition coil in hybrid vehicle surrounded by sensors and fuses."
+      },
+      {
+        "image_path": "Ignition_coil/img159.jpg",
+        "caption": "Ignition coil pack clipped into plastic engine cover slots."
+      },
+      {
+        "image_path": "Ignition_coil/img160.jpg",
+        "caption": "Ignition coil with enhanced insulation for high-voltage output."
+      },
+      {
+        "image_path": "Ignition_coil/img161.jpg",
+        "caption": "A high-performance ignition coil used in motorsports applications."
+      },
+      {
+        "image_path": "Ignition_coil/img162.jpg",
+        "caption": "Ignition coil mounted on the engine block of a compact car."
+      },
+      {
+        "image_path": "Ignition_coil/img163.jpg",
+        "caption": "Close-up of an ignition coil with visible part number and rating."
+      },
+      {
+        "image_path": "Ignition_coil/img164.jpg",
+        "caption": "A technician using a multimeter to test the ignition coil resistance."
+      },
+      {
+        "image_path": "Ignition_coil/img165.jpg",
+        "caption": "Four ignition coils aligned on a workbench for inspection."
+      },
+      {
+        "image_path": "Ignition_coil/img166.jpg",
+        "caption": "Ignition coil with protective boot and spring installed."
+      },
+      {
+        "image_path": "Ignition_coil/img167.jpg",
+        "caption": "Ignition coil assembly being cleaned before installation."
+      },
+      {
+        "image_path": "Ignition_coil/img168.jpg",
+        "caption": "Coil-on-plug ignition system with four individual coils."
+      },
+      {
+        "image_path": "Ignition_coil/img169.jpg",
+        "caption": "Used ignition coil removed from a vehicle during maintenance."
+      },
+      {
+        "image_path": "Ignition_coil/img170.jpg",
+        "caption": "Ignition coil laid on a diagnostic mat for testing."
+      },
+      {
+        "image_path": "Ignition_coil/img171.jpg",
+        "caption": "Ignition coil connected to an oscilloscope for waveform analysis."
+      },
+      {
+        "image_path": "Ignition_coil/img172.jpg",
+        "caption": "Old and new ignition coils side by side for comparison."
+      },
+      {
+        "image_path": "Ignition_coil/img173.jpg",
+        "caption": "Ignition coil installed next to the engine intake manifold."
+      },
+      {
+        "image_path": "Ignition_coil/img174.jpg",
+        "caption": "Mechanic securing ignition coil with bolts on cylinder head."
+      },
+      {
+        "image_path": "Ignition_coil/img175.jpg",
+        "caption": "Close-up of ignition coil connector and wire terminals."
+      },
+      {
+        "image_path": "Ignition_coil/img176.jpg",
+        "caption": "Ignition coil pack placed on top of workshop cart with tools."
+      },
+      {
+        "image_path": "Ignition_coil/img177.jpg",
+        "caption": "Ignition coil showing wear and corrosion at the mounting area."
+      },
+      {
+        "image_path": "Ignition_coil/img178.jpg",
+        "caption": "Ignition coil tested for continuity using an analog multimeter."
+      },
+      {
+        "image_path": "Ignition_coil/img179.jpg",
+        "caption": "Ignition coil in close-up showing the connector pins."
+      },
+      {
+        "image_path": "Ignition_coil/img180.jpg",
+        "caption": "New ignition coil placed in plastic packaging for shipping."
+      },
+      {
+        "image_path": "Ignition_coil/img181.jpg",
+        "caption": "Ignition coil assembly mounted on aluminum valve cover."
+      },
+      {
+        "image_path": "Ignition_coil/img182.jpg",
+        "caption": "Dual ignition coils positioned for a twin-spark engine design."
+      },
+      {
+        "image_path": "Ignition_coil/img183.jpg",
+        "caption": "Ignition coil with diagnostic tag after successful bench test."
+      },
+      {
+        "image_path": "Ignition_coil/img184.jpg",
+        "caption": "Ignition coil under inspection light for visual defects."
+      },
+      {
+        "image_path": "Ignition_coil/img185.jpg",
+        "caption": "Ignition coil removed from turbocharged engine for tuning."
+      },
+      {
+        "image_path": "Ignition_coil/img186.jpg",
+        "caption": "Ignition coil with bright orange casing for aftermarket performance."
+      },
+      {
+        "image_path": "Ignition_coil/img187.jpg",
+        "caption": "Ignition coil tested alongside ECU to diagnose misfire issues."
+      },
+      {
+        "image_path": "Ignition_coil/img188.jpg",
+        "caption": "Ignition coil on a foam mat ready for installation."
+      },
+      {
+        "image_path": "Ignition_coil/img189.jpg",
+        "caption": "Ignition coil being compared to OEM part for verification."
+      },
+      {
+        "image_path": "Ignition_coil/img190.jpg",
+        "caption": "Ignition coil plugged into wiring harness inside engine bay."
+      },
+      {
+        "image_path": "Ignition_coil/img191.jpg",
+        "caption": "Ignition coil with coil boot and spark plug adapter attached."
+      },
+      {
+        "image_path": "Ignition_coil/img192.jpg",
+        "caption": "Technician checking ignition coil fitment in tight engine space."
+      },
+      {
+        "image_path": "Ignition_coil/img193.jpg",
+        "caption": "Ignition coil pack attached to a V6 engine head."
+      },
+      {
+        "image_path": "Ignition_coil/img194.jpg",
+        "caption": "High voltage ignition coil secured with thermal insulation."
+      },
+      {
+        "image_path": "Ignition_coil/img195.jpg",
+        "caption": "Ignition coil beside user manual and specifications sheet."
+      },
+      {
+        "image_path": "Ignition_coil/img196.jpg",
+        "caption": "Ignition coil ready for testing with diagnostic scanner."
+      },
+      {
+        "image_path": "Ignition_coil/img197.jpg",
+        "caption": "Ignition coil and engine oil cap seen during inspection."
+      },
+      {
+        "image_path": "Ignition_coil/img198.jpg",
+        "caption": "OEM ignition coil for a diesel engine application."
+      },
+      {
+        "image_path": "Ignition_coil/img199.jpg",
+        "caption": "Ignition coil positioned in box beside spark plug kit."
+      },
+      {
+        "image_path": "Ignition_coil/img200.jpg",
+        "caption": "Top view of ignition coil showing bolt holes and connector port."
+      }  
+  ]
