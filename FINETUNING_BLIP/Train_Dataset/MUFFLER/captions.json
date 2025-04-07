@@ -1,206 +1,526 @@
-{
-    "img1.jpg": {"caption": "A high-performance muffler designed to improve exhaust efficiency.", "category": "muffler"},
-    "img2.jpg": {"caption": "A stainless steel muffler ensuring durability and corrosion resistance.", "category": "muffler"},
-    "img3.jpg": {"caption": "A compact muffler offering optimal noise reduction and airflow.", "category": "muffler"},
-    "img4.jpg": {"caption": "A premium muffler enhancing vehicle acoustics and backpressure control.", "category": "muffler"},
-    "img5.jpg": {"caption": "An eco-friendly muffler designed to minimize harmful emissions.", "category": "muffler"},
-    "img6.jpg": {"caption": "A heat-resistant muffler ensuring longevity in high-temperature environments.", "category": "muffler"},
-    "img7.jpg": {"caption": "A lightweight muffler improving fuel efficiency and aerodynamics.", "category": "muffler"},
-    "img8.jpg": {"caption": "A corrosion-proof muffler built for long-term reliability.", "category": "muffler"},
-    "img9.jpg": {"caption": "An OEM-grade muffler delivering factory-standard performance.", "category": "muffler"},
-    "img10.jpg": {"caption": "A polished chrome muffler adding style to any vehicle.", "category": "muffler"},
-    "img11.jpg": {"caption": "A high-flow muffler maximizing exhaust gas exit speed.", "category": "muffler"},
-    "img12.jpg": {"caption": "A noise-reducing muffler designed for quieter engine operation.", "category": "muffler"},
-    "img13.jpg": {"caption": "A universal-fit muffler suitable for a wide range of vehicles.", "category": "muffler"},
-    "img14.jpg": {"caption": "A dual-chamber muffler ensuring a deep and rich exhaust tone.", "category": "muffler"},
-    "img15.jpg": {"caption": "A performance-tuned muffler improving horsepower and torque.", "category": "muffler"},
-    "img16.jpg": {"caption": "A racing muffler built for high-revving engines.", "category": "muffler"},
-    "img17.jpg": {"caption": "A precision-welded muffler ensuring leak-proof performance.", "category": "muffler"},
-    "img18.jpg": {"caption": "A heat-treated muffler designed to withstand extreme conditions.", "category": "muffler"},
-    "img19.jpg": {"caption": "A custom-built muffler delivering enhanced exhaust flow.", "category": "muffler"},
-    "img20.jpg": {"caption": "A heavy-duty muffler ideal for off-road and rugged terrain.", "category": "muffler"},
-    "img21.jpg": {"caption": "A dual-outlet muffler optimizing exhaust distribution.", "category": "muffler"},
-    "img22.jpg": {"caption": "A noise-absorbing muffler reducing cabin drone.", "category": "muffler"},
-    "img23.jpg": {"caption": "A high-temperature resistant muffler improving durability.", "category": "muffler"},
-    "img24.jpg": {"caption": "A premium-grade muffler designed for performance vehicles.", "category": "muffler"},
-    "img25.jpg": {"caption": "A sport-tuned muffler offering aggressive sound output.", "category": "muffler"},
-    "img26.jpg": {"caption": "A carbon-fiber muffler reducing overall vehicle weight.", "category": "muffler"},
-    "img27.jpg": {"caption": "A rust-resistant muffler built for long-term efficiency.", "category": "muffler"},
-    "img28.jpg": {"caption": "A reinforced muffler capable of withstanding extreme vibrations.", "category": "muffler"},
-    "img29.jpg": {"caption": "A race-proven muffler ensuring optimal power delivery.", "category": "muffler"},
-    "img30.jpg": {"caption": "A sleek and modern muffler enhancing vehicle appearance.", "category": "muffler"},
-    "img31.jpg": {"caption": "A deep-tone muffler providing a rich and aggressive exhaust note.", "category": "muffler"},
-    "img32.jpg": {"caption": "A road-tested muffler engineered for consistent performance.", "category": "muffler"},
-    "img33.jpg": {"caption": "A turbocharged muffler optimizing exhaust gas expulsion.", "category": "muffler"},
-    "img34.jpg": {"caption": "A noise-canceling muffler reducing unwanted engine sounds.", "category": "muffler"},
-    "img35.jpg": {"caption": "A high-performance muffler enhancing throttle response.", "category": "muffler"},
-    "img36.jpg": {"caption": "A lightweight aluminum muffler built for performance applications.", "category": "muffler"},
-    "img37.jpg": {"caption": "A titanium muffler providing superior heat dissipation.", "category": "muffler"},
-    "img38.jpg": {"caption": "A street-legal muffler ensuring compliance with noise regulations.", "category": "muffler"},
-    "img39.jpg": {"caption": "A hybrid-friendly muffler designed for fuel-efficient vehicles.", "category": "muffler"},
-    "img40.jpg": {"caption": "A precision-tuned muffler engineered for optimal exhaust flow.", "category": "muffler"},
-    "img41.jpg": {"caption": "A next-generation muffler integrating advanced noise-canceling technology.", "category": "muffler"},
-    "img42.jpg": {"caption": "A performance-driven muffler ensuring smoother engine function.", "category": "muffler"},
-    "img43.jpg": {"caption": "A sports-inspired muffler delivering a throaty exhaust sound.", "category": "muffler"},
-    "img44.jpg": {"caption": "A low-restriction muffler improving fuel economy.", "category": "muffler"},
-    "img45.jpg": {"caption": "A fast-flowing muffler boosting overall engine efficiency.", "category": "muffler"},
-    "img46.jpg": {"caption": "A handcrafted muffler ensuring quality and reliability.", "category": "muffler"},
-    "img47.jpg": {"caption": "A noise-dampening muffler minimizing road disturbances.", "category": "muffler"},
-    "img48.jpg": {"caption": "A long-lasting muffler designed for daily driving applications.", "category": "muffler"},
-    "img49.jpg": {"caption": "A fuel-efficient muffler optimizing combustion efficiency.", "category": "muffler"},
-    "img50.jpg": {"caption": "A track-proven muffler enhancing top-end power.", "category": "muffler"},
-    "img51.jpg": {"caption": "A high-flow muffler enhancing engine performance and efficiency.", "category": "muffler"},
-    "img52.jpg": {"caption": "A stainless steel muffler designed for maximum durability.", "category": "muffler"},
-    "img53.jpg": {"caption": "An advanced muffler reducing exhaust noise while improving airflow.", "category": "muffler"},
-    "img54.jpg": {"caption": "A corrosion-resistant muffler ensuring long-lasting reliability.", "category": "muffler"},
-    "img55.jpg": {"caption": "A sport-performance muffler delivering aggressive exhaust tones.", "category": "muffler"},
-    "img56.jpg": {"caption": "A lightweight muffler optimizing weight distribution and efficiency.", "category": "muffler"},
-    "img57.jpg": {"caption": "A precision-engineered muffler offering superior backpressure control.", "category": "muffler"},
-    "img58.jpg": {"caption": "A dual-exit muffler enhancing exhaust dispersion and sound.", "category": "muffler"},
-    "img59.jpg": {"caption": "A high-performance muffler reducing emissions without sacrificing power.", "category": "muffler"},
-    "img60.jpg": {"caption": "A heat-treated muffler designed to withstand extreme temperatures.", "category": "muffler"},
-    "img61.jpg": {"caption": "A rust-proof muffler providing long-term efficiency.", "category": "muffler"},
-    "img62.jpg": {"caption": "A premium-grade muffler engineered for street and track use.", "category": "muffler"},
-    "img63.jpg": {"caption": "A noise-dampening muffler minimizing interior cabin sound.", "category": "muffler"},
-    "img64.jpg": {"caption": "A precision-welded muffler ensuring leak-free performance.", "category": "muffler"},
-    "img65.jpg": {"caption": "A dual-chamber muffler balancing sound quality and performance.", "category": "muffler"},
-    "img66.jpg": {"caption": "A fast-flowing muffler improving exhaust velocity.", "category": "muffler"},
-    "img67.jpg": {"caption": "A reinforced muffler built to handle extreme vibrations.", "category": "muffler"},
-    "img68.jpg": {"caption": "A compact muffler providing superior noise reduction.", "category": "muffler"},
-    "img69.jpg": {"caption": "A turbocharged muffler optimizing exhaust gas flow.", "category": "muffler"},
-    "img70.jpg": {"caption": "A high-temperature resistant muffler ensuring stable performance.", "category": "muffler"},
-    "img71.jpg": {"caption": "A road-tested muffler designed for consistent durability.", "category": "muffler"},
-    "img72.jpg": {"caption": "A sleek chrome muffler enhancing vehicle aesthetics.", "category": "muffler"},
-    "img73.jpg": {"caption": "A custom-built muffler delivering enhanced exhaust efficiency.", "category": "muffler"},
-    "img74.jpg": {"caption": "A racing muffler engineered for high-speed applications.", "category": "muffler"},
-    "img75.jpg": {"caption": "A high-flow muffler reducing backpressure and improving torque.", "category": "muffler"},
-    "img76.jpg": {"caption": "A deep-tone muffler creating an aggressive exhaust note.", "category": "muffler"},
-    "img77.jpg": {"caption": "A titanium muffler offering lightweight strength and heat resistance.", "category": "muffler"},
-    "img78.jpg": {"caption": "A street-legal muffler compliant with noise regulations.", "category": "muffler"},
-    "img79.jpg": {"caption": "A multi-layered muffler improving insulation and durability.", "category": "muffler"},
-    "img80.jpg": {"caption": "A low-restriction muffler enhancing exhaust efficiency.", "category": "muffler"},
-    "img81.jpg": {"caption": "A performance muffler reducing turbulence for smoother airflow.", "category": "muffler"},
-    "img82.jpg": {"caption": "A dual-outlet muffler improving sound distribution.", "category": "muffler"},
-    "img83.jpg": {"caption": "A reinforced muffler ensuring longevity and stability.", "category": "muffler"},
-    "img84.jpg": {"caption": "A handcrafted muffler built with precision engineering.", "category": "muffler"},
-    "img85.jpg": {"caption": "A smart muffler integrating advanced noise-canceling technology.", "category": "muffler"},
-    "img86.jpg": {"caption": "A next-gen muffler designed for hybrid and electric vehicles.", "category": "muffler"},
-    "img87.jpg": {"caption": "A carbon-fiber muffler minimizing vehicle weight.", "category": "muffler"},
-    "img88.jpg": {"caption": "A highly efficient muffler improving combustion performance.", "category": "muffler"},
-    "img89.jpg": {"caption": "A drag-tested muffler enhancing acceleration power.", "category": "muffler"},
-    "img90.jpg": {"caption": "A racing-tuned muffler delivering an aggressive growl.", "category": "muffler"},
-    "img91.jpg": {"caption": "A vibration-resistant muffler ensuring a smoother ride.", "category": "muffler"},
-    "img92.jpg": {"caption": "A stylish muffler adding a bold look to any car.", "category": "muffler"},
-    "img93.jpg": {"caption": "A fuel-efficient muffler optimizing engine output.", "category": "muffler"},
-    "img94.jpg": {"caption": "A precision-balanced muffler reducing exhaust turbulence.", "category": "muffler"},
-    "img95.jpg": {"caption": "A long-lasting muffler designed for urban driving conditions.", "category": "muffler"},
-    "img96.jpg": {"caption": "A quiet-performance muffler reducing noise without power loss.", "category": "muffler"},
-    "img97.jpg": {"caption": "A flow-optimized muffler improving acceleration.", "category": "muffler"},
-    "img98.jpg": {"caption": "A road-ready muffler ensuring compliance and efficiency.", "category": "muffler"},
-    "img99.jpg": {"caption": "A race-proven muffler built for extreme conditions.", "category": "muffler"},
-    "img100.jpg": {"caption": "A track-inspired muffler delivering high-end power gains.", "category": "muffler"},
-    "img101.jpg": {"caption": "A durable muffler offering long-lasting exhaust efficiency.", "category": "muffler"},
-    "img102.jpg": {"caption": "A heat-resistant muffler designed to withstand extreme temperatures.", "category": "muffler"},
-    "img103.jpg": {"caption": "A lightweight muffler improving vehicle balance and handling.", "category": "muffler"},
-    "img104.jpg": {"caption": "A high-flow muffler boosting horsepower and torque.", "category": "muffler"},
-    "img105.jpg": {"caption": "A stylish muffler featuring a chrome-plated finish.", "category": "muffler"},
-    "img106.jpg": {"caption": "A turbo-style muffler delivering deep, aggressive exhaust notes.", "category": "muffler"},
-    "img107.jpg": {"caption": "A dual-tip muffler enhancing sound quality and performance.", "category": "muffler"},
-    "img108.jpg": {"caption": "A high-performance muffler minimizing backpressure.", "category": "muffler"},
-    "img109.jpg": {"caption": "A reinforced muffler ensuring vibration-free performance.", "category": "muffler"},
-    "img110.jpg": {"caption": "A race-ready muffler engineered for maximum exhaust efficiency.", "category": "muffler"},
-    "img111.jpg": {"caption": "A corrosion-resistant muffler designed for long-term reliability.", "category": "muffler"},
-    "img112.jpg": {"caption": "A multi-layered muffler reducing exhaust turbulence.", "category": "muffler"},
-    "img113.jpg": {"caption": "A premium muffler optimizing sound balance and power.", "category": "muffler"},
-    "img114.jpg": {"caption": "A carbon-fiber muffler offering lightweight durability.", "category": "muffler"},
-    "img115.jpg": {"caption": "A dual-outlet muffler improving exhaust gas dispersion.", "category": "muffler"},
-    "img116.jpg": {"caption": "A quiet-performance muffler minimizing cabin noise.", "category": "muffler"},
-    "img117.jpg": {"caption": "A free-flow muffler increasing throttle response.", "category": "muffler"},
-    "img118.jpg": {"caption": "A hybrid-compatible muffler optimizing fuel efficiency.", "category": "muffler"},
-    "img119.jpg": {"caption": "A performance muffler designed for turbocharged engines.", "category": "muffler"},
-    "img120.jpg": {"caption": "A rust-proof muffler ensuring durability in all climates.", "category": "muffler"},
-    "img121.jpg": {"caption": "A road-legal muffler balancing noise reduction and airflow.", "category": "muffler"},
-    "img122.jpg": {"caption": "A smart muffler integrating advanced noise-canceling technology.", "category": "muffler"},
-    "img123.jpg": {"caption": "A compact muffler designed for tight engine spaces.", "category": "muffler"},
-    "img124.jpg": {"caption": "A premium-grade muffler providing optimal exhaust tuning.", "category": "muffler"},
-    "img125.jpg": {"caption": "A stylish muffler enhancing the aesthetic appeal of any vehicle.", "category": "muffler"},
-    "img126.jpg": {"caption": "A road-tested muffler delivering consistent high-performance.", "category": "muffler"},
-    "img127.jpg": {"caption": "A low-profile muffler ensuring maximum ground clearance.", "category": "muffler"},
-    "img128.jpg": {"caption": "A turbo-back muffler reducing exhaust resistance.", "category": "muffler"},
-    "img129.jpg": {"caption": "A performance-grade muffler producing a deep exhaust tone.", "category": "muffler"},
-    "img130.jpg": {"caption": "A heat-shielded muffler minimizing undercarriage temperatures.", "category": "muffler"},
-    "img131.jpg": {"caption": "A drag racing muffler engineered for high-speed stability.", "category": "muffler"},
-    "img132.jpg": {"caption": "A stainless steel muffler providing long-lasting durability.", "category": "muffler"},
-    "img133.jpg": {"caption": "A sport-tuned muffler enhancing acceleration response.", "category": "muffler"},
-    "img134.jpg": {"caption": "A deep-tone muffler delivering a resonant exhaust sound.", "category": "muffler"},
-    "img135.jpg": {"caption": "A flexible muffler compatible with various vehicle models.", "category": "muffler"},
-    "img136.jpg": {"caption": "A sound-dampening muffler reducing highway noise.", "category": "muffler"},
-    "img137.jpg": {"caption": "A high-efficiency muffler optimizing engine combustion.", "category": "muffler"},
-    "img138.jpg": {"caption": "A precision-welded muffler preventing exhaust leaks.", "category": "muffler"},
-    "img139.jpg": {"caption": "A multi-chamber muffler balancing power and noise reduction.", "category": "muffler"},
-    "img140.jpg": {"caption": "A dual-chamber muffler reducing emissions and enhancing efficiency.", "category": "muffler"},
-    "img141.jpg": {"caption": "A rugged muffler built to handle extreme road conditions.", "category": "muffler"},
-    "img142.jpg": {"caption": "A vibration-resistant muffler ensuring smooth performance.", "category": "muffler"},
-    "img143.jpg": {"caption": "A noise-control muffler meeting strict legal regulations.", "category": "muffler"},
-    "img144.jpg": {"caption": "A titanium muffler providing strength with reduced weight.", "category": "muffler"},
-    "img145.jpg": {"caption": "A drag-tested muffler delivering optimal exhaust flow.", "category": "muffler"},
-    "img146.jpg": {"caption": "A precision-engineered muffler maximizing fuel economy.", "category": "muffler"},
-    "img147.jpg": {"caption": "A race-proven muffler built for aggressive sound and power.", "category": "muffler"},
-    "img148.jpg": {"caption": "A custom-designed muffler tailored for high-performance vehicles.", "category": "muffler"},
-    "img149.jpg": {"caption": "A turbo-compatible muffler enhancing turbo spool efficiency.", "category": "muffler"},
-    "img150.jpg": {"caption": "A long-lasting muffler ensuring optimal engine performance.", "category": "muffler"},
-    "img151.jpg": {"caption": "A race-spec muffler designed for high-speed performance.", "category": "muffler"},
-    "img152.jpg": {"caption": "A dual-exit muffler providing aggressive styling and sound.", "category": "muffler"},
-    "img153.jpg": {"caption": "A long-lasting muffler featuring anti-corrosion coating.", "category": "muffler"},
-    "img154.jpg": {"caption": "A precision-crafted muffler engineered for maximum efficiency.", "category": "muffler"},
-    "img155.jpg": {"caption": "A free-flowing muffler boosting horsepower and acceleration.", "category": "muffler"},
-    "img156.jpg": {"caption": "A deep-tone muffler delivering a sporty exhaust note.", "category": "muffler"},
-    "img157.jpg": {"caption": "A premium muffler providing optimal airflow and sound balance.", "category": "muffler"},
-    "img158.jpg": {"caption": "A noise-reducing muffler improving cabin comfort.", "category": "muffler"},
-    "img159.jpg": {"caption": "A high-temperature-resistant muffler ensuring durability.", "category": "muffler"},
-    "img160.jpg": {"caption": "A dual-wall muffler optimizing heat dissipation.", "category": "muffler"},
-    "img161.jpg": {"caption": "A compact muffler designed for easy installation.", "category": "muffler"},
-    "img162.jpg": {"caption": "A turbo-back muffler increasing exhaust efficiency.", "category": "muffler"},
-    "img163.jpg": {"caption": "A lightweight titanium muffler reducing vehicle weight.", "category": "muffler"},
-    "img164.jpg": {"caption": "A performance-grade muffler minimizing exhaust restrictions.", "category": "muffler"},
-    "img165.jpg": {"caption": "A stainless steel muffler ensuring long-term resilience.", "category": "muffler"},
-    "img166.jpg": {"caption": "A custom-fit muffler designed for superior compatibility.", "category": "muffler"},
-    "img167.jpg": {"caption": "A resonator-equipped muffler optimizing exhaust acoustics.", "category": "muffler"},
-    "img168.jpg": {"caption": "A wide-diameter muffler enhancing engine power.", "category": "muffler"},
-    "img169.jpg": {"caption": "A performance muffler delivering an aggressive growl.", "category": "muffler"},
-    "img170.jpg": {"caption": "A sleek muffler blending aesthetics with efficiency.", "category": "muffler"},
-    "img171.jpg": {"caption": "A noise-control muffler meeting street-legal standards.", "category": "muffler"},
-    "img172.jpg": {"caption": "A carbon-coated muffler ensuring rust protection.", "category": "muffler"},
-    "img173.jpg": {"caption": "A hybrid-vehicle-compatible muffler improving efficiency.", "category": "muffler"},
-    "img174.jpg": {"caption": "A race-tuned muffler optimizing airflow and throttle response.", "category": "muffler"},
-    "img175.jpg": {"caption": "A slip-on muffler offering quick and easy installation.", "category": "muffler"},
-    "img176.jpg": {"caption": "A high-flow muffler engineered for sport-performance cars.", "category": "muffler"},
-    "img177.jpg": {"caption": "A quad-tip muffler providing a bold exhaust look.", "category": "muffler"},
-    "img178.jpg": {"caption": "A dual-chamber muffler balancing power and noise reduction.", "category": "muffler"},
-    "img179.jpg": {"caption": "A muffler with sound-dampening technology for quiet rides.", "category": "muffler"},
-    "img180.jpg": {"caption": "A jet-coated muffler improving heat resistance.", "category": "muffler"},
-    "img181.jpg": {"caption": "A precision-welded muffler preventing exhaust leaks.", "category": "muffler"},
-    "img182.jpg": {"caption": "A compact sport muffler designed for tight engine bays.", "category": "muffler"},
-    "img183.jpg": {"caption": "A turbo-compatible muffler enhancing turbo spool response.", "category": "muffler"},
-    "img184.jpg": {"caption": "A straight-through muffler boosting exhaust flow.", "category": "muffler"},
-    "img185.jpg": {"caption": "A heavy-duty muffler built for tough road conditions.", "category": "muffler"},
-    "img186.jpg": {"caption": "A sound-enhancing muffler delivering deep, resonant tones.", "category": "muffler"},
-    "img187.jpg": {"caption": "A high-performance muffler improving exhaust pressure.", "category": "muffler"},
-    "img188.jpg": {"caption": "A race-proven muffler designed for competition use.", "category": "muffler"},
-    "img189.jpg": {"caption": "A chambered muffler enhancing airflow efficiency.", "category": "muffler"},
-    "img190.jpg": {"caption": "A handcrafted muffler delivering precision-tuned performance.", "category": "muffler"},
-    "img191.jpg": {"caption": "A street-legal muffler providing powerful yet refined sound.", "category": "muffler"},
-    "img192.jpg": {"caption": "A dual-outlet muffler designed for enhanced exhaust dispersion.", "category": "muffler"},
-    "img193.jpg": {"caption": "A corrosion-resistant muffler ensuring lasting performance.", "category": "muffler"},
-    "img194.jpg": {"caption": "A race-exhaust muffler fine-tuned for peak output.", "category": "muffler"},
-    "img195.jpg": {"caption": "A low-restriction muffler increasing fuel efficiency.", "category": "muffler"},
-    "img196.jpg": {"caption": "A sound-absorbing muffler reducing unwanted vibrations.", "category": "muffler"},
-    "img197.jpg": {"caption": "A wide-pipe muffler delivering optimal backpressure reduction.", "category": "muffler"},
-    "img198.jpg": {"caption": "A sport-series muffler providing aggressive styling and sound.", "category": "muffler"},
-    "img199.jpg": {"caption": "A smart muffler integrating active noise control technology.", "category": "muffler"},
-    "img200.jpg": {"caption": "A high-grade muffler ensuring ultimate durability and efficiency.", "category": "muffler"}
-
-
-
-
-}
+[
+    {
+      "image_path": "Muffler/img1.jpg",
+      "caption": "A chrome-finished muffler designed for performance exhaust systems."
+    },
+    {
+      "image_path": "Muffler/img2.jpg",
+      "caption": "A cylindrical muffler used in compact sedans for noise reduction."
+    },
+    {
+      "image_path": "Muffler/img3.jpg",
+      "caption": "A dual-tip muffler offering enhanced aesthetic and sound control."
+    },
+    {
+      "image_path": "Muffler/img4.jpg",
+      "caption": "A heavy-duty muffler with rust-resistant coating for durability."
+    },
+    {
+      "image_path": "Muffler/img5.jpg",
+      "caption": "A compact muffler suitable for motorcycles and scooters."
+    },
+    {
+      "image_path": "Muffler/img6.jpg",
+      "caption": "A muffler with integrated resonator for smoother sound output."
+    },
+    {
+      "image_path": "Muffler/img7.jpg",
+      "caption": "A rectangular muffler design for commercial trucks."
+    },
+    {
+      "image_path": "Muffler/img8.jpg",
+      "caption": "A performance muffler with minimal backpressure design."
+    },
+    {
+      "image_path": "Muffler/img9.jpg",
+      "caption": "A polished stainless steel muffler for luxury vehicles."
+    },
+    {
+      "image_path": "Muffler/img10.jpg",
+      "caption": "A universal-fit muffler with easy bolt-on installation."
+    },
+    {
+      "image_path": "Muffler/img11.jpg",
+      "caption": "A muffler featuring high-temperature ceramic insulation."
+    },
+    {
+      "image_path": "Muffler/img12.jpg",
+      "caption": "A sports muffler designed to amplify engine acoustics."
+    },
+    {
+      "image_path": "Muffler/img13.jpg",
+      "caption": "An oval muffler shape for tight fit under the chassis."
+    },
+    {
+      "image_path": "Muffler/img14.jpg",
+      "caption": "A muffler with perforated internal tubes for sound attenuation."
+    },
+    {
+      "image_path": "Muffler/img15.jpg",
+      "caption": "A high-flow muffler optimized for turbocharged engines."
+    },
+    {
+      "image_path": "Muffler/img16.jpg",
+      "caption": "A round muffler built with reinforced steel walls."
+    },
+    {
+      "image_path": "Muffler/img17.jpg",
+      "caption": "An OEM-style muffler designed to match factory specifications."
+    },
+    {
+      "image_path": "Muffler/img18.jpg",
+      "caption": "A muffler with integrated sound chamber for better tone."
+    },
+    {
+      "image_path": "Muffler/img19.jpg",
+      "caption": "A muffler compatible with hybrid vehicle exhaust systems."
+    },
+    {
+      "image_path": "Muffler/img20.jpg",
+      "caption": "A muffler equipped with removable silencer inserts."
+    },
+    {
+      "image_path": "Muffler/img21.jpg",
+      "caption": "A side-exit muffler for custom truck builds."
+    },
+    {
+      "image_path": "Muffler/img22.jpg",
+      "caption": "A muffler with straight-through core design for power boost."
+    },
+    {
+      "image_path": "Muffler/img23.jpg",
+      "caption": "A long-body muffler for quiet highway performance."
+    },
+    {
+      "image_path": "Muffler/img24.jpg",
+      "caption": "A carbon fiber muffler for lightweight and sporty feel."
+    },
+    {
+      "image_path": "Muffler/img25.jpg",
+      "caption": "A black ceramic-coated muffler for stealth appearance."
+    },
+    {
+      "image_path": "Muffler/img26.jpg",
+      "caption": "A slip-on muffler upgrade designed for SUVs."
+    },
+    {
+      "image_path": "Muffler/img27.jpg",
+      "caption": "A muffler built with a spiral core for quiet airflow."
+    },
+    {
+      "image_path": "Muffler/img28.jpg",
+      "caption": "A dual-exit muffler to enhance rear-end styling."
+    },
+    {
+      "image_path": "Muffler/img29.jpg",
+      "caption": "A baffled muffler providing smooth exhaust flow."
+    },
+    {
+      "image_path": "Muffler/img30.jpg",
+      "caption": "A titanium muffler for high-performance applications."
+    },
+    {
+      "image_path": "Muffler/img31.jpg",
+      "caption": "A muffler with adjustable valve for noise control."
+    },
+    {
+      "image_path": "Muffler/img32.jpg",
+      "caption": "A budget-friendly muffler replacement for daily drivers."
+    },
+    {
+      "image_path": "Muffler/img33.jpg",
+      "caption": "A bullet-style muffler used in racing setups."
+    },
+    {
+      "image_path": "Muffler/img34.jpg",
+      "caption": "A muffler with V-band clamp system for easy removal."
+    },
+    {
+      "image_path": "Muffler/img35.jpg",
+      "caption": "A low-restriction muffler used in diesel trucks."
+    },
+    {
+      "image_path": "Muffler/img36.jpg",
+      "caption": "A three-chamber muffler for deep, mellow exhaust note."
+    },
+    {
+      "image_path": "Muffler/img37.jpg",
+      "caption": "A racing muffler designed to reduce track decibels."
+    },
+    {
+      "image_path": "Muffler/img38.jpg",
+      "caption": "A muffler with heat shielding for undercarriage protection."
+    },
+    {
+      "image_path": "Muffler/img39.jpg",
+      "caption": "A center-offset muffler layout for space management."
+    },
+    {
+      "image_path": "Muffler/img40.jpg",
+      "caption": "A classic-style muffler for vintage car restorations."
+    },
+    {
+      "image_path": "Muffler/img41.jpg",
+      "caption": "A muffler with built-in catalytic converter compatibility."
+    },
+    {
+      "image_path": "Muffler/img42.jpg",
+      "caption": "A round tip muffler offering balanced sound output."
+    },
+    {
+      "image_path": "Muffler/img43.jpg",
+      "caption": "A lightweight aluminum muffler for off-road bikes."
+    },
+    {
+      "image_path": "Muffler/img44.jpg",
+      "caption": "A muffler with wide-diameter piping for increased airflow."
+    },
+    {
+      "image_path": "Muffler/img45.jpg",
+      "caption": "A high-capacity muffler built for V8 engines."
+    },
+    {
+      "image_path": "Muffler/img46.jpg",
+      "caption": "A compact muffler with drone-reducing technology."
+    },
+    {
+      "image_path": "Muffler/img47.jpg",
+      "caption": "A stealth muffler designed for minimal visibility."
+    },
+    {
+      "image_path": "Muffler/img48.jpg",
+      "caption": "A rugged muffler with extra layers for noise control."
+    },
+    {
+      "image_path": "Muffler/img49.jpg",
+      "caption": "A race-legal muffler for autocross events."
+    },
+    {
+      "image_path": "Muffler/img50.jpg",
+      "caption": "A muffler optimized for fuel-efficient vehicles."
+    },
+    {
+      "image_path": "Muffler/img51.jpg",
+      "caption": "A short-body muffler designed for city commuting cars."
+    },
+    {
+      "image_path": "Muffler/img52.jpg",
+      "caption": "A muffler with flanged ends for bolt-on convenience."
+    },
+    {
+      "image_path": "Muffler/img53.jpg",
+      "caption": "A dual-chamber muffler producing moderate exhaust tone."
+    },
+    {
+      "image_path": "Muffler/img54.jpg",
+      "caption": "A muffler with expanded inlet for custom fit."
+    },
+    {
+      "image_path": "Muffler/img55.jpg",
+      "caption": "A painted muffler with anti-corrosion treatment."
+    },
+    {
+      "image_path": "Muffler/img56.jpg",
+      "caption": "A V-type muffler layout for performance coupes."
+    },
+    {
+      "image_path": "Muffler/img57.jpg",
+      "caption": "A side-mounted muffler for rally configurations."
+    },
+    {
+      "image_path": "Muffler/img58.jpg",
+      "caption": "A three-way muffler with integrated sound valves."
+    },
+    {
+      "image_path": "Muffler/img59.jpg",
+      "caption": "A muffler designed for electric vehicles' simulated sound."
+    },
+    {
+      "image_path": "Muffler/img60.jpg",
+      "caption": "A basic muffler used in mass-market commuter cars."
+    },
+    {
+      "image_path": "Muffler/img61.jpg",
+      "caption": "A muffler with deep-tone chamber for muscle cars."
+    },
+    {
+      "image_path": "Muffler/img62.jpg",
+      "caption": "A heat-dissipating muffler design for high-speed driving."
+    },
+    {
+      "image_path": "Muffler/img63.jpg",
+      "caption": "A full-stainless exhaust muffler with polished tips."
+    },
+    {
+      "image_path": "Muffler/img64.jpg",
+      "caption": "A muffler with welded seams for leak-proof performance."
+    },
+    {
+      "image_path": "Muffler/img65.jpg",
+      "caption": "A catalytic-compatible muffler for emission compliance."
+    },
+    {
+      "image_path": "Muffler/img66.jpg",
+      "caption": "A baffled tip muffler that softens engine noise."
+    },
+    {
+      "image_path": "Muffler/img67.jpg",
+      "caption": "A carbon-wrapped muffler tip for a sporty finish."
+    },
+    {
+      "image_path": "Muffler/img68.jpg",
+      "caption": "A Y-pipe muffler designed for dual exhaust layouts."
+    },
+    {
+      "image_path": "Muffler/img69.jpg",
+      "caption": "A muffler suited for crossover utility vehicles."
+    },
+    {
+      "image_path": "Muffler/img70.jpg",
+      "caption": "A deep-tone muffler with free-flowing internals."
+    },
+    {
+      "image_path": "Muffler/img71.jpg",
+      "caption": "A stealth-style black muffler for minimal visual impact."
+    },
+    {
+      "image_path": "Muffler/img72.jpg",
+      "caption": "A low-emission muffler designed for regulatory standards."
+    },
+    {
+      "image_path": "Muffler/img73.jpg",
+      "caption": "A muffler designed for optimal NVH (Noise, Vibration, Harshness) control."
+    },
+    {
+      "image_path": "Muffler/img74.jpg",
+      "caption": "A reversible muffler allowing inlet/outlet swap."
+    },
+    {
+      "image_path": "Muffler/img75.jpg",
+      "caption": "A vintage-styled chrome muffler for classic restorations."
+    },
+    {
+      "image_path": "Muffler/img76.jpg",
+      "caption": "A high-temperature resistant muffler for desert conditions."
+    },
+    {
+      "image_path": "Muffler/img77.jpg",
+      "caption": "A drone-reducing muffler with midrange baffles."
+    },
+    {
+      "image_path": "Muffler/img78.jpg",
+      "caption": "A round-body muffler used in economical hatchbacks."
+    },
+    {
+      "image_path": "Muffler/img79.jpg",
+      "caption": "A dual inlet muffler for V-type engines."
+    },
+    {
+      "image_path": "Muffler/img80.jpg",
+      "caption": "A short muffler body for limited underbody clearance."
+    },
+    {
+        "image_path": "Muffler/img150.jpg",
+        "caption": "A titanium-finished muffler ideal for endurance racing applications."
+      },
+      {
+        "image_path": "Muffler/img151.jpg",
+        "caption": "A muffler with twin resonators for smoother exhaust note."
+      },
+      {
+        "image_path": "Muffler/img152.jpg",
+        "caption": "A straight pipe muffler replacement used in performance tuning."
+      },
+      {
+        "image_path": "Muffler/img153.jpg",
+        "caption": "A vented muffler for optimized exhaust flow management."
+      },
+      {
+        "image_path": "Muffler/img154.jpg",
+        "caption": "A rectangular muffler with high-temp sound dampening material."
+      },
+      {
+        "image_path": "Muffler/img155.jpg",
+        "caption": "A performance-grade muffler suitable for off-road trucks."
+      },
+      {
+        "image_path": "Muffler/img156.jpg",
+        "caption": "A muffler equipped with airflow deflectors for noise reduction."
+      },
+      {
+        "image_path": "Muffler/img157.jpg",
+        "caption": "A short-body sport muffler with wide outlet tip."
+      },
+      {
+        "image_path": "Muffler/img158.jpg",
+        "caption": "An all-welded muffler for leak-proof installation and long life."
+      },
+      {
+        "image_path": "Muffler/img159.jpg",
+        "caption": "A chambered performance muffler for a throaty exhaust tone."
+      },
+      {
+        "image_path": "Muffler/img160.jpg",
+        "caption": "A custom-fit muffler for vintage European vehicles."
+      },
+      {
+        "image_path": "Muffler/img161.jpg",
+        "caption": "A compact truck muffler offering optimized airflow control."
+      },
+      {
+        "image_path": "Muffler/img162.jpg",
+        "caption": "A high-flow muffler suitable for diesel engine retrofits."
+      },
+      {
+        "image_path": "Muffler/img163.jpg",
+        "caption": "A premium-grade muffler with polished dual exhaust tips."
+      },
+      {
+        "image_path": "Muffler/img164.jpg",
+        "caption": "An environmentally designed muffler to reduce harmful emissions."
+      },
+      {
+        "image_path": "Muffler/img165.jpg",
+        "caption": "A sleek, matte black muffler for modern car upgrades."
+      },
+      {
+        "image_path": "Muffler/img166.jpg",
+        "caption": "A long cylindrical muffler for luxury sedans."
+      },
+      {
+        "image_path": "Muffler/img167.jpg",
+        "caption": "A V-band clamp compatible muffler for quick replacement."
+      },
+      {
+        "image_path": "Muffler/img168.jpg",
+        "caption": "A single-exit muffler with thick-walled stainless steel body."
+      },
+      {
+        "image_path": "Muffler/img169.jpg",
+        "caption": "A universal muffler designed for compatibility with many car models."
+      },
+      {
+        "image_path": "Muffler/img170.jpg",
+        "caption": "A muffler with built-in drone cancellation technology."
+      },
+      {
+        "image_path": "Muffler/img171.jpg",
+        "caption": "A round-end muffler designed for SUV upgrades."
+      },
+      {
+        "image_path": "Muffler/img172.jpg",
+        "caption": "A noise-insulated muffler ideal for daily city commuters."
+      },
+      {
+        "image_path": "Muffler/img173.jpg",
+        "caption": "A catalytic muffler combo for efficient emissions control."
+      },
+      {
+        "image_path": "Muffler/img174.jpg",
+        "caption": "A reflective chrome muffler used in show cars."
+      },
+      {
+        "image_path": "Muffler/img175.jpg",
+        "caption": "A classic resonated muffler for smooth highway driving."
+      },
+      {
+        "image_path": "Muffler/img176.jpg",
+        "caption": "A dual-inlet, single-outlet muffler for V-style engines."
+      },
+      {
+        "image_path": "Muffler/img177.jpg",
+        "caption": "A drag-race style muffler for maximum airflow."
+      },
+      {
+        "image_path": "Muffler/img178.jpg",
+        "caption": "A muffler with vented exhaust tips to reduce back pressure."
+      },
+      {
+        "image_path": "Muffler/img179.jpg",
+        "caption": "A reinforced muffler with vibration dampening construction."
+      },
+      {
+        "image_path": "Muffler/img180.jpg",
+        "caption": "An acoustic-optimized muffler for premium sedans."
+      },
+      {
+        "image_path": "Muffler/img181.jpg",
+        "caption": "A lightweight titanium muffler for track-ready builds."
+      },
+      {
+        "image_path": "Muffler/img182.jpg",
+        "caption": "A muffler with center-exit tip configuration for sporty appearance."
+      },
+      {
+        "image_path": "Muffler/img183.jpg",
+        "caption": "A rectangular tip muffler providing a muscular exhaust tone."
+      },
+      {
+        "image_path": "Muffler/img184.jpg",
+        "caption": "A single-chamber muffler designed for minimal restrictions."
+      },
+      {
+        "image_path": "Muffler/img185.jpg",
+        "caption": "A muffler for electric vehicles with synthetic sound modulation."
+      },
+      {
+        "image_path": "Muffler/img186.jpg",
+        "caption": "A muffler with dual resonator chambers for reduced drone."
+      },
+      {
+        "image_path": "Muffler/img187.jpg",
+        "caption": "A street-legal muffler with removable silencer core."
+      },
+      {
+        "image_path": "Muffler/img188.jpg",
+        "caption": "A slip-fit muffler with welded hanger mounts."
+      },
+      {
+        "image_path": "Muffler/img189.jpg",
+        "caption": "A compact muffler for hatchback vehicles with tight spaces."
+      },
+      {
+        "image_path": "Muffler/img190.jpg",
+        "caption": "A corrosion-resistant muffler coated with zinc for longevity."
+      },
+      {
+        "image_path": "Muffler/img191.jpg",
+        "caption": "A twin-exit muffler for symmetrical rear bumper designs."
+      },
+      {
+        "image_path": "Muffler/img192.jpg",
+        "caption": "A baffled muffler made for noise-sensitive driving zones."
+      },
+      {
+        "image_path": "Muffler/img193.jpg",
+        "caption": "A glass-pack muffler delivering deep, aggressive tones."
+      },
+      {
+        "image_path": "Muffler/img194.jpg",
+        "caption": "A muffler optimized for turbocharged engines with minimal restriction."
+      },
+      {
+        "image_path": "Muffler/img195.jpg",
+        "caption": "A heavy-duty muffler with reinforced seams and end caps."
+      },
+      {
+        "image_path": "Muffler/img196.jpg",
+        "caption": "A stealth-style muffler designed for quiet cruising."
+      },
+      {
+        "image_path": "Muffler/img197.jpg",
+        "caption": "A muffler with round exhaust tip and burnished finish."
+      },
+      {
+        "image_path": "Muffler/img198.jpg",
+        "caption": "A low-profile muffler for lowered vehicles."
+      },
+      {
+        "image_path": "Muffler/img199.jpg",
+        "caption": "A muffler with interchangeable tip designs for customization."
+      },
+      {
+        "image_path": "Muffler/img200.jpg",
+        "caption": "A durable stainless steel muffler suited for all-weather performance."
+      }    
+]

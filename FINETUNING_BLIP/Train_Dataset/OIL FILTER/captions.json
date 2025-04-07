@@ -1,208 +1,606 @@
-{
-    "img1.jpg": {"caption": "A high-efficiency oil filter ensuring clean engine lubrication.", "category": "oil filter"},
-    "img2.jpg": {"caption": "An advanced oil filter designed for extended engine life.", "category": "oil filter"},
-    "img3.jpg": {"caption": "A premium oil filter capturing fine contaminants effectively.", "category": "oil filter"},
-    "img4.jpg": {"caption": "A heavy-duty oil filter built for high-performance engines.", "category": "oil filter"},
-    "img5.jpg": {"caption": "A high-capacity oil filter reducing maintenance frequency.", "category": "oil filter"},
-    "img6.jpg": {"caption": "An eco-friendly oil filter minimizing environmental impact.", "category": "oil filter"},
-    "img7.jpg": {"caption": "A long-lasting oil filter ensuring consistent oil flow.", "category": "oil filter"},
-    "img8.jpg": {"caption": "A corrosion-resistant oil filter for enhanced durability.", "category": "oil filter"},
-    "img9.jpg": {"caption": "A precision-engineered oil filter maximizing fuel efficiency.", "category": "oil filter"},
-    "img10.jpg": {"caption": "An ultra-fine oil filter trapping micro-particles efficiently.", "category": "oil filter"},
-    "img11.jpg": {"caption": "A high-performance oil filter improving engine cleanliness.", "category": "oil filter"},
-    "img12.jpg": {"caption": "A durable oil filter designed for extreme driving conditions.", "category": "oil filter"},
-    "img13.jpg": {"caption": "A lightweight oil filter enhancing fuel economy.", "category": "oil filter"},
-    "img14.jpg": {"caption": "An easy-to-install oil filter reducing engine wear.", "category": "oil filter"},
-    "img15.jpg": {"caption": "A spin-on oil filter simplifying routine maintenance.", "category": "oil filter"},
-    "img16.jpg": {"caption": "A high-pressure oil filter preventing sludge buildup.", "category": "oil filter"},
-    "img17.jpg": {"caption": "An OEM-quality oil filter ensuring factory-grade performance.", "category": "oil filter"},
-    "img18.jpg": {"caption": "A synthetic media oil filter offering superior filtration.", "category": "oil filter"},
-    "img19.jpg": {"caption": "A multi-layered oil filter maximizing dirt-holding capacity.", "category": "oil filter"},
-    "img20.jpg": {"caption": "A fast-flow oil filter maintaining steady oil circulation.", "category": "oil filter"},
-    "img21.jpg": {"caption": "A rugged oil filter engineered for heavy-duty vehicles.", "category": "oil filter"},
-    "img22.jpg": {"caption": "An anti-drainback valve-equipped oil filter preventing dry starts.", "category": "oil filter"},
-    "img23.jpg": {"caption": "A turbo-compatible oil filter for high-revving engines.", "category": "oil filter"},
-    "img24.jpg": {"caption": "A leak-proof oil filter ensuring long-lasting performance.", "category": "oil filter"},
-    "img25.jpg": {"caption": "A nano-fiber oil filter capturing microscopic debris.", "category": "oil filter"},
-    "img26.jpg": {"caption": "A high-flow oil filter allowing unrestricted lubrication.", "category": "oil filter"},
-    "img27.jpg": {"caption": "A temperature-resistant oil filter performing well in extreme conditions.", "category": "oil filter"},
-    "img28.jpg": {"caption": "A reinforced oil filter preventing filter collapse.", "category": "oil filter"},
-    "img29.jpg": {"caption": "A dual-layer oil filter enhancing dirt trapping ability.", "category": "oil filter"},
-    "img30.jpg": {"caption": "A performance oil filter reducing friction for smoother engine operation.", "category": "oil filter"},
-    "img31.jpg": {"caption": "A high-quality oil filter eliminating harmful engine deposits.", "category": "oil filter"},
-    "img32.jpg": {"caption": "A quick-install oil filter designed for convenience.", "category": "oil filter"},
-    "img33.jpg": {"caption": "A superior oil filter maintaining peak engine efficiency.", "category": "oil filter"},
-    "img34.jpg": {"caption": "A carbon-infused oil filter absorbing more contaminants.", "category": "oil filter"},
-    "img35.jpg": {"caption": "A high-tech oil filter incorporating advanced filtration technology.", "category": "oil filter"},
-    "img36.jpg": {"caption": "A specially designed oil filter enhancing engine longevity.", "category": "oil filter"},
-    "img37.jpg": {"caption": "A synthetic fiber oil filter offering extended service life.", "category": "oil filter"},
-    "img38.jpg": {"caption": "A noise-reducing oil filter ensuring quieter engine operation.", "category": "oil filter"},
-    "img39.jpg": {"caption": "A compact oil filter suitable for modern engines.", "category": "oil filter"},
-    "img40.jpg": {"caption": "A fuel-efficient oil filter promoting better mileage.", "category": "oil filter"},
-    "img41.jpg": {"caption": "A professional-grade oil filter used in commercial fleets.", "category": "oil filter"},
-    "img42.jpg": {"caption": "A racing-spec oil filter delivering peak performance.", "category": "oil filter"},
-    "img43.jpg": {"caption": "A rugged, off-road oil filter designed for durability.", "category": "oil filter"},
-    "img44.jpg": {"caption": "A universal oil filter compatible with multiple vehicle models.", "category": "oil filter"},
-    "img45.jpg": {"caption": "A premium-grade oil filter preventing premature engine wear.", "category": "oil filter"},
-    "img46.jpg": {"caption": "An ultra-fine mesh oil filter capturing micro-impurities.", "category": "oil filter"},
-    "img47.jpg": {"caption": "A next-gen oil filter designed for hybrid and electric vehicles.", "category": "oil filter"},
-    "img48.jpg": {"caption": "A reinforced oil filter resisting high-pressure conditions.", "category": "oil filter"},
-    "img49.jpg": {"caption": "A heavy-duty oil filter built for trucks and SUVs.", "category": "oil filter"},
-    "img50.jpg": {"caption": "A low-restriction oil filter allowing optimal lubrication.", "category": "oil filter"},
-    "img51.jpg": {"caption": "A durable oil filter designed to enhance engine protection.", "category": "oil filter"},
-    "img52.jpg": {"caption": "A high-efficiency oil filter ensuring smooth engine performance.", "category": "oil filter"},
-    "img53.jpg": {"caption": "A low-restriction oil filter maintaining optimal oil flow.", "category": "oil filter"},
-    "img54.jpg": {"caption": "A heavy-duty oil filter built to withstand extreme pressure.", "category": "oil filter"},
-    "img55.jpg": {"caption": "An ultra-fine filtration oil filter capturing microscopic debris.", "category": "oil filter"},
-    "img56.jpg": {"caption": "A premium-grade oil filter ensuring clean lubrication system.", "category": "oil filter"},
-    "img57.jpg": {"caption": "A long-lasting oil filter reducing engine wear over time.", "category": "oil filter"},
-    "img58.jpg": {"caption": "An advanced oil filter designed for high-mileage vehicles.", "category": "oil filter"},
-    "img59.jpg": {"caption": "A top-performance oil filter providing extended engine life.", "category": "oil filter"},
-    "img60.jpg": {"caption": "A spin-on oil filter for quick and easy installation.", "category": "oil filter"},
-    "img61.jpg": {"caption": "A multi-layer oil filter trapping contaminants effectively.", "category": "oil filter"},
-    "img62.jpg": {"caption": "A heat-resistant oil filter for extreme temperature conditions.", "category": "oil filter"},
-    "img63.jpg": {"caption": "A precision-engineered oil filter maximizing fuel efficiency.", "category": "oil filter"},
-    "img64.jpg": {"caption": "A synthetic-blend oil filter extending oil change intervals.", "category": "oil filter"},
-    "img65.jpg": {"caption": "A reinforced oil filter preventing collapse under pressure.", "category": "oil filter"},
-    "img66.jpg": {"caption": "A fast-flow oil filter maintaining optimal oil circulation.", "category": "oil filter"},
-    "img67.jpg": {"caption": "A heavy-duty truck oil filter built for maximum durability.", "category": "oil filter"},
-    "img68.jpg": {"caption": "A corrosion-resistant oil filter ensuring long-term reliability.", "category": "oil filter"},
-    "img69.jpg": {"caption": "An OEM-quality oil filter ensuring factory-spec performance.", "category": "oil filter"},
-    "img70.jpg": {"caption": "A fuel-efficient oil filter promoting better mileage.", "category": "oil filter"},
-    "img71.jpg": {"caption": "A turbo-compatible oil filter for high-performance vehicles.", "category": "oil filter"},
-    "img72.jpg": {"caption": "A leak-proof oil filter preventing oil contamination.", "category": "oil filter"},
-    "img73.jpg": {"caption": "A racing-spec oil filter designed for peak engine performance.", "category": "oil filter"},
-    "img74.jpg": {"caption": "A dual-layered oil filter ensuring optimal dirt-holding capacity.", "category": "oil filter"},
-    "img75.jpg": {"caption": "A fast-response oil filter reducing engine sludge buildup.", "category": "oil filter"},
-    "img76.jpg": {"caption": "A temperature-resistant oil filter maintaining efficiency in extreme conditions.", "category": "oil filter"},
-    "img77.jpg": {"caption": "A superior oil filter eliminating harmful engine deposits.", "category": "oil filter"},
-    "img78.jpg": {"caption": "A compact oil filter optimized for modern vehicles.", "category": "oil filter"},
-    "img79.jpg": {"caption": "A high-flow oil filter allowing unrestricted lubrication.", "category": "oil filter"},
-    "img80.jpg": {"caption": "A nano-fiber oil filter trapping even the smallest particles.", "category": "oil filter"},
-    "img81.jpg": {"caption": "A reinforced steel oil filter designed for heavy-duty use.", "category": "oil filter"},
-    "img82.jpg": {"caption": "A multi-stage oil filter improving overall engine health.", "category": "oil filter"},
-    "img83.jpg": {"caption": "An eco-conscious oil filter reducing environmental waste.", "category": "oil filter"},
-    "img84.jpg": {"caption": "A professional-grade oil filter designed for commercial fleets.", "category": "oil filter"},
-    "img85.jpg": {"caption": "A specially engineered oil filter optimizing oil filtration.", "category": "oil filter"},
-    "img86.jpg": {"caption": "A next-generation oil filter for hybrid and electric vehicles.", "category": "oil filter"},
-    "img87.jpg": {"caption": "A rapid-lubrication oil filter improving cold-start performance.", "category": "oil filter"},
-    "img88.jpg": {"caption": "A spin-on design oil filter reducing installation time.", "category": "oil filter"},
-    "img89.jpg": {"caption": "A noise-reducing oil filter ensuring quieter engine operation.", "category": "oil filter"},
-    "img90.jpg": {"caption": "A leak-resistant oil filter preventing oil loss during operation.", "category": "oil filter"},
-    "img91.jpg": {"caption": "A highly durable oil filter offering prolonged service life.", "category": "oil filter"},
-    "img92.jpg": {"caption": "A carbon-activated oil filter reducing harmful deposits.", "category": "oil filter"},
-    "img93.jpg": {"caption": "A lightweight oil filter enhancing vehicle efficiency.", "category": "oil filter"},
-    "img94.jpg": {"caption": "A high-capacity oil filter suitable for off-road conditions.", "category": "oil filter"},
-    "img95.jpg": {"caption": "A universal-fit oil filter compatible with various vehicle models.", "category": "oil filter"},
-    "img96.jpg": {"caption": "A heavy-duty diesel oil filter ensuring top-notch performance.", "category": "oil filter"},
-    "img97.jpg": {"caption": "A precision oil filter reducing impurities for cleaner oil flow.", "category": "oil filter"},
-    "img98.jpg": {"caption": "A smart oil filter with advanced filtration technology.", "category": "oil filter"},
-    "img99.jpg": {"caption": "A sturdy oil filter designed for longevity and durability.", "category": "oil filter"},
-    "img100.jpg": {"caption": "A high-flow-rate oil filter ensuring superior engine protection.", "category": "oil filter"},
-    "img101.jpg": {"caption": "A precision oil filter maximizing engine performance.", "category": "oil filter"},
-    "img102.jpg": {"caption": "An advanced oil filter ensuring superior dirt-trapping efficiency.", "category": "oil filter"},
-    "img103.jpg": {"caption": "A long-lasting oil filter engineered for extended oil life.", "category": "oil filter"},
-    "img104.jpg": {"caption": "A high-flow oil filter optimizing lubrication for all conditions.", "category": "oil filter"},
-    "img105.jpg": {"caption": "A reinforced oil filter designed for extreme pressure handling.", "category": "oil filter"},
-    "img106.jpg": {"caption": "A premium oil filter protecting the engine from sludge buildup.", "category": "oil filter"},
-    "img107.jpg": {"caption": "A high-performance oil filter for fast and clean oil circulation.", "category": "oil filter"},
-    "img108.jpg": {"caption": "A corrosion-resistant oil filter ensuring durability and longevity.", "category": "oil filter"},
-    "img109.jpg": {"caption": "A hybrid-compatible oil filter optimized for modern vehicles.", "category": "oil filter"},
-    "img110.jpg": {"caption": "A heavy-duty oil filter built for trucks and high-mileage cars.", "category": "oil filter"},
-    "img111.jpg": {"caption": "A spin-on oil filter making oil changes quick and easy.", "category": "oil filter"},
-    "img112.jpg": {"caption": "A high-efficiency oil filter reducing friction and wear.", "category": "oil filter"},
-    "img113.jpg": {"caption": "A temperature-resistant oil filter performing well in extreme climates.", "category": "oil filter"},
-    "img114.jpg": {"caption": "A high-capacity oil filter extending engine oil lifespan.", "category": "oil filter"},
-    "img115.jpg": {"caption": "A multi-layered oil filter offering superior particle filtration.", "category": "oil filter"},
-    "img116.jpg": {"caption": "A synthetic blend oil filter improving oil purification.", "category": "oil filter"},
-    "img117.jpg": {"caption": "An anti-drainback valve oil filter preventing dry starts.", "category": "oil filter"},
-    "img118.jpg": {"caption": "A fast-lubrication oil filter reducing engine wear during startup.", "category": "oil filter"},
-    "img119.jpg": {"caption": "A high-performance racing oil filter designed for speed enthusiasts.", "category": "oil filter"},
-    "img120.jpg": {"caption": "A compact oil filter ensuring tight engine fitment.", "category": "oil filter"},
-    "img121.jpg": {"caption": "An ultra-durable oil filter ideal for commercial vehicles.", "category": "oil filter"},
-    "img122.jpg": {"caption": "A dual-layered oil filter offering advanced dirt filtration.", "category": "oil filter"},
-    "img123.jpg": {"caption": "A reinforced steel oil filter preventing pressure leaks.", "category": "oil filter"},
-    "img124.jpg": {"caption": "A cutting-edge oil filter reducing harmful engine deposits.", "category": "oil filter"},
-    "img125.jpg": {"caption": "An eco-friendly oil filter designed for biodegradable oil compatibility.", "category": "oil filter"},
-    "img126.jpg": {"caption": "A fast-draining oil filter ensuring quick oil change intervals.", "category": "oil filter"},
-    "img127.jpg": {"caption": "A heat-resistant oil filter maintaining peak performance in all conditions.", "category": "oil filter"},
-    "img128.jpg": {"caption": "A leak-proof oil filter reducing the risk of engine oil loss.", "category": "oil filter"},
-    "img129.jpg": {"caption": "A synthetic fiber oil filter improving filtration efficiency.", "category": "oil filter"},
-    "img130.jpg": {"caption": "A performance oil filter designed for sports and luxury cars.", "category": "oil filter"},
-    "img131.jpg": {"caption": "A heavy-duty diesel oil filter ensuring optimal engine protection.", "category": "oil filter"},
-    "img132.jpg": {"caption": "A universal oil filter compatible with various vehicle models.", "category": "oil filter"},
-    "img133.jpg": {"caption": "A high-pressure oil filter engineered for performance engines.", "category": "oil filter"},
-    "img134.jpg": {"caption": "A water-separating oil filter preventing moisture contamination.", "category": "oil filter"},
-    "img135.jpg": {"caption": "A self-cleaning oil filter improving engine efficiency.", "category": "oil filter"},
-    "img136.jpg": {"caption": "A rugged oil filter built for off-road and adventure vehicles.", "category": "oil filter"},
-    "img137.jpg": {"caption": "A rapid-filtration oil filter reducing engine sludge buildup.", "category": "oil filter"},
-    "img138.jpg": {"caption": "A specialized oil filter optimizing performance in turbocharged engines.", "category": "oil filter"},
-    "img139.jpg": {"caption": "A noise-reducing oil filter ensuring quieter engine operation.", "category": "oil filter"},
-    "img140.jpg": {"caption": "A next-gen oil filter integrating smart filtration technology.", "category": "oil filter"},
-    "img141.jpg": {"caption": "A nano-fiber oil filter capturing microscopic contaminants.", "category": "oil filter"},
-    "img142.jpg": {"caption": "A lightweight oil filter improving overall fuel efficiency.", "category": "oil filter"},
-    "img143.jpg": {"caption": "A high-capacity oil filter designed for long-distance driving.", "category": "oil filter"},
-    "img144.jpg": {"caption": "A premium-grade oil filter ensuring superior oil purity.", "category": "oil filter"},
-    "img145.jpg": {"caption": "A flexible-fit oil filter suitable for a wide range of vehicles.", "category": "oil filter"},
-    "img146.jpg": {"caption": "A dual-function oil filter combining filtration and pressure regulation.", "category": "oil filter"},
-    "img147.jpg": {"caption": "A turbo-rated oil filter protecting against heat-induced oil breakdown.", "category": "oil filter"},
-    "img148.jpg": {"caption": "A high-flow synthetic oil filter improving engine lubrication.", "category": "oil filter"},
-    "img149.jpg": {"caption": "A smart oil filter monitoring oil quality for optimal performance.", "category": "oil filter"},
-    "img150.jpg": {"caption": "A superior dirt-trapping oil filter enhancing engine longevity.", "category": "oil filter"},
-    "img151.jpg": {"caption": "A durable oil filter designed for high-mileage vehicles.", "category": "oil filter"},
-    "img152.jpg": {"caption": "An advanced oil filter improving fuel efficiency and engine health.", "category": "oil filter"},
-    "img153.jpg": {"caption": "A high-efficiency oil filter ensuring optimal oil flow.", "category": "oil filter"},
-    "img154.jpg": {"caption": "A premium oil filter designed to trap the smallest impurities.", "category": "oil filter"},
-    "img155.jpg": {"caption": "A rugged oil filter built for extreme driving conditions.", "category": "oil filter"},
-    "img156.jpg": {"caption": "A synthetic media oil filter enhancing filtration and durability.", "category": "oil filter"},
-    "img157.jpg": {"caption": "A compact oil filter ensuring perfect fit and high performance.", "category": "oil filter"},
-    "img158.jpg": {"caption": "A corrosion-resistant oil filter prolonging engine life.", "category": "oil filter"},
-    "img159.jpg": {"caption": "A high-flow oil filter reducing engine friction and wear.", "category": "oil filter"},
-    "img160.jpg": {"caption": "A quick-change oil filter designed for easy maintenance.", "category": "oil filter"},
-    "img161.jpg": {"caption": "A long-lasting oil filter ensuring clean oil circulation.", "category": "oil filter"},
-    "img162.jpg": {"caption": "A performance oil filter built for high-revving engines.", "category": "oil filter"},
-    "img163.jpg": {"caption": "A multi-layered oil filter capturing microscopic contaminants.", "category": "oil filter"},
-    "img164.jpg": {"caption": "A reinforced oil filter preventing leaks and pressure loss.", "category": "oil filter"},
-    "img165.jpg": {"caption": "An anti-clogging oil filter improving engine reliability.", "category": "oil filter"},
-    "img166.jpg": {"caption": "A heavy-duty oil filter designed for trucks and SUVs.", "category": "oil filter"},
-    "img167.jpg": {"caption": "A thermal-resistant oil filter maintaining efficiency under heat.", "category": "oil filter"},
-    "img168.jpg": {"caption": "A biodegradable oil filter reducing environmental impact.", "category": "oil filter"},
-    "img169.jpg": {"caption": "A synthetic blend oil filter maximizing engine cleanliness.", "category": "oil filter"},
-    "img170.jpg": {"caption": "A spin-on oil filter ensuring hassle-free installation.", "category": "oil filter"},
-    "img171.jpg": {"caption": "A low-restriction oil filter improving fuel economy.", "category": "oil filter"},
-    "img172.jpg": {"caption": "A high-pressure oil filter built for turbocharged engines.", "category": "oil filter"},
-    "img173.jpg": {"caption": "A premium-grade oil filter delivering superior filtration.", "category": "oil filter"},
-    "img174.jpg": {"caption": "A top-tier oil filter engineered for modern vehicles.", "category": "oil filter"},
-    "img175.jpg": {"caption": "A racing oil filter designed for high-performance applications.", "category": "oil filter"},
-    "img176.jpg": {"caption": "A dirt-trapping oil filter preventing harmful engine deposits.", "category": "oil filter"},
-    "img177.jpg": {"caption": "A universal oil filter compatible with most car models.", "category": "oil filter"},
-    "img178.jpg": {"caption": "A high-capacity oil filter extending oil change intervals.", "category": "oil filter"},
-    "img179.jpg": {"caption": "A precision oil filter delivering maximum filtration efficiency.", "category": "oil filter"},
-    "img180.jpg": {"caption": "A nano-fiber oil filter ensuring ultra-fine particle capture.", "category": "oil filter"},
-    "img181.jpg": {"caption": "A smart oil filter integrating advanced monitoring technology.", "category": "oil filter"},
-    "img182.jpg": {"caption": "A leak-proof oil filter preventing unwanted oil loss.", "category": "oil filter"},
-    "img183.jpg": {"caption": "A heat-resistant oil filter optimized for extreme temperatures.", "category": "oil filter"},
-    "img184.jpg": {"caption": "A fuel-efficient oil filter improving engine longevity.", "category": "oil filter"},
-    "img185.jpg": {"caption": "A reinforced steel oil filter ensuring maximum durability.", "category": "oil filter"},
-    "img186.jpg": {"caption": "A water-repelling oil filter preventing contamination.", "category": "oil filter"},
-    "img187.jpg": {"caption": "A quick-draining oil filter allowing for fast oil changes.", "category": "oil filter"},
-    "img188.jpg": {"caption": "A multi-stage oil filter ensuring optimal engine protection.", "category": "oil filter"},
-    "img189.jpg": {"caption": "A robust oil filter reducing sludge and buildup.", "category": "oil filter"},
-    "img190.jpg": {"caption": "A self-cleaning oil filter improving overall performance.", "category": "oil filter"},
-    "img191.jpg": {"caption": "A dual-filter oil system maximizing engine efficiency.", "category": "oil filter"},
-    "img192.jpg": {"caption": "A noise-reducing oil filter ensuring smooth engine operation.", "category": "oil filter"},
-    "img193.jpg": {"caption": "A next-generation oil filter integrating AI diagnostics.", "category": "oil filter"},
-    "img194.jpg": {"caption": "A lightweight oil filter improving vehicle fuel economy.", "category": "oil filter"},
-    "img195.jpg": {"caption": "A turbo-rated oil filter preventing oil breakdown at high speeds.", "category": "oil filter"},
-    "img196.jpg": {"caption": "A flexible-fit oil filter suitable for various engine types.", "category": "oil filter"},
-    "img197.jpg": {"caption": "A high-flow synthetic oil filter optimizing engine lubrication.", "category": "oil filter"},
-    "img198.jpg": {"caption": "A superior oil filter reducing harmful carbon deposits.", "category": "oil filter"},
-    "img199.jpg": {"caption": "A super-durable oil filter designed for industrial vehicles.", "category": "oil filter"},
-    "img200.jpg": {"caption": "A cutting-edge oil filter maximizing engine lifespan.", "category": "oil filter"}
-
-
-
-    
-    
-    
-}
+[
+    {
+      "image_path": "Oil_Filter/img1.jpg",
+      "caption": "A standard spin-on oil filter used in most passenger vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img2.jpg",
+      "caption": "A high-efficiency oil filter designed for extended oil change intervals."
+    },
+    {
+      "image_path": "Oil_Filter/img3.jpg",
+      "caption": "A compact oil filter suitable for small engine compartments."
+    },
+    {
+      "image_path": "Oil_Filter/img4.jpg",
+      "caption": "A synthetic media oil filter for superior particle capture."
+    },
+    {
+      "image_path": "Oil_Filter/img5.jpg",
+      "caption": "A cartridge-style oil filter designed for eco-friendly disposal."
+    },
+    {
+      "image_path": "Oil_Filter/img6.jpg",
+      "caption": "A performance-grade oil filter for high-revving engines."
+    },
+    {
+      "image_path": "Oil_Filter/img7.jpg",
+      "caption": "A bypass oil filter that filters oil separately for improved cleanliness."
+    },
+    {
+      "image_path": "Oil_Filter/img8.jpg",
+      "caption": "A long-life oil filter with reinforced canister construction."
+    },
+    {
+      "image_path": "Oil_Filter/img9.jpg",
+      "caption": "An oil filter with anti-drainback valve to prevent dry starts."
+    },
+    {
+      "image_path": "Oil_Filter/img10.jpg",
+      "caption": "A premium oil filter with dual-layer filtration technology."
+    },
+    {
+      "image_path": "Oil_Filter/img11.jpg",
+      "caption": "A racing oil filter built to withstand high oil pressure."
+    },
+    {
+      "image_path": "Oil_Filter/img12.jpg",
+      "caption": "An OEM-style oil filter for factory-spec fitment."
+    },
+    {
+      "image_path": "Oil_Filter/img13.jpg",
+      "caption": "A high-flow oil filter designed for diesel engines."
+    },
+    {
+      "image_path": "Oil_Filter/img14.jpg",
+      "caption": "An oil filter with magnetic core for extra metal particle capture."
+    },
+    {
+      "image_path": "Oil_Filter/img15.jpg",
+      "caption": "A budget oil filter with cellulose media for basic protection."
+    },
+    {
+      "image_path": "Oil_Filter/img16.jpg",
+      "caption": "A heavy-duty oil filter designed for off-road applications."
+    },
+    {
+      "image_path": "Oil_Filter/img17.jpg",
+      "caption": "A washable stainless-steel mesh oil filter for reusable performance."
+    },
+    {
+      "image_path": "Oil_Filter/img18.jpg",
+      "caption": "A compact oil filter ideal for motorcycles and ATVs."
+    },
+    {
+      "image_path": "Oil_Filter/img19.jpg",
+      "caption": "A spin-on filter with extra gasket protection for leak prevention."
+    },
+    {
+      "image_path": "Oil_Filter/img20.jpg",
+      "caption": "An extended-capacity oil filter with deep pleats for more surface area."
+    },
+    {
+      "image_path": "Oil_Filter/img21.jpg",
+      "caption": "A rugged oil filter for industrial and commercial vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img22.jpg",
+      "caption": "An oil filter with high burst pressure rating for turbo engines."
+    },
+    {
+      "image_path": "Oil_Filter/img23.jpg",
+      "caption": "An oil filter with silicone anti-drainback valve for cold climates."
+    },
+    {
+      "image_path": "Oil_Filter/img24.jpg",
+      "caption": "A slim-profile oil filter for tight engine bays."
+    },
+    {
+      "image_path": "Oil_Filter/img25.jpg",
+      "caption": "An oil filter engineered for synthetic oil use."
+    },
+    {
+      "image_path": "Oil_Filter/img26.jpg",
+      "caption": "An oil filter with a built-in bypass valve for engine protection."
+    },
+    {
+      "image_path": "Oil_Filter/img27.jpg",
+      "caption": "A transparent oil filter housing for visual inspection."
+    },
+    {
+      "image_path": "Oil_Filter/img28.jpg",
+      "caption": "A top-tier oil filter for extended engine life."
+    },
+    {
+      "image_path": "Oil_Filter/img29.jpg",
+      "caption": "An oil filter specifically designed for hybrid vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img30.jpg",
+      "caption": "An oversized oil filter for higher oil capacity engines."
+    },
+    {
+      "image_path": "Oil_Filter/img31.jpg",
+      "caption": "An oil filter built with eco-conscious recycled materials."
+    },
+    {
+      "image_path": "Oil_Filter/img32.jpg",
+      "caption": "An anti-corrosive coated oil filter for marine applications."
+    },
+    {
+      "image_path": "Oil_Filter/img33.jpg",
+      "caption": "An aftermarket oil filter compatible with high-mileage oils."
+    },
+    {
+      "image_path": "Oil_Filter/img34.jpg",
+      "caption": "A filter with integrated pressure-relief valve for consistent flow."
+    },
+    {
+      "image_path": "Oil_Filter/img35.jpg",
+      "caption": "An oil filter designed to reduce engine startup wear."
+    },
+    {
+      "image_path": "Oil_Filter/img36.jpg",
+      "caption": "An oil filter with extended pleat count for enhanced performance."
+    },
+    {
+      "image_path": "Oil_Filter/img37.jpg",
+      "caption": "A spin-on oil filter compatible with both gas and diesel engines."
+    },
+    {
+      "image_path": "Oil_Filter/img38.jpg",
+      "caption": "A dual-media oil filter for maximum dirt holding capacity."
+    },
+    {
+      "image_path": "Oil_Filter/img39.jpg",
+      "caption": "A space-saving oil filter for modern compact engines."
+    },
+    {
+      "image_path": "Oil_Filter/img40.jpg",
+      "caption": "A steel-core oil filter for added structural integrity."
+    },
+    {
+      "image_path": "Oil_Filter/img41.jpg",
+      "caption": "An ultra-fine filtration oil filter for precision engines."
+    },
+    {
+      "image_path": "Oil_Filter/img42.jpg",
+      "caption": "An oil filter designed for high-torque diesel trucks."
+    },
+    {
+      "image_path": "Oil_Filter/img43.jpg",
+      "caption": "A color-coded oil filter for maintenance tracking."
+    },
+    {
+      "image_path": "Oil_Filter/img44.jpg",
+      "caption": "An ultra-lightweight racing oil filter for optimized weight distribution."
+    },
+    {
+      "image_path": "Oil_Filter/img45.jpg",
+      "caption": "A heat-resistant oil filter for high-temperature environments."
+    },
+    {
+      "image_path": "Oil_Filter/img46.jpg",
+      "caption": "An oil filter made with biodegradable media."
+    },
+    {
+      "image_path": "Oil_Filter/img47.jpg",
+      "caption": "A shockproof oil filter built for rally use."
+    },
+    {
+      "image_path": "Oil_Filter/img48.jpg",
+      "caption": "A non-metallic oil filter for easier recycling."
+    },
+    {
+      "image_path": "Oil_Filter/img49.jpg",
+      "caption": "An oil filter featuring integrated thermal bypass protection."
+    },
+    {
+      "image_path": "Oil_Filter/img50.jpg",
+      "caption": "An automotive oil filter built to OEM standards."
+    },
+    {
+      "image_path": "Oil_Filter/img51.jpg",
+      "caption": "A corrosion-resistant oil filter with epoxy coating."
+    },
+    {
+      "image_path": "Oil_Filter/img52.jpg",
+      "caption": "A multi-stage oil filter for racing applications."
+    },
+    {
+      "image_path": "Oil_Filter/img53.jpg",
+      "caption": "A low-profile oil filter for sports cars."
+    },
+    {
+      "image_path": "Oil_Filter/img54.jpg",
+      "caption": "A dual-cap oil filter for increased sealing protection."
+    },
+    {
+      "image_path": "Oil_Filter/img55.jpg",
+      "caption": "A high-performance oil filter used in endurance racing."
+    },
+    {
+      "image_path": "Oil_Filter/img56.jpg",
+      "caption": "An inline oil filter for external oil systems."
+    },
+    {
+      "image_path": "Oil_Filter/img57.jpg",
+      "caption": "A spin-on filter with extra-durable sealing gasket."
+    },
+    {
+      "image_path": "Oil_Filter/img58.jpg",
+      "caption": "An oil filter with UV-resistant casing for prolonged exposure."
+    },
+    {
+      "image_path": "Oil_Filter/img59.jpg",
+      "caption": "A heavy-duty oil filter with triple-layer filtration."
+    },
+    {
+      "image_path": "Oil_Filter/img60.jpg",
+      "caption": "An oil filter with advanced contaminant trapping capacity."
+    },
+    {
+      "image_path": "Oil_Filter/img61.jpg",
+      "caption": "An oil filter with torque guide for easy installation."
+    },
+    {
+      "image_path": "Oil_Filter/img62.jpg",
+      "caption": "A black-coated oil filter designed to match performance vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img63.jpg",
+      "caption": "An extra-wide oil filter for large displacement engines."
+    },
+    {
+      "image_path": "Oil_Filter/img64.jpg",
+      "caption": "An oil filter with extra-dense pleated filter media."
+    },
+    {
+      "image_path": "Oil_Filter/img65.jpg",
+      "caption": "A vibration-resistant oil filter built for rough terrain."
+    },
+    {
+      "image_path": "Oil_Filter/img66.jpg",
+      "caption": "A fire-resistant oil filter used in motorsport environments."
+    },
+    {
+      "image_path": "Oil_Filter/img67.jpg",
+      "caption": "A high-efficiency oil filter for turbocharged engines."
+    },
+    {
+      "image_path": "Oil_Filter/img68.jpg",
+      "caption": "A flow-optimized oil filter for minimal pressure drop."
+    },
+    {
+      "image_path": "Oil_Filter/img69.jpg",
+      "caption": "An OEM-grade oil filter with excellent filtration performance."
+    },
+    {
+      "image_path": "Oil_Filter/img70.jpg",
+      "caption": "A blue high-capacity oil filter for diesel pickups."
+    },
+    {
+      "image_path": "Oil_Filter/img71.jpg",
+      "caption": "A double-length oil filter for extended performance intervals."
+    },
+    {
+      "image_path": "Oil_Filter/img72.jpg",
+      "caption": "A rustproof oil filter for marine and coastal vehicle use."
+    },
+    {
+      "image_path": "Oil_Filter/img73.jpg",
+      "caption": "A white high-flow oil filter for classic American V8s."
+    },
+    {
+      "image_path": "Oil_Filter/img74.jpg",
+      "caption": "A universal-fit spin-on oil filter compatible with most vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img75.jpg",
+      "caption": "An oil filter with drain valve for easy maintenance."
+    },
+    {
+      "image_path": "Oil_Filter/img76.jpg",
+      "caption": "An aerodynamic oil filter used in high-speed test vehicles."
+    },
+    {
+      "image_path": "Oil_Filter/img77.jpg",
+      "caption": "A temperature-resistant oil filter for arid environments."
+    },
+    {
+      "image_path": "Oil_Filter/img78.jpg",
+      "caption": "An oil filter with an integrated RFID tag for service tracking."
+    },
+    {
+      "image_path": "Oil_Filter/img79.jpg",
+      "caption": "A long-drain oil filter for synthetic blend oils."
+    },
+    {
+      "image_path": "Oil_Filter/img80.jpg",
+      "caption": "An ultra-compact oil filter ideal for tight engine layouts."
+    },
+    {
+        "image_path": "Oil_Filter/img130.jpg",
+        "caption": "A high-performance oil filter designed for racing engines."
+      },
+      {
+        "image_path": "Oil_Filter/img131.jpg",
+        "caption": "An OEM-style oil filter with factory fitment and performance."
+      },
+      {
+        "image_path": "Oil_Filter/img132.jpg",
+        "caption": "A cartridge-style oil filter used in luxury sedans."
+      },
+      {
+        "image_path": "Oil_Filter/img133.jpg",
+        "caption": "A compact oil filter suitable for motorcycles and ATVs."
+      },
+      {
+        "image_path": "Oil_Filter/img134.jpg",
+        "caption": "A long-life oil filter built for extended service intervals."
+      },
+      {
+        "image_path": "Oil_Filter/img135.jpg",
+        "caption": "An oil filter with an integrated pressure relief valve."
+      },
+      {
+        "image_path": "Oil_Filter/img136.jpg",
+        "caption": "A spin-on oil filter with premium filtration media."
+      },
+      {
+        "image_path": "Oil_Filter/img137.jpg",
+        "caption": "A reusable oil filter featuring a stainless steel mesh core."
+      },
+      {
+        "image_path": "Oil_Filter/img138.jpg",
+        "caption": "A high-efficiency oil filter for synthetic motor oils."
+      },
+      {
+        "image_path": "Oil_Filter/img139.jpg",
+        "caption": "An anti-drainback valve equipped oil filter for cold starts."
+      },
+      {
+        "image_path": "Oil_Filter/img140.jpg",
+        "caption": "A compact oil filter with minimal pressure drop."
+      },
+      {
+        "image_path": "Oil_Filter/img141.jpg",
+        "caption": "A dual-filtration oil filter system for cleaner engine oil."
+      },
+      {
+        "image_path": "Oil_Filter/img142.jpg",
+        "caption": "A colored oil filter for racing customization."
+      },
+      {
+        "image_path": "Oil_Filter/img143.jpg",
+        "caption": "An oil filter with a magnetic core to trap metallic debris."
+      },
+      {
+        "image_path": "Oil_Filter/img144.jpg",
+        "caption": "A budget-friendly oil filter with decent filtration capacity."
+      },
+      {
+        "image_path": "Oil_Filter/img145.jpg",
+        "caption": "A compact high-pressure oil filter for turbocharged engines."
+      },
+      {
+        "image_path": "Oil_Filter/img146.jpg",
+        "caption": "An extended capacity oil filter for heavy-duty vehicles."
+      },
+      {
+        "image_path": "Oil_Filter/img147.jpg",
+        "caption": "A thermal-resistant oil filter for high-temperature environments."
+      },
+      {
+        "image_path": "Oil_Filter/img148.jpg",
+        "caption": "A biodegradable oil filter made with eco-friendly materials."
+      },
+      {
+        "image_path": "Oil_Filter/img149.jpg",
+        "caption": "A universal oil filter compatible with multiple engine types."
+      },
+      {
+        "image_path": "Oil_Filter/img150.jpg",
+        "caption": "An oil filter with high-dirt holding capacity for dusty regions."
+      },
+      {
+        "image_path": "Oil_Filter/img151.jpg",
+        "caption": "A corrosion-resistant oil filter for marine engines."
+      },
+      {
+        "image_path": "Oil_Filter/img152.jpg",
+        "caption": "An oversized oil filter for enhanced engine protection."
+      },
+      {
+        "image_path": "Oil_Filter/img153.jpg",
+        "caption": "A quick-release oil filter for hassle-free maintenance."
+      },
+      {
+        "image_path": "Oil_Filter/img154.jpg",
+        "caption": "A low-profile oil filter designed for performance vehicles."
+      },
+      {
+        "image_path": "Oil_Filter/img155.jpg",
+        "caption": "An oil filter with Teflon-coated sealing for durability."
+      },
+      {
+        "image_path": "Oil_Filter/img156.jpg",
+        "caption": "An oil filter engineered for hybrid engine systems."
+      },
+      {
+        "image_path": "Oil_Filter/img157.jpg",
+        "caption": "A leak-proof oil filter with multi-layer sealing."
+      },
+      {
+        "image_path": "Oil_Filter/img158.jpg",
+        "caption": "A high-flow oil filter for diesel engines."
+      },
+      {
+        "image_path": "Oil_Filter/img159.jpg",
+        "caption": "A lightweight oil filter constructed with aluminum housing."
+      },
+      {
+        "image_path": "Oil_Filter/img160.jpg",
+        "caption": "An industrial-grade oil filter for commercial machinery."
+      },
+      {
+        "image_path": "Oil_Filter/img161.jpg",
+        "caption": "An advanced nano-filter oil filter for fine particle capture."
+      },
+      {
+        "image_path": "Oil_Filter/img162.jpg",
+        "caption": "A customizable oil filter with various thread options."
+      },
+      {
+        "image_path": "Oil_Filter/img163.jpg",
+        "caption": "A disposable paper oil filter for budget applications."
+      },
+      {
+        "image_path": "Oil_Filter/img164.jpg",
+        "caption": "A filter with anti-vibration design for rugged use."
+      },
+      {
+        "image_path": "Oil_Filter/img165.jpg",
+        "caption": "A bypass oil filter for supplemental engine protection."
+      },
+      {
+        "image_path": "Oil_Filter/img166.jpg",
+        "caption": "An oil filter with enhanced burst strength for safety."
+      },
+      {
+        "image_path": "Oil_Filter/img167.jpg",
+        "caption": "An oil filter suitable for classic and vintage engines."
+      },
+      {
+        "image_path": "Oil_Filter/img168.jpg",
+        "caption": "An ultra-compact oil filter for tight engine bays."
+      },
+      {
+        "image_path": "Oil_Filter/img169.jpg",
+        "caption": "A screw-on oil filter with a non-slip grip coating."
+      },
+      {
+        "image_path": "Oil_Filter/img170.jpg",
+        "caption": "An oil filter tested for extreme temperature performance."
+      },
+      {
+        "image_path": "Oil_Filter/img171.jpg",
+        "caption": "A quick-drain valve equipped oil filter."
+      },
+      {
+        "image_path": "Oil_Filter/img172.jpg",
+        "caption": "An oil filter made for off-road racing vehicles."
+      },
+      {
+        "image_path": "Oil_Filter/img173.jpg",
+        "caption": "An extra-large oil filter to reduce oil change frequency."
+      },
+      {
+        "image_path": "Oil_Filter/img174.jpg",
+        "caption": "A filter with a pre-lubed gasket for easier installation."
+      },
+      {
+        "image_path": "Oil_Filter/img175.jpg",
+        "caption": "A dual-media oil filter with layered filtration."
+      },
+      {
+        "image_path": "Oil_Filter/img176.jpg",
+        "caption": "A transparent housing oil filter for visual inspections."
+      },
+      {
+        "image_path": "Oil_Filter/img177.jpg",
+        "caption": "An oil filter optimized for synthetic blend motor oils."
+      },
+      {
+        "image_path": "Oil_Filter/img178.jpg",
+        "caption": "A tall oil filter offering increased flow capacity."
+      },
+      {
+        "image_path": "Oil_Filter/img179.jpg",
+        "caption": "A heat-dissipating oil filter for improved performance."
+      },
+      {
+        "image_path": "Oil_Filter/img180.jpg",
+        "caption": "A carbon-infused oil filter for additional purification."
+      },
+      {
+        "image_path": "Oil_Filter/img181.jpg",
+        "caption": "An oil filter with internal anti-slosh baffles."
+      },
+      {
+        "image_path": "Oil_Filter/img182.jpg",
+        "caption": "An oil filter for engines with high oil pressure systems."
+      },
+      {
+        "image_path": "Oil_Filter/img183.jpg",
+        "caption": "A flush-mount oil filter for low-profile applications."
+      },
+      {
+        "image_path": "Oil_Filter/img184.jpg",
+        "caption": "A thermally shielded oil filter for racing environments."
+      },
+      {
+        "image_path": "Oil_Filter/img185.jpg",
+        "caption": "A press-fit oil filter for European car models."
+      },
+      {
+        "image_path": "Oil_Filter/img186.jpg",
+        "caption": "An oil filter compatible with ethanol-blended fuels."
+      },
+      {
+        "image_path": "Oil_Filter/img187.jpg",
+        "caption": "A low-resistance oil filter designed for fuel economy."
+      },
+      {
+        "image_path": "Oil_Filter/img188.jpg",
+        "caption": "A small displacement engine oil filter for scooters."
+      },
+      {
+        "image_path": "Oil_Filter/img189.jpg",
+        "caption": "A silicone gasket oil filter for extended sealing performance."
+      },
+      {
+        "image_path": "Oil_Filter/img190.jpg",
+        "caption": "A quick-connect oil filter with snap-on fitting."
+      },
+      {
+        "image_path": "Oil_Filter/img191.jpg",
+        "caption": "A rugged off-road oil filter with sand-resistant media."
+      },
+      {
+        "image_path": "Oil_Filter/img192.jpg",
+        "caption": "A deep pleated oil filter for superior particle trapping."
+      },
+      {
+        "image_path": "Oil_Filter/img193.jpg",
+        "caption": "A high-performance cartridge oil filter for turbo engines."
+      },
+      {
+        "image_path": "Oil_Filter/img194.jpg",
+        "caption": "An oil filter designed to reduce valve train noise."
+      },
+      {
+        "image_path": "Oil_Filter/img195.jpg",
+        "caption": "An extra-seal oil filter ideal for cold climates."
+      },
+      {
+        "image_path": "Oil_Filter/img196.jpg",
+        "caption": "An oil filter with RFID chip for maintenance tracking."
+      },
+      {
+        "image_path": "Oil_Filter/img197.jpg",
+        "caption": "A crush-resistant oil filter for rugged terrain use."
+      },
+      {
+        "image_path": "Oil_Filter/img198.jpg",
+        "caption": "A ceramic-based oil filter with superior thermal stability."
+      },
+      {
+        "image_path": "Oil_Filter/img199.jpg",
+        "caption": "An oil filter tested for military-grade endurance."
+      },
+      {
+        "image_path": "Oil_Filter/img200.jpg",
+        "caption": "An energy-efficient oil filter enhancing engine longevity."
+    }        
+]    

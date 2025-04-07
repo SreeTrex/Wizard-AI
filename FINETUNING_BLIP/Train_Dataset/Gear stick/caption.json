@@ -1,735 +1,855 @@
-{   
-    "img1.jpg": {
-        "caption": "A classic manual gear stick with a leather-wrapped shift knob for a comfortable grip.",
-        "category": "Gear Stick"
-    },
-    "img2.jpg": {
-        "caption": "A short-throw gear stick designed for quick and precise shifting.",
-        "category": "Gear Stick"
-    },
-    "img3.jpg": {
-        "caption": "A gear stick with an aluminum shift knob for a sporty feel.",
-        "category": "Gear Stick"
-    },
-    "img4.jpg": {
-        "caption": "An ergonomic gear stick with a contoured design for enhanced comfort.",
-        "category": "Gear Stick"
-    },
-    "img5.jpg": {
-        "caption": "A gear stick with a carbon fiber finish for a sleek and modern look.",
-        "category": "Gear Stick"
-    },
-    "img6.jpg": {
-        "caption": "A gear stick with an illuminated shift pattern for easy visibility at night.",
-        "category": "Gear Stick"
-    },
-    "img7.jpg": {
-        "caption": "A gear stick featuring a weighted knob for smoother and more stable shifts.",
-        "category": "Gear Stick"
-    },
-    "img8.jpg": {
-        "caption": "A high-performance gear stick optimized for racing applications.",
-        "category": "Gear Stick"
-    },
-    "img9.jpg": {
-        "caption": "A vintage-style gear stick with a wooden shift knob for a retro appeal.",
-        "category": "Gear Stick"
-    },
-    "img10.jpg": {
-        "caption": "A gear stick with a quick-release mechanism for customizable driving setups.",
-        "category": "Gear Stick"
-    },
-    "img11.jpg": {
-        "caption": "A gear stick designed with an anti-slip rubber grip for better handling.",
-        "category": "Gear Stick"
-    },
-    "img12.jpg": {
-        "caption": "A gear stick featuring an adjustable height mechanism for personalized ergonomics.",
-        "category": "Gear Stick"
-    },
-    "img13.jpg": {
-        "caption": "A gear stick with an integrated digital display for shift position monitoring.",
-        "category": "Gear Stick"
-    },
-    "img14.jpg": {
-        "caption": "A gear stick with a chrome-plated shift knob for a luxurious touch.",
-        "category": "Gear Stick"
-    },
-    "img15.jpg": {
-        "caption": "A gear stick with a T-handle grip for effortless shifting control.",
-        "category": "Gear Stick"
-    },
-    "img16.jpg": {
-        "caption": "A gear stick designed with reinforced steel construction for durability.",
-        "category": "Gear Stick"
-    },
-    "img17.jpg": {
-        "caption": "A gear stick with an anodized aluminum finish for corrosion resistance.",
-        "category": "Gear Stick"
-    },
-    "img18.jpg": {
-        "caption": "A gear stick featuring a soft-touch silicone grip for added comfort.",
-        "category": "Gear Stick"
-    },
-    "img19.jpg": {
-        "caption": "A gear stick with a push-button locking mechanism for extra security.",
-        "category": "Gear Stick"
-    },
-    "img20.jpg": {
-        "caption": "A gear stick with a minimalist aesthetic for modern vehicle interiors.",
-        "category": "Gear Stick"
-    },
-    "img21.jpg": {
-        "caption": "A gear stick with a sequential shifting mechanism for faster gear changes.",
-        "category": "Gear Stick"
-    },
-    "img22.jpg": {
-        "caption": "A gear stick featuring LED backlighting for improved night-time visibility.",
-        "category": "Gear Stick"
-    },
-    "img23.jpg": {
-        "caption": "A gear stick with a high-strength titanium alloy shift knob for longevity.",
-        "category": "Gear Stick"
-    },
-    "img24.jpg": {
-        "caption": "A gear stick optimized for off-road vehicles with a rugged design.",
-        "category": "Gear Stick"
-    },
-    "img25.jpg": {
-        "caption": "A gear stick with a textured grip for maximum control in extreme conditions.",
-        "category": "Gear Stick"
-    },
-    "img26.jpg": {
-        "caption": "A gear stick featuring a hydraulic-assisted mechanism for smooth operation.",
-        "category": "Gear Stick"
+[
+    {
+      "image_path": "Gear_Stick/img1.jpg",
+      "caption": "A traditional manual gear stick with leather boot."
+    },
+    {
+      "image_path": "Gear_Stick/img2.jpg",
+      "caption": "A chrome-topped gear stick with 5-speed marking."
+    },
+    {
+      "image_path": "Gear_Stick/img3.jpg",
+      "caption": "An automatic gear stick with PRNDL positions."
+    },
+    {
+      "image_path": "Gear_Stick/img4.jpg",
+      "caption": "A sporty short-throw gear stick for quick shifting."
+    },
+    {
+      "image_path": "Gear_Stick/img5.jpg",
+      "caption": "A gear stick with a carbon fiber finish."
+    },
+    {
+      "image_path": "Gear_Stick/img6.jpg",
+      "caption": "A classic gear stick with a wooden knob."
+    },
+    {
+      "image_path": "Gear_Stick/img7.jpg",
+      "caption": "A gear stick with illuminated shift pattern."
+    },
+    {
+      "image_path": "Gear_Stick/img8.jpg",
+      "caption": "A gear stick integrated into the center console."
+    },
+    {
+      "image_path": "Gear_Stick/img9.jpg",
+      "caption": "An ergonomic gear stick with a contoured grip."
+    },
+    {
+      "image_path": "Gear_Stick/img10.jpg",
+      "caption": "A luxury car gear stick wrapped in premium leather."
+    },
+    {
+      "image_path": "Gear_Stick/img11.jpg",
+      "caption": "A push-button automatic gear selector."
+    },
+    {
+      "image_path": "Gear_Stick/img12.jpg",
+      "caption": "A retro-styled gear stick in a vintage vehicle."
+    },
+    {
+      "image_path": "Gear_Stick/img13.jpg",
+      "caption": "A gear stick with built-in shift lock mechanism."
+    },
+    {
+      "image_path": "Gear_Stick/img14.jpg",
+      "caption": "A paddle-style gear selector mounted beside the seat."
+    },
+    {
+      "image_path": "Gear_Stick/img15.jpg",
+      "caption": "A minimalist gear stick with a metallic shaft."
+    },
+    {
+      "image_path": "Gear_Stick/img16.jpg",
+      "caption": "A futuristic electronic gear selector dial."
+    },
+    {
+      "image_path": "Gear_Stick/img17.jpg",
+      "caption": "A gear stick with stitched leather details."
+    },
+    {
+      "image_path": "Gear_Stick/img18.jpg",
+      "caption": "A precision-engineered gear stick for track performance."
+    },
+    {
+      "image_path": "Gear_Stick/img19.jpg",
+      "caption": "A gear stick featuring a gated shift plate."
+    },
+    {
+      "image_path": "Gear_Stick/img20.jpg",
+      "caption": "A foldable gear stick in a compact vehicle."
+    },
+    {
+      "image_path": "Gear_Stick/img21.jpg",
+      "caption": "A digital gear selector for electric vehicles."
+    },
+    {
+      "image_path": "Gear_Stick/img22.jpg",
+      "caption": "A race-inspired gear knob with aluminum finish."
+    },
+    {
+      "image_path": "Gear_Stick/img23.jpg",
+      "caption": "A gear stick with a side-mounted button for shifting."
+    },
+    {
+      "image_path": "Gear_Stick/img24.jpg",
+      "caption": "A console-mounted joystick-style gear shifter."
+    },
+    {
+      "image_path": "Gear_Stick/img25.jpg",
+      "caption": "A rally car gear stick with reinforced mounting."
+    },
+    {
+      "image_path": "Gear_Stick/img26.jpg",
+      "caption": "A gear stick featuring tactile grip enhancement."
     },
-    "img27.jpg": {
-        "caption": "A gear stick with a perforated leather finish for a premium feel.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img27.jpg",
+      "caption": "A sequential gear selector with numbered indicators."
     },
-    "img28.jpg": {
-        "caption": "A gear stick designed with an ultra-lightweight magnesium alloy build.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img28.jpg",
+      "caption": "A gear stick positioned near the dashboard."
     },
-    "img29.jpg": {
-        "caption": "A gear stick featuring a ball-type shift knob for enhanced grip.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img29.jpg",
+      "caption": "A gear stick in a commercial van for easy access."
     },
-    "img30.jpg": {
-        "caption": "A gear stick with a race-inspired gated shifting system.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img30.jpg",
+      "caption": "A gear stick topped with a performance shift knob."
     },
-    "img31.jpg": {
-        "caption": "A gear stick with a built-in vibration dampening system for smoother shifts.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img31.jpg",
+      "caption": "A gear stick designed for off-road 4x4 vehicles."
     },
-    "img32.jpg": {
-        "caption": "A gear stick featuring a quick-shift adapter for reduced shifting time.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img32.jpg",
+      "caption": "A gear stick with a rubberized textured grip."
     },
-    "img33.jpg": {
-        "caption": "A gear stick with an extended shaft for better leverage and control.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img33.jpg",
+      "caption": "A lightweight gear stick for improved response."
     },
-    "img34.jpg": {
-        "caption": "A gear stick with a brushed metal finish for a high-end appearance.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img34.jpg",
+      "caption": "A gear stick with integrated shift light indicator."
     },
-    "img35.jpg": {
-        "caption": "A gear stick optimized for luxury sedans with smooth tactile feedback.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img35.jpg",
+      "caption": "A modular gear stick with customizable knobs."
     },
-    "img36.jpg": {
-        "caption": "A gear stick featuring a customizable shift knob for a personalized touch.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img36.jpg",
+      "caption": "A gear stick positioned for left-hand drive vehicles."
     },
-    "img37.jpg": {
-        "caption": "A gear stick with a titanium-coated knob for superior durability.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img37.jpg",
+      "caption": "A gear stick with a spring-loaded locking mechanism."
     },
-    "img38.jpg": {
-        "caption": "A gear stick with a reinforced polymer base for impact resistance.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img38.jpg",
+      "caption": "A gear stick designed for driver assist automation."
     },
-    "img39.jpg": {
-        "caption": "A gear stick featuring a solid steel rod for heavy-duty applications.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img39.jpg",
+      "caption": "A gear stick equipped with shift-by-wire technology."
     },
-    "img40.jpg": {
-        "caption": "A gear stick with a soft suede finish for a premium motorsport feel.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img40.jpg",
+      "caption": "A vertically-mounted gear stick on a dashboard console."
     },
-    "img41.jpg": {
-        "caption": "A gear stick with a high-grip rubberized surface for non-slip operation.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img41.jpg",
+      "caption": "A gear stick with a smooth gloss-black finish."
     },
-    "img42.jpg": {
-        "caption": "A gear stick featuring a precision-machined shift gate for accurate gear changes.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img42.jpg",
+      "caption": "A gear stick with tactile engraved gear pattern."
     },
-    "img43.jpg": {
-        "caption": "A gear stick with a vintage chrome finish for a classic aesthetic.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img43.jpg",
+      "caption": "A two-tone gear stick design with soft-touch top."
     },
-    "img44.jpg": {
-        "caption": "A gear stick optimized for hybrid vehicles with seamless shifting.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img44.jpg",
+      "caption": "A top-mounted rotary gear selector for easy control."
     },
-    "img45.jpg": {
-        "caption": "A gear stick featuring high-strength carbon composite construction.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img45.jpg",
+      "caption": "A gear stick with integrated reverse gear lockout."
     },
-    "img46.jpg": {
-        "caption": "A gear stick with an ergonomic shift knob for better hand positioning.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img46.jpg",
+      "caption": "A gear stick with race-style notched movement."
     },
-    "img47.jpg": {
-        "caption": "A gear stick with a lightweight aluminum shaft for improved agility.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img47.jpg",
+      "caption": "A compact gear stick for city cars."
     },
-    "img48.jpg": {
-        "caption": "A gear stick featuring a sequential shift indicator for precise timing.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img48.jpg",
+      "caption": "A gear stick finished in brushed aluminum."
     },
-    "img49.jpg": {
-        "caption": "A gear stick with a quick-release mount for easy customization.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img49.jpg",
+      "caption": "A gear stick designed for performance tuning."
     },
-    "img50.jpg": {
-        "caption": "A gear stick designed for electric vehicles with a futuristic interface.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img50.jpg",
+      "caption": "A gear stick with visible shift linkage."
     },
-    "img51.jpg": {
-        "caption": "A gear stick with an adjustable resistance feature for customizable shifting feel.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img51.jpg",
+      "caption": "A push-pull gear selector used in RVs and buses."
     },
-    "img52.jpg": {
-        "caption": "A gear stick featuring a spring-loaded mechanism for rapid gear engagement.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img52.jpg",
+      "caption": "A gear stick surrounded by a stitched leather gaiter."
     },
-    "img53.jpg": {
-        "caption": "A gear stick with a built-in LED shift indicator for enhanced visibility.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img53.jpg",
+      "caption": "A color-coded gear selector with illuminated icons."
     },
-    "img54.jpg": {
-        "caption": "A gear stick designed for rally racing with reinforced grip sections.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img54.jpg",
+      "caption": "A gear stick optimized for left-hand shifting."
     },
-    "img55.jpg": {
-        "caption": "A gear stick with a titanium-coated shift knob for added durability.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img55.jpg",
+      "caption": "A multifunctional gear stick with drive mode toggles."
     },
-    "img56.jpg": {
-        "caption": "A gear stick featuring a leather-stitched grip for superior comfort.",
-        "category": "Gear Stick"
+    {
+      "image_path": "Gear_Stick/img56.jpg",
+      "caption": "A gear stick embedded into an infotainment console."
     },
-    "img57.jpg": {
-        "caption": "A gear stick with a lock-out reverse gear for safety in high-performance vehicles.",
-        "category": "Gear Stick"
-    },
-    "img58.jpg": {
-        "caption": "A gear stick featuring an integrated Bluetooth controller for smart car applications.",
-        "category": "Gear Stick"
-    },
-    "img59.jpg": {
-        "caption": "A gear stick with a rugged military-style design for extreme conditions.",
-        "category": "Gear Stick"
-    },
-    "img60.jpg": {
-        "caption": "A gear stick with a customizable knob attachment system for personalization.",
-        "category": "Gear Stick"
-    },
-    "img61.jpg": {
-        "caption": "A gear stick featuring an oversized shift knob for better grip and control.",
-        "category": "Gear Stick"
-    },
-    "img62.jpg": {
-        "caption": "A gear stick with a push-to-shift locking system for extra security.",
-        "category": "Gear Stick"
-    },
-    "img63.jpg": {
-        "caption": "A gear stick with an aerodynamic design for minimal resistance.",
-        "category": "Gear Stick"
-    },
-    "img64.jpg": {
-        "caption": "A gear stick featuring a high-strength polymer core for reduced weight.",
-        "category": "Gear Stick"
-    },
-    "img65.jpg": {
-        "caption": "A gear stick optimized for long-haul trucks with smooth shift transitions.",
-        "category": "Gear Stick"
-    },
-    "img66.jpg": {
-        "caption": "A gear stick with a retractable knob for compact storage in small vehicles.",
-        "category": "Gear Stick"
-    },
-    "img67.jpg": {
-        "caption": "A gear stick featuring heat-resistant materials for high-temperature environments.",
-        "category": "Gear Stick"
-    },
-    "img68.jpg": {
-        "caption": "A gear stick with a digital gear display for instant shift position updates.",
-        "category": "Gear Stick"
-    },
-    "img69.jpg": {
-        "caption": "A gear stick with a shock-absorbing core to reduce vibration.",
-        "category": "Gear Stick"
-    },
-    "img70.jpg": {
-        "caption": "A gear stick featuring a T-shaped handle for a firm grip in racing applications.",
-        "category": "Gear Stick"
-    },
-    "img71.jpg": {
-        "caption": "A gear stick with a soft foam grip for maximum comfort during long drives.",
-        "category": "Gear Stick"
-    },
-    "img72.jpg": {
-        "caption": "A gear stick designed with a paddle-shifter hybrid for modern sports cars.",
-        "category": "Gear Stick"
-    },
-    "img73.jpg": {
-        "caption": "A gear stick with a magnetic locking system for secure positioning.",
-        "category": "Gear Stick"
-    },
-    "img74.jpg": {
-        "caption": "A gear stick featuring an anti-slip silicone surface for better handling.",
-        "category": "Gear Stick"
-    },
-    "img75.jpg": {
-        "caption": "A gear stick with a brushed metal housing for a sleek and refined look.",
-        "category": "Gear Stick"
-    },
-    "img76.jpg": {
-        "caption": "A gear stick with an ultra-responsive return spring for fast shifting.",
-        "category": "Gear Stick"
-    },
-    "img77.jpg": {
-        "caption": "A gear stick designed for drag racing with optimized gear engagement speed.",
-        "category": "Gear Stick"
-    },
-    "img78.jpg": {
-        "caption": "A gear stick featuring a quick-release knob for easy replacement.",
-        "category": "Gear Stick"
-    },
-    "img79.jpg": {
-        "caption": "A gear stick with an internal damping system for smoother transitions.",
-        "category": "Gear Stick"
-    },
-    "img80.jpg": {
-        "caption": "A gear stick optimized for high-torque vehicles with reinforced housing.",
-        "category": "Gear Stick"
-    },
-    "img81.jpg": {
-        "caption": "A gear stick with a concealed storage compartment inside the knob.",
-        "category": "Gear Stick"
-    },
-    "img82.jpg": {
-        "caption": "A gear stick featuring a dual-material grip for enhanced durability.",
-        "category": "Gear Stick"
-    },
-    "img83.jpg": {
-        "caption": "A gear stick designed with a glowing LED effect for a futuristic appearance.",
-        "category": "Gear Stick"
-    },
-    "img84.jpg": {
-        "caption": "A gear stick with a curved ergonomic design for better hand positioning.",
-        "category": "Gear Stick"
-    },
-    "img85.jpg": {
-        "caption": "A gear stick featuring a reinforced stainless steel rod for longevity.",
-        "category": "Gear Stick"
-    },
-    "img86.jpg": {
-        "caption": "A gear stick with an integrated air-cooling system for improved performance.",
-        "category": "Gear Stick"
-    },
-    "img87.jpg": {
-        "caption": "A gear stick with a carbon fiber overlay for a lightweight yet sturdy build.",
-        "category": "Gear Stick"
-    },
-    "img88.jpg": {
-        "caption": "A gear stick featuring customizable engravings for a personalized touch.",
-        "category": "Gear Stick"
-    },
-    "img89.jpg": {
-        "caption": "A gear stick with a responsive feedback system for tactile shifting.",
-        "category": "Gear Stick"
-    },
-    "img90.jpg": {
-        "caption": "A gear stick optimized for SUVs with a high-rise design.",
-        "category": "Gear Stick"
-    },
-    "img91.jpg": {
-        "caption": "A gear stick featuring an illuminated crystal shift knob for a luxurious feel.",
-        "category": "Gear Stick"
-    },
-    "img92.jpg": {
-        "caption": "A gear stick with a dual-shift pattern display for multiple transmission modes.",
-        "category": "Gear Stick"
-    },
-    "img93.jpg": {
-        "caption": "A gear stick with a high-precision click mechanism for secure engagement.",
-        "category": "Gear Stick"
-    },
-    "img94.jpg": {
-        "caption": "A gear stick featuring an embedded torque sensor for feedback control.",
-        "category": "Gear Stick"
-    },
-    "img95.jpg": {
-        "caption": "A gear stick with a hybrid design for automatic and manual shifting modes.",
-        "category": "Gear Stick"
-    },
-    "img96.jpg": {
-        "caption": "A gear stick with a soft suede leather grip for enhanced comfort.",
-        "category": "Gear Stick"
-    },
-    "img97.jpg": {
-        "caption": "A gear stick featuring an anti-dust cover for long-term durability.",
-        "category": "Gear Stick"
-    },
-    "img98.jpg": {
-        "caption": "A gear stick optimized for rally cars with ultra-fast shift response.",
-        "category": "Gear Stick"
-    },
-    "img99.jpg": {
-        "caption": "A gear stick with an integrated touchscreen display for shift tracking.",
-        "category": "Gear Stick"
-    },
-    "img100.jpg": {
-        "caption": "A gear stick with a motorized retractable knob for futuristic vehicles.",
-        "category": "Gear Stick"
-    },
-    "img200.jpg": {
-        "caption": "A gear stick with an illuminated knob for night driving visibility.",
-        "category": "Gear Stick"
-    },
-    "img201.jpg": {
-        "caption": "A gear stick featuring a chrome-plated handle for a stylish finish.",
-        "category": "Gear Stick"
-    },
-    "img202.jpg": {
-        "caption": "A gear stick with a high-resistance spring for firm shifting action.",
-        "category": "Gear Stick"
-    },
-    "img203.jpg": {
-        "caption": "A gear stick optimized for sports cars with a short-throw design.",
-        "category": "Gear Stick"
-    },
-    "img204.jpg": {
-        "caption": "A gear stick featuring an embossed leather grip for superior hold.",
-        "category": "Gear Stick"
-    },
-    "img205.jpg": {
-        "caption": "A gear stick with an integrated shift lock for security and safety.",
-        "category": "Gear Stick"
-    },
-    "img206.jpg": {
-        "caption": "A gear stick designed for heavy-duty vehicles with reinforced construction.",
-        "category": "Gear Stick"
-    },
-    "img207.jpg": {
-        "caption": "A gear stick featuring a digital shift counter for performance tracking.",
-        "category": "Gear Stick"
-    },
-    "img208.jpg": {
-        "caption": "A gear stick with a customizable knob attachment system.",
-        "category": "Gear Stick"
-    },
-    "img209.jpg": {
-        "caption": "A gear stick optimized for quick-shifting performance in drag racing.",
-        "category": "Gear Stick"
-    },
-    "img210.jpg": {
-        "caption": "A gear stick with an anti-slip grip for better control in wet conditions.",
-        "category": "Gear Stick"
-    },
-    "img211.jpg": {
-        "caption": "A gear stick featuring a sound-dampening core for smooth shifting.",
-        "category": "Gear Stick"
-    },
-    "img212.jpg": {
-        "caption": "A gear stick with a dual-function design for manual and automatic modes.",
-        "category": "Gear Stick"
-    },
-    "img213.jpg": {
-        "caption": "A gear stick optimized for off-road vehicles with rugged durability.",
-        "category": "Gear Stick"
-    },
-    "img214.jpg": {
-        "caption": "A gear stick featuring a lightweight aluminum core for faster response.",
-        "category": "Gear Stick"
-    },
-    "img215.jpg": {
-        "caption": "A gear stick with a built-in torque sensor for precise shifting feedback.",
-        "category": "Gear Stick"
-    },
-    "img216.jpg": {
-        "caption": "A gear stick with a touch-sensitive knob for futuristic vehicle interfaces.",
-        "category": "Gear Stick"
-    },
-    "img217.jpg": {
-        "caption": "A gear stick designed for ergonomic hand positioning and comfort.",
-        "category": "Gear Stick"
-    },
-    "img218.jpg": {
-        "caption": "A gear stick featuring a built-in gear lock for added security.",
-        "category": "Gear Stick"
-    },
-    "img219.jpg": {
-        "caption": "A gear stick with a reinforced metal frame for high-impact resistance.",
-        "category": "Gear Stick"
-    },
-    "img220.jpg": {
-        "caption": "A gear stick with a detachable shift knob for easy customization.",
-        "category": "Gear Stick"
-    },
-    "img221.jpg": {
-        "caption": "A gear stick featuring an ultra-smooth glide mechanism for seamless shifting.",
-        "category": "Gear Stick"
-    },
-    "img222.jpg": {
-        "caption": "A gear stick with a shock-absorbing system for reduced vibration.",
-        "category": "Gear Stick"
-    },
-    "img223.jpg": {
-        "caption": "A gear stick optimized for electric vehicles with smart shifting technology.",
-        "category": "Gear Stick"
-    },
-    "img224.jpg": {
-        "caption": "A gear stick featuring a brushed titanium finish for a premium look.",
-        "category": "Gear Stick"
-    },
-    "img225.jpg": {
-        "caption": "A gear stick with customizable LED lighting for aesthetic appeal.",
-        "category": "Gear Stick"
-    },
-    "img226.jpg": {
-        "caption": "A gear stick featuring a hybrid control system for adaptive driving modes.",
-        "category": "Gear Stick"
-    },
-    "img227.jpg": {
-        "caption": "A gear stick with a memory function for personalized shift preferences.",
-        "category": "Gear Stick"
-    },
-    "img228.jpg": {
-        "caption": "A gear stick designed for extreme weather conditions with heat-resistant materials.",
-        "category": "Gear Stick"
-    },
-    "img229.jpg": {
-        "caption": "A gear stick featuring an anti-dust coating for long-lasting durability.",
-        "category": "Gear Stick"
-    },
-    "img230.jpg": {
-        "caption": "A gear stick with a unique carbon-fiber overlay for lightweight performance.",
-        "category": "Gear Stick"
-    },
-    "img231.jpg": {
-        "caption": "A gear stick featuring a high-performance coil spring mechanism.",
-        "category": "Gear Stick"
-    },
-    "img232.jpg": {
-        "caption": "A gear stick with an embossed metal shift pattern for tactile feedback.",
-        "category": "Gear Stick"
-    },
-    "img233.jpg": {
-        "caption": "A gear stick optimized for rally racing with rapid engagement response.",
-        "category": "Gear Stick"
-    },
-    "img234.jpg": {
-        "caption": "A gear stick featuring an integrated vibration alert system.",
-        "category": "Gear Stick"
-    },
-    "img235.jpg": {
-        "caption": "A gear stick with a luxurious wood-finish handle for classic styling.",
-        "category": "Gear Stick"
-    },
-    "img236.jpg": {
-        "caption": "A gear stick featuring a curved ergonomic grip for natural hand alignment.",
-        "category": "Gear Stick"
-    },
-    "img237.jpg": {
-        "caption": "A gear stick with a quick-release locking system for easy shifting.",
-        "category": "Gear Stick"
-    },
-    "img238.jpg": {
-        "caption": "A gear stick optimized for hybrid vehicles with seamless transmission control.",
-        "category": "Gear Stick"
-    },
-    "img239.jpg": {
-        "caption": "A gear stick featuring a reinforced base for extra stability.",
-        "category": "Gear Stick"
-    },
-    "img240.jpg": {
-        "caption": "A gear stick with a diamond-textured surface for superior grip.",
-        "category": "Gear Stick"
-    },
-    "img241.jpg": {
-        "caption": "A gear stick featuring an ultra-lightweight magnesium alloy structure.",
-        "category": "Gear Stick"
-    },
-    "img242.jpg": {
-        "caption": "A gear stick with an aerodynamic design for effortless shifting.",
-        "category": "Gear Stick"
-    },
-    "img243.jpg": {
-        "caption": "A gear stick featuring dual-material construction for enhanced durability.",
-        "category": "Gear Stick"
-    },
-    "img244.jpg": {
-        "caption": "A gear stick with an illuminated gear shift pattern for visibility in low light.",
-        "category": "Gear Stick"
-    },
-    "img245.jpg": {
-        "caption": "A gear stick featuring a next-gen electronic shifter for effortless control.",
-        "category": "Gear Stick"
-    },
-    "img246.jpg": {
-        "caption": "A gear stick with a retro-inspired wooden finish for vintage cars.",
-        "category": "Gear Stick"
-    },
-    "img247.jpg": {
-        "caption": "A gear stick featuring anti-corrosion plating for long-lasting performance.",
-        "category": "Gear Stick"
-    },
-    "img248.jpg": {
-        "caption": "A gear stick with a heat-resistant aluminum core for extreme temperatures.",
-        "category": "Gear Stick"
-    },
-    "img249.jpg": {
-        "caption": "A gear stick featuring integrated shift paddles for enhanced control.",
-        "category": "Gear Stick"
-    },
-    "img250.jpg": {
-        "caption": "A gear stick with a sculpted design for easy grip and handling.",
-        "category": "Gear Stick"
-    },
-    "img251.jpg": {
-        "caption": "A gear stick optimized for low-friction shifting in performance vehicles.",
-        "category": "Gear Stick"
-    },
-    "img252.jpg": {
-        "caption": "A gear stick featuring a high-precision linkage for smoother shifts.",
-        "category": "Gear Stick"
-    },
-    "img253.jpg": {
-        "caption": "A gear stick with an anodized finish for corrosion resistance.",
-        "category": "Gear Stick"
-    },
-    "img254.jpg": {
-        "caption": "A gear stick designed for classic cars with a vintage-style knob.",
-        "category": "Gear Stick"
-    },
-    "img255.jpg": {
-        "caption": "A gear stick featuring a heavy-duty steel core for enhanced durability.",
-        "category": "Gear Stick"
-    },
-    "img256.jpg": {
-        "caption": "A gear stick with an adjustable height feature for custom driving positions.",
-        "category": "Gear Stick"
-    },
-    "img257.jpg": {
-        "caption": "A gear stick featuring a multi-textured grip for better hand control.",
-        "category": "Gear Stick"
-    },
-    "img258.jpg": {
-        "caption": "A gear stick with an integrated button for overdrive activation.",
-        "category": "Gear Stick"
-    },
-    "img259.jpg": {
-        "caption": "A gear stick designed for rally racing with rapid-response mechanics.",
-        "category": "Gear Stick"
-    },
-    "img260.jpg": {
-        "caption": "A gear stick featuring a glow-in-the-dark shift pattern for night driving.",
-        "category": "Gear Stick"
-    },
-    "img261.jpg": {
-        "caption": "A gear stick with a high-strength alloy shaft for extended lifespan.",
-        "category": "Gear Stick"
-    },
-    "img262.jpg": {
-        "caption": "A gear stick optimized for seamless gear transitions in high-performance vehicles.",
-        "category": "Gear Stick"
-    },
-    "img263.jpg": {
-        "caption": "A gear stick featuring an ergonomic ball-top design for superior comfort.",
-        "category": "Gear Stick"
-    },
-    "img264.jpg": {
-        "caption": "A gear stick with an adjustable pivot point for tailored shifting feel.",
-        "category": "Gear Stick"
-    },
-    "img265.jpg": {
-        "caption": "A gear stick featuring a friction-reducing bushing for effortless movement.",
-        "category": "Gear Stick"
-    },
-    "img266.jpg": {
-        "caption": "A gear stick with an advanced noise-dampening system for silent operation.",
-        "category": "Gear Stick"
-    },
-    "img267.jpg": {
-        "caption": "A gear stick designed for track cars with a reinforced base for stability.",
-        "category": "Gear Stick"
-    },
-    "img268.jpg": {
-        "caption": "A gear stick featuring a quick-shift mechanism for performance driving.",
-        "category": "Gear Stick"
-    },
-    "img269.jpg": {
-        "caption": "A gear stick with a precision-machined shaft for smoother engagement.",
-        "category": "Gear Stick"
-    },
-    "img270.jpg": {
-        "caption": "A gear stick featuring a temperature-resistant outer shell for extreme conditions.",
-        "category": "Gear Stick"
-    },
-    "img271.jpg": {
-        "caption": "A gear stick with a carbon-fiber handle for lightweight control.",
-        "category": "Gear Stick"
-    },
-    "img272.jpg": {
-        "caption": "A gear stick featuring a custom-engraved shift pattern for aesthetic appeal.",
-        "category": "Gear Stick"
-    },
-    "img273.jpg": {
-        "caption": "A gear stick with a reinforced locking mechanism for extra security.",
-        "category": "Gear Stick"
-    },
-    "img274.jpg": {
-        "caption": "A gear stick featuring dual-material construction for long-lasting durability.",
-        "category": "Gear Stick"
-    },
-    "img275.jpg": {
-        "caption": "A gear stick with an electronic shift indicator for precise gear tracking.",
-        "category": "Gear Stick"
-    },
-    "img276.jpg": {
-        "caption": "A gear stick featuring a modern push-button release system for convenience.",
-        "category": "Gear Stick"
-    },
-    "img277.jpg": {
-        "caption": "A gear stick with a leather-wrapped handle for a premium touch.",
-        "category": "Gear Stick"
-    },
-    "img278.jpg": {
-        "caption": "A gear stick featuring a high-performance return spring for rapid shifts.",
-        "category": "Gear Stick"
-    },
-    "img279.jpg": {
-        "caption": "A gear stick with an LED-lit knob for enhanced visibility.",
-        "category": "Gear Stick"
-    },
-    "img280.jpg": {
-        "caption": "A gear stick featuring a durable anti-scratch coating for long-term use.",
-        "category": "Gear Stick"
-    },
-    "img281.jpg": {
-        "caption": "A gear stick with a weighted shift knob for precision gear changes.",
-        "category": "Gear Stick"
-    },
-    "img282.jpg": {
-        "caption": "A gear stick featuring a minimalist design for modern vehicle interiors.",
-        "category": "Gear Stick"
-    }
-}
-
+    {
+      "image_path": "Gear_Stick/img57.jpg",
+      "caption": "A 6-speed gear stick with a leather grip surface."
+    },
+    {
+      "image_path": "Gear_Stick/img58.jpg",
+      "caption": "A rotary gear shift for luxury electric cars."
+    },
+    {
+      "image_path": "Gear_Stick/img59.jpg",
+      "caption": "A gear stick with racing stripes and sporty accents."
+    },
+    {
+      "image_path": "Gear_Stick/img60.jpg",
+      "caption": "A gear stick placed on the steering column."
+    },
+    {
+      "image_path": "Gear_Stick/img61.jpg",
+      "caption": "A gear stick with dynamic shift pattern illumination."
+    },
+    {
+      "image_path": "Gear_Stick/img62.jpg",
+      "caption": "A gear stick for dual-clutch transmission systems."
+    },
+    {
+      "image_path": "Gear_Stick/img63.jpg",
+      "caption": "A detachable gear stick for enhanced safety."
+    },
+    {
+      "image_path": "Gear_Stick/img64.jpg",
+      "caption": "A gear stick designed for hybrid vehicles."
+    },
+    {
+      "image_path": "Gear_Stick/img65.jpg",
+      "caption": "A gear stick with retro chrome accents."
+    },
+    {
+      "image_path": "Gear_Stick/img66.jpg",
+      "caption": "A gear stick on a center console with mood lighting."
+    },
+    {
+      "image_path": "Gear_Stick/img67.jpg",
+      "caption": "A joystick-style gear selector for compact cars."
+    },
+    {
+      "image_path": "Gear_Stick/img68.jpg",
+      "caption": "A gear stick with shift lever lock system."
+    },
+    {
+      "image_path": "Gear_Stick/img69.jpg",
+      "caption": "A gear stick with enhanced tactile feedback."
+    },
+    {
+      "image_path": "Gear_Stick/img70.jpg",
+      "caption": "A minimalist flat-top gear selector."
+    },
+    {
+      "image_path": "Gear_Stick/img71.jpg",
+      "caption": "A gear stick with built-in gear engagement sensors."
+    },
+    {
+      "image_path": "Gear_Stick/img72.jpg",
+      "caption": "A center-stack mounted gear stick with manual override."
+    },
+    {
+      "image_path": "Gear_Stick/img73.jpg",
+      "caption": "A gear stick inspired by aviation throttle levers."
+    },
+    {
+      "image_path": "Gear_Stick/img74.jpg",
+      "caption": "A gear stick built into an armrest console."
+    },
+    {
+      "image_path": "Gear_Stick/img75.jpg",
+      "caption": "A premium illuminated gear stick with glass top."
+    },
+    {
+      "image_path": "Gear_Stick/img76.jpg",
+      "caption": "A manual gear stick with metal shift gate."
+    },
+    {
+      "image_path": "Gear_Stick/img77.jpg",
+      "caption": "A gear stick surrounded by wood panel trim."
+    },
+    {
+      "image_path": "Gear_Stick/img78.jpg",
+      "caption": "A gear stick adapted for steering-wheel shift buttons."
+    },
+    {
+      "image_path": "Gear_Stick/img79.jpg",
+      "caption": "A gear stick featuring customizable driving profiles."
+    },
+    {
+      "image_path": "Gear_Stick/img80.jpg",
+      "caption": "A performance shift knob designed for drag racing."
+    },
+    {
+        "image_path": "Gear_Stick/img81.jpg",
+        "caption": "A gear stick mounted on a floating console."
+      },
+      {
+        "image_path": "Gear_Stick/img82.jpg",
+        "caption": "A gear stick designed with tactile gear grooves."
+      },
+      {
+        "image_path": "Gear_Stick/img83.jpg",
+        "caption": "A transparent gear knob with embedded LEDs."
+      },
+      {
+        "image_path": "Gear_Stick/img84.jpg",
+        "caption": "A gear stick made from machined aluminum alloy."
+      },
+      {
+        "image_path": "Gear_Stick/img85.jpg",
+        "caption": "A uniquely curved gear stick for ergonomic grip."
+      },
+      {
+        "image_path": "Gear_Stick/img86.jpg",
+        "caption": "A gear stick with stitched suede boot covering."
+      },
+      {
+        "image_path": "Gear_Stick/img87.jpg",
+        "caption": "A gear stick styled after aircraft control levers."
+      },
+      {
+        "image_path": "Gear_Stick/img88.jpg",
+        "caption": "A gear stick with adjustable shaft height."
+      },
+      {
+        "image_path": "Gear_Stick/img89.jpg",
+        "caption": "A 7-speed manual gear stick with reverse lockout."
+      },
+      {
+        "image_path": "Gear_Stick/img90.jpg",
+        "caption": "A stealth-styled gear stick hidden under a panel."
+      },
+      {
+        "image_path": "Gear_Stick/img91.jpg",
+        "caption": "A gear stick with a diamond-cut finish."
+      },
+      {
+        "image_path": "Gear_Stick/img92.jpg",
+        "caption": "A push-button digital gear control pod."
+      },
+      {
+        "image_path": "Gear_Stick/img93.jpg",
+        "caption": "A retro ball-shaped gear stick in a muscle car."
+      },
+      {
+        "image_path": "Gear_Stick/img94.jpg",
+        "caption": "A gear stick with an angular, futuristic design."
+      },
+      {
+        "image_path": "Gear_Stick/img95.jpg",
+        "caption": "A gear stick with extended lever for racing."
+      },
+      {
+        "image_path": "Gear_Stick/img96.jpg",
+        "caption": "A soft-touch gear stick with thumb rest."
+      },
+      {
+        "image_path": "Gear_Stick/img97.jpg",
+        "caption": "A gear stick styled for luxury SUVs."
+      },
+      {
+        "image_path": "Gear_Stick/img98.jpg",
+        "caption": "A rotary-style gear shift knob with chrome trim."
+      },
+      {
+        "image_path": "Gear_Stick/img99.jpg",
+        "caption": "A short-throw gear stick with aluminum boot plate."
+      },
+      {
+        "image_path": "Gear_Stick/img100.jpg",
+        "caption": "A minimalistic gear selector with touch feedback."
+      },
+      {
+        "image_path": "Gear_Stick/img101.jpg",
+        "caption": "A gear stick located between bucket seats."
+      },
+      {
+        "image_path": "Gear_Stick/img102.jpg",
+        "caption": "A digital gear readout on the gear stick handle."
+      },
+      {
+        "image_path": "Gear_Stick/img103.jpg",
+        "caption": "A classic floor-mounted stick with black knob."
+      },
+      {
+        "image_path": "Gear_Stick/img104.jpg",
+        "caption": "A matte-finish gear stick with gear markings."
+      },
+      {
+        "image_path": "Gear_Stick/img105.jpg",
+        "caption": "A top-mounted joystick gear selector."
+      },
+      {
+        "image_path": "Gear_Stick/img106.jpg",
+        "caption": "A detachable gear stick for anti-theft purposes."
+      },
+      {
+        "image_path": "Gear_Stick/img107.jpg",
+        "caption": "A smooth ball-style gear knob on chrome shaft."
+      },
+      {
+        "image_path": "Gear_Stick/img108.jpg",
+        "caption": "A gear stick placed on the vehicle’s dashboard."
+      },
+      {
+        "image_path": "Gear_Stick/img109.jpg",
+        "caption": "A gear stick designed for compact electric vehicles."
+      },
+      {
+        "image_path": "Gear_Stick/img110.jpg",
+        "caption": "A side-lever gear shifter integrated with console."
+      },
+      {
+        "image_path": "Gear_Stick/img111.jpg",
+        "caption": "A gear stick with laser-etched gear numbers."
+      },
+      {
+        "image_path": "Gear_Stick/img112.jpg",
+        "caption": "A gear stick finished in piano black."
+      },
+      {
+        "image_path": "Gear_Stick/img113.jpg",
+        "caption": "A flat-topped gear stick with leather base."
+      },
+      {
+        "image_path": "Gear_Stick/img114.jpg",
+        "caption": "An oversized racing gear knob for extra grip."
+      },
+      {
+        "image_path": "Gear_Stick/img115.jpg",
+        "caption": "A gear stick designed to mimic classic muscle cars."
+      },
+      {
+        "image_path": "Gear_Stick/img116.jpg",
+        "caption": "A low-profile gear shifter with minimal movement."
+      },
+      {
+        "image_path": "Gear_Stick/img117.jpg",
+        "caption": "A gear stick surrounded by ambient lighting."
+      },
+      {
+        "image_path": "Gear_Stick/img118.jpg",
+        "caption": "A dual-control gear stick with co-driver input."
+      },
+      {
+        "image_path": "Gear_Stick/img119.jpg",
+        "caption": "A gear stick encased in a square boot."
+      },
+      {
+        "image_path": "Gear_Stick/img120.jpg",
+        "caption": "A magnetic gear selector with haptic feedback."
+      },
+      {
+        "image_path": "Gear_Stick/img121.jpg",
+        "caption": "A military-style gear stick in a rugged SUV."
+      },
+      {
+        "image_path": "Gear_Stick/img122.jpg",
+        "caption": "A gear stick on a suspended center arm."
+      },
+      {
+        "image_path": "Gear_Stick/img123.jpg",
+        "caption": "A manual gear stick with shift pattern stitched in."
+      },
+      {
+        "image_path": "Gear_Stick/img124.jpg",
+        "caption": "A futuristic digital shifter with light ring."
+      },
+      {
+        "image_path": "Gear_Stick/img125.jpg",
+        "caption": "A performance car’s short stubby gear stick."
+      },
+      {
+        "image_path": "Gear_Stick/img126.jpg",
+        "caption": "A gear stick with aluminum shaft and rubber boot."
+      },
+      {
+        "image_path": "Gear_Stick/img127.jpg",
+        "caption": "A console-mounted gear stick next to cup holders."
+      },
+      {
+        "image_path": "Gear_Stick/img128.jpg",
+        "caption": "A black-out gear stick with gloss base."
+      },
+      {
+        "image_path": "Gear_Stick/img129.jpg",
+        "caption": "A crystal gear selector in a luxury EV."
+      },
+      {
+        "image_path": "Gear_Stick/img130.jpg",
+        "caption": "A center-stack gear stick with gear mode wheel."
+      },
+      {
+        "image_path": "Gear_Stick/img131.jpg",
+        "caption": "A 4x4 gear stick with terrain control options."
+      },
+      {
+        "image_path": "Gear_Stick/img132.jpg",
+        "caption": "A gear stick with flexible extension shaft."
+      },
+      {
+        "image_path": "Gear_Stick/img133.jpg",
+        "caption": "A uniquely styled crystal-clear gear knob."
+      },
+      {
+        "image_path": "Gear_Stick/img134.jpg",
+        "caption": "A circular dial-style gear shift controller."
+      },
+      {
+        "image_path": "Gear_Stick/img135.jpg",
+        "caption": "A low-slung gear stick for racing simulators."
+      },
+      {
+        "image_path": "Gear_Stick/img136.jpg",
+        "caption": "A gear stick with built-in shift assist display."
+      },
+      {
+        "image_path": "Gear_Stick/img137.jpg",
+        "caption": "A minimalist shifter designed for EV interiors."
+      },
+      {
+        "image_path": "Gear_Stick/img138.jpg",
+        "caption": "A top-grip gear stick with chrome base ring."
+      },
+      {
+        "image_path": "Gear_Stick/img139.jpg",
+        "caption": "A vintage-styled long gear lever."
+      },
+      {
+        "image_path": "Gear_Stick/img140.jpg",
+        "caption": "A thumb-activated reverse gear shifter."
+      },
+      {
+        "image_path": "Gear_Stick/img141.jpg",
+        "caption": "A gear stick mounted close to the dashboard screen."
+      },
+      {
+        "image_path": "Gear_Stick/img142.jpg",
+        "caption": "A rectangular gear panel with manual shift buttons."
+      },
+      {
+        "image_path": "Gear_Stick/img143.jpg",
+        "caption": "A compact gear knob with power drive mode."
+      },
+      {
+        "image_path": "Gear_Stick/img144.jpg",
+        "caption": "A stylish gear shifter with red stitching."
+      },
+      {
+        "image_path": "Gear_Stick/img145.jpg",
+        "caption": "A gear stick with large illuminated shift map."
+      },
+      {
+        "image_path": "Gear_Stick/img146.jpg",
+        "caption": "A knurled gear knob with tactile grip."
+      },
+      {
+        "image_path": "Gear_Stick/img147.jpg",
+        "caption": "A tiny joystick-style shifter in a microcar."
+      },
+      {
+        "image_path": "Gear_Stick/img148.jpg",
+        "caption": "A gear stick combined with cruise control dial."
+      },
+      {
+        "image_path": "Gear_Stick/img149.jpg",
+        "caption": "A gear stick with a dual-finish handle grip."
+      },
+      {
+        "image_path": "Gear_Stick/img150.jpg",
+        "caption": "A gear selector integrated into the steering stalk."
+      },
+      {
+        "image_path": "Gear_Stick/img151.jpg",
+        "caption": "A multifunctional gear shifter with drive modes."
+      },
+      {
+        "image_path": "Gear_Stick/img152.jpg",
+        "caption": "A leather-wrapped gear stick with contrast stitching."
+      },
+      {
+        "image_path": "Gear_Stick/img153.jpg",
+        "caption": "A gear stick optimized for one-hand shifting."
+      },
+      {
+        "image_path": "Gear_Stick/img154.jpg",
+        "caption": "A gear stick with wood veneer trim."
+      },
+      {
+        "image_path": "Gear_Stick/img155.jpg",
+        "caption": "A gear stick with magnetic resistance shift."
+      },
+      {
+        "image_path": "Gear_Stick/img156.jpg",
+        "caption": "A bright red performance shift knob."
+      },
+      {
+        "image_path": "Gear_Stick/img157.jpg",
+        "caption": "A chrome gear lever set into a leather console."
+      },
+      {
+        "image_path": "Gear_Stick/img158.jpg",
+        "caption": "A paddle gear stick mounted on console ridge."
+      },
+      {
+        "image_path": "Gear_Stick/img159.jpg",
+        "caption": "A gear stick with buttonless grip handle."
+      },
+      {
+        "image_path": "Gear_Stick/img160.jpg",
+        "caption": "A gear stick embedded within a digital center console."
+      },
+      {
+        "image_path": "Gear_Stick/img230.jpg",
+        "caption": "A leather-wrapped gear stick featuring a digital shift indicator."
+      },
+      {
+        "image_path": "Gear_Stick/img231.jpg",
+        "caption": "A chrome-finished gear lever with a spiral-texture knob."
+      },
+      {
+        "image_path": "Gear_Stick/img232.jpg",
+        "caption": "A sports gear stick placed on a center-mounted armrest."
+      },
+      {
+        "image_path": "Gear_Stick/img233.jpg",
+        "caption": "A manual gear stick with reverse gear protection lock."
+      },
+      {
+        "image_path": "Gear_Stick/img234.jpg",
+        "caption": "An extended rally-style gear stick for quick shifting."
+      },
+      {
+        "image_path": "Gear_Stick/img235.jpg",
+        "caption": "A performance gear stick with carbon fiber shaft."
+      },
+      {
+        "image_path": "Gear_Stick/img236.jpg",
+        "caption": "A gear stick housed in a glossy black panel."
+      },
+      {
+        "image_path": "Gear_Stick/img237.jpg",
+        "caption": "A retro-styled gear stick with white gear knob."
+      },
+      {
+        "image_path": "Gear_Stick/img238.jpg",
+        "caption": "An electric vehicle rotary gear selector dial."
+      },
+      {
+        "image_path": "Gear_Stick/img239.jpg",
+        "caption": "A gear stick with two-tone finish and stitched boot."
+      },
+      {
+        "image_path": "Gear_Stick/img240.jpg",
+        "caption": "A console-mounted digital gear stick with LED lighting."
+      },
+      {
+        "image_path": "Gear_Stick/img241.jpg",
+        "caption": "A short manual gear stick with numbered top."
+      },
+      {
+        "image_path": "Gear_Stick/img242.jpg",
+        "caption": "A push-button gear selector embedded in dashboard."
+      },
+      {
+        "image_path": "Gear_Stick/img243.jpg",
+        "caption": "A gear stick placed near the infotainment screen."
+      },
+      {
+        "image_path": "Gear_Stick/img244.jpg",
+        "caption": "A silver-top gear stick with mechanical linkage visible."
+      },
+      {
+        "image_path": "Gear_Stick/img245.jpg",
+        "caption": "A racing-inspired gear stick with red stitching detail."
+      },
+      {
+        "image_path": "Gear_Stick/img246.jpg",
+        "caption": "A gear stick surrounded by driving mode toggle switches."
+      },
+      {
+        "image_path": "Gear_Stick/img247.jpg",
+        "caption": "A unique wooden gear knob in a vintage vehicle."
+      },
+      {
+        "image_path": "Gear_Stick/img248.jpg",
+        "caption": "A black metal gear lever set against a white console."
+      },
+      {
+        "image_path": "Gear_Stick/img249.jpg",
+        "caption": "A futuristic gear control pad with touch gestures."
+      },
+      {
+        "image_path": "Gear_Stick/img250.jpg",
+        "caption": "A chrome-plated spherical gear stick knob."
+      },
+      {
+        "image_path": "Gear_Stick/img251.jpg",
+        "caption": "A manual gear stick with visible shaft and open gate."
+      },
+      {
+        "image_path": "Gear_Stick/img252.jpg",
+        "caption": "A joystick-style gear selector on a performance console."
+      },
+      {
+        "image_path": "Gear_Stick/img253.jpg",
+        "caption": "A gear stick with integrated drive mode selector wheel."
+      },
+      {
+        "image_path": "Gear_Stick/img254.jpg",
+        "caption": "A minimal gear stick with compact movement design."
+      },
+      {
+        "image_path": "Gear_Stick/img255.jpg",
+        "caption": "A tall gear lever in a vintage rally car."
+      },
+      {
+        "image_path": "Gear_Stick/img256.jpg",
+        "caption": "A matte black gear stick surrounded by contrast trim."
+      },
+      {
+        "image_path": "Gear_Stick/img257.jpg",
+        "caption": "A racing cockpit with vertical performance gear stick."
+      },
+      {
+        "image_path": "Gear_Stick/img258.jpg",
+        "caption": "A leather boot gear stick inside a luxury sedan."
+      },
+      {
+        "image_path": "Gear_Stick/img259.jpg",
+        "caption": "A side-mounted gear stick built into a driver’s seat arm."
+      },
+      {
+        "image_path": "Gear_Stick/img260.jpg",
+        "caption": "A gear stick housed in a split-console layout."
+      },
+      {
+        "image_path": "Gear_Stick/img261.jpg",
+        "caption": "A digital gear panel with swipe-to-select gear inputs."
+      },
+      {
+        "image_path": "Gear_Stick/img262.jpg",
+        "caption": "A red gear stick lever with sport and eco buttons."
+      },
+      {
+        "image_path": "Gear_Stick/img263.jpg",
+        "caption": "A console-mounted gear shifter with metal overlay."
+      },
+      {
+        "image_path": "Gear_Stick/img264.jpg",
+        "caption": "A tall leather-wrapped gear stick with red markings."
+      },
+      {
+        "image_path": "Gear_Stick/img265.jpg",
+        "caption": "A wide grip gear knob used in trucks and buses."
+      },
+      {
+        "image_path": "Gear_Stick/img266.jpg",
+        "caption": "A gear stick situated below climate control knobs."
+      },
+      {
+        "image_path": "Gear_Stick/img267.jpg",
+        "caption": "A button-activated gear stick on a sports car dash."
+      },
+      {
+        "image_path": "Gear_Stick/img268.jpg",
+        "caption": "A flat-top gear knob with leather-textured grip."
+      },
+      {
+        "image_path": "Gear_Stick/img269.jpg",
+        "caption": "A blue-accented gear stick designed for EVs."
+      },
+      {
+        "image_path": "Gear_Stick/img270.jpg",
+        "caption": "A slim shift stalk rising from a floating console."
+      },
+      {
+        "image_path": "Gear_Stick/img271.jpg",
+        "caption": "A driver-centric gear stick with wide control base."
+      },
+      {
+        "image_path": "Gear_Stick/img272.jpg",
+        "caption": "A console-integrated digital gear shifter."
+      },
+      {
+        "image_path": "Gear_Stick/img273.jpg",
+        "caption": "A classic manual shifter with polished knob."
+      },
+      {
+        "image_path": "Gear_Stick/img274.jpg",
+        "caption": "A bright orange gear stick used in concept vehicles."
+      },
+      {
+        "image_path": "Gear_Stick/img275.jpg",
+        "caption": "A floating-style gear stick with touchpad surface."
+      },
+      {
+        "image_path": "Gear_Stick/img276.jpg",
+        "caption": "A thumb-dial gear control on a sports hatchback."
+      },
+      {
+        "image_path": "Gear_Stick/img277.jpg",
+        "caption": "A futuristic drive-by-wire gear selector knob."
+      },
+      {
+        "image_path": "Gear_Stick/img278.jpg",
+        "caption": "A metal-shaft gear stick inside a custom roadster."
+      },
+      {
+        "image_path": "Gear_Stick/img279.jpg",
+        "caption": "A polished steel gear stick with racing boot design."
+      },
+      {
+        "image_path": "Gear_Stick/img280.jpg",
+        "caption": "A gear shifter on a fold-out dashboard panel."
+      },
+      {
+        "image_path": "Gear_Stick/img281.jpg",
+        "caption": "A push-toggle gear selector next to center screen."
+      },
+      {
+        "image_path": "Gear_Stick/img282.jpg",
+        "caption": "A carbon fiber gear knob with red center ring."
+      }
+]
+   
